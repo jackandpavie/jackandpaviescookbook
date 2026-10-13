@@ -98,3 +98,17 @@ test('a choice has matching cooking steps and an optional smaller dinner scales 
  assert.equal(shopping.find(i=>i.name==='Pork').quantity,500);assert.equal(shopping.find(i=>i.name==='Flat rice noodles').quantity,200);
  }finally{q.close();}
 });
+
+test('an accompaniment can change a choice yield without changing the authored batch quantities',async()=>{
+ const p=await openPage('recipes/choice-fixture-egg-noodles');try{
+ assert.match(p.d.querySelector('.recipe-difficulty').textContent,/Makes 2 portions/);
+ assert.equal(p.d.querySelector('#servings').value,'2');
+ assert.equal(p.d.querySelector('[data-quantity=shared-pork]').textContent,'1,000');
+ assert.equal(p.d.querySelector('[data-quantity=choice-egg-noodles]').textContent,'400');
+ p.d.querySelector('#servings-up').click();
+ assert.equal(p.d.querySelector('#servings').value,'3');
+ p.d.querySelector('#add-shopping').click();const shopping=JSON.parse(p.w.localStorage.getItem('cookbook-v1:shopping'));
+ assert.equal(shopping.find(i=>i.name==='Pork').quantity,1500);
+ assert.equal(shopping.find(i=>i.name==='Egg noodles').quantity,600);
+ }finally{p.close();}
+});

@@ -109,7 +109,6 @@
       "slug": "choice-fixture-egg-noodles",
       "label": "Egg noodles",
       "description": "This option is Egg noodles.",
-      "defaultServings": 4,
       "groups": [
         {
           "title": "Chosen carb",
@@ -150,7 +149,8 @@
           "timerMinutes": 0,
           "durationMinutes": 0
         }
-      ]
+      ],
+      "servings": 2
     },
     {
       "id": "vermicelli",

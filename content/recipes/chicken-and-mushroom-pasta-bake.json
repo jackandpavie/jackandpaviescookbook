@@ -1,0 +1,536 @@
+{
+  "slug": "chicken-and-mushroom-pasta-bake",
+  "aliases": [],
+  "title": "Chicken and Mushroom Pasta Bake",
+  "description": "Our pot-pie chicken and mushrooms turned into a creamy pasta bake with a crispy cheese top. Two dinners for the two of us.",
+  "category": "Pasta and noodles",
+  "cuisine": "Home cooking",
+  "mainIngredient": "Chicken breast",
+  "tags": [
+    "Dinner",
+    "Two nights",
+    "Pasta bake",
+    "Cheese",
+    "Chicken",
+    "Mushrooms"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 20,
+  "cookMinutes": 65,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/chicken-and-mushroom-pasta-bake-reference.jpg",
+  "imageAlt": "Reference photograph of creamy chicken and mushroom pasta on a plate.",
+  "imageCaption": "Reference photograph · creamy chicken and mushroom pasta variation without a baked cheese topping · displayed crop",
+  "imageCredit": "Samizambak / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Kremal%C4%B1_Mantarl%C4%B1_Tavuklu_Makarna.jpg",
+  "imageLicense": "CC BY-SA 4.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Jack, this starts like our pot-pie filling, just with more chicken. We’re keeping the sauce a little looser so the pasta can finish cooking in the oven. More cheese tomorrow to make it more filthy.",
+  "story": "",
+  "equipment": [
+    "Large pan or wok",
+    "Separate pasta saucepan",
+    "Colander",
+    "Large baking dish",
+    "Chopping board and knife",
+    "Wooden spoon",
+    "Kettle",
+    "Measuring jug",
+    "Oven gloves"
+  ],
+  "advancePrep": "Preheat our oven to 180°C when we start cooking. Get the vegetables chopped, boil the water for our stock, and check the pasta packet’s full cooking time so we can use half of it.",
+  "importantNotes": "This makes four portions across two dinners for the two of us. Use 500 g pasta: large shells, fusilli or rigatoni work really well. Boil it for half the packet’s stated time, then let it finish in the sauce in the oven. The 200 g cheese is for the first bake; save another 100 g for reheating our second dinner. We can keep the whole baking dish in the fridge for easy cleanup once it has cooled promptly. If we eat too much on the first night, like we usually do, add garlic bread for the second dinner.",
+  "groups": [
+    {
+      "title": "For our filling",
+      "ingredients": [
+        {
+          "id": "fa4653c3-7d47-5e74-8689-159ab0972219",
+          "name": "Chicken breast",
+          "quantity": 750,
+          "unit": "g",
+          "note": "Use around 750 g–1 kg. Chop into small pieces.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "aa3b8850-a091-50f1-ab4d-dc7773a55c3a",
+          "name": "Brown onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "611dd952-6be1-585e-9e60-228ef89a8f73",
+          "name": "Carrots",
+          "quantity": 2,
+          "unit": "large",
+          "note": "Or use 3 smaller carrots. Peel and dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "0c3dc9d1-b813-5df6-b8f3-6f4ea830f768",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and dice the cloves.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b038059a-1c09-5a3e-98c5-9b468f83525f",
+          "name": "Mushrooms",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Or 1 pack. Slice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5eb38147-2d5a-555a-9a29-9ddb7dd7c66c",
+          "name": "Chicken stock cubes",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b545faad-0f80-5920-90a8-e8764800f9df",
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e7d654c4-1d44-55bd-b63a-e6630731497c",
+          "name": "Dried thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Optional; don’t worry if we have none.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "19ee9a6e-988c-5d0b-b1f1-3ce80b13710d",
+          "name": "Green peas",
+          "quantity": 100,
+          "unit": "g",
+          "note": "Add at the end of making our sauce.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "ae9eb333-b51e-556d-af77-cb2fbac71365",
+          "name": "Coarse ground black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Pepper powder is fine too.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the sauce and pasta",
+      "ingredients": [
+        {
+          "id": "d8cd29c4-acb4-5fa7-b058-bfbcf75e8aa4",
+          "name": "Plain or all-purpose flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "Self-raising flour is fine too. If we have neither, use 1 tablespoon of cornflour instead.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "86c300ee-a876-5e73-999c-0f863e3166e6",
+          "name": "Cold water for cornflour",
+          "quantity": null,
+          "unit": "",
+          "note": "Only if using cornflour: a little to make a smooth paste.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e2564c96-bf7d-57cf-a5e2-01c9ca53b4a0",
+          "name": "Water for the stock",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": "Boil first and add slowly.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "9dcfab06-b8c9-5887-8032-2465055042d7",
+          "name": "Short pasta",
+          "quantity": 500,
+          "unit": "g",
+          "note": "Large pasta shells, fusilli or rigatoni. Boil for half the packet’s time.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "6ac03407-c72d-5ffa-88d4-0a5a0dc34998",
+          "name": "Water for boiling pasta",
+          "quantity": null,
+          "unit": "",
+          "note": "For our separate pasta saucepan.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a900a80a-1cd9-5687-837c-38446c273508",
+          "name": "Salt for pasta water",
+          "quantity": null,
+          "unit": "",
+          "note": "Salt our pasta water.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c69a2bb0-bc41-578c-b642-e6916d0515b3",
+          "name": "Alpro soya cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": "Mix in after the half-cooked pasta.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "17b84ceb-5aca-5e00-afe8-534bdf5ed1bc",
+          "name": "Extra water for the bake",
+          "quantity": null,
+          "unit": "",
+          "note": "As needed: we want the sauce between thick pot-pie filling and watery soup.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For our first bake",
+      "ingredients": [
+        {
+          "id": "5b82185b-d6fb-5883-8323-830e07cde583",
+          "name": "Mozzarella and cheese blend",
+          "quantity": 200,
+          "unit": "g",
+          "note": "Sprinkle over the top before the 30-minute bake.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For our second dinner",
+      "ingredients": [
+        {
+          "id": "bc5c86bd-1902-5f65-bd78-a2136d38dee0",
+          "name": "Extra mozzarella and cheese blend",
+          "quantity": 100,
+          "unit": "g",
+          "note": "Add this when reheating tomorrow, to make it more filthy.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "7a59dbf4-af46-511e-9e7f-12eaaeb56b32",
+          "name": "Garlic bread",
+          "quantity": null,
+          "unit": "",
+          "note": "If we eat more on the first night and want a bit extra on the second.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "30ad7e84-c355-541e-947b-8be56fc4cd73",
+      "title": "Put the oven on and get everything ready",
+      "description": "Preheat the oven to 180°C when we start. Chop around 750 g–1 kg chicken breast into small pieces. Dice the onion and carrots, peel and dice the garlic, and slice the mushrooms. Boil the water for the stock and check our pasta packet’s full cooking time.",
+      "ingredients": [
+        "Chicken breast",
+        "Brown onion",
+        "Carrots",
+        "Garlic",
+        "Mushrooms",
+        "Water for the stock",
+        "Short pasta"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Oven preheating to 180°C",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "22899e87-751e-5b16-9d50-52731df1f6e7",
+      "title": "Start with the chicken",
+      "description": "Put the chicken into our pan or wok on medium-high heat and fry for about 5 minutes, until the outside turns white. Squish it around so it cooks evenly; it finishes cooking with the sauce and in the oven.",
+      "ingredients": [
+        "Chicken breast"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "472510ae-4a22-5501-8df0-9058f4edb93b",
+      "title": "Soften our onion, garlic and carrots",
+      "description": "Add the onion, garlic and carrots and squish them around for another 10 minutes, until they soften. Keep moving everything so the garlic doesn’t catch.",
+      "ingredients": [
+        "Brown onion",
+        "Garlic",
+        "Carrots"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "91b8db8c-3c0a-5dbe-adcf-5deb4acec9ec",
+      "title": "Add the mushrooms and stock flavours",
+      "description": "Add the chicken stock cubes, bay leaves, optional dried thyme and mushrooms. Cook for another 5 minutes until the mushrooms soften. Don’t worry if we have no thyme.",
+      "ingredients": [
+        "Chicken stock cubes",
+        "Bay leaves",
+        "Dried thyme",
+        "Mushrooms"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "28a402e0-3723-5d62-9ec9-32f0233f3864",
+      "title": "Cook out our flour",
+      "description": "If we’re using plain/all-purpose or self-raising flour, add it and mix it around with everything for 2 minutes to cook it out and give it a slightly nutty taste. If we’re using cornflour instead, skip this dry-flour stage and mix it with a little cold water in a cup; we’ll add that after the hot liquid.",
+      "ingredients": [
+        "Plain or all-purpose flour",
+        "Cold water for cornflour"
+      ],
+      "durationMinutes": 2,
+      "timerMinutes": 2,
+      "heat": "Medium-high heat",
+      "tip": "This 2-minute timer is for wheat flour; skip it if using cornflour paste.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "6b424e15-340d-5d27-87ee-42f6e33b8e90",
+      "title": "Add the hot water slowly",
+      "description": "Add the boiled water slowly, in three or four additions if that helps. Keep stirring as you pour so the flour doesn’t get lumpy. If we’re using cornflour, stir its smooth cold-water paste into the hot liquid now and bring it back to a bubble.",
+      "ingredients": [
+        "Water for the stock",
+        "Plain or all-purpose flour",
+        "Cold water for cornflour"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "646babc8-288b-525f-8846-40cf3930a941",
+      "title": "Let our sauce cook down",
+      "description": "Let the sauce bubble for another 10 minutes, stirring every minute or so and scraping the bottom so nothing burns. Check our chicken is cooked through. We’re making the filling first, then loosening it for the pasta bake.",
+      "ingredients": [],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Bubbling on medium heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "fe7bddc3-ee2b-5bf3-9ef8-ee85d246b569",
+      "title": "Half-cook our pasta in a separate pot",
+      "description": "While the filling is bubbling, boil our pasta separately in salted water for half the full cooking time written on its packet. If the packet says 12 minutes, we only boil it for 6. Drain it; we want it partly cooked because it finishes in the oven.",
+      "ingredients": [
+        "Short pasta",
+        "Water for boiling pasta",
+        "Salt for pasta water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Boiling salted water",
+      "tip": "Use half the time on our actual packet, rather than a fixed timer.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "482acbc3-e349-58f0-96ae-334a8543944b",
+      "title": "Peas and pepper, then take out the bay leaves",
+      "description": "Turn off the stove. Mix in the green peas and coarse ground black pepper, or pepper powder. Find both bay leaves and throw them away.",
+      "ingredients": [
+        "Green peas",
+        "Coarse ground black pepper",
+        "Bay leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "82681e70-df42-5df8-b0a1-c0c9db0034aa",
+      "title": "Mix in our pasta and cream",
+      "description": "Mix the drained, half-cooked pasta into the sauce, then add the Alpro soya cream and squish everything around. Check the liquid: we want it between thick pot-pie filling and watery soup. Add a little extra water if it needs loosening, so the pasta has enough liquid to finish in the oven.",
+      "ingredients": [
+        "Short pasta",
+        "Alpro soya cream",
+        "Extra water for the bake"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "A loose, creamy mixture with enough sauce around the half-cooked pasta.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "fdda38bd-55be-5f77-a46c-d8aa14d50268",
+      "title": "Into the dish, then the cheese",
+      "description": "Tip the pasta mixture into our large baking dish and spread it out. Sprinkle the mozzarella and cheese blend over the top. Keep the extra cheese aside for reheating tomorrow.",
+      "ingredients": [
+        "Mozzarella and cheese blend"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "390dbb75-1e4f-50a1-b552-d349e35feee2",
+      "title": "Bake our pasta",
+      "description": "Bake at 180°C for about 30 minutes, until the top is nice and crispy, the pasta is cooked, and the middle is steaming hot. Check a piece of pasta from the centre. If it needs a little longer, loosely cover the top so the cheese doesn’t burn.",
+      "ingredients": [],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "Oven at 180°C",
+      "tip": "",
+      "doneness": "Crispy cheese, cooked pasta and a steaming-hot middle.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "204c2632-dd99-5f8a-87b5-6b7a7cf83862",
+      "title": "Dinner tonight, and a filthier dinner tomorrow",
+      "description": "Serve straight away. This gives us two dinners for both of us. If we eat too much on the first night, like we usually do, add garlic bread for the second. We can keep the whole baking dish in the fridge for easy cleanup: cool the remaining bake promptly, cover it and refrigerate within 1–2 hours. Tomorrow, add another 100 g of cheese and reheat the remaining bake at 180°C until the middle is steaming hot, to make it more filthy.",
+      "ingredients": [
+        "Extra mozzarella and cheese blend",
+        "Garlic bread"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Our pasta shape",
+      "text": "Large pasta shells, fusilli or rigatoni all work really well. Check the time on whichever packet we use, then boil for half that time."
+    },
+    {
+      "title": "Whichever flour we have",
+      "text": "For our full bake, use 2 tablespoons of plain/all-purpose flour or self-raising flour. If we have neither, use 1 tablespoon of cornflour mixed with a little cold water and stirred in after the hot liquid."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "How loose should the sauce be?",
+      "text": "Jack, aim for a consistency between our thick pot-pie filling and a watery soup. The half-cooked pasta needs some liquid to finish cooking in the oven. If it looks too thick, add water a little at a time. If it looks like soup, let it bubble down a bit before assembling."
+    },
+    {
+      "title": "The top is ready but the pasta is still firm",
+      "text": "Check a piece of pasta from the middle after 30 minutes. If it still needs cooking, loosely cover the top so the cheese doesn’t burn, and give it a little longer. Add a splash of water if the middle is drying out."
+    }
+  ],
+  "storage": "Jack, we can fridge the whole baking dish for easy cleanup. After serving our first dinner, let the remaining bake cool promptly, cover the dish and put it in the fridge within 1–2 hours. Eat our second dinner the next day; freeze any leftovers we won’t eat within 48 hours.",
+  "reheating": "For our second dinner, sprinkle another 100 g of mozzarella and cheese blend over the remaining bake to make it more filthy. Reheat in the oven at 180°C until the middle is steaming hot and the new cheese has melted. Reheat the leftovers once. If it looks dry before reheating, add a little water around the edges. Garlic bread can go alongside if we want a bit extra.",
+  "foodSafety": "The first fry only turns the outside of the chicken white. Check that it is fully cooked and the middle of the bake is steaming hot before serving. A thermometer check is 75°C in the centre for 30 seconds.",
+  "servingSuggestion": "Serve straight away. Save the remaining bake for our second dinner, and add garlic bread if we ate a bit too much tonight.",
+  "glossary": []
+}

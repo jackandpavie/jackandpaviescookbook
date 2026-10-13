@@ -13,6 +13,7 @@ for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/re
  for(const o of arr(source.recipeOptions)){
   if(!o||typeof o!=='object'){fail(f,'Recipe options must be objects');continue;}
   if(o.defaultServings!=null&&(!Number.isInteger(o.defaultServings)||o.defaultServings<1||o.defaultServings>24))fail(f,'Option portions must be a whole number from 1 to 24');
+  if(o.servings!=null&&(!Number.isInteger(o.servings)||o.servings<1||o.servings>24))fail(f,'Option yield must be a whole number from 1 to 24');
   if(!o.id||optionIds.has(o.id)||!o.label)fail(f,'Each recipe option needs a unique identifier and label');optionIds.add(o.id);
   for(const k of ['groups','beforeSteps','afterSteps'])if(o[k]!=null&&!Array.isArray(o[k]))fail(f,`${k} in a recipe option must be a list`);
  }

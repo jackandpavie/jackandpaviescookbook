@@ -347,6 +347,10 @@ content:
       label: Portions to cook now — optional
       type: number
       description: Leave empty for the full batch. Use 2 for a fresh two-portion cooked-chicken dinner.
+    - name: servings
+      label: Portions made by this option — optional
+      type: number
+      description: Leave empty to use the main recipe's yield. Use when a substantial accompaniment changes how many meals the full batch makes.
     - name: prepMinutes
       label: Preparation minutes for this option
       type: number

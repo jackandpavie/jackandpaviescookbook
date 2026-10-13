@@ -1,0 +1,391 @@
+{
+  "slug": "chicken-pot-pie",
+  "aliases": [],
+  "title": "Chicken Pot Pie",
+  "description": "Our chicken, mushroom and vegetable filling with a pastry lid. Dinner for the two of us.",
+  "category": "Comfort food",
+  "cuisine": "Home cooking",
+  "mainIngredient": "Chicken",
+  "tags": [
+    "Dinner",
+    "Comfort food"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 20,
+  "cookMinutes": 72,
+  "restMinutes": 0,
+  "servings": 2,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/chicken-pot-pie-reference.jpg",
+  "imageAlt": "Reference photograph of a golden pastry-topped chicken pot pie with vegetables in the creamy filling.",
+  "imageCaption": "Reference photograph · chicken pot-pie variation · displayed crop",
+  "imageCredit": "Elsie Hui / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:191-365_Chicken_Pot_Pie.jpg",
+  "imageLicense": "CC BY 2.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Jack, keep stirring while the water goes in and we’ll get that nice, gooey filling. Use whichever flour we have in the cupboard.",
+  "story": "",
+  "equipment": [
+    "Pan or wok safe in the oven at 180°C",
+    "Wooden spoon",
+    "Chopping board and knife",
+    "Kettle",
+    "Measuring jug",
+    "Oven gloves"
+  ],
+  "advancePrep": "Get everything chopped, boil 1 litre of water and preheat the oven to 180°C. Have our pastry sheet ready according to its packet.",
+  "importantNotes": "This makes two portions for our dinner. Check that the pan or wok, including its handles, is safe to put in the oven. We can use plain/all-purpose flour or self-raising flour. If we use cornflour instead, mix it with a little cold water and stir it into the hot stock rather than roasting it dry.",
+  "groups": [
+    {
+      "title": "For our chicken and vegetables",
+      "ingredients": [
+        {
+          "id": "345ab968-705f-5d2c-9922-15e747d81f77",
+          "name": "Chicken breast",
+          "quantity": 500,
+          "unit": "g",
+          "note": "Chop into small pieces.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "051385fa-d2ca-5cf5-a646-9403c03545af",
+          "name": "Brown onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "cd50d14e-3f62-5aec-a04c-f08ec36885c0",
+          "name": "Carrots",
+          "quantity": 2,
+          "unit": "large",
+          "note": "Or use 3 smaller carrots. Peel and dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "7f90d60e-2405-5e64-8e70-5ba515864dc5",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and dice the cloves.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "9972460f-5a65-58d6-badb-3907b06f4e35",
+          "name": "Mushrooms",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Or 1 pack. Slice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1393db12-3acf-5cdd-b39c-f198b4527c20",
+          "name": "Chicken stock cubes",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "7eab3b30-00df-5d61-8b37-40247de3eb46",
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "",
+          "note": "We take these out before serving or adding pastry.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "0e655e2e-2a26-5dee-833a-e3afe06e842a",
+          "name": "Dried thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Don’t worry if we don’t have any.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a1e3b7c2-c494-5470-99b4-620f538b9070",
+          "name": "Water for the stock",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": "Boil in the kettle first.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "ab726461-6176-5421-82b0-a2fc51952716",
+          "name": "Green peas",
+          "quantity": 100,
+          "unit": "g",
+          "note": "Add at the end. If frozen, let them thaw or cook as the packet says first.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c32fa3ef-6056-5c5b-b272-ad444e1b9a90",
+          "name": "Coarse ground black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Pepper powder works too.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To thicken the filling and give it a lid",
+      "ingredients": [
+        {
+          "id": "bd7158cb-2079-501a-8a54-a40ffd4bd804",
+          "name": "Plain or all-purpose flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "Self-raising flour is fine too. If we have neither, use 1 tablespoon of cornflour instead.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b3cff1b7-e8bf-5ffc-b6ba-74678e5179de",
+          "name": "Cold water for cornflour",
+          "quantity": null,
+          "unit": "",
+          "note": "Only if using cornflour: a little to mix it into a smooth paste.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "eb82bb51-b907-5e16-b3fa-92a6d2d516c2",
+          "name": "Pastry sheet",
+          "quantity": 1,
+          "unit": "",
+          "note": "Enough to cover our pan as well as possible. Follow the packet’s handling instructions.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "f25abcdc-40e4-569c-acd9-be8f9c5080b4",
+      "title": "Get everything ready",
+      "description": "Chop the chicken breast into small pieces. Dice the brown onion, peel and dice our carrots, peel and dice the garlic, and slice the mushrooms. Boil the water for our stock. Put the oven on at 180°C too, Jack, so it’s ready when we need it.",
+      "ingredients": [
+        "Chicken breast",
+        "Brown onion",
+        "Carrots",
+        "Garlic",
+        "Mushrooms",
+        "Water for the stock"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "6086b2ec-6628-574b-9f05-53fcd6972a0b",
+      "title": "Start with the chicken",
+      "description": "Put the chicken into our oven-safe pan or wok on medium-high heat and fry for about 5 minutes, until the outside turns white. Squish it around so it cooks evenly. This is just the first stage; it finishes cooking later.",
+      "ingredients": [
+        "Chicken breast"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "Chicken white on the outside; continue with the rest of the cooking.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "2b335cc5-0167-5f70-90b8-0f178b959203",
+      "title": "Soften the onion, garlic and carrots",
+      "description": "Add the onion, garlic and carrots. Squish them around with the chicken for another 10 minutes, until the vegetables soften. Keep moving them around so the garlic doesn’t catch.",
+      "ingredients": [
+        "Brown onion",
+        "Garlic",
+        "Carrots"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "Onion and carrots beginning to soften.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "99ccf24f-5b2f-5e8c-b1da-ac3b6e5c5add",
+      "title": "Add the mushrooms and our stock flavours",
+      "description": "Add the chicken stock cubes, bay leaves, optional dried thyme and sliced mushrooms. Cook for another 5 minutes, squishing everything around, until the mushrooms soften. If there’s no thyme in the cupboard, don’t worry about it.",
+      "ingredients": [
+        "Chicken stock cubes",
+        "Bay leaves",
+        "Dried thyme",
+        "Mushrooms"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "Mushrooms softened.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "dcc29c2f-8232-54d6-96cb-0dfaa7d645a6",
+      "title": "Stir in and cook our flour",
+      "description": "If we’re using plain/all-purpose or self-raising flour, add it now and mix it around with everything for 2 minutes. We’re cooking out the flour and giving it that slightly nutty taste. It’s what helps the filling become nice and gooey. If we’re using cornflour, skip the dry-flour stage and mix it with a little cold water in a cup instead; we add that after the stock.",
+      "ingredients": [
+        "Plain or all-purpose flour",
+        "Cold water for cornflour"
+      ],
+      "durationMinutes": 2,
+      "timerMinutes": 2,
+      "heat": "Medium-high heat",
+      "tip": "Use this 2-minute timer for the wheat flour. Skip it for the cornflour paste.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "33927684-1a76-527d-8033-9f18d1ee5df3",
+      "title": "Add the hot water slowly",
+      "description": "Pour in the boiled water slowly, in three or four additions if that helps. Keep stirring as each bit goes in so the flour doesn’t go lumpy. If we’re using cornflour, add the hot water first, then stir the smooth cornflour paste into it and bring it back to a bubble.",
+      "ingredients": [
+        "Water for the stock",
+        "Plain or all-purpose flour",
+        "Cold water for cornflour"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "5b8bd7a9-e4bf-5eca-a526-e07191da6447",
+      "title": "Let our filling cook down",
+      "description": "Let the filling bubble for another 10 minutes, stirring every minute or so and scraping the bottom so nothing burns. We want the sauce thick and gooey. If it still looks too loose to hold the pastry, let it reduce a little longer.",
+      "ingredients": [],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Bubbling on medium heat",
+      "tip": "",
+      "doneness": "Thick filling with fully cooked chicken.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "0867e8f7-2d87-5408-80d8-c0bb48ebe21f",
+      "title": "Peas and pepper, then take out the bay leaves",
+      "description": "Turn off the stove. Add the green peas and coarse ground black pepper, or pepper powder, and mix. Take out both bay leaves and throw them away.",
+      "ingredients": [
+        "Green peas",
+        "Coarse ground black pepper",
+        "Bay leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "If using frozen peas, thaw or cook them according to their packet first.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "34142a16-460d-5292-81b7-37ced7b5a121",
+      "title": "Give our pie its pastry lid",
+      "description": "Lay the pastry sheet over our pan or wok and cover the top as well as you can. Make a small slit in the top for steam to escape. Don’t worry if it isn’t a perfectly neat lid, Jack.",
+      "ingredients": [
+        "Pastry sheet"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "1124ac61-b016-5b33-bd43-88e0a5d1a7c9",
+      "title": "Bake and serve our pie",
+      "description": "Put the pan into our oven at 180°C and bake for about 40 minutes, until the pastry is golden and cooked and the filling is bubbling hot. Use oven gloves to take it out, and remember the handle stays hot. Serve straight away.",
+      "ingredients": [],
+      "durationMinutes": 40,
+      "timerMinutes": 40,
+      "heat": "Oven at 180°C",
+      "tip": "",
+      "doneness": "Golden, cooked pastry and bubbling-hot filling.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Whichever flour is in the cupboard",
+      "text": "For our two-portion pie, use 2 tablespoons of plain/all-purpose flour or self-raising flour. If we have neither, use 1 tablespoon of cornflour. The cornflour goes in as a cold-water paste after the hot stock, as written in the method."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "The filling is still a bit runny",
+      "text": "Give it a little longer to bubble before the pastry goes on, stirring and scraping the bottom. We want it thick enough to hold the pastry on top. Don’t spiral if it needs a few extra minutes."
+    },
+    {
+      "title": "A few flour lumps",
+      "text": "Keep stirring and squash the lumps against the side of the pan. Adding the water slowly while stirring makes this much easier."
+    }
+  ],
+  "storage": "If we have leftovers, cool them promptly and refrigerate within 1–2 hours. Eat within 48 hours or freeze.",
+  "reheating": "Reheat once until the filling is steaming hot all the way through.",
+  "foodSafety": "The first 5-minute fry only turns the outside of the chicken white. Check it is fully cooked before serving; a thermometer check is 75°C in the centre for 30 seconds.",
+  "servingSuggestion": "Serve straight away, with a bit of that pastry and gooey filling on each of our plates.",
+  "glossary": []
+}

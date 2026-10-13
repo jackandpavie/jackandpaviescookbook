@@ -1,0 +1,579 @@
+{
+  "slug": "pork-mince-and-tomato-pasta-bake",
+  "aliases": [],
+  "title": "Pork Mince and Tomato Pasta Bake",
+  "description": "Our pork mince and tomato pasta bake with a crispy cheese top and basil. Two dinners for the two of us.",
+  "category": "Pasta and noodles",
+  "cuisine": "Home cooking",
+  "mainIngredient": "Pork mince",
+  "tags": [
+    "Dinner",
+    "Two nights",
+    "Pasta bake",
+    "Cheese",
+    "Pork",
+    "Tomato",
+    "Basil"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 20,
+  "cookMinutes": 65,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/pork-mince-and-tomato-pasta-bake-reference.jpg",
+  "imageAlt": "Reference photograph of baked pasta with tomato meat sauce and melted golden cheese on a white plate.",
+  "imageCaption": "Reference photograph · beef-mince and tomato pasta-bake variation · displayed crop",
+  "imageCredit": "Steve Johnson / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Pasta_bake.jpg",
+  "imageLicense": "CC BY 2.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Jack, this is the same process as our chicken pasta bake, with pork mince and passata, and basil at the end. More cheese tomorrow to make it more filthy.",
+  "story": "",
+  "equipment": [
+    "Large pan or wok",
+    "Separate pasta saucepan",
+    "Colander",
+    "Large baking dish",
+    "Chopping board and knife",
+    "Wooden spoon",
+    "Kettle",
+    "Measuring jug",
+    "Oven gloves"
+  ],
+  "advancePrep": "Preheat our oven to 180°C when we start cooking. Get the vegetables chopped, boil the water for our stock, and check the pasta packet’s full cooking time so we can use half of it.",
+  "importantNotes": "This makes four portions across two dinners for the two of us. Use 500 g pasta: large shells, fusilli or rigatoni work really well. Boil it for half the packet’s stated time, then let it finish in the sauce in the oven. The 200 g cheese is for the first bake; save another 100 g for reheating our second dinner. We can keep the whole baking dish in the fridge for easy cleanup once it has cooled promptly. If we eat too much on the first night, like we usually do, add garlic bread for the second dinner.",
+  "groups": [
+    {
+      "title": "For our filling",
+      "ingredients": [
+        {
+          "id": "019f757f-8b91-5ecd-80b6-1dd5d63f93da",
+          "name": "Pork mince",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "Break up as we cook.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "9768afc8-8fdd-50eb-b7c5-23ddf01c54e8",
+          "name": "Brown onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "14c6915e-866f-5fc5-a3cb-0fbeaae7ddd0",
+          "name": "Carrots",
+          "quantity": 2,
+          "unit": "large",
+          "note": "Or use 3 smaller carrots. Peel and dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5a641553-5862-55e9-a5cb-b21726d56def",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and dice the cloves.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1efe158f-7286-569e-af75-13d4006af413",
+          "name": "Mushrooms",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Or 1 pack. Slice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "bd21c6f7-47dc-54e2-9c9f-fbe820e08113",
+          "name": "Chicken stock cubes",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "609cc993-c3a3-55c5-8419-34453bb96bd4",
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8cd99f92-6c45-524c-9fed-18c75c03a7d2",
+          "name": "Dried thyme",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Optional; don’t worry if we have none.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "725affa9-fe42-5fde-a147-d099ff85af7c",
+          "name": "Green peas",
+          "quantity": 100,
+          "unit": "g",
+          "note": "Add at the end of making our sauce.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "f2780c40-07a5-5876-82ad-aa5de804718e",
+          "name": "Coarse ground black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Pepper powder is fine too.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "300785ef-8e2d-5586-9ad2-08507ea6089c",
+          "name": "Tomato passata",
+          "quantity": 500,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the sauce and pasta",
+      "ingredients": [
+        {
+          "id": "6089c264-f888-5dd1-8082-bbc83c2b3876",
+          "name": "Plain or all-purpose flour",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "Self-raising flour is fine too. If we have neither, use 1 tablespoon of cornflour instead.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "20ed64a1-34d6-5644-b8e3-9512fce1b9e7",
+          "name": "Cold water for cornflour",
+          "quantity": null,
+          "unit": "",
+          "note": "Only if using cornflour: a little to make a smooth paste.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "f88a7296-2360-5f6a-891f-e8fe166371cc",
+          "name": "Water for the stock",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": "Boil first and add gradually. With the extra passata in the pork bake, use only as much as the sauce needs.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c7fd1ece-debf-5573-a031-a076559b0b37",
+          "name": "Short pasta",
+          "quantity": 500,
+          "unit": "g",
+          "note": "Large pasta shells, fusilli or rigatoni. Boil for half the packet’s time.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c346b506-aa87-5205-a216-d47574925609",
+          "name": "Water for boiling pasta",
+          "quantity": null,
+          "unit": "",
+          "note": "For our separate pasta saucepan.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "9d0e8b59-dc74-560f-953d-26b87bc2d6d7",
+          "name": "Salt for pasta water",
+          "quantity": null,
+          "unit": "",
+          "note": "Salt our pasta water.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "efa241d5-2fd6-528e-aa1d-423a29baf7a1",
+          "name": "Alpro soya cream",
+          "quantity": 100,
+          "unit": "ml",
+          "note": "Mix in after the half-cooked pasta.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "3fad3105-40d2-5b77-859f-0d8517167fba",
+          "name": "Extra water for the bake",
+          "quantity": null,
+          "unit": "",
+          "note": "As needed: we want the sauce between thick pot-pie filling and watery soup.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For our first bake",
+      "ingredients": [
+        {
+          "id": "a51b9121-a6db-5ec1-845c-a132cf71a9d0",
+          "name": "Mozzarella and cheese blend",
+          "quantity": 200,
+          "unit": "g",
+          "note": "Sprinkle over the top before the 30-minute bake.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For our second dinner",
+      "ingredients": [
+        {
+          "id": "2af2b574-0f05-5d58-9acf-5d39b5a10589",
+          "name": "Extra mozzarella and cheese blend",
+          "quantity": 100,
+          "unit": "g",
+          "note": "Add this when reheating tomorrow, to make it more filthy.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "ab8cfbce-b0dd-5d5e-ad8d-898746839070",
+          "name": "Garlic bread",
+          "quantity": null,
+          "unit": "",
+          "note": "If we eat more on the first night and want a bit extra on the second.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To finish",
+      "ingredients": [
+        {
+          "id": "c846c1ba-6d7b-5327-972f-d4a26e4cdfed",
+          "name": "Basil leaves",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Pluck the leaves from their stems and garnish at the end.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "48c5e265-a2fe-5da2-b728-f50c4ba261b8",
+      "title": "Put the oven on and get everything ready",
+      "description": "Preheat the oven to 180°C when we start. Dice the onion and carrots, peel and dice the garlic, slice the mushrooms, and have our pork mince ready. Boil the water for the stock and check our pasta packet’s full cooking time.",
+      "ingredients": [
+        "Pork mince",
+        "Brown onion",
+        "Carrots",
+        "Garlic",
+        "Mushrooms",
+        "Water for the stock",
+        "Short pasta"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Oven preheating to 180°C",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "a90f2fd9-6e53-5eb1-a2a1-b8495e5a3b78",
+      "title": "Start with our pork mince",
+      "description": "Fry the pork mince in our pan or wok on medium-high heat for about 5 minutes to get it started, breaking up the clumps as you squish it around. It carries on cooking with the sauce.",
+      "ingredients": [
+        "Pork mince"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "51e9d473-a341-5077-9cd9-0241748bc1b2",
+      "title": "Soften our onion, garlic and carrots",
+      "description": "Add the onion, garlic and carrots and squish them around for another 10 minutes, until they soften. Keep moving everything so the garlic doesn’t catch.",
+      "ingredients": [
+        "Brown onion",
+        "Garlic",
+        "Carrots"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "24c5a83a-94a8-5274-8718-13018132bb41",
+      "title": "Add the mushrooms and stock flavours",
+      "description": "Add the chicken stock cubes, bay leaves, optional dried thyme and mushrooms. Cook for another 5 minutes until the mushrooms soften. Don’t worry if we have no thyme.",
+      "ingredients": [
+        "Chicken stock cubes",
+        "Bay leaves",
+        "Dried thyme",
+        "Mushrooms"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "cb779d33-662a-513e-9b90-f0ce9200632d",
+      "title": "Cook out our flour",
+      "description": "If we’re using plain/all-purpose or self-raising flour, add it and mix it around with everything for 2 minutes to cook it out and give it a slightly nutty taste. If we’re using cornflour instead, skip this dry-flour stage and mix it with a little cold water in a cup; we’ll add that after the hot liquid.",
+      "ingredients": [
+        "Plain or all-purpose flour",
+        "Cold water for cornflour"
+      ],
+      "durationMinutes": 2,
+      "timerMinutes": 2,
+      "heat": "Medium-high heat",
+      "tip": "This 2-minute timer is for wheat flour; skip it if using cornflour paste.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ad8bded7-749c-572a-8c78-05954b9d6306",
+      "title": "Add the passata and hot water",
+      "description": "Add the tomato passata and mix. Now add the boiled water gradually, in three or four additions if that helps, stirring the whole time so the flour doesn’t get lumpy. Because the passata adds liquid too, stop adding stock water if the sauce is already loose enough; keep the rest for adjusting it after the pasta goes in. If we’re using cornflour, stir its smooth cold-water paste into the hot liquid now and bring it back to a bubble.",
+      "ingredients": [
+        "Tomato passata",
+        "Water for the stock",
+        "Plain or all-purpose flour",
+        "Cold water for cornflour"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium-high heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "4696bb60-d9dc-5e74-9734-e3e7eefe82ef",
+      "title": "Let our sauce cook down",
+      "description": "Let the sauce bubble for another 10 minutes, stirring every minute or so and scraping the bottom so nothing burns. Check our mince is cooked through. We’re making the filling first, then loosening it for the pasta bake.",
+      "ingredients": [],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Bubbling on medium heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3f3051b0-0435-564b-9712-5cca7540e147",
+      "title": "Half-cook our pasta in a separate pot",
+      "description": "While the filling is bubbling, boil our pasta separately in salted water for half the full cooking time written on its packet. If the packet says 12 minutes, we only boil it for 6. Drain it; we want it partly cooked because it finishes in the oven.",
+      "ingredients": [
+        "Short pasta",
+        "Water for boiling pasta",
+        "Salt for pasta water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Boiling salted water",
+      "tip": "Use half the time on our actual packet, rather than a fixed timer.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "a23536c0-03d3-5677-97d5-216cf130ecf7",
+      "title": "Peas and pepper, then take out the bay leaves",
+      "description": "Turn off the stove. Mix in the green peas and coarse ground black pepper, or pepper powder. Find both bay leaves and throw them away.",
+      "ingredients": [
+        "Green peas",
+        "Coarse ground black pepper",
+        "Bay leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ddadcc97-58cd-53bf-94d1-e7e800fc83fd",
+      "title": "Mix in our pasta and cream",
+      "description": "Mix the drained, half-cooked pasta into the sauce, then add the Alpro soya cream and squish everything around. Check the liquid: we want it between thick pot-pie filling and watery soup. Add a little extra water if it needs loosening, so the pasta has enough liquid to finish in the oven.",
+      "ingredients": [
+        "Short pasta",
+        "Alpro soya cream",
+        "Extra water for the bake"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "A loose, creamy mixture with enough sauce around the half-cooked pasta.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "74d1e782-1054-58b5-b2df-2329a8e8c881",
+      "title": "Into the dish, then the cheese",
+      "description": "Tip the pasta mixture into our large baking dish and spread it out. Sprinkle the mozzarella and cheese blend over the top. Keep the extra cheese aside for reheating tomorrow.",
+      "ingredients": [
+        "Mozzarella and cheese blend"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "e09b4abb-7553-5443-ae62-e107e7a8e229",
+      "title": "Bake our pasta",
+      "description": "Bake at 180°C for about 30 minutes, until the top is nice and crispy, the pasta is cooked, and the middle is steaming hot. Check a piece of pasta from the centre. If it needs a little longer, loosely cover the top so the cheese doesn’t burn.",
+      "ingredients": [],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "Oven at 180°C",
+      "tip": "",
+      "doneness": "Crispy cheese, cooked pasta and a steaming-hot middle.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "4942cb8d-783d-57d0-9f33-f4445b582022",
+      "title": "Finish with our basil",
+      "description": "Garnish with our pack of basil leaves, plucked from their stems.",
+      "ingredients": [
+        "Basil leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "b8f70269-6afa-5049-8a32-c248c6670441",
+      "title": "Dinner tonight, and a filthier dinner tomorrow",
+      "description": "Serve straight away. This gives us two dinners for both of us. If we eat too much on the first night, like we usually do, add garlic bread for the second. We can keep the whole baking dish in the fridge for easy cleanup: cool the remaining bake promptly, cover it and refrigerate within 1–2 hours. Tomorrow, add another 100 g of cheese and reheat the remaining bake at 180°C until the middle is steaming hot, to make it more filthy.",
+      "ingredients": [
+        "Extra mozzarella and cheese blend",
+        "Garlic bread"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Our pasta shape",
+      "text": "Large pasta shells, fusilli or rigatoni all work really well. Check the time on whichever packet we use, then boil for half that time."
+    },
+    {
+      "title": "Whichever flour we have",
+      "text": "For our full bake, use 2 tablespoons of plain/all-purpose flour or self-raising flour. If we have neither, use 1 tablespoon of cornflour mixed with a little cold water and stirred in after the hot liquid."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "How loose should the sauce be?",
+      "text": "Jack, aim for a consistency between our thick pot-pie filling and a watery soup. The half-cooked pasta needs some liquid to finish cooking in the oven. If it looks too thick, add water a little at a time. If it looks like soup, let it bubble down a bit before assembling."
+    },
+    {
+      "title": "The top is ready but the pasta is still firm",
+      "text": "Check a piece of pasta from the middle after 30 minutes. If it still needs cooking, loosely cover the top so the cheese doesn’t burn, and give it a little longer. Add a splash of water if the middle is drying out."
+    }
+  ],
+  "storage": "Jack, we can fridge the whole baking dish for easy cleanup. After serving our first dinner, let the remaining bake cool promptly, cover the dish and put it in the fridge within 1–2 hours. Eat our second dinner the next day; freeze any leftovers we won’t eat within 48 hours.",
+  "reheating": "For our second dinner, sprinkle another 100 g of mozzarella and cheese blend over the remaining bake to make it more filthy. Reheat in the oven at 180°C until the middle is steaming hot and the new cheese has melted. Reheat the leftovers once. If it looks dry before reheating, add a little water around the edges. Garlic bread can go alongside if we want a bit extra.",
+  "foodSafety": "The mince must be fully cooked and the middle of the bake steaming hot before serving. A thermometer check is 75°C in the centre for 30 seconds.",
+  "servingSuggestion": "Serve with our plucked basil leaves on top. Save the remaining bake for our second dinner, and add garlic bread if we ate a bit too much tonight.",
+  "glossary": []
+}
