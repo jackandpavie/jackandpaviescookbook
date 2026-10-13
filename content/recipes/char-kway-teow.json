@@ -18,7 +18,7 @@
   "restMinutes": 0,
   "servings": 4,
   "featured": true,
-  "published": false,
+  "published": true,
   "demo": false,
   "added": "2026-10-13",
   "image": "/images/char-kway-teow-reference.jpg",
@@ -43,7 +43,7 @@
     "Two containers for the next day’s lunches"
   ],
   "advancePrep": "Soak the flat rice noodles in cold water for 1 hour, then drain. If you forgot, soak them in boiling water for 5 minutes instead, then drain. The boiling-water method gives a slightly softer texture. Chop the other ingredients and mix the sauce while the noodles soak.",
-  "importantNotes": "Draft: confirm the dry noodle quantity before publishing. This makes four meal portions: dinner for both of us and two lunches for the next day. Prep and cooking times are estimates and exclude the noodle soak. Get everything chopped, drained and measured before heating the wok. The chives are added with the other vegetables.",
+  "importantNotes": "This makes four meal portions: dinner for both of us and two lunches for the next day. Prep and cooking times are estimates and exclude the noodle soak. Get everything chopped, drained and measured before heating the wok. Add the chives with the pak choi and beansprouts.",
   "groups": [
     {
       "title": "For the noodles and stir-fry",
@@ -51,9 +51,9 @@
         {
           "id": "6688572c-4908-5e92-adc0-1352ce7d2bb8",
           "name": "Dried flat rice noodles",
-          "quantity": null,
+          "quantity": 500,
           "unit": "g",
-          "note": "Quantity to confirm; soak, then drain.",
+          "note": "Soak, then drain.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -66,7 +66,7 @@
           "note": "Cut into strips.",
           "optional": false,
           "scaling": "linear",
-          "roundTo": 0.5
+          "roundTo": 0
         },
         {
           "id": "8dc5d150-0591-5d16-9ef2-3e765d88f746",
@@ -76,7 +76,7 @@
           "note": "Peel and chop semi-finely.",
           "optional": false,
           "scaling": "linear",
-          "roundTo": 0.5
+          "roundTo": 0
         },
         {
           "id": "d8caca7f-1d38-51d2-b356-d1d298e5ddf2",
