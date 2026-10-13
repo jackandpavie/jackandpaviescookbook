@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "The chicken and mushroom version of our tomato risotto. Add Parmesan to individual plates so the lunch portions can stay dairy-free.",
+  "personalNote": "Our chicken and mushroom version, Jack. Keep the Parmesan at the table, and leave the second dinner without cheese if we want it dairy-free.",
   "story": "",
   "equipment": [
     "Large oven-safe pot with an oven-safe lid",
@@ -38,10 +38,10 @@
     "Measuring jug",
     "Wooden spoon",
     "Oven gloves",
-    "Containers for the lunch portions"
+    "Containers for the second-dinner portions"
   ],
   "advancePrep": "Cut the chicken into small pieces. Clean and slice the mushrooms. Peel and chop the garlic and onion, and pick the basil leaves off the stalks.",
-  "importantNotes": "Makes four portions: two for dinner and two for lunch the next day. Times are estimates. This version uses 500 g chicken and 400 g mushrooms instead of the sausage, tomatoes and fennel. Do not wash the risotto rice. Keep Parmesan at the table, and use dairy-free stock cubes if the lunch portions need to be dairy-free. Taste and adjust the seasoning only after the chicken is fully cooked. Protein swap for this batch: 300 g sausage, 500 g chicken, or 500 g of 5% lean pork mince. See “Make it work for you” for the cooking changes.",
+  "importantNotes": "Four portions means two dinners for both of us. If the second night’s portions are smaller, we can have garlic bread with them. Use 500 g chicken and 400 g mushrooms for our batch, and leave the rice unwashed. Taste for salt only after the chicken is fully cooked. Keep Parmesan separate and choose dairy-free stock if we want the second dinner dairy-free. We can swap the chicken for 300 g sausage or 500 g of 5% lean pork mince; check the swap note for the cooking changes. Times are estimates.",
   "groups": [
     {
       "title": "For the risotto",
@@ -156,7 +156,22 @@
           "name": "Parmesan",
           "quantity": null,
           "unit": "",
-          "note": "Add to individual servings if wanted; leave off the dairy-free lunch portions.",
+          "note": "Add to individual servings if wanted; leave off the dairy-free second-dinner portions.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "If we want a little extra on night two",
+      "ingredients": [
+        {
+          "id": "f028e166-1ed6-5581-83a8-5e7fa1706037",
+          "name": "Garlic bread",
+          "quantity": null,
+          "unit": "",
+          "note": "Optional with our second dinner if we ate a bit more on the first night. Heat following the packet.",
           "optional": true,
           "scaling": "linear",
           "roundTo": 0
@@ -168,7 +183,7 @@
     {
       "id": "1e251b6f-29b0-573d-b385-2ec7c4fb4ac4",
       "title": "Prepare and preheat",
-      "description": "Peel and chop the garlic and onion. Cut the chicken into small pieces. Clean and slice the mushrooms and pick the basil leaves off the stalks. Preheat the oven to 180°C and boil the measured water.",
+      "description": "Peel and chop the garlic and onion, cut the chicken into small pieces, and clean and slice the mushrooms. Pick the basil leaves. Put the oven on at 180°C and boil the measured water.",
       "ingredients": [
         "Garlic",
         "Brown onion",
@@ -189,7 +204,7 @@
     {
       "id": "3012f825-842e-5e86-b28f-d48915c34f7e",
       "title": "Start the chicken, onion and garlic",
-      "description": "Put the chicken, onion and garlic in an oven-safe pot over medium heat. Cook for about 5 minutes, stirring and moving everything around, until the onion starts to soften and the chicken turns white on the outside.",
+      "description": "Put the chicken, onion and garlic in our oven-safe pot on medium heat. Squish them around for about 5 minutes, until the onion starts softening and the chicken goes white on the outside. It still needs the rest of the cooking, so don’t taste it yet.",
       "ingredients": [
         "Chicken",
         "Brown onion",
@@ -207,7 +222,7 @@
     {
       "id": "bea5c7ff-a640-5bd1-9312-63f8f640480e",
       "title": "Cook the mushrooms",
-      "description": "Add the sliced mushrooms and cook for about 5–8 minutes, stirring, until they soften and release their liquid. Let the liquid start to cook down.",
+      "description": "Add the mushrooms and squish them around for about 5–8 minutes. We want them soft and letting out their water, with some of that liquid starting to cook down.",
       "ingredients": [
         "Mushrooms"
       ],
@@ -223,7 +238,7 @@
     {
       "id": "45eb79c1-e353-55b4-a86e-4275128ce94f",
       "title": "Add the rice and stock",
-      "description": "Add the unwashed risotto rice and chicken stock cubes. Mix through the chicken and mushrooms, then pour in the boiled water and stir. Bring the pot to the boil.",
+      "description": "Add the unwashed risotto rice and stock cubes, mix them through, then pour in the boiled water. Give it another mix and bring it to the boil. We’ll taste for salt after the chicken is fully cooked.",
       "ingredients": [
         "Risotto rice",
         "Chicken stock cubes",
@@ -241,7 +256,7 @@
     {
       "id": "3ca930f7-4085-5d04-aeee-142e72c2a007",
       "title": "Bake the covered risotto",
-      "description": "Once the liquid boils, cover with the oven-safe lid and put the pot in the preheated oven. Bake for 30 minutes. Check that the rice is cooked and that the chicken is fully cooked through before serving.",
+      "description": "Once it’s boiling, put the oven-safe lid on and move it into the oven for 30 minutes. Check both the rice and chicken are cooked through before we eat. Use the oven gloves—the handles stay hot afterwards too.",
       "ingredients": [],
       "durationMinutes": 30,
       "timerMinutes": 30,
@@ -255,7 +270,7 @@
     {
       "id": "386af9da-9d0e-584e-ad68-f08a488c41b4",
       "title": "Finish with pepper and basil",
-      "description": "Carefully take the pot out of the oven. Once the chicken is fully cooked, taste and add salt only if needed. Remember that Parmesan at the table adds saltiness. Mix in the black pepper and basil leaves.",
+      "description": "Once the chicken is cooked, taste and add salt only if it needs it. Remember the Parmesan adds saltiness too. Mix in the black pepper and basil leaves.",
       "ingredients": [
         "Salt",
         "Black pepper",
@@ -272,10 +287,11 @@
     },
     {
       "id": "6436f2d1-1e08-56e6-885c-bdc2863a4ef1",
-      "title": "Serve and keep the lunch portions aside",
-      "description": "Serve with Parmesan at the table. Keep a couple of portions without Parmesan for dairy-free lunches.",
+      "title": "Our first dinner, and a little help for night two",
+      "description": "Serve our first dinner with Parmesan at the table, and keep the second dinner aside. If we end up having a bit more tonight, we can serve the smaller second dinner with garlic bread; heat it following the packet.",
       "ingredients": [
-        "Parmesan"
+        "Parmesan",
+        "Garlic bread"
       ],
       "durationMinutes": 0,
       "timerMinutes": 0,
@@ -291,14 +307,14 @@
   "substitutions": [
     {
       "title": "Swap the protein",
-      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe the original batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
+      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe our batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
     },
     {
       "title": "Black pepper",
       "text": "Coarsely crushed pepper or pepper powder both work."
     },
     {
-      "title": "Dairy-free lunch portions",
+      "title": "Dairy-free second-dinner portions",
       "text": "Leave Parmesan off those portions and use stock cubes without dairy ingredients. If swapping in sausage, check that it is dairy-free too."
     }
   ],
@@ -312,10 +328,10 @@
       "text": "Use their softness and released liquid as the guide. The 5-minute timer is only the first check."
     }
   ],
-  "storage": "Divide the lunch portions into small containers to cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours. Keep Parmesan separate.",
+  "storage": "Put our second dinner into small containers so it cools quickly, ideally within 1 hour. Keep it in the fridge and eat within 24 hours. Freeze it if we’re saving it longer, and keep Parmesan separate if we want it dairy-free.",
   "reheating": "Reheat once until steaming hot throughout. Stir or turn it during microwave reheating to avoid cold pockets.",
   "foodSafety": "Chicken and pork mince must be fully cooked before tasting the liquid or serving. A thermometer check is 75°C in the centre for 30 seconds. Keep utensils used for raw meat separate from the finished food. Use oven gloves for the pot and lid.",
-  "servingSuggestion": "Parmesan at the table, keeping a couple of portions without cheese for lunch.",
+  "servingSuggestion": "Two dinners for both of us. Add Parmesan to our plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
   "glossary": [
     "Boil"
   ]

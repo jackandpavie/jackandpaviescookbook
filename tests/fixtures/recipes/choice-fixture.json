@@ -1,0 +1,252 @@
+{
+  "slug": "choice-fixture",
+  "aliases": [],
+  "title": "Choice fixture",
+  "description": "A shared method with four independent choices.",
+  "category": "Comfort food",
+  "cuisine": "Test",
+  "mainIngredient": "Pork",
+  "tags": [],
+  "dietaryTags": [],
+  "difficulty": "Easy",
+  "prepMinutes": 15,
+  "cookMinutes": 35,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": false,
+  "published": true,
+  "demo": true,
+  "image": "",
+  "art": "curry",
+  "gallery": [],
+  "equipment": [],
+  "advancePrep": "",
+  "importantNotes": "",
+  "groups": [
+    {
+      "title": "Shared base",
+      "ingredients": [
+        {
+          "id": "shared-pork",
+          "name": "Pork",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "shared-step",
+      "title": "Cook the shared base",
+      "description": "Cook the pork base.",
+      "ingredients": [
+        "Pork"
+      ],
+      "timerMinutes": 5,
+      "durationMinutes": 5
+    }
+  ],
+  "timeline": [],
+  "substitutions": [],
+  "troubleshooting": [],
+  "glossary": [],
+  "recipeOptions": [
+    {
+      "id": "rice",
+      "slug": "choice-fixture",
+      "label": "Rice",
+      "description": "This option is Rice.",
+      "defaultServings": 4,
+      "groups": [
+        {
+          "title": "Chosen carb",
+          "ingredients": [
+            {
+              "id": "choice-rice",
+              "name": "Rice",
+              "quantity": 300,
+              "unit": "g",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "prepare-rice",
+          "title": "Prepare Rice",
+          "description": "Prepare this carb only.",
+          "ingredients": [
+            "Rice"
+          ],
+          "timerMinutes": 12,
+          "durationMinutes": 0
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "serve-rice",
+          "title": "Serve Rice",
+          "description": "Serve with the base.",
+          "ingredients": [
+            "Rice"
+          ],
+          "timerMinutes": 0,
+          "durationMinutes": 0
+        }
+      ]
+    },
+    {
+      "id": "egg-noodles",
+      "slug": "choice-fixture-egg-noodles",
+      "label": "Egg noodles",
+      "description": "This option is Egg noodles.",
+      "defaultServings": 4,
+      "groups": [
+        {
+          "title": "Chosen carb",
+          "ingredients": [
+            {
+              "id": "choice-egg-noodles",
+              "name": "Egg noodles",
+              "quantity": 400,
+              "unit": "g",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "prepare-egg-noodles",
+          "title": "Prepare Egg noodles",
+          "description": "Prepare this carb only.",
+          "ingredients": [
+            "Egg noodles"
+          ],
+          "timerMinutes": 0,
+          "durationMinutes": 0
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "serve-egg-noodles",
+          "title": "Serve Egg noodles",
+          "description": "Serve with the base.",
+          "ingredients": [
+            "Egg noodles"
+          ],
+          "timerMinutes": 0,
+          "durationMinutes": 0
+        }
+      ]
+    },
+    {
+      "id": "vermicelli",
+      "slug": "choice-fixture-vermicelli",
+      "label": "Rice vermicelli",
+      "description": "This option is Rice vermicelli.",
+      "defaultServings": 4,
+      "groups": [
+        {
+          "title": "Chosen carb",
+          "ingredients": [
+            {
+              "id": "choice-vermicelli",
+              "name": "Rice vermicelli",
+              "quantity": 400,
+              "unit": "g",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "prepare-vermicelli",
+          "title": "Prepare Rice vermicelli",
+          "description": "Prepare this carb only.",
+          "ingredients": [
+            "Rice vermicelli"
+          ],
+          "timerMinutes": 0,
+          "durationMinutes": 0
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "serve-vermicelli",
+          "title": "Serve Rice vermicelli",
+          "description": "Serve with the base.",
+          "ingredients": [
+            "Rice vermicelli"
+          ],
+          "timerMinutes": 0,
+          "durationMinutes": 0
+        }
+      ]
+    },
+    {
+      "id": "flat-noodles",
+      "slug": "choice-fixture-flat-noodles",
+      "label": "Flat rice noodles",
+      "description": "This option is Flat rice noodles.",
+      "defaultServings": 2,
+      "groups": [
+        {
+          "title": "Chosen carb",
+          "ingredients": [
+            {
+              "id": "choice-flat-noodles",
+              "name": "Flat rice noodles",
+              "quantity": 400,
+              "unit": "g",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "prepare-flat-noodles",
+          "title": "Prepare Flat rice noodles",
+          "description": "Prepare this carb only.",
+          "ingredients": [
+            "Flat rice noodles"
+          ],
+          "timerMinutes": 0,
+          "durationMinutes": 0
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "serve-flat-noodles",
+          "title": "Serve Flat rice noodles",
+          "description": "Serve with the base.",
+          "ingredients": [
+            "Flat rice noodles"
+          ],
+          "timerMinutes": 0,
+          "durationMinutes": 0
+        }
+      ]
+    }
+  ]
+}

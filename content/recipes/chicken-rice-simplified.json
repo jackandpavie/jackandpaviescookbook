@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Chilli sauce for bubu and soy sauce for dudu. Fluff the rice gently: try not to squish it around.",
+  "personalNote": "Chilli sauce for bubu and soy sauce for dudu. Be gentle with the rice at the end, Jack—this is the bit where we fluff it rather than squish it.",
   "story": "",
   "equipment": [
     "Large pot with a close-fitting lid",
@@ -42,7 +42,7 @@
     "Rice spoon or fork"
   ],
   "advancePrep": "Check the freezer for ginger-garlic blocks. Four blocks can replace the fresh garlic and ginger for the pot, and one block can replace the garlic and ginger for the chilli sauce.",
-  "importantNotes": "Makes four servings. Prep and cooking times are estimates. Remove the stock for the chilli sauce before adding the rice. Keep the lid on during the final 10-minute rest.",
+  "importantNotes": "This makes four portions. Remember to take the stock out for our chilli sauce before the rice goes in. Keep the lid on for the final 10-minute rest. The prep and cooking times are estimates.",
   "groups": [
     {
       "title": "For the chicken and rice",
@@ -52,7 +52,7 @@
           "name": "Chicken",
           "quantity": 500,
           "unit": "g",
-          "note": "Use 500–600 g for the original four-serving batch; chop into small pieces.",
+          "note": "Use 500–600 g for our four-portion batch; chop into small pieces.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -62,7 +62,7 @@
           "name": "Garlic for the pot",
           "quantity": 1,
           "unit": "head",
-          "note": "Peel and chop finely. Can be replaced together with the ginger by 4 ginger-garlic blocks for the original batch.",
+          "note": "Peel and chop finely. Can be replaced together with the ginger by 4 ginger-garlic blocks for our batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -147,7 +147,7 @@
           "name": "Garlic for the chilli sauce",
           "quantity": 1,
           "unit": "clove",
-          "note": "Or replace this and the ginger with 1 ginger-garlic block for the original batch.",
+          "note": "Or replace this and the ginger with 1 ginger-garlic block for our batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -214,7 +214,7 @@
     {
       "id": "c6414003-f1d4-52aa-8af1-fba78828c114",
       "title": "Prepare the aromatics and chicken",
-      "description": "Boil the measured water in the kettle. Peel and finely chop the garlic and ginger for the pot, or use the freezer ginger-garlic blocks instead. Dice the red onion, or clean and chop the spring onions. Chop the chicken into small pieces.",
+      "description": "Check the freezer first, Jack: if we have ginger-garlic blocks, use those instead of chopping the fresh garlic and ginger. Otherwise peel and chop both as small as you can. Dice the red onion, or clean and chop the spring onions properly so we don’t get sand in the food. Chop the chicken into small pieces and boil the measured water.",
       "ingredients": [
         "Boiling water",
         "Garlic for the pot",
@@ -234,7 +234,7 @@
     {
       "id": "969fd5ff-e851-572c-ac8e-39baa3bdc983",
       "title": "Cook the chicken with the aromatics",
-      "description": "Put the chicken, garlic, ginger and onion into the pot. Cook over medium-high heat for 5 minutes, stirring and moving everything around, until the chicken turns white on the outside.",
+      "description": "Put the chicken, garlic, ginger and onion in the pot. Squish them around on medium-high heat for 5 minutes, until the chicken goes white on the outside.",
       "ingredients": [
         "Chicken",
         "Garlic for the pot",
@@ -253,7 +253,7 @@
     {
       "id": "65093572-adb2-50c7-aec8-085ae1465283",
       "title": "Add the stock ingredients and boil",
-      "description": "Add the turmeric powder, the chicken stock cube, the boiled water and the light soy sauce. Bring to the boil, cover with the lid and let it boil for 20 minutes.",
+      "description": "Add the turmeric, chicken stock cube, boiled water and light soy sauce. Bring it to the boil, put the lid on and let it boil for 20 minutes.",
       "ingredients": [
         "Turmeric powder",
         "Chicken stock cube",
@@ -272,7 +272,7 @@
     {
       "id": "3e41e78b-37f0-505c-a4e3-ca3876456905",
       "title": "Wash the rice and prepare the chilli ingredients",
-      "description": "While the covered pot cooks, wash the rice with cold water three times if possible, then drain. Prepare the garlic and an equal-sized piece of ginger for the chilli sauce, or use a ginger-garlic block instead. Have the fresh birds-eye chillies and lime juice ready.",
+      "description": "While that’s going, wash the rice in cold water three times if you can, then drain it. This helps it stay grainy instead of mushing together. Get the chilli-sauce garlic, equal-sized piece of ginger, birds-eye chillies and lime juice ready too. A ginger-garlic block can replace the fresh garlic and ginger for the sauce.",
       "ingredients": [
         "Rice",
         "Garlic for the chilli sauce",
@@ -292,7 +292,7 @@
     {
       "id": "7a617a67-c4ec-5e4c-a025-fa924848a29b",
       "title": "Save stock for the chilli sauce",
-      "description": "Once the 20-minute covered boil is finished, check that the chicken is fully cooked. Scoop out the measured cooked stock for the chilli sauce before putting any rice into the pot. Let this stock cool before blending. You can stand a heat-safe container in a bowl of cold water to help it cool.",
+      "description": "After the 20 minutes, check the chicken is cooked through, then take out the stock measured for our chilli sauce BEFORE adding the rice. Let that stock cool before blending. I like to help it cool by standing a heat-safe container in a bowl of cold water.",
       "ingredients": [
         "Cooked chicken stock"
       ],
@@ -308,7 +308,7 @@
     {
       "id": "bcdb8d4e-79ac-505c-8421-f77ebd8e8614",
       "title": "Cook the rice in the pot",
-      "description": "Add the washed, drained rice to the pot. Cover and cook for 15 minutes over medium-low heat.",
+      "description": "Add the washed, drained rice. Put the lid back on and cook for 15 minutes on medium-low heat.",
       "ingredients": [
         "Rice"
       ],
@@ -324,7 +324,7 @@
     {
       "id": "48dd64d4-6659-5044-a715-94f615aa1e62",
       "title": "Rest with the lid on",
-      "description": "Turn off the heat. Do not remove the lid. Leave the chicken rice to rest for 10 minutes.",
+      "description": "Turn the heat off now, but don’t open the lid yet. Leave it alone for 10 minutes so the rice can finish resting in the steam.",
       "ingredients": [],
       "durationMinutes": 10,
       "timerMinutes": 10,
@@ -338,7 +338,7 @@
     {
       "id": "877550b0-f40f-59f4-86d4-816c87f89bdf",
       "title": "Blend the chilli sauce",
-      "description": "Blend the garlic, ginger, fresh birds-eye chillies, cooled cooked stock and lime juice. The sauce does not have to be perfectly smooth. If using a ginger-garlic block, use it instead of the fresh garlic and ginger.",
+      "description": "Blend the chilli-sauce garlic, ginger, chillies, cooled stock and lime juice. It doesn’t need to be perfectly smooth. If you’re using our ginger-garlic block, use that instead of the fresh garlic and ginger.",
       "ingredients": [
         "Garlic for the chilli sauce",
         "Ginger for the chilli sauce",
@@ -358,7 +358,7 @@
     {
       "id": "92f6a6eb-743a-5e9e-ade9-7a4ef3d3f528",
       "title": "Fluff gently and serve",
-      "description": "Once the rice has rested, remove the lid and gently fluff it. Serve with chilli sauce for bubu and soy sauce for dudu. Try not to squish the rice around: the grains can break and become mushy.",
+      "description": "Open the lid and gently fluff the rice. Try not to squish it around here or the grains will break and get mushy. Chilli sauce for bubu, soy sauce for dudu, and we’re ready to eat.",
       "ingredients": [
         "Soy sauce"
       ],

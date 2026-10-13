@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "Better a little less salty than too salty: we can always add salt, but we can’t remove it. Add Parmesan at the table so we can keep a couple of dairy-free portions for lunch.",
+  "personalNote": "Jack, fennel and tomato are a lovely combination—the fennel lifts the tomatoes’ sweetness. Better a little less salty than too salty: we can always add salt, but we can’t remove it.",
   "story": "",
   "equipment": [
     "Large oven-safe pot with an oven-safe lid",
@@ -39,10 +39,10 @@
     "Measuring jug",
     "Wooden spoon",
     "Oven gloves",
-    "Containers for the lunch portions"
+    "Containers for the second-dinner portions"
   ],
   "advancePrep": "Air-fry the sausages until fully cooked according to their packet, then cut into thin slices. Pick the basil leaves off their stalks.",
-  "importantNotes": "Makes four portions: two for dinner and two for lunch the next day. The ingredient quantities are exactly the supplied batch. Prep and cooking times are estimates and exclude air-frying the sausages. Do not wash the risotto rice: its starch makes the risotto creamy. Use a pot and lid that are both oven-safe. Keep Parmesan separate from the lunch portions; choose dairy-free sausages and stock cubes if those portions need to be dairy-free. Protein swap for this batch: 300 g sausage, 500 g chicken, or 500 g of 5% lean pork mince. See “Make it work for you” for the cooking changes.",
+  "importantNotes": "Four portions means two dinners for both of us. If we eat a bit more on the first night, we can have garlic bread with the second dinner. Don’t wash this rice: we want the starch for creaminess. Use an oven-safe pot and lid. Keep Parmesan at the table if we want the second dinner dairy-free, and choose dairy-free sausage and stock too. For our batch, we can swap 300 g sausage for 500 g chicken or 500 g of 5% lean pork mince; check the swap note for the cooking changes. Times are estimates and don’t include air-frying the sausage.",
   "groups": [
     {
       "title": "For the risotto",
@@ -82,7 +82,7 @@
           "name": "Sausages",
           "quantity": 300,
           "unit": "g",
-          "note": "Air-fry until fully cooked, then slice thinly. Choose dairy-free ones for the dairy-free lunch portions.",
+          "note": "Air-fry until fully cooked, then slice thinly. Choose dairy-free ones for the dairy-free second-dinner portions.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -92,7 +92,7 @@
           "name": "Chicken stock cubes",
           "quantity": 2,
           "unit": "",
-          "note": "Check the ingredients if keeping lunch portions dairy-free.",
+          "note": "Check the ingredients if keeping second-dinner portions dairy-free.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -177,7 +177,22 @@
           "name": "Parmesan",
           "quantity": null,
           "unit": "",
-          "note": "Add to individual servings if wanted. Leave out of the dairy-free lunch portions.",
+          "note": "Add to individual servings if wanted. Leave out of the dairy-free second-dinner portions.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "If we want a little extra on night two",
+      "ingredients": [
+        {
+          "id": "80ea6f99-f310-5d1f-b7c1-a5198385f8b2",
+          "name": "Garlic bread",
+          "quantity": null,
+          "unit": "",
+          "note": "Optional with our second dinner if we ate a bit more on the first night. Heat following the packet.",
           "optional": true,
           "scaling": "linear",
           "roundTo": 0
@@ -189,7 +204,7 @@
     {
       "id": "1af0c381-4596-5508-a950-2cfcae243c6d",
       "title": "Prepare and preheat",
-      "description": "Peel and chop the garlic and brown onion. Slice the tomatoes. Air-fry the sausages until fully cooked, following their packet instructions, then cut them into thin slices. Preheat the oven to 180°C and boil the measured water.",
+      "description": "Peel and chop the garlic and onion, then slice the tomatoes. Air-fry the sausages until cooked, following the packet, and slice them thinly. Put the oven on at 180°C and boil the measured water.",
       "ingredients": [
         "Garlic",
         "Brown onion",
@@ -209,7 +224,7 @@
     {
       "id": "c2650163-cc5c-503e-a122-cd0173841d47",
       "title": "Soften the onion and garlic",
-      "description": "Put the sliced sausage into an oven-safe pot over medium heat. Add the garlic and onion and fry for 5 minutes, until the onion softens.",
+      "description": "Put the sliced sausage in our oven-safe pot on medium heat. Add the garlic and onion and fry for 5 minutes, until the onion softens.",
       "ingredients": [
         "Sausages",
         "Garlic",
@@ -227,7 +242,7 @@
     {
       "id": "47e7ed5f-5e04-5b9a-b2e4-94ff27f26501",
       "title": "Cook the tomatoes down",
-      "description": "Add the sliced tomatoes and chicken stock cubes. If you are using salad tomatoes, add the measured sugar too. Cook for 15 minutes, stirring as needed, until the tomatoes become mushy.",
+      "description": "Add the tomatoes and chicken stock cubes. If we’re using salad tomatoes instead of vine-ripened ones, add the sugar too. Cook for 15 minutes, squishing it around, until the tomatoes go mushy.",
       "ingredients": [
         "Vine-ripened tomatoes",
         "Chicken stock cubes",
@@ -245,7 +260,7 @@
     {
       "id": "26a37c41-ba09-5836-86ba-ebcc1ab8127b",
       "title": "Add the rice and fennel",
-      "description": "Add the unwashed risotto rice and mix it through the tomato sauce. Add the fennel seeds and stir.",
+      "description": "Add the risotto rice WITHOUT washing it, and mix it through the tomato sauce. We want to keep its starch so the risotto goes creamy. Add the fennel seeds and mix again.",
       "ingredients": [
         "Risotto rice",
         "Fennel seeds"
@@ -262,7 +277,7 @@
     {
       "id": "48028717-8575-5dde-8309-6a36757044f1",
       "title": "Add the water and taste",
-      "description": "Pour in the boiled water and mix. Taste the liquid: it should be pleasantly salted. Do not worry if it is slightly less salty than you would like, because Parmesan added at the table will bring more saltiness. Add salt only if needed. Bring the pot to the boil.",
+      "description": "Pour in the boiled water and mix. Taste the liquid if the meat is fully cooked: we want it nicely salted, but a little less salty is fine because Parmesan adds saltiness later. We can always add salt, but we can’t take it out. Bring it to the boil.",
       "ingredients": [
         "Boiling water",
         "Salt"
@@ -279,7 +294,7 @@
     {
       "id": "f6c51ca6-1c3f-5f51-9fbd-64a0a74a7ff7",
       "title": "Bake the covered risotto",
-      "description": "Once the liquid starts boiling, cover with the oven-safe lid and transfer the pot to the preheated oven. Bake for 30 minutes.",
+      "description": "Once it starts boiling, put the oven-safe lid on and move the pot into the oven for 30 minutes. Use the oven gloves, Jack; those handles get hot.",
       "ingredients": [],
       "durationMinutes": 30,
       "timerMinutes": 30,
@@ -293,7 +308,7 @@
     {
       "id": "0ce25e47-6379-5543-9ff4-47455f7cb945",
       "title": "Finish with pepper and basil",
-      "description": "Take the pot out of the oven carefully. Add the black pepper and the basil leaves you picked off their stalks, and mix them through the risotto.",
+      "description": "Take the pot out carefully. Add the black pepper and basil leaves you picked off the stalks, and squish them through the risotto.",
       "ingredients": [
         "Black pepper",
         "Basil leaves"
@@ -309,10 +324,11 @@
     },
     {
       "id": "bb017594-68c2-53c5-83a1-39b3dd84e7ae",
-      "title": "Serve with Parmesan separately",
-      "description": "Serve the risotto and add Parmesan to individual plates if wanted. Keep a couple of portions without Parmesan for dairy-free lunches.",
+      "title": "Our first dinner, and a little help for night two",
+      "description": "Add Parmesan to our plates rather than the whole pot. This batch is for two dinners for both of us, so keep the second dinner aside. If we end up eating a bit more tonight, we can have what’s left with some garlic bread on night two—heat it following the packet.",
       "ingredients": [
-        "Parmesan"
+        "Parmesan",
+        "Garlic bread"
       ],
       "durationMinutes": 0,
       "timerMinutes": 0,
@@ -328,19 +344,19 @@
   "substitutions": [
     {
       "title": "Swap the protein",
-      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe the original batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
+      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe our batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
     },
     {
       "title": "Salad tomatoes instead of vine-ripened",
-      "text": "For the original batch, use 2 packs of salad tomatoes and add ½ teaspoon of sugar when cooking the tomatoes down."
+      "text": "For our batch, use 2 packs of salad tomatoes and add ½ teaspoon of sugar when cooking the tomatoes down."
     },
     {
       "title": "Black pepper",
       "text": "Coarsely crushed pepper or pepper powder both work."
     },
     {
-      "title": "Dairy-free lunch portions",
-      "text": "Leave Parmesan off the lunch portions, and choose sausages and stock cubes without dairy ingredients."
+      "title": "Dairy-free second-dinner portions",
+      "text": "Leave Parmesan off the second-dinner portions, and choose sausages and stock cubes without dairy ingredients."
     }
   ],
   "troubleshooting": [
@@ -353,10 +369,10 @@
       "text": "That is fine. Parmesan adds saltiness at the table, and you can add a little salt to a dairy-free portion if needed."
     }
   ],
-  "storage": "Divide the lunch portions into small containers to cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours. Keep Parmesan separate.",
+  "storage": "Put our second dinner into small containers so it cools quickly, ideally within 1 hour. Keep it in the fridge and eat within 24 hours. Freeze it if we’re saving it longer, and keep Parmesan separate if we want it dairy-free.",
   "reheating": "Reheat once until steaming hot throughout. Stir or turn it during microwave reheating to avoid cold pockets.",
   "foodSafety": "Air-fry the sausages until fully cooked before slicing. Use an oven-safe pot and lid, and remember the handles stay hot after baking.",
-  "servingSuggestion": "Parmesan at the table, with a couple of portions kept without cheese for lunch.",
+  "servingSuggestion": "Two dinners for both of us. Add Parmesan to our plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
   "glossary": [
     "Boil"
   ]

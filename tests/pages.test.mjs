@@ -27,7 +27,7 @@ test('library search, time filter, favourites and reset work on built HTML',asyn
  assert.equal(p.d.querySelectorAll('.recipe-card:not([hidden])').length,1);assert.equal(p.d.querySelector('.recipe-card:not([hidden])').dataset.slug,'chickpea-curry-and-rice');
  search.value='';const form=p.d.querySelector('#recipe-filters');form.elements.time.value='20';form.dispatchEvent(new p.w.Event('change',{bubbles:true}));assert.equal(p.d.querySelectorAll('.recipe-card:not([hidden])').length,1);
  p.d.querySelector('.recipe-card:not([hidden]) [data-favourite]').click();assert.deepEqual(JSON.parse(p.w.localStorage.getItem('cookbook-v1:favourites')),[demo.slug]);
- form.reset();await new Promise(r=>setTimeout(r,5));assert.equal(p.d.querySelectorAll('.recipe-card:not([hidden])').length,4);
+ form.reset();await new Promise(r=>setTimeout(r,5));assert.equal(p.d.querySelectorAll('.recipe-card:not([hidden])').length,fs.readdirSync('tests/fixtures/recipes').filter(f=>f.endsWith('.json')&&JSON.parse(fs.readFileSync(path.join('tests/fixtures/recipes',f),'utf8')).published).length);
  }finally{p.close();}
 });
 test('ingredient quantities, checklists and scaled shopping persist',async()=>{
@@ -71,4 +71,30 @@ test('shopping checkbox and remove control work on built HTML',async()=>{
 test('all production assets exist and contain no external runtime services',()=>{
  const walk=d=>fs.readdirSync(d,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(path.join(d,e.name)):[path.join(d,e.name)]);
  for(const f of walk('dist').filter(f=>f.endsWith('.html'))){const w=new Window();w.document.write(fs.readFileSync(f,'utf8'));for(const e of w.document.querySelectorAll('img[src],script[src],link[rel=stylesheet]')){const src=e.getAttribute('src')||e.getAttribute('href');if(!src)continue;assert.ok(!src.startsWith('http'),`External runtime asset: ${src}`);const p=outputPath(src);assert.ok(fs.existsSync(path.join('dist',p)),`Missing asset in ${f}: ${src}`);}w.close();}
+});
+
+
+test('choice tabs resolve and shopping adds only the selected ingredients with one canonical favourite',async()=>{
+ const p=await openPage('recipes/choice-fixture-egg-noodles');try{
+ const tabs=[...p.d.querySelectorAll('.carb-choices nav a')];assert.equal(tabs.length,4);
+ for(const a of tabs)assert.ok(fs.existsSync(path.join(fixtureDist,outputPath(a.getAttribute('href')),'index.html')));
+ assert.equal(p.d.querySelector('.carb-choices [aria-current=page]').textContent,'Egg noodles');
+ p.d.querySelector('#add-shopping').click();const shopping=JSON.parse(p.w.localStorage.getItem('cookbook-v1:shopping'));
+ assert.deepEqual(shopping.map(i=>i.name),['Pork','Egg noodles']);
+ p.d.querySelector('[data-favourite]').click();assert.deepEqual(JSON.parse(p.w.localStorage.getItem('cookbook-v1:favourites')),['choice-fixture']);
+ }finally{p.close();}
+});
+test('a choice has matching cooking steps and an optional smaller dinner scales from the batch',async()=>{
+ const p=await openPage('cook/choice-fixture-vermicelli');try{
+ assert.equal(p.d.querySelector('#cooking-title').textContent,'Prepare Rice vermicelli');
+ assert.match(p.d.querySelector('#cooking-ingredients').textContent,/400 g Rice vermicelli/);
+ assert.ok(!/Egg noodles|Flat rice noodles/.test(p.d.querySelector('#cooking-ingredients').textContent));
+ p.d.querySelector('#step-complete').click();assert.equal(p.d.querySelector('#cooking-title').textContent,'Cook the shared base');
+ }finally{p.close();}
+ const q=await openPage('recipes/choice-fixture-flat-noodles');try{
+ assert.equal(q.d.querySelector('#servings').value,'2');
+ assert.equal(q.d.querySelector('[data-quantity=choice-flat-noodles]').textContent,'200');
+ q.d.querySelector('#add-shopping').click();const shopping=JSON.parse(q.w.localStorage.getItem('cookbook-v1:shopping'));
+ assert.equal(shopping.find(i=>i.name==='Pork').quantity,500);assert.equal(shopping.find(i=>i.name==='Flat rice noodles').quantity,200);
+ }finally{q.close();}
 });

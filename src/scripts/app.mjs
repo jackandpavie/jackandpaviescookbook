@@ -34,7 +34,7 @@ export function initTimers(){
  const tick=()=>{let changed=false;for(const [key,t] of Object.entries(timers)){const remaining=timerRemaining(t);if(t.status==='running'&&remaining<=0){t.status='done';t.remaining=0;t.deadline=null;changed=true;if(!t.announced){beep();toast(`${t.label}: time’s up. Check your food.`);t.announced=true;}}$$('[data-countdown]').filter(e=>e.dataset.countdown===key).forEach(e=>e.textContent=t.status==='done'?'Time’s up':timeText(remaining));}if(changed){write('timers',timers);renderTimers();}};
  window.addEventListener('storage',e=>{if(e.key==='cookbook-v1:timers'){timers=read('timers',{});renderTimers();tick();}});document.addEventListener('visibilitychange',tick);tick();renderTimers();return setInterval(tick,500);
 }
-function recipeState(r){const state=read('recipe:'+r.slug,{});return {servings:r.servings,checked:[],completed:[],index:0,...state,completed:(state.completed||[]).filter(id=>r.steps.some(s=>s.id===id)),checked:(state.checked||[]).filter(id=>r.groups.some(g=>g.ingredients?.some(i=>i.id===id)))};}
+function recipeState(r){const state=read('recipe:'+r.slug,{});return {servings:r.defaultServings??r.servings,checked:[],completed:[],index:0,...state,completed:(state.completed||[]).filter(id=>r.steps.some(s=>s.id===id)),checked:(state.checked||[]).filter(id=>r.groups.some(g=>g.ingredients?.some(i=>i.id===id)))};}
 export function initRecipe(){
  const data=$('#recipe-data');if(!data)return;const {recipe:r}=JSON.parse(data.textContent);if($('#kitchen'))return initCooking(JSON.parse(data.textContent));
  let state=recipeState(r);const ingredients=r.groups.flatMap(g=>g.ingredients||[]);const save=()=>write('recipe:'+r.slug,state);

@@ -191,7 +191,7 @@ content:
       collapsible:
         collapsed: true
         summary: '{title}'
-    fields:
+    fields: &ingredient_group_fields
     - name: title
       label: Group name
       type: string
@@ -255,7 +255,7 @@ content:
       collapsible:
         collapsed: true
         summary: '{title}'
-    fields:
+    fields: &cooking_step_fields
     - *id001
     - name: title
       label: Step title
@@ -301,6 +301,73 @@ content:
     - name: imageAlt
       label: Describe this step photograph
       type: string
+  - name: portionLabel
+    label: Custom portion-control label — optional
+    type: string
+  - name: portionNote
+    label: Explain a two-night batch — optional
+    type: text
+  - name: secondNightNote
+    label: A note for the second dinner — optional
+    type: text
+  - name: choiceHeading
+    label: Heading for the choices — optional
+    type: string
+  - name: choiceIntro
+    label: Introduction to the choices — optional
+    type: text
+  - name: recipeOptions
+    label: Carb or protein choices in one recipe card — optional
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{label}'
+    description: Shared ingredients and steps stay above. Each option adds only its own ingredients and preparation. Set the first option address to the main recipe address.
+    fields:
+    - name: id
+      label: Option identifier, such as rice or spam
+      type: string
+      required: true
+    - name: slug
+      label: Permanent address for this option
+      type: string
+      required: true
+    - name: label
+      label: Choice label
+      type: string
+      required: true
+    - name: description
+      label: Note to Jack about this option
+      type: text
+    - name: advancePrep
+      label: Preparation before starting
+      type: text
+    - name: defaultServings
+      label: Portions to cook now — optional
+      type: number
+      description: Leave empty for the full batch. Use 2 for a fresh two-portion cooked-chicken dinner.
+    - name: prepMinutes
+      label: Preparation minutes for this option
+      type: number
+    - name: cookMinutes
+      label: Estimated cooking minutes for this option
+      type: number
+    - name: groups
+      label: Ingredients for this option
+      type: object
+      list: true
+      fields: *ingredient_group_fields
+    - name: beforeSteps
+      label: Option steps before the shared method
+      type: object
+      list: true
+      fields: *cooking_step_fields
+    - name: afterSteps
+      label: Option steps after the shared method
+      type: object
+      list: true
+      fields: *cooking_step_fields
   - name: timeline
     label: Cooking timeline — optional
     type: object

@@ -27,7 +27,7 @@ export function timerAction(timer,action,now=Date.now()){
 export function searchRecipes(recipes,query='',filters={},sort='featured',favourites=[]){
  const needle=query.toLowerCase().trim();
  const list=recipes.filter(r=>{
-  const ingredientNames=(r.groups||[]).flatMap(g=>(g.ingredients||[]).map(i=>i.name));
+  const ingredientNames=[...(r.groups||[]),...(r.recipeOptions||[]).flatMap(o=>o.groups||[])].flatMap(g=>(g.ingredients||[]).map(i=>i.name));
   const hay=[r.title,r.description,r.category,r.cuisine,r.mainIngredient,...(r.tags||[]),...(r.dietaryTags||[]),...ingredientNames].join(' ').toLowerCase();
   const total=(r.prepMinutes||0)+(r.cookMinutes||0)+(r.restMinutes||0);
   return (!needle||hay.includes(needle))&&(!filters.category||r.category===filters.category)&&(!filters.time||total<=Number(filters.time))&&(!filters.difficulty||r.difficulty===filters.difficulty)&&(!filters.cuisine||r.cuisine===filters.cuisine)&&(!filters.ingredient||r.mainIngredient===filters.ingredient)&&(!filters.diet||r.dietaryTags?.includes(filters.diet))&&(!filters.saved||favourites.includes(r.slug));

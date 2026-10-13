@@ -1,0 +1,13 @@
+---
+import {url} from '../lib/data';
+const {recipe:r, mode='recipes'}=Astro.props;
+const options=Array.isArray(r.recipeOptions)?r.recipeOptions:[];
+const selected=options.find(o=>o.id===r.selectedChoice);
+---
+{options.length>0&&<section class="carb-choices" aria-label="Choose our recipe version">
+ <h2>{r.choiceHeading||'What are the bubbies in the mood for?'}</h2>
+ <p>{r.choiceIntro||'Pick our carb, Jack. The pork stays the same; I’ve written out the steps for each one.'}</p>
+ <nav aria-label={r.choiceHeading||'Recipe options'}>{options.map(o=><a href={url(`${mode}/${o.slug}/`)} aria-current={o.id===r.selectedChoice?'page':undefined}>{o.label}</a>)}</nav>
+ {r.secondNightNote&&<details><summary>Using our pork from yesterday?</summary><p>{r.secondNightNote}</p></details>}
+ {selected?.description&&<p class="carb-description">{selected.description}</p>}
+</section>}

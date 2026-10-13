@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "If the sauce looks a tiny bit scrambled, don’t worry: it will still taste just as good. The dish is not ruined, so don’t spiral.",
+  "personalNote": "If the sauce looks a tiny bit scrambled, don’t worry, Jack. It will still taste just as good. The dish is not ruined, so don’t spiral.",
   "story": "",
   "equipment": [
     "Large saucepan",
@@ -42,7 +42,7 @@
     "Wooden spoons or tongs"
   ],
   "advancePrep": "If using sausage, air-fry it until fully cooked according to its packet instructions, then chop it before you begin.",
-  "importantNotes": "Makes two servings. Times are estimates and exclude any advance air-frying of sausage. Reserve the pasta water before draining the spaghetti. Turn off the heat before adding the egg sauce.",
+  "importantNotes": "This feeds the two of us. Save the pasta water before you drain anything, and turn the heat off before the egg sauce goes in. The times are estimates; air-fry any sausage before starting.",
   "groups": [
     {
       "title": "For the pasta and wok",
@@ -149,7 +149,7 @@
     {
       "id": "94cbe4d5-97e4-5dce-a5a6-9b3c1a3d093f",
       "title": "Get the garlic and water ready",
-      "description": "Peel a head of garlic and crush the cloves without chopping them. Boil two kettles of water, using them in turn if you have one kettle. Pour the water into a large saucepan, bring it to the boil and salt it heavily.",
+      "description": "Peel the garlic and crush the cloves, Jack—don’t chop them for this one. Boil two kettles of water, one after the other if you’re using the same kettle. Pour them into a big saucepan, bring it to the boil and salt it heavily.",
       "ingredients": [
         "Garlic",
         "Salt"
@@ -166,7 +166,7 @@
     {
       "id": "471de748-33a5-5153-bb4b-bf763465185b",
       "title": "Cook the spaghetti and save the water",
-      "description": "Boil the spaghetti until al dente: usually about 8 minutes, but check the packet and taste it. Before draining, scoop out both measured portions of pasta water into a jug. Then drain the spaghetti and set it aside.",
+      "description": "Boil the spaghetti until al dente. It’s usually about 8 minutes, but check the packet and give a strand a taste. Before you drain it, save both measured amounts of pasta water in a jug. Then drain the spaghetti and leave it aside.",
       "ingredients": [
         "Spaghetti",
         "Reserved pasta water for the wok",
@@ -184,7 +184,7 @@
     {
       "id": "9bb5b7fc-ef40-5ef0-97d3-6d8f7b5e1df9",
       "title": "Mix the egg sauce",
-      "description": "Beat the eggs, grated Parmesan and black pepper together in a bowl. Keep the sauce ready for the end.",
+      "description": "Beat the eggs, grated Parmesan and black pepper together in a bowl. That’s our sauce. Have it ready before the pasta goes back into the wok.",
       "ingredients": [
         "Eggs",
         "Parmesan",
@@ -202,7 +202,7 @@
     {
       "id": "13eeba0a-c999-534b-a047-6737c0ad7ecf",
       "title": "Cook the bacon or prepared sausage",
-      "description": "Heat the wok over medium heat. Add the bacon lardons, or your already air-fried and chopped sausage. Cook for about 5 minutes, until the meat starts releasing its fat.",
+      "description": "Heat the wok on medium and add the bacon lardons, or the sausage you’ve already air-fried until cooked and chopped up. Give it about 5 minutes, until it starts releasing some oil.",
       "ingredients": [
         "Bacon lardons"
       ],
@@ -218,7 +218,7 @@
     {
       "id": "b4b767da-dfb3-5792-b174-751bfaef2621",
       "title": "Add the crushed garlic",
-      "description": "Add the crushed garlic cloves and cook for another 3 minutes, moving them around, until golden.",
+      "description": "Add the crushed garlic and squish it around for another 3 minutes, until it goes golden. Keep an eye on it so it doesn’t burn.",
       "ingredients": [
         "Garlic"
       ],
@@ -234,7 +234,7 @@
     {
       "id": "94633a64-60f7-5129-8f9f-3fa6d0333629",
       "title": "Toss the pasta in the wok",
-      "description": "Pour in the reserved pasta water measured for the wok. Bring it to a vigorous boil, then add the drained spaghetti. Toss until most of the water is absorbed. Taste the pasta to check that it is cooked to our liking.",
+      "description": "Add the pasta water measured for the wok and get it boiling vigorously. Put the spaghetti in and toss it around until most of the water is absorbed. Taste it now and make sure it’s cooked how we like it.",
       "ingredients": [
         "Reserved pasta water for the wok",
         "Spaghetti"
@@ -251,7 +251,7 @@
     {
       "id": "7bafb7e0-0f6a-5866-9662-cc2684b5023e",
       "title": "Turn off the heat and add the sauce",
-      "description": "Turn the heat off. Pour in the egg, Parmesan and pepper mixture and immediately stir and toss vigorously, squishing it around so the eggs do not scramble and the sauce becomes smooth.",
+      "description": "Turn the heat OFF before the sauce goes in. Add the egg mixture and immediately start squishing and tossing the pasta around vigorously, so the sauce goes smooth instead of the eggs scrambling.",
       "ingredients": [
         "Eggs",
         "Parmesan",
@@ -269,7 +269,7 @@
     {
       "id": "ec19723f-8c58-5adc-bfa1-7fef02d184dd",
       "title": "Loosen the sauce and serve",
-      "description": "If the pasta looks too dry, add a little of the extra reserved pasta water and mix. Repeat as needed until the sauce is loose enough to coat the spaghetti. Serve immediately.",
+      "description": "If it looks too dry, add a little of the extra pasta water and mix again. Add a bit at a time until it loosens up, then serve straight away. If the sauce looks a tiny bit scrambled, don’t worry: it still tastes just as good. The dish is not ruined, so don’t spiral.",
       "ingredients": [
         "Extra reserved pasta water"
       ],

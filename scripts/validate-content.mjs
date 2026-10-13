@@ -1,11 +1,23 @@
 import fs from 'node:fs';import path from 'node:path';
+import {recipeVersions} from '../src/lib/recipe-options.mjs';
 const errors=[],routes=new Set();
 const fail=(f,msg)=>errors.push(`${f}: ${msg}`);
 const arr=(v)=>Array.isArray(v)?v:[];
 const media=(f,v)=>{const s=typeof v==='string'?v:v?.src||v?.path||'';if(s&&(!s.startsWith('/images/')||s.includes('..')||!fs.existsSync(path.resolve('public',s.slice(1)))))fail(f,`Image not found or unsafe image path: ${s}`);};
 for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/recipes') : []).filter(f=>f.endsWith('.json'))){
- const f='content/recipes/'+name;let r;try{r=JSON.parse(fs.readFileSync(f,'utf8'));}catch{fail(f,'Invalid JSON');continue;}
- if(!r.published)continue;
+ const f='content/recipes/'+name;let source;try{source=JSON.parse(fs.readFileSync(f,'utf8'));}catch{fail(f,'Invalid JSON');continue;}
+ if(!source.published)continue;
+ if(source.recipeOptions!=null&&!Array.isArray(source.recipeOptions)){fail(f,'Recipe options must be a list');continue;}
+ const optionIds=new Set();
+ if(arr(source.recipeOptions).length&&source.recipeOptions[0]?.slug!==source.slug)fail(f,'The first option must use the main recipe address');
+ for(const o of arr(source.recipeOptions)){
+  if(!o||typeof o!=='object'){fail(f,'Recipe options must be objects');continue;}
+  if(o.defaultServings!=null&&(!Number.isInteger(o.defaultServings)||o.defaultServings<1||o.defaultServings>24))fail(f,'Option portions must be a whole number from 1 to 24');
+  if(!o.id||optionIds.has(o.id)||!o.label)fail(f,'Each recipe option needs a unique identifier and label');optionIds.add(o.id);
+  for(const k of ['groups','beforeSteps','afterSteps'])if(o[k]!=null&&!Array.isArray(o[k]))fail(f,`${k} in a recipe option must be a list`);
+ }
+ if(errors.length)continue;
+ for(const r of recipeVersions(source)){
  if(!r.title?.trim())fail(f,'Recipe name is required');
  for(const slug of [r.slug,...arr(r.aliases)]){if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug))fail(f,'Use lowercase words separated by hyphens for recipe addresses');if(routes.has(slug))fail(f,`Duplicate recipe address: ${slug}`);routes.add(slug);}
  if(!Number.isFinite(r.servings)||r.servings<1||r.servings>24)fail(f,'Servings must be a number from 1 to 24');
@@ -17,6 +29,7 @@ for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/re
  for(const s of arr(r.steps)){if(!s.id||steps.has(s.id))fail(f,'Every step needs a unique automatic identifier');steps.add(s.id);if(!s.title||!s.description)fail(f,'Give each step a title and instructions');for(const k of ['durationMinutes','timerMinutes'])if(s[k]!=null&&(!Number.isFinite(s[k])||s[k]<0))fail(f,`${k} must be non-negative`);for(const id of arr(s.ingredients))if(!ids.has(id)&&!names.has(id.toLowerCase()))fail(f,`Step ingredient “${id}” must match an ingredient name exactly`);media(f,s.image);}
  for(const t of arr(r.timeline))if(!Number.isFinite(t.start)||!Number.isFinite(t.end)||t.end<t.start||t.start<0||!t.task)fail(f,'Timeline needs a task and valid start/end minutes');
  media(f,r.image);for(const g of arr(r.gallery))media(f,g.image||g);
+ }
 }
 const site=JSON.parse(fs.readFileSync('content/site.json','utf8'));if(!site.title)fail('Site settings','Cookbook title is required');media('Site settings',site.heroImage);media('Site settings',site.introImage);
 for(const k of ['background','ink','olive','accent'])if(!/^#[0-9a-f]{6}$/i.test(site[k]))fail('Site settings',`Invalid ${k} colour — use a six-digit hex value`);

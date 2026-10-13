@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Two portions of stew for dinner, with some rice left over for a quick fried rice at lunch the next day.",
+  "personalNote": "This is our pork-loin version of Pork Belly Stew, Jack. Two bowls of stew for dinner, and some rice saved for a quick fried rice at lunch tomorrow.",
   "story": "",
   "equipment": [
     "Large stew pot with a lid",
@@ -42,7 +42,7 @@
     "Container for leftover rice"
   ],
   "advancePrep": "",
-  "importantNotes": "The stew makes two portions; the rice quantity deliberately leaves some extra for lunch the next day. Although we call it Pork Belly Stew, this version uses the pork loin steaks listed below. Prep time is an estimate, and the rice cooks alongside the stew. The stew water was supplied as one kettle rather than an exact volume; no millilitre amount has been assumed. Heat water in the kettle, but cook the rice in a saucepan.",
+  "importantNotes": "The stew feeds the two of us; the rice leaves us some extra for tomorrow’s lunch. Use pork loin for this version. A kettleful is our water measure for the stew, and we’ll boil another kettle for the rice. The rice cooks in a saucepan while the stew bubbles. Prep time is an estimate.",
   "groups": [
     {
       "title": "For the stew",
@@ -72,7 +72,7 @@
           "name": "Pork loin steaks",
           "quantity": 200,
           "unit": "g",
-          "note": "Use 200–300 g for the original two-portion batch; get the smallest pack available and slice.",
+          "note": "Use 200–300 g for our two-portion batch; get the smallest pack available and slice.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -132,7 +132,7 @@
           "name": "Boiling water for the stew",
           "quantity": 1,
           "unit": "kettle",
-          "note": "For the original two-portion batch; the kettle’s capacity determines the water volume.",
+          "note": "For our two-portion batch; the kettle’s capacity determines the water volume.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -179,7 +179,7 @@
     {
       "id": "112877c8-6ae9-5ef0-aecd-d066ae1c5f6a",
       "title": "Prepare the ingredients",
-      "description": "Chop the red onion and peeled garlic. Slice the pork loin steaks. Dice the Spam and tofu. Clean the lettuce and cut the head into four wedges. Boil the kettle of water for the stew.",
+      "description": "Chop the red onion and garlic, slice the pork loin, and dice the Spam and tofu. Clean the lettuce and cut it into four wedges. Boil a kettle of water for the stew.",
       "ingredients": [
         "Red onion",
         "Garlic",
@@ -201,7 +201,7 @@
     {
       "id": "5b9b3e49-948c-5627-923a-715f601bc83e",
       "title": "Start browning the pork",
-      "description": "Heat the stew pot over medium heat. Add the sliced pork and cook for 5 minutes, until it starts browning.",
+      "description": "Heat the pot on medium and add the pork. Give it 5 minutes, until it starts browning.",
       "ingredients": [
         "Pork loin steaks"
       ],
@@ -217,7 +217,7 @@
     {
       "id": "b9646ad4-c047-51af-9fd4-fc81db14aeee",
       "title": "Cook the kimchi with the aromatics",
-      "description": "Add the kimchi, garlic and red onion to the pork. Cook for 10 minutes, stirring as needed.",
+      "description": "Add the kimchi, garlic and onion and let them cook for 10 minutes, squishing things around as needed.",
       "ingredients": [
         "Kimchi",
         "Garlic",
@@ -235,7 +235,7 @@
     {
       "id": "d42ba858-cc4a-5ef9-bf6e-1e846bfda669",
       "title": "Add the remaining stew ingredients",
-      "description": "Add the gochujang if you have it; otherwise leave it out. Add the diced Spam and tofu, the boiled water for the stew and the light soy sauce. Mix gently, cover and let it bubble over medium-low heat for 30 minutes.",
+      "description": "If there’s gochujang in the fridge, add it. If there isn’t, leave it out. Add the diced Spam and tofu, the boiled water and the light soy. Mix gently so we don’t mash up the tofu, put the lid on and let it bubble on medium-low for 30 minutes.",
       "ingredients": [
         "Gochujang",
         "Spam",
@@ -255,7 +255,7 @@
     {
       "id": "ed7b0010-8753-5fed-8548-510061b349bd",
       "title": "Wash and boil the rice alongside the stew",
-      "description": "While the stew bubbles, wash the rice three times if possible. Boil a fresh kettle of water and pour it into the separate rice saucepan. Bring the water to the boil, add the washed rice and boil for about 12 minutes. Check the grains are cooked before draining.",
+      "description": "While the stew bubbles, wash the rice three times if you can. Boil another kettle of water, pour it into the separate rice saucepan and bring it to the boil. Add the rice and boil for about 12 minutes. Give a few grains a taste to check they’re cooked before draining; the packet might need a slightly different time.",
       "ingredients": [
         "Rice",
         "Water for boiling the rice"
@@ -272,7 +272,7 @@
     {
       "id": "7045ce0a-94d1-5223-8aee-7826da01512a",
       "title": "Drain the rice",
-      "description": "Drain the cooked rice in a colander and return the dinner rice to the rice pot. Set aside the extra lunch rice in a small container so it can cool quickly and go into the fridge.",
+      "description": "Drain the rice and return our dinner rice to the rice pot. Put the extra rice into a small container to cool quickly, then pop it in the fridge for tomorrow’s fried rice. Keep the dinner rice warm while the stew finishes.",
       "ingredients": [
         "Rice"
       ],
@@ -288,7 +288,7 @@
     {
       "id": "29bc9bc9-e43a-5f1f-9e12-7450192190df",
       "title": "Add the lettuce",
-      "description": "After the stew has bubbled for 30 minutes, add the lettuce wedges. Cook for another 10 minutes.",
+      "description": "When the stew’s 30 minutes are up, add the lettuce wedges and cook for another 10 minutes.",
       "ingredients": [
         "Lettuce"
       ],
@@ -304,7 +304,7 @@
     {
       "id": "978fc3e0-cddc-5501-b478-4b3f114b0de2",
       "title": "Serve immediately",
-      "description": "Check that the pork is cooked through, then serve the stew immediately with the cooked rice.",
+      "description": "Check the pork is cooked through, then serve the stew with our rice straight away. We’ve got some extra rice ready for a quick fried rice at lunch tomorrow.",
       "ingredients": [
         "Rice"
       ],

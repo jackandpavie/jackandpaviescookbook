@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {recipeVersions} from './recipe-options.mjs';
 export const settings = JSON.parse(fs.readFileSync(path.resolve('content/site.json'),'utf8'));
 for(const key of ['categories','featuredRecipes','collections'])if(!Array.isArray(settings[key]))settings[key]=[];
 const recipeDirectory = path.resolve('content/recipes');
@@ -9,6 +10,7 @@ export const recipes = (fs.existsSync(recipeDirectory) ? fs.readdirSync(recipeDi
  for(const g of r.groups)if(!Array.isArray(g.ingredients))g.ingredients=[];
  return r;
 }).filter(r=>r.published);
+export const recipePages=recipes.flatMap(recipeVersions);
 export const total=(r:any)=>Number(r.prepMinutes||0)+Number(r.cookMinutes||0)+Number(r.restMinutes||0);
 export const url=(p='')=>import.meta.env.BASE_URL.replace(/\/$/,'')+'/'+p.replace(/^\//,'');
 export function media(p:any){ const s=typeof p==='string'?p:p?.src||p?.path||'';return s?url(s):''; }

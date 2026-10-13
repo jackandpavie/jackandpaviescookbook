@@ -36,7 +36,11 @@
     "lemon-and-sausage-risotto",
     "chicken-and-mushroom-risotto",
     "chinese-claypot-rice",
-    "kimchi-jjigae"
+    "kimchi-jjigae",
+    "fried-vermicelli-mee-siam",
+    "thai-basil-minced-pork",
+    "gochujang-fried-rice",
+    "gochujang-fried-noodles"
   ],
   "collections": [
     {
@@ -50,7 +54,11 @@
         "lemon-and-sausage-risotto",
         "chicken-and-mushroom-risotto",
         "chinese-claypot-rice",
-        "kimchi-jjigae"
+        "kimchi-jjigae",
+        "fried-vermicelli-mee-siam",
+        "thai-basil-minced-pork",
+        "gochujang-fried-rice",
+        "gochujang-fried-noodles"
       ]
     },
     {
@@ -63,7 +71,11 @@
         "lemon-and-sausage-risotto",
         "chicken-and-mushroom-risotto",
         "chinese-claypot-rice",
-        "kimchi-jjigae"
+        "kimchi-jjigae",
+        "fried-vermicelli-mee-siam",
+        "thai-basil-minced-pork",
+        "gochujang-fried-rice",
+        "gochujang-fried-noodles"
       ]
     },
     {
@@ -75,7 +87,11 @@
         "lemon-and-sausage-risotto",
         "chicken-and-mushroom-risotto",
         "chinese-claypot-rice",
-        "kimchi-jjigae"
+        "kimchi-jjigae",
+        "fried-vermicelli-mee-siam",
+        "thai-basil-minced-pork",
+        "gochujang-fried-rice",
+        "gochujang-fried-noodles"
       ]
     }
   ],
