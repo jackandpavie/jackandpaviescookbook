@@ -1,6 +1,6 @@
 # Our little cookbook
 
-A personal birthday cookbook built with Astro and browser-local cooking tools. Recipe content lives in `content/recipes`. Sample data for automated checks is kept separately in `tests/fixtures` and is never published as cookbook content. The homepage photograph is an **AI-generated placeholder**. Replace both in Pages CMS.
+A personal birthday cookbook built with Astro and browser-local cooking tools. Recipe content lives in `content/recipes`. Sample data for automated checks is kept separately in `tests/fixtures` and is never published as cookbook content. The homepage photograph is an **AI-generated placeholder**. Replace it in Pages CMS.
 
 ## What works
 
@@ -116,3 +116,5 @@ The workflow obtains the real origin and base path from `actions/configure-pages
 ## Image provenance
 
 `public/images/cover.webp` is a built-in image-generator placeholder, optimized for the website. It does not depict Pavie's cooking. Brief: realistic independent-cookbook still life of tomato pasta and basil on pale linen, warm natural light, olive napkin, cream pottery, no text. Recipe illustrations are code-native SVG placeholders. Replace these with your own food photographs through Pages CMS.
+
+Pavie's recipe workflow: every existing and newly added recipe should have an attractive, relevant online photograph, or her own photograph when available. Use photos whose published license permits reuse. Save each asset in `public/images` so the cookbook does not depend on an external image host. Store the photographer, source page, license and license link in the recipe's image-credit fields. Label a photograph as a reference when it shows another version of the dish, and name meaningful differences in the caption. The current recipe photographs retain their original appearance and are cropped only by the website layout; each photograph remains available under its credited license.

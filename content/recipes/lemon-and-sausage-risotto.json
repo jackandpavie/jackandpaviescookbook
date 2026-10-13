@@ -1,0 +1,336 @@
+{
+  "slug": "lemon-and-sausage-risotto",
+  "aliases": [],
+  "title": "Lemon and Sausage Risotto",
+  "description": "An oven-baked sausage risotto with lemon zest and juice, finished with parsley and basil.",
+  "category": "Rice dishes",
+  "cuisine": "Italian-inspired",
+  "mainIngredient": "Risotto rice",
+  "tags": [
+    "Dinner",
+    "Comfort food"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 15,
+  "cookMinutes": 40,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/lemon-and-sausage-risotto-reference.jpg",
+  "imageAlt": "Reference photograph of lemon and chicken risotto in an oval ceramic bowl, with herbs and lemon zest.",
+  "imageCaption": "Reference photograph · lemon and chicken variation · displayed crop",
+  "imageCredit": "Kolforn (Wikimedia)",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:-2020-01-16_Lemon_Chicken_Risotto_with_Parmesan,_Trimingham_(2).JPG",
+  "imageLicense": "CC BY-SA 4.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "art": "pasta",
+  "gallery": [],
+  "personalNote": "A lemon version of the tomato risotto, with parsley and basil at the end. Keep Parmesan at the table so a couple of portions can stay dairy-free for lunch.",
+  "story": "",
+  "equipment": [
+    "Large oven-safe pot with an oven-safe lid",
+    "Air fryer",
+    "Kettle",
+    "Chopping board and knife",
+    "Measuring jug",
+    "Wooden spoon",
+    "Oven gloves",
+    "Containers for the lunch portions"
+  ],
+  "advancePrep": "Air-fry the sausages until fully cooked according to their packet, then slice them thinly. Wash the lemon and zest it before juicing. Pick the basil leaves off the stalks and chop the parsley.",
+  "importantNotes": "Four portions is a provisional serving estimate, based on the original tomato-risotto batch. Times are estimates and exclude air-frying the sausages. The lemon amount is 1 lemon for this batch, using zest and juice. Do not wash the risotto rice. There is no tomato cook-down stage in this version. Keep Parmesan separate for the lunch portions, and choose dairy-free sausages and stock cubes if those portions need to be dairy-free. Protein swap for this batch: 300 g sausage, 500 g chicken, or 500 g of 5% lean pork mince. See “Make it work for you” for the cooking changes.",
+  "groups": [
+    {
+      "title": "For the risotto",
+      "ingredients": [
+        {
+          "id": "78ef3bc8-d489-5435-9efd-60d4914a790b",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "46e639c1-19c0-532b-8684-6692479613b5",
+          "name": "Brown onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Peel and chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "eaedebbd-a520-5371-acb2-ad0bc9af8948",
+          "name": "Sausages",
+          "quantity": 300,
+          "unit": "g",
+          "note": "Air-fry until fully cooked, then slice thinly.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5c2a3682-2ffc-5fef-bfac-3445c4ffac8e",
+          "name": "Chicken stock cubes",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "35792c82-10ac-5bb1-af7a-b5768213946c",
+          "name": "Risotto rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Do not wash.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b8999cd6-98d2-5bc9-b555-341436ca2c19",
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "",
+          "note": "Zest and juice. Use only the yellow zest, avoiding the bitter white pith.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b6e0defb-0c79-53d2-99cc-bdc7fe0eddca",
+          "name": "Boiling water",
+          "quantity": 1200,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "cd57846d-f49f-506a-a9ed-3dcc6c03bcca",
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Coarsely crushed, or pepper powder.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a6c47d4e-0123-549f-b358-d43dcb0ea3c8",
+          "name": "Parsley",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5f88a4de-43ed-5375-85ed-faeb1b4a2cfb",
+          "name": "Basil leaves",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Pick the leaves off the stalks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "4d3038e6-3af3-5d37-993f-a8e9408c2ade",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "Only if needed after tasting.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "At the table",
+      "ingredients": [
+        {
+          "id": "716c6f08-450b-58b7-98ac-cf4844cf6a06",
+          "name": "Parmesan",
+          "quantity": null,
+          "unit": "",
+          "note": "Add to individual servings if wanted; leave off the dairy-free lunch portions.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "3ff6dc1e-64bf-5116-91de-5cccf41a1814",
+      "title": "Prepare and preheat",
+      "description": "Peel and chop the garlic and onion. Air-fry the sausages until fully cooked according to their packet and slice them thinly. Zest the lemon, then juice it and keep the juice aside. Pick the basil leaves and chop the parsley. Preheat the oven to 180°C and boil the measured water.",
+      "ingredients": [
+        "Garlic",
+        "Brown onion",
+        "Sausages",
+        "Lemon",
+        "Basil leaves",
+        "Parsley",
+        "Boiling water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Preheat oven to 180°C",
+      "doneness": "",
+      "tip": "If you are changing the protein, follow the swap note before beginning.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "0bb6b510-b040-53e1-be94-9767b00dbcb8",
+      "title": "Soften the onion and garlic",
+      "description": "Put the prepared sausage into an oven-safe pot over medium heat. Add the chopped garlic and onion and fry for 5 minutes, until the onion softens.",
+      "ingredients": [
+        "Sausages",
+        "Garlic",
+        "Brown onion"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium heat",
+      "doneness": "Soft onion.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "2461a67f-0c30-56dd-9e74-3e30062fdeed",
+      "title": "Add the rice, stock and lemon zest",
+      "description": "Add the unwashed risotto rice, chicken stock cubes and lemon zest. Mix them through the sausage, garlic and onion.",
+      "ingredients": [
+        "Risotto rice",
+        "Chicken stock cubes",
+        "Lemon"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium heat",
+      "doneness": "",
+      "tip": "Keep the lemon juice aside for the end. There are no tomatoes or fennel seeds in this version.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "49f3724b-0fb2-556b-9200-17727b9d6ca5",
+      "title": "Add the water and bring to the boil",
+      "description": "Pour in the boiled water and mix. With fully cooked sausage, taste the liquid and add salt only if needed. A little less salty is fine, as Parmesan at the table adds saltiness. Bring to the boil.",
+      "ingredients": [
+        "Boiling water",
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Bring to the boil",
+      "doneness": "Boiling liquid.",
+      "tip": "",
+      "warning": "If you swapped in raw chicken or mince, wait until the meat is fully cooked before tasting the liquid. Adjust the seasoning after baking instead.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "eb98b78e-3612-545d-8b52-96c13f08c08c",
+      "title": "Bake the covered risotto",
+      "description": "Once the liquid boils, cover with the oven-safe lid and put the pot into the preheated oven. Bake for 30 minutes, then check that the rice is cooked.",
+      "ingredients": [],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "180°C oven, covered",
+      "doneness": "Cooked risotto rice.",
+      "tip": "If using a chicken or mince swap, check that the meat is fully cooked too: its centre should reach 75°C for 30 seconds. Continue cooking and recheck if needed.",
+      "warning": "Use oven gloves: the pot, lid and handles will stay hot after baking.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "598a3494-265e-56eb-91f7-5130e1faf159",
+      "title": "Finish with lemon and herbs",
+      "description": "Carefully take the pot out of the oven. Mix in the black pepper, chopped parsley and basil leaves. Add the reserved lemon juice gradually, tasting as you go, until it is as lemony as you like.",
+      "ingredients": [
+        "Black pepper",
+        "Parsley",
+        "Basil leaves",
+        "Lemon"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "Creamy risotto with a fresh lemon flavour.",
+      "tip": "Adding the juice gradually lets you control the sharpness.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "a5f285b6-7739-5b28-97b0-b47a736c66e6",
+      "title": "Serve and keep the lunch portions aside",
+      "description": "Serve with Parmesan available at the table. Keep a couple of portions without Parmesan for dairy-free lunches.",
+      "ingredients": [
+        "Parmesan"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Add cheese to individual plates instead of the whole pot.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Swap the protein",
+      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe the original batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
+    },
+    {
+      "title": "Black pepper",
+      "text": "Coarsely crushed pepper or pepper powder both work."
+    },
+    {
+      "title": "Dairy-free lunch portions",
+      "text": "Leave Parmesan off those portions and use sausages and stock cubes without dairy ingredients."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Controlling the lemon flavour",
+      "text": "Add the lemon juice in stages at the end and taste as you go."
+    },
+    {
+      "title": "Keeping the rice creamy",
+      "text": "Leave the risotto rice unwashed so its starch stays in the dish."
+    }
+  ],
+  "storage": "Divide the lunch portions into small containers to cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours. Keep Parmesan separate.",
+  "reheating": "Reheat once until steaming hot throughout. Stir or turn it during microwave reheating to avoid cold pockets.",
+  "foodSafety": "Cook sausage fully before slicing. For chicken or pork mince swaps, check the meat is fully cooked before tasting the liquid or serving. A thermometer check is 75°C in the centre for 30 seconds. Use oven gloves for the hot pot and lid.",
+  "servingSuggestion": "Parmesan at the table, keeping a couple of portions without cheese for lunch.",
+  "glossary": [
+    "Boil"
+  ]
+}

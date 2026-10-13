@@ -1,0 +1,322 @@
+{
+  "slug": "chicken-and-mushroom-risotto",
+  "aliases": [],
+  "title": "Chicken and Mushroom Risotto",
+  "description": "An oven-baked risotto with chicken, mushrooms, garlic and onion, finished with basil and black pepper.",
+  "category": "Rice dishes",
+  "cuisine": "Italian-inspired",
+  "mainIngredient": "Chicken",
+  "tags": [
+    "Dinner",
+    "Comfort food"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 15,
+  "cookMinutes": 45,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/chicken-and-mushroom-risotto-reference.jpg",
+  "imageAlt": "Reference photograph of creamy chicken and mushroom risotto on a white plate, topped with crispy mushrooms.",
+  "imageCaption": "Reference photograph · smoked chicken and mushroom variation · displayed crop",
+  "imageCredit": "Lou Stejskal / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Smoked_Chicken_Risotto,_crispy_mushrooms,_aged_white_cheddar,_chicken_jus_(32580253320).jpg",
+  "imageLicense": "CC BY 2.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "art": "pasta",
+  "gallery": [],
+  "personalNote": "The chicken and mushroom version of our tomato risotto. Add Parmesan to individual plates so the lunch portions can stay dairy-free.",
+  "story": "",
+  "equipment": [
+    "Large oven-safe pot with an oven-safe lid",
+    "Kettle",
+    "Chopping board and knife",
+    "Measuring jug",
+    "Wooden spoon",
+    "Oven gloves",
+    "Containers for the lunch portions"
+  ],
+  "advancePrep": "Cut the chicken into small pieces. Clean and slice the mushrooms. Peel and chop the garlic and onion, and pick the basil leaves off the stalks.",
+  "importantNotes": "Four portions is a provisional serving estimate, based on the original tomato-risotto batch. Times are estimates. This version uses 500 g chicken and 400 g mushrooms instead of the sausage, tomatoes and fennel. Do not wash the risotto rice. Keep Parmesan at the table, and use dairy-free stock cubes if the lunch portions need to be dairy-free. Taste and adjust the seasoning only after the chicken is fully cooked. Protein swap for this batch: 300 g sausage, 500 g chicken, or 500 g of 5% lean pork mince. See “Make it work for you” for the cooking changes.",
+  "groups": [
+    {
+      "title": "For the risotto",
+      "ingredients": [
+        {
+          "id": "7b9171aa-f854-5842-8cdd-1d2cfb63a933",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "2be0b427-a0bf-5e39-8a5c-74061db95582",
+          "name": "Brown onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Peel and chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "ffc43655-f56b-5a2d-bcb2-361040cd24b3",
+          "name": "Chicken",
+          "quantity": 500,
+          "unit": "g",
+          "note": "Cut into small pieces.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "ebbcda12-6bce-5a5b-adc5-58683811ed73",
+          "name": "Mushrooms",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Clean and slice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "29276863-81de-5fab-b043-2a03dd271e95",
+          "name": "Chicken stock cubes",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8e380cdc-2e29-5498-9652-a09b5e7e9a04",
+          "name": "Risotto rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Do not wash.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "73d71527-f253-5b6c-9688-1cc30159d8ab",
+          "name": "Boiling water",
+          "quantity": 1200,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a1477ed3-8d9c-5fff-bca0-75fea038b489",
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Coarsely crushed, or pepper powder.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1f77858a-5b7f-59ca-b4aa-613cc537377d",
+          "name": "Basil leaves",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Pick the leaves off the stalks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d41652e8-24a8-5c37-8bb5-56bf3bed8a2f",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "Only if needed after the chicken is fully cooked.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "At the table",
+      "ingredients": [
+        {
+          "id": "6c0b0b54-268d-57df-aedf-7abb58a791f0",
+          "name": "Parmesan",
+          "quantity": null,
+          "unit": "",
+          "note": "Add to individual servings if wanted; leave off the dairy-free lunch portions.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "1e251b6f-29b0-573d-b385-2ec7c4fb4ac4",
+      "title": "Prepare and preheat",
+      "description": "Peel and chop the garlic and onion. Cut the chicken into small pieces. Clean and slice the mushrooms and pick the basil leaves off the stalks. Preheat the oven to 180°C and boil the measured water.",
+      "ingredients": [
+        "Garlic",
+        "Brown onion",
+        "Chicken",
+        "Mushrooms",
+        "Basil leaves",
+        "Boiling water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Preheat oven to 180°C",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3012f825-842e-5e86-b28f-d48915c34f7e",
+      "title": "Start the chicken, onion and garlic",
+      "description": "Put the chicken, onion and garlic in an oven-safe pot over medium heat. Cook for about 5 minutes, stirring and moving everything around, until the onion starts to soften and the chicken turns white on the outside.",
+      "ingredients": [
+        "Chicken",
+        "Brown onion",
+        "Garlic"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium heat",
+      "doneness": "Softening onion and chicken white on the outside.",
+      "tip": "",
+      "warning": "The chicken is not necessarily cooked through yet. Do not taste it or the cooking liquid at this stage.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bea5c7ff-a640-5bd1-9312-63f8f640480e",
+      "title": "Cook the mushrooms",
+      "description": "Add the sliced mushrooms and cook for about 5–8 minutes, stirring, until they soften and release their liquid. Let the liquid start to cook down.",
+      "ingredients": [
+        "Mushrooms"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 5,
+      "heat": "Medium heat",
+      "doneness": "Soft mushrooms, with their released liquid starting to reduce.",
+      "tip": "The 5-minute timer is a first check; keep cooking if the mushrooms need longer.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "45eb79c1-e353-55b4-a86e-4275128ce94f",
+      "title": "Add the rice and stock",
+      "description": "Add the unwashed risotto rice and chicken stock cubes. Mix through the chicken and mushrooms, then pour in the boiled water and stir. Bring the pot to the boil.",
+      "ingredients": [
+        "Risotto rice",
+        "Chicken stock cubes",
+        "Boiling water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Bring to the boil",
+      "doneness": "",
+      "tip": "",
+      "warning": "Wait until the chicken is fully cooked before tasting the liquid. Check the seasoning after baking.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3ca930f7-4085-5d04-aeee-142e72c2a007",
+      "title": "Bake the covered risotto",
+      "description": "Once the liquid boils, cover with the oven-safe lid and put the pot in the preheated oven. Bake for 30 minutes. Check that the rice is cooked and that the chicken is fully cooked through before serving.",
+      "ingredients": [],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "180°C oven, covered",
+      "doneness": "Cooked risotto rice and fully cooked chicken.",
+      "tip": "A thermometer check for the chicken is 75°C in the centre for 30 seconds. If it has not reached that, continue cooking and check again.",
+      "warning": "Use oven gloves: the pot, lid and handles will stay hot after baking.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "386af9da-9d0e-584e-ad68-f08a488c41b4",
+      "title": "Finish with pepper and basil",
+      "description": "Carefully take the pot out of the oven. Once the chicken is fully cooked, taste and add salt only if needed. Remember that Parmesan at the table adds saltiness. Mix in the black pepper and basil leaves.",
+      "ingredients": [
+        "Salt",
+        "Black pepper",
+        "Basil leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Better a little less salty than too salty: you can add salt, but you can’t remove it.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "6436f2d1-1e08-56e6-885c-bdc2863a4ef1",
+      "title": "Serve and keep the lunch portions aside",
+      "description": "Serve with Parmesan at the table. Keep a couple of portions without Parmesan for dairy-free lunches.",
+      "ingredients": [
+        "Parmesan"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Add cheese to individual plates instead of mixing it into the whole pot.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Swap the protein",
+      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe the original batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
+    },
+    {
+      "title": "Black pepper",
+      "text": "Coarsely crushed pepper or pepper powder both work."
+    },
+    {
+      "title": "Dairy-free lunch portions",
+      "text": "Leave Parmesan off those portions and use stock cubes without dairy ingredients. If swapping in sausage, check that it is dairy-free too."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Keeping the rice creamy",
+      "text": "Do not wash the risotto rice; its starch makes the finished dish creamy."
+    },
+    {
+      "title": "Mushrooms still firm?",
+      "text": "Use their softness and released liquid as the guide. The 5-minute timer is only the first check."
+    }
+  ],
+  "storage": "Divide the lunch portions into small containers to cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours. Keep Parmesan separate.",
+  "reheating": "Reheat once until steaming hot throughout. Stir or turn it during microwave reheating to avoid cold pockets.",
+  "foodSafety": "Chicken and pork mince must be fully cooked before tasting the liquid or serving. A thermometer check is 75°C in the centre for 30 seconds. Keep utensils used for raw meat separate from the finished food. Use oven gloves for the pot and lid.",
+  "servingSuggestion": "Parmesan at the table, keeping a couple of portions without cheese for lunch.",
+  "glossary": [
+    "Boil"
+  ]
+}

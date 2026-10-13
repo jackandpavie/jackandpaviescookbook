@@ -31,7 +31,10 @@
   "featuredRecipes": [
     "char-kway-teow",
     "spaghetti-carbonara",
-    "chicken-rice-simplified"
+    "chicken-rice-simplified",
+    "tomato-risotto",
+    "lemon-and-sausage-risotto",
+    "chicken-and-mushroom-risotto"
   ],
   "collections": [
     {
@@ -41,7 +44,9 @@
         "char-kway-teow",
         "spaghetti-carbonara",
         "chicken-rice-simplified",
-        "tomato-risotto"
+        "tomato-risotto",
+        "lemon-and-sausage-risotto",
+        "chicken-and-mushroom-risotto"
       ]
     },
     {
@@ -50,7 +55,9 @@
       "recipes": [
         "spaghetti-carbonara",
         "chicken-rice-simplified",
-        "tomato-risotto"
+        "tomato-risotto",
+        "lemon-and-sausage-risotto",
+        "chicken-and-mushroom-risotto"
       ]
     },
     {
@@ -58,7 +65,9 @@
       "description": "Take your time and try something new.",
       "recipes": [
         "char-kway-teow",
-        "tomato-risotto"
+        "tomato-risotto",
+        "lemon-and-sausage-risotto",
+        "chicken-and-mushroom-risotto"
       ]
     }
   ],

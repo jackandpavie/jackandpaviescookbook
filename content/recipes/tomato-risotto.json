@@ -20,13 +20,13 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "",
-  "imageAlt": "",
-  "imageCaption": "",
-  "imageCredit": "",
-  "imageSource": "",
-  "imageLicense": "",
-  "imageLicenseUrl": "",
+  "image": "/images/tomato-risotto-reference.jpg",
+  "imageAlt": "Reference photograph of a neatly plated tomato risotto on a white plate, topped with sun-dried tomatoes.",
+  "imageCaption": "Reference photograph · sun-dried tomato variation · displayed crop",
+  "imageCredit": "Luca Nebuloni / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Risotto_with_dry_tomatoes_(8972088953).jpg",
+  "imageLicense": "CC BY 2.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "pasta",
   "gallery": [],
   "personalNote": "Better a little less salty than too salty: we can always add salt, but we can’t remove it. Add Parmesan at the table so we can keep a couple of dairy-free portions for lunch.",
@@ -42,7 +42,7 @@
     "Containers for the lunch portions"
   ],
   "advancePrep": "Air-fry the sausages until fully cooked according to their packet, then cut into thin slices. Pick the basil leaves off their stalks.",
-  "importantNotes": "Four portions is a provisional serving estimate; the serving count has not yet been confirmed by Pavie. The ingredient quantities are exactly the supplied batch. Prep and cooking times are estimates and exclude air-frying the sausages. Do not wash the risotto rice: its starch makes the risotto creamy. Use a pot and lid that are both oven-safe. Keep Parmesan separate from the lunch portions; choose dairy-free sausages and stock cubes if those portions need to be dairy-free.",
+  "importantNotes": "Four portions is a provisional serving estimate; the serving count has not yet been confirmed by Pavie. The ingredient quantities are exactly the supplied batch. Prep and cooking times are estimates and exclude air-frying the sausages. Do not wash the risotto rice: its starch makes the risotto creamy. Use a pot and lid that are both oven-safe. Keep Parmesan separate from the lunch portions; choose dairy-free sausages and stock cubes if those portions need to be dairy-free. Protein swap for this batch: 300 g sausage, 500 g chicken, or 500 g of 5% lean pork mince. See “Make it work for you” for the cooking changes.",
   "groups": [
     {
       "title": "For the risotto",
@@ -272,7 +272,7 @@
       "heat": "Bring to the boil",
       "doneness": "The liquid is boiling.",
       "tip": "Better a little under-salted than too salty: you can add salt later, but you can’t remove it.",
-      "warning": "",
+      "warning": "If you swapped in raw chicken or mince, do not taste the liquid until that meat is fully cooked. You can check and adjust the seasoning after baking.",
       "image": "",
       "imageAlt": ""
     },
@@ -284,8 +284,8 @@
       "durationMinutes": 30,
       "timerMinutes": 30,
       "heat": "180°C oven, covered",
-      "doneness": "",
-      "tip": "",
+      "doneness": "Cooked risotto rice. If using chicken or mince, check that the meat is fully cooked before serving.",
+      "tip": "For a chicken or mince swap, the centre of the meat should reach 75°C for 30 seconds. If it has not, continue cooking and check again before serving.",
       "warning": "Use oven gloves. The pot, lid and handles will be hot, including after they return to the hob.",
       "image": "",
       "imageAlt": ""
@@ -326,6 +326,10 @@
   ],
   "timeline": [],
   "substitutions": [
+    {
+      "title": "Swap the protein",
+      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe the original batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
+    },
     {
       "title": "Salad tomatoes instead of vine-ripened",
       "text": "For the original batch, use 2 packs of salad tomatoes and add ½ teaspoon of sugar when cooking the tomatoes down."
