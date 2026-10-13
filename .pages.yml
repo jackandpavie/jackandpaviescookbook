@@ -1,0 +1,497 @@
+media:
+  input: public/images
+  output: /images
+  extensions:
+  - jpg
+  - jpeg
+  - png
+  - webp
+  - avif
+  rename: safe
+content:
+- name: recipes
+  label: Recipes
+  type: collection
+  path: content/recipes
+  format: json
+  filename:
+    template: '{fields.slug}.json'
+    field: create
+  view:
+    primary: title
+    fields:
+    - title
+    - published
+    - category
+    - difficulty
+    sort:
+    - title
+    - added
+    search:
+    - title
+    - category
+    - tags
+  fields:
+  - name: title
+    label: Recipe name
+    type: string
+    required: true
+  - name: slug
+    label: Permanent recipe address
+    type: string
+    required: true
+    pattern: ^[a-z0-9]+(?:-[a-z0-9]+)*$
+    description: For example, tomato-basil-pasta. Leave unchanged after publication. Change the title freely.
+  - name: aliases
+    label: Previous recipe addresses
+    type: string
+    list: true
+    description: If you change the permanent address, add the old address here first.
+  - name: description
+    label: Short description
+    type: text
+    required: true
+  - name: category
+    label: Category
+    type: string
+    description: Use any category name. Add it to Site settings to show it on the homepage.
+  - name: cuisine
+    label: Cuisine
+    type: string
+  - name: mainIngredient
+    label: Main ingredient (for filtering)
+    type: string
+  - name: tags
+    label: Recipe tags
+    type: string
+    list: true
+  - name: dietaryTags
+    label: Dietary tags
+    type: string
+    list: true
+  - name: difficulty
+    label: Difficulty
+    type: select
+    default: Easy
+    options:
+      values:
+      - Easy
+      - A little practice
+      - A little challenge
+  - name: prepMinutes
+    label: Preparation time (minutes)
+    type: number
+    default: 0
+    options:
+      min: 0
+  - name: cookMinutes
+    label: Cooking time (minutes)
+    type: number
+    default: 0
+    options:
+      min: 0
+  - name: restMinutes
+    label: Resting time (minutes)
+    type: number
+    default: 0
+    options:
+      min: 0
+  - name: servings
+    label: Servings
+    type: number
+    default: 2
+    options:
+      min: 1
+  - name: featured
+    label: Featured recipe
+    type: boolean
+    default: false
+  - name: published
+    label: Published — show on the website
+    type: boolean
+    default: false
+  - name: demo
+    label: Demonstration content
+    type: boolean
+    default: false
+  - name: added
+    label: Date added
+    type: date
+  - name: image
+    label: Main recipe photograph
+    type: image
+  - name: imageAlt
+    label: Describe the main photograph
+    type: string
+  - name: gallery
+    label: Extra finished-dish photographs
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{caption}'
+    fields:
+    - name: image
+      label: Photograph
+      type: image
+    - name: alt
+      label: Image description
+      type: string
+    - name: caption
+      label: Caption
+      type: string
+  - name: art
+    label: Placeholder illustration
+    type: select
+    default: pasta
+    options:
+      values:
+      - pasta
+      - curry
+      - oven
+      - bread
+  - name: personalNote
+    label: A short personal note
+    type: text
+  - name: story
+    label: Story or memory
+    type: text
+  - name: servingSuggestion
+    label: Serving suggestion
+    type: text
+  - name: equipment
+    label: Equipment needed
+    type: string
+    list: true
+  - name: advancePrep
+    label: Advance preparation
+    type: text
+  - name: importantNotes
+    label: Important notes before starting
+    type: text
+  - name: groups
+    label: Ingredient groups
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - name: title
+      label: Group name
+      type: string
+      required: true
+    - name: ingredients
+      label: Ingredients
+      type: object
+      list:
+        collapsible:
+          collapsed: true
+          summary: '{name}'
+      fields:
+      - &id001
+        name: id
+        label: Stable identifier (automatic)
+        type: uuid
+        options:
+          editable: false
+          generate: false
+      - name: name
+        label: Ingredient name
+        type: string
+        required: true
+      - name: quantity
+        label: Quantity — number only
+        type: number
+        options:
+          min: 0
+        description: Leave empty for “to taste”. Enter 0.5 for half. Use the note field for any special instruction.
+      - name: unit
+        label: Unit
+        type: string
+        description: g, kg, ml, l, tsp, tbsp — leave blank for counted items.
+      - name: note
+        label: Preparation note
+        type: string
+      - name: optional
+        label: Optional ingredient
+        type: boolean
+        default: false
+      - name: scaling
+        label: When servings change
+        type: select
+        default: linear
+        options:
+          values:
+          - name: linear
+            label: Scale with servings
+          - name: fixed
+            label: Keep this quantity fixed
+      - name: roundTo
+        label: Round to nearest amount (0 = no rounding)
+        type: number
+        default: 0
+        options:
+          min: 0
+  - name: steps
+    label: Cooking steps — drag to reorder
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - *id001
+    - name: title
+      label: Step title
+      type: string
+      required: true
+    - name: description
+      label: What to do
+      type: text
+      required: true
+    - name: durationMinutes
+      label: Approximate step duration (minutes)
+      type: number
+      default: 0
+      options:
+        min: 0
+    - name: timerMinutes
+      label: Timer duration (minutes; 0 = none)
+      type: number
+      default: 0
+      options:
+        min: 0
+    - name: ingredients
+      label: Ingredient names used in this step
+      type: string
+      list: true
+      description: Type ingredient names exactly as in the ingredient list. The cooking screen finds the matching
+        quantity automatically.
+    - name: heat
+      label: Heat level or oven temperature
+      type: string
+    - name: doneness
+      label: What it should look or feel like
+      type: text
+    - name: tip
+      label: A little help or tip
+      type: text
+    - name: warning
+      label: Important warning
+      type: text
+    - name: image
+      label: Step photograph
+      type: image
+    - name: imageAlt
+      label: Describe this step photograph
+      type: string
+  - name: timeline
+    label: Cooking timeline — optional
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{start}–{end} min: {task}'
+    fields:
+    - name: start
+      label: Start at elapsed minute
+      type: number
+      default: 0
+      options:
+        min: 0
+    - name: end
+      label: End at elapsed minute
+      type: number
+      default: 0
+      options:
+        min: 0
+    - name: task
+      label: Task description
+      type: string
+      required: true
+    - name: mode
+      label: Type of time
+      type: select
+      default: active
+      options:
+        values:
+        - name: active
+          label: Active cooking
+        - name: passive
+          label: Simmer / bake
+        - name: rest
+          label: Rest
+    - name: parallel
+      label: What can happen at the same time
+      type: text
+  - name: substitutions
+    label: Ingredient substitutions
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - name: title
+      label: Question or ingredient
+      type: string
+    - name: text
+      label: Advice
+      type: text
+  - name: troubleshooting
+    label: Troubleshooting
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - name: title
+      label: What went wrong?
+      type: string
+    - name: text
+      label: What to do
+      type: text
+  - name: storage
+    label: Storage instructions — only add checked guidance
+    type: text
+  - name: reheating
+    label: Reheating instructions
+    type: text
+  - name: foodSafety
+    label: Food-safety notes
+    type: text
+  - name: glossary
+    label: Kitchen words to explain
+    type: select
+    options:
+      multiple: true
+      values:
+      - Simmer
+      - Sauté
+      - Boil
+      - Fold
+      - Whisk
+      - Reduce
+      - Brown
+      - Sear
+      - Knead
+- name: site
+  label: Site settings
+  type: file
+  path: content/site.json
+  format: json
+  fields:
+  - name: title
+    label: Cookbook title
+    type: string
+    required: true
+  - name: subtitle
+    label: Subtitle
+    type: string
+  - name: dedication
+    label: Cover dedication
+    type: string
+  - name: heroImage
+    label: Cookbook cover photograph
+    type: image
+  - name: heroAlt
+    label: Describe the cover photograph
+    type: string
+  - name: heroPlaceholder
+    label: Cover is an AI-generated placeholder
+    type: boolean
+    default: false
+  - name: welcomeTitle
+    label: Welcome heading
+    type: string
+  - name: welcomeMessage
+    label: Your welcome message
+    type: text
+  - name: signature
+    label: Your sign-off
+    type: string
+  - name: introImage
+    label: Personal introduction photograph
+    type: image
+  - name: footerMessage
+    label: Footer message
+    type: string
+  - name: categories
+    label: Homepage categories
+    type: string
+    list: true
+  - name: featuredRecipes
+    label: Choose featured recipes
+    type: reference
+    options:
+      collection: recipes
+      multiple: true
+      search: title,slug
+      value: '{fields.slug}'
+      label: '{fields.title}'
+  - name: collections
+    label: Special collections
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - name: title
+      label: Collection name
+      type: string
+    - name: description
+      label: Description
+      type: text
+    - name: recipes
+      label: Recipes in this collection
+      type: reference
+      options:
+        collection: recipes
+        multiple: true
+        search: title,slug
+        value: '{fields.slug}'
+        label: '{fields.title}'
+  - name: background
+    label: Background colour
+    type: string
+    default: '#F7F3E9'
+    pattern: ^#[0-9a-fA-F]{6}$
+    description: Six-digit hex colour. Keep a light background and dark text.
+  - name: ink
+    label: Text colour
+    type: string
+    default: '#332B24'
+    pattern: ^#[0-9a-fA-F]{6}$
+    description: Six-digit hex colour. Keep a light background and dark text.
+  - name: olive
+    label: Main accent and buttons
+    type: string
+    default: '#4F5B3A'
+    pattern: ^#[0-9a-fA-F]{6}$
+    description: Six-digit hex colour. Keep a light background and dark text.
+  - name: accent
+    label: Terracotta accent
+    type: string
+    default: '#A3482B'
+    pattern: ^#[0-9a-fA-F]{6}$
+    description: Six-digit hex colour. Keep a light background and dark text.
+  - name: cardTitle
+    label: Birthday card title
+    type: string
+  - name: cardMessage
+    label: Birthday card message
+    type: text
+  - name: cardInstruction
+    label: Birthday card scan instruction
+    type: string
+  - name: productionUrl
+    label: Published cookbook address
+    type: string
+    description: Paste only the confirmed GitHub Pages address. Leave empty until your copy is published.
+  - name: cmsRepository
+    label: GitHub cookbook repository
+    type: string
+    description: For example, your-username/our-little-cookbook

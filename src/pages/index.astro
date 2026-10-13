@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import Art from '../components/Art.astro';
+import {settings,recipes,url,media} from '../lib/data';
+const featured=(settings.featuredRecipes||[]).map(s=>recipes.find(r=>r.slug===s)).filter(Boolean);
+const favourites=featured.length?featured:recipes.filter(r=>r.featured).slice(0,3);
+---
+<Layout>
+ <section class="cover wrap">
+  <div class="cover-copy"><span class="eyebrow cover-overline">A LITTLE COLLECTION, JUST FOR YOU</span><h1>{settings.title}<span class="title-dot">.</span></h1><p class="cover-subtitle">{settings.subtitle}</p><a class="button" href={url('recipes/')}>Find something lovely to make <span aria-hidden="true">↗</span></a><div class="dedication"><span class="fine-line"></span><p>{settings.dedication}</p></div></div>
+  <figure class="cover-image">{settings.heroImage?<img src={media(settings.heroImage)} alt={settings.heroAlt||'Cookbook cover'} width="1000" height="1250" fetchpriority="high"/>:<Art type="pasta"/>}<span class="cover-tab">FROM OUR KITCHEN<br/>TO YOURS</span>{settings.heroPlaceholder&&<figcaption>AI-generated cover placeholder · replace with your photograph</figcaption>}</figure>
+  <div class="cover-bottom"><span>GOOD FOOD, NO GUESSWORK.</span><span>SCROLL TO OPEN THE BOOK ↓</span></div>
+ </section>
+ <section class="introduction wrap"><span class="eyebrow">A NOTE BEFORE WE BEGIN</span><div><h2>{settings.welcomeTitle}</h2><p>{settings.welcomeMessage}</p><span class="signature">{settings.signature}</span></div><div class="intro-decoration"><Art type="bread" small/></div></section>
+ <section class="featured wrap"><div class="section-heading"><div><span class="eyebrow">A GOOD PLACE TO START</span><h2>Something you’ll love.</h2></div><a class="text-link" href={url('recipes/')}>All the recipes <span aria-hidden="true">↗</span></a></div><div class="recipe-grid">{favourites.map((r,i)=><Card recipe={r} number={String(i+1).padStart(2,'0')}/>)}</div>{recipes.some(r=>r.demo)&&<p class="demo-caption">These are demonstration recipes. Your own favourites will take their place.</p>}</section>
+ <section class="browse-section"><div class="wrap"><div class="section-heading"><div><span class="eyebrow">WHAT ARE YOU IN THE MOOD FOR?</span><h2>A recipe for every kind of day.</h2></div></div><div class="category-list">{settings.categories.map((c,i)=><a href={url(`recipes/?category=${encodeURIComponent(c)}`)}><span>{String(i+1).padStart(2,'0')}</span>{c}<span aria-hidden="true">↗</span></a>)}</div></div></section>
+ <section class="collections wrap"><div class="section-heading"><div><span class="eyebrow">LITTLE CHAPTERS</span><h2>More than a meal.</h2></div></div><div class="collection-grid">{(settings.collections||[]).map((c,i)=><a class={`collection collection-${i%3}`} href={url(`recipes/?collection=${i}`)}><span class="eyebrow">COLLECTION {String(i+1).padStart(2,'0')}</span><h3>{c.title}</h3><p>{c.description}</p><span>{c.recipes.filter(s=>recipes.some(r=>r.slug===s)).length} recipes <span aria-hidden="true">↗</span></span></a>)}</div></section>
+ <section class="confidence wrap"><span aria-hidden="true">✳</span><h2>You don’t need to be<br/>a confident cook to begin.</h2><p>A clear plan. A timer when you need one.<br/>And one small step at a time.</p><a class="button secondary" href={url('recipes/?time=20')}>Start with something simple ↗</a></section>
+</Layout>

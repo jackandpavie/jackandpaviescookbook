@@ -1,0 +1,16 @@
+---
+const {type='pasta',small=false}=Astro.props;
+---
+<svg viewBox="0 0 500 360" class:list={['dish-art',{small}]} aria-hidden="true">
+ <defs><pattern id={`lines-${type}`} width="16" height="16" patternUnits="userSpaceOnUse"><path d="M0 16L16 0" stroke="currentColor" stroke-width=".6" opacity=".14"/></pattern></defs>
+ <rect width="500" height="360" fill={`url(#lines-${type})`}/>
+ <ellipse cx="254" cy="186" rx="154" ry="130" fill="#f8f4e8" stroke="#a89679" stroke-width="1.5"/>
+ <ellipse cx="254" cy="186" rx="132" ry="109" fill="none" stroke="#c5b497" stroke-width="1"/>
+ {type==='pasta'&&<g fill="none" stroke="#ad7449" stroke-width="9" stroke-linecap="round"><path d="M176 161Q270 108 325 150Q359 171 201 191Q135 209 216 229Q303 242 324 192Q338 159 228 167Q161 161 208 143"/><path d="M192 144Q236 216 308 220M177 177Q307 131 307 180M219 129Q174 236 287 235"/></g>}
+ {type==='curry'&&<g fill="#b67943" stroke="#80592f" stroke-width="1"><ellipse cx="254" cy="186" rx="109" ry="82" fill="#bf7843"/>{Array.from({length:28},(_,i)=><circle cx={178+(i%7)*24} cy={140+Math.floor(i/7)*29} r="8" fill="#dfb575"/>)}</g>}
+ {type==='oven'&&<g fill="#d3ab6d" stroke="#a88052" stroke-width="2">{Array.from({length:20},(_,i)=><rect x={164+(i%5)*34} y={120+Math.floor(i/5)*35} width="27" height="20" rx="9" transform={`rotate(${i%2?15:-10} ${180+(i%5)*34} ${130+Math.floor(i/5)*35})`}/>)}</g>}
+ {type==='bread'&&<g stroke="#b68856" stroke-width="2"><ellipse cx="245" cy="195" rx="103" ry="65" fill="#dbb67c" transform="rotate(-14 245 195)"/><ellipse cx="260" cy="165" rx="92" ry="60" fill="#e5c997" transform="rotate(13 260 165)"/>{Array.from({length:10},(_,i)=><ellipse cx={200+(i%4)*30} cy={136+Math.floor(i/4)*30} rx="8" ry="5" fill="#ac7547"/>)}</g>}
+ {type!=='bread'&&<g fill="#a64b34" stroke="#8c422c" stroke-width="1"><circle cx="204" cy="145" r="16"/><circle cx="311" cy="210" r="17"/><circle cx="177" cy="210" r="13"/><circle cx="302" cy="137" r="12"/></g>}
+ <g fill="#6d7850"><path d="M242 169Q209 130 215 117Q249 126 242 169M242 170Q275 125 288 134Q282 166 242 170"/><path d="M287 214Q288 180 309 181Q310 212 287 214M194 206Q175 178 162 185Q167 209 194 206"/></g>
+ <g stroke="#766447" stroke-width="3" stroke-linecap="round" fill="none" transform="rotate(15 420 175)"><path d="M420 87V267M410 85V125Q420 143 430 125V85M420 85V125"/></g>
+</svg>

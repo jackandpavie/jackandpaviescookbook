@@ -1,0 +1,16 @@
+---
+import Art from './Art.astro';
+import {url,media,total} from '../lib/data';
+const {recipe:r,number='01'}=Astro.props;
+---
+<article class="recipe-card" data-slug={r.slug}>
+ <div class:list={['card-image',`art-${r.art||'pasta'}`]}>
+  <a href={url(`recipes/${r.slug}/`)} tabindex="-1" aria-hidden="true">
+   {r.image?<img src={media(r.image)} alt={r.imageAlt||r.title} width="700" height="500" loading="lazy"/>:<Art type={r.art||'pasta'}/>}
+  </a>
+  <span class="recipe-number">RECIPE {number}</span>
+  <button type="button" class="save-button" data-favourite={r.slug} aria-label={`Save ${r.title}`} aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg></button>
+  {!r.image&&<span class="art-label">Illustrated placeholder</span>}
+ </div>
+ <div class="card-copy"><span class="eyebrow">{r.category}{r.demo?' · DEMO':''}</span><h3><a href={url(`recipes/${r.slug}/`)}>{r.title}</a></h3><p>{r.description}</p><div class="card-meta"><span>◷ {total(r)} minutes</span><span>{r.difficulty}</span><span aria-hidden="true">↗</span></div></div>
+</article>
