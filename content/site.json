@@ -29,32 +29,36 @@
     "Special occasions"
   ],
   "featuredRecipes": [
-    "tomato-basil-pasta",
-    "chickpea-curry-and-rice",
-    "roasted-tomato-gnocchi"
+    "char-kway-teow",
+    "spaghetti-carbonara",
+    "chicken-rice-simplified"
   ],
   "collections": [
     {
       "title": "Your favourites",
       "description": "The ones you’ll come back to.",
       "recipes": [
-        "tomato-basil-pasta",
-        "chickpea-curry-and-rice"
+        "char-kway-teow",
+        "spaghetti-carbonara",
+        "chicken-rice-simplified",
+        "tomato-risotto"
       ]
     },
     {
       "title": "A quiet evening in",
       "description": "Something warm. Something comforting.",
       "recipes": [
-        "roasted-tomato-gnocchi",
-        "chickpea-curry-and-rice"
+        "spaghetti-carbonara",
+        "chicken-rice-simplified",
+        "tomato-risotto"
       ]
     },
     {
       "title": "A little kitchen adventure",
       "description": "Take your time and try something new.",
       "recipes": [
-        "herby-pan-flatbreads"
+        "char-kway-teow",
+        "tomato-risotto"
       ]
     }
   ],

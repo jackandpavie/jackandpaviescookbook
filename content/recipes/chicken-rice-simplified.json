@@ -1,0 +1,403 @@
+{
+  "slug": "chicken-rice-simplified",
+  "aliases": [],
+  "title": "Chicken Rice (Simplified version)",
+  "description": "Chicken and rice cooked together in a ginger-garlic stock, with a fresh chilli sauce on the side.",
+  "category": "Rice dishes",
+  "cuisine": "Singapore-inspired",
+  "mainIngredient": "Chicken",
+  "tags": [
+    "Dinner",
+    "Comfort food"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 15,
+  "cookMinutes": 40,
+  "restMinutes": 10,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "",
+  "imageAlt": "",
+  "imageCaption": "",
+  "imageCredit": "",
+  "imageSource": "",
+  "imageLicense": "",
+  "imageLicenseUrl": "",
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Chilli sauce for bubu and soy sauce for dudu. Fluff the rice gently: try not to squish it around.",
+  "story": "",
+  "equipment": [
+    "Large pot with a close-fitting lid",
+    "Kettle",
+    "Chopping board and knife",
+    "Measuring jug",
+    "Fine sieve or bowl for washing rice",
+    "Blender",
+    "Heat-safe container for cooling the stock",
+    "Rice spoon or fork"
+  ],
+  "advancePrep": "Check the freezer for ginger-garlic blocks. Four blocks can replace the fresh garlic and ginger for the pot, and one block can replace the garlic and ginger for the chilli sauce.",
+  "importantNotes": "Makes four servings. Prep and cooking times are estimates. The turmeric quantity still needs confirming with Pavie before cooking; the original instructions do not specify an amount. Remove the stock for the chilli sauce before adding the rice. Keep the lid on during the final 10-minute rest.",
+  "groups": [
+    {
+      "title": "For the chicken and rice",
+      "ingredients": [
+        {
+          "id": "4226bdd6-14e1-5b28-815f-0d0caee75c43",
+          "name": "Chicken",
+          "quantity": 500,
+          "unit": "g",
+          "note": "Use 500–600 g for the original four-serving batch; chop into small pieces.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "60166b16-fc8f-55d9-a6a5-01eb4002d9c3",
+          "name": "Garlic for the pot",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and chop finely. Can be replaced together with the ginger by 4 ginger-garlic blocks for the original batch.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "76f1c5cd-7b27-5a79-a20e-1e5c5401daac",
+          "name": "Ginger for the pot",
+          "quantity": 50,
+          "unit": "g",
+          "note": "A large piece; peel and chop as finely as you can. Omit if using the ginger-garlic blocks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "3284b92f-29c2-551e-aa14-587969de0526",
+          "name": "Red onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Dice, or replace with a bunch of spring onions. Clean spring onions carefully to remove any grit.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b6a06d8c-c64f-50b3-bdd3-ab65af3648e4",
+          "name": "Turmeric powder",
+          "quantity": null,
+          "unit": "",
+          "note": "Amount to confirm with Pavie before cooking.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e7cbe556-eed3-595c-ba73-6f90f0f7d039",
+          "name": "Chicken stock cube",
+          "quantity": 1,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e0342c10-c6a1-5717-b321-013c5376698c",
+          "name": "Boiling water",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "fc44f559-32d7-5425-9add-9da7f20a9087",
+          "name": "Light soy sauce",
+          "quantity": 75,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "af13ee95-c924-5e7e-8930-8b8adbadc2ef",
+          "name": "Rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Wash in cold water three times if possible.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the chilli sauce",
+      "ingredients": [
+        {
+          "id": "9e7809cb-ec92-5ccc-b950-aa18c3c5f9fd",
+          "name": "Garlic for the chilli sauce",
+          "quantity": 1,
+          "unit": "clove",
+          "note": "Or replace this and the ginger with 1 ginger-garlic block for the original batch.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d51e3048-02e2-5ee1-9c2f-4109efdcd03f",
+          "name": "Ginger for the chilli sauce",
+          "quantity": null,
+          "unit": "",
+          "note": "A piece the same size as the garlic clove; omit if using a ginger-garlic block.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "f3e458ab-11e5-52b5-850f-9a830d622d85",
+          "name": "Fresh birds-eye chillies",
+          "quantity": 40,
+          "unit": "g",
+          "note": "About 1 pack.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "432beac1-5316-519e-8e86-a96dca388731",
+          "name": "Cooked chicken stock",
+          "quantity": 100,
+          "unit": "ml",
+          "note": "Take from the pot after the covered 20-minute boil, before adding rice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "05ec42d2-e711-5865-b10f-c60cdfa1c773",
+          "name": "Lime",
+          "quantity": 0.5,
+          "unit": "",
+          "note": "Juice only.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve",
+      "ingredients": [
+        {
+          "id": "2e18988c-a0cb-5f0c-a576-e756b4cf5c4d",
+          "name": "Soy sauce",
+          "quantity": null,
+          "unit": "",
+          "note": "For dudu, as preferred.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "c6414003-f1d4-52aa-8af1-fba78828c114",
+      "title": "Prepare the aromatics and chicken",
+      "description": "Boil the measured water in the kettle. Peel and finely chop the garlic and ginger for the pot, or use the freezer ginger-garlic blocks instead. Dice the red onion, or clean and chop the spring onions. Chop the chicken into small pieces.",
+      "ingredients": [
+        "Boiling water",
+        "Garlic for the pot",
+        "Ginger for the pot",
+        "Red onion",
+        "Chicken"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Clean spring onions thoroughly: trapped sand gives the finished food a gritty texture.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "969fd5ff-e851-572c-ac8e-39baa3bdc983",
+      "title": "Cook the chicken with the aromatics",
+      "description": "Put the chicken, garlic, ginger and onion into the pot. Cook over medium-high heat for 5 minutes, stirring and moving everything around, until the chicken turns white on the outside.",
+      "ingredients": [
+        "Chicken",
+        "Garlic for the pot",
+        "Ginger for the pot",
+        "Red onion"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-high heat",
+      "doneness": "Chicken white on the outside.",
+      "tip": "",
+      "warning": "This first colour change does not mean the chicken is cooked through. It will continue cooking in the stock.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "65093572-adb2-50c7-aec8-085ae1465283",
+      "title": "Add the stock ingredients and boil",
+      "description": "Add the turmeric powder once its amount has been confirmed, the chicken stock cube, the boiled water and the light soy sauce. Bring to the boil, cover with the lid and let it boil for 20 minutes.",
+      "ingredients": [
+        "Turmeric powder",
+        "Chicken stock cube",
+        "Boiling water",
+        "Light soy sauce"
+      ],
+      "durationMinutes": 20,
+      "timerMinutes": 20,
+      "heat": "Boiling, covered",
+      "doneness": "",
+      "tip": "While this cooks, wash the rice and prepare the chilli sauce ingredients.",
+      "warning": "The turmeric amount is still to confirm; do not assume a quantity from this recipe.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3e41e78b-37f0-505c-a4e3-ca3876456905",
+      "title": "Wash the rice and prepare the chilli ingredients",
+      "description": "While the covered pot cooks, wash the rice with cold water three times if possible, then drain. Prepare the garlic and an equal-sized piece of ginger for the chilli sauce, or use a ginger-garlic block instead. Have the fresh birds-eye chillies and lime juice ready.",
+      "ingredients": [
+        "Rice",
+        "Garlic for the chilli sauce",
+        "Ginger for the chilli sauce",
+        "Fresh birds-eye chillies",
+        "Lime"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Washing removes excess starch so the rice grains stay more separate.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7a617a67-c4ec-5e4c-a025-fa924848a29b",
+      "title": "Save stock for the chilli sauce",
+      "description": "Once the 20-minute covered boil is finished, check that the chicken is fully cooked. Scoop out the measured cooked stock for the chilli sauce before putting any rice into the pot. Let this stock cool before blending. You can stand a heat-safe container in a bowl of cold water to help it cool.",
+      "ingredients": [
+        "Cooked chicken stock"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Only use stock from the cooked pot for the chilli sauce.",
+      "warning": "Check the chicken is cooked through before taking out the sauce stock. If using a thermometer, the centre should reach 75°C for 30 seconds. Follow your blender’s instructions about hot liquids.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bcdb8d4e-79ac-505c-8421-f77ebd8e8614",
+      "title": "Cook the rice in the pot",
+      "description": "Add the washed, drained rice to the pot. Cover and cook for 15 minutes over medium-low heat.",
+      "ingredients": [
+        "Rice"
+      ],
+      "durationMinutes": 15,
+      "timerMinutes": 15,
+      "heat": "Medium-low heat, covered",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "48dd64d4-6659-5044-a715-94f615aa1e62",
+      "title": "Rest with the lid on",
+      "description": "Turn off the heat. Do not remove the lid. Leave the chicken rice to rest for 10 minutes.",
+      "ingredients": [],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Heat off",
+      "doneness": "",
+      "tip": "Keep the steam inside the pot while the rice rests.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "877550b0-f40f-59f4-86d4-816c87f89bdf",
+      "title": "Blend the chilli sauce",
+      "description": "Blend the garlic, ginger, fresh birds-eye chillies, cooled cooked stock and lime juice. The sauce does not have to be perfectly smooth. If using a ginger-garlic block, use it instead of the fresh garlic and ginger.",
+      "ingredients": [
+        "Garlic for the chilli sauce",
+        "Ginger for the chilli sauce",
+        "Fresh birds-eye chillies",
+        "Cooked chicken stock",
+        "Lime"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "",
+      "warning": "Let the stock cool before blending.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "92f6a6eb-743a-5e9e-ade9-7a4ef3d3f528",
+      "title": "Fluff gently and serve",
+      "description": "Once the rice has rested, remove the lid and gently fluff it. Serve with chilli sauce for bubu and soy sauce for dudu. Try not to squish the rice around: the grains can break and become mushy.",
+      "ingredients": [
+        "Soy sauce"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Lift and loosen the rice gently instead of pressing or mashing it.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Freezer ginger-garlic blocks",
+      "text": "For the original four-serving batch, use 4 blocks instead of the head of garlic and 50 g ginger in the pot. Use 1 block instead of the garlic clove and equal-sized ginger piece in the chilli sauce."
+    },
+    {
+      "title": "Spring onions instead of red onion",
+      "text": "Use a bunch of spring onions. Clean them properly before chopping so sand does not get into the food."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Avoiding mushy rice",
+      "text": "Wash the rice three times if possible. Let it rest with the lid on, then fluff gently instead of squishing it around."
+    },
+    {
+      "title": "Chilli sauce texture",
+      "text": "It does not have to be completely smooth; a little texture is fine."
+    }
+  ],
+  "storage": "For leftovers, divide the rice and chicken into small containers and cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours.",
+  "reheating": "Reheat the rice and chicken once, until steaming hot throughout. Stir or turn it when microwaving so there are no cold pockets.",
+  "foodSafety": "Chicken must be fully cooked before its stock is used in the chilli sauce. A thermometer check is 75°C in the centre for 30 seconds. Keep utensils used for raw chicken away from the sauce ingredients and finished food.",
+  "servingSuggestion": "Chilli sauce for bubu and soy sauce for dudu. Gently fluff the rice before serving.",
+  "glossary": [
+    "Boil"
+  ]
+}

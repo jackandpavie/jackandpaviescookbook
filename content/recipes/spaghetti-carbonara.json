@@ -1,0 +1,316 @@
+{
+  "slug": "spaghetti-carbonara",
+  "aliases": [],
+  "title": "Spaghetti Carbonara",
+  "description": "Spaghetti with bacon or sausage, golden crushed garlic and a smooth egg, Parmesan and black-pepper sauce.",
+  "category": "Pasta and noodles",
+  "cuisine": "Italian-inspired",
+  "mainIngredient": "Spaghetti",
+  "tags": [
+    "Dinner",
+    "Comfort food"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "restMinutes": 0,
+  "servings": 2,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "",
+  "imageAlt": "",
+  "imageCaption": "",
+  "imageCredit": "",
+  "imageSource": "",
+  "imageLicense": "",
+  "imageLicenseUrl": "",
+  "art": "pasta",
+  "gallery": [],
+  "personalNote": "If the sauce looks a tiny bit scrambled, don’t worry: it will still taste just as good. The dish is not ruined, so don’t spiral.",
+  "story": "",
+  "equipment": [
+    "Large saucepan",
+    "Wok",
+    "Kettle",
+    "Colander",
+    "Measuring jug",
+    "Mixing bowl and fork or whisk",
+    "Chopping board and knife",
+    "Wooden spoons or tongs"
+  ],
+  "advancePrep": "If using sausage, air-fry it until fully cooked according to its packet instructions, then chop it before you begin.",
+  "importantNotes": "Makes two servings. Times are estimates and exclude any advance air-frying of sausage. Reserve the pasta water before draining the spaghetti. Turn off the heat before adding the egg sauce.",
+  "groups": [
+    {
+      "title": "For the pasta and wok",
+      "ingredients": [
+        {
+          "id": "bdf0afa6-5bfe-5e27-9243-f6e409538a9d",
+          "name": "Spaghetti",
+          "quantity": 350,
+          "unit": "g",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c391b585-0ec5-5cb2-9117-01fca0574647",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and crush the cloves; do not chop them.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "0b2fa49d-b6d3-5d51-8fa6-ba9e2bd2b426",
+          "name": "Bacon lardons",
+          "quantity": 300,
+          "unit": "g",
+          "note": "Or use a suitable sausage, already air-fried until fully cooked and chopped.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "44aa212e-cc2a-5f3c-80ec-54a506f93f79",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "For heavily salting the pasta water.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "74f854e9-6c38-580a-91b6-e361678c6abe",
+          "name": "Reserved pasta water for the wok",
+          "quantity": 300,
+          "unit": "ml",
+          "note": "Save this before draining the pasta.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8c642ae5-9afe-5489-8eae-759278ef5e07",
+          "name": "Extra reserved pasta water",
+          "quantity": 200,
+          "unit": "ml",
+          "note": "Save this too: 500 ml in total for the original two-serving batch. Use only as needed to loosen the sauce.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the egg sauce",
+      "ingredients": [
+        {
+          "id": "b7126813-6257-52d5-aa3f-b4de4763654a",
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "",
+          "note": "Hen eggs suitable for lightly cooked dishes.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "436a2eee-7124-5437-98f5-dd1563cef702",
+          "name": "Parmesan",
+          "quantity": 150,
+          "unit": "g",
+          "note": "Grated.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c884dab1-0b72-5db5-8f30-19faa984e012",
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Coarsely crushed, or use pepper powder.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "94cbe4d5-97e4-5dce-a5a6-9b3c1a3d093f",
+      "title": "Get the garlic and water ready",
+      "description": "Peel a head of garlic and crush the cloves without chopping them. Boil two kettles of water, using them in turn if you have one kettle. Pour the water into a large saucepan, bring it to the boil and salt it heavily.",
+      "ingredients": [
+        "Garlic",
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "High heat to boil the water",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "471de748-33a5-5153-bb4b-bf763465185b",
+      "title": "Cook the spaghetti and save the water",
+      "description": "Boil the spaghetti until al dente: usually about 8 minutes, but check the packet and taste it. Before draining, scoop out both measured portions of pasta water into a jug. Then drain the spaghetti and set it aside.",
+      "ingredients": [
+        "Spaghetti",
+        "Reserved pasta water for the wok",
+        "Extra reserved pasta water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 8,
+      "heat": "Boiling water",
+      "doneness": "Tender spaghetti with a little bite.",
+      "tip": "The 8-minute timer is a first check. Follow the packet if it gives a different time. Al dente means cooked but still slightly firm in the centre.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "9bb5b7fc-ef40-5ef0-97d3-6d8f7b5e1df9",
+      "title": "Mix the egg sauce",
+      "description": "Beat the eggs, grated Parmesan and black pepper together in a bowl. Keep the sauce ready for the end.",
+      "ingredients": [
+        "Eggs",
+        "Parmesan",
+        "Black pepper"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "13eeba0a-c999-534b-a047-6737c0ad7ecf",
+      "title": "Cook the bacon or prepared sausage",
+      "description": "Heat the wok over medium heat. Add the bacon lardons, or your already air-fried and chopped sausage. Cook for about 5 minutes, until the meat starts releasing its fat.",
+      "ingredients": [
+        "Bacon lardons"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium heat",
+      "doneness": "Fat is collecting in the wok.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "b4b767da-dfb3-5792-b174-751bfaef2621",
+      "title": "Add the crushed garlic",
+      "description": "Add the crushed garlic cloves and cook for another 3 minutes, moving them around, until golden.",
+      "ingredients": [
+        "Garlic"
+      ],
+      "durationMinutes": 3,
+      "timerMinutes": 3,
+      "heat": "Medium heat",
+      "doneness": "Golden garlic.",
+      "tip": "",
+      "warning": "Check that the bacon is fully cooked before continuing; do not rely on the timer alone.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "94633a64-60f7-5129-8f9f-3fa6d0333629",
+      "title": "Toss the pasta in the wok",
+      "description": "Pour in the reserved pasta water measured for the wok. Bring it to a vigorous boil, then add the drained spaghetti. Toss until most of the water is absorbed. Taste the pasta to check that it is cooked to our liking.",
+      "ingredients": [
+        "Reserved pasta water for the wok",
+        "Spaghetti"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Bring to a vigorous boil",
+      "doneness": "Pasta cooked to your liking; most of the water absorbed.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7bafb7e0-0f6a-5866-9662-cc2684b5023e",
+      "title": "Turn off the heat and add the sauce",
+      "description": "Turn the heat off. Pour in the egg, Parmesan and pepper mixture and immediately stir and toss vigorously, squishing it around so the eggs do not scramble and the sauce becomes smooth.",
+      "ingredients": [
+        "Eggs",
+        "Parmesan",
+        "Black pepper"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Heat off",
+      "doneness": "A smooth sauce coating the spaghetti.",
+      "tip": "Keep the pasta moving as soon as the egg sauce goes in.",
+      "warning": "Make sure the hob is off before adding the egg sauce.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ec19723f-8c58-5adc-bfa1-7fef02d184dd",
+      "title": "Loosen the sauce and serve",
+      "description": "If the pasta looks too dry, add a little of the extra reserved pasta water and mix. Repeat as needed until the sauce is loose enough to coat the spaghetti. Serve immediately.",
+      "ingredients": [
+        "Extra reserved pasta water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Heat off",
+      "doneness": "",
+      "tip": "If the sauce looks a tiny bit scrambled, don’t worry. The dish is not ruined, so don’t spiral.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Sausage instead of bacon",
+      "text": "Use a suitable sausage that has already been air-fried until fully cooked, then chopped. Follow its packet for cooking time and temperature."
+    },
+    {
+      "title": "Black pepper",
+      "text": "Coarsely crushed pepper or pepper powder both work."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Sauce too dry?",
+      "text": "Add a little of the extra reserved pasta water and stir. Keep adding it in small amounts until the sauce loosens."
+    },
+    {
+      "title": "A few scrambled bits?",
+      "text": "Don’t worry: it will still taste just as good. The dish is not ruined, so don’t spiral."
+    }
+  ],
+  "storage": "Best eaten straight away. If you have leftovers, cool and refrigerate them within 1–2 hours and eat within 48 hours.",
+  "reheating": "Reheat once until steaming hot throughout. A splash of water helps loosen it, although the egg sauce may firm up.",
+  "foodSafety": "Cook the bacon or sausage fully. For the lightly cooked egg sauce, use British Lion or Laid in Britain hen eggs, or pasteurised egg. Serve immediately.",
+  "servingSuggestion": "Serve immediately, while the sauce is loose and smooth.",
+  "glossary": [
+    "Boil",
+    "Whisk",
+    "Brown"
+  ]
+}
