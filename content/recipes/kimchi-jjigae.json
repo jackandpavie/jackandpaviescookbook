@@ -1,0 +1,349 @@
+{
+  "slug": "kimchi-jjigae",
+  "aliases": [],
+  "title": "Kimchi Jjigae / Pork Belly Stew",
+  "description": "Our pork-loin version of kimchi stew, with Spam, tofu and lettuce, served with rice.",
+  "category": "Comfort food",
+  "cuisine": "Korean-inspired",
+  "mainIngredient": "Pork",
+  "tags": [
+    "Dinner",
+    "Comfort food"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Easy",
+  "prepMinutes": 15,
+  "cookMinutes": 55,
+  "restMinutes": 0,
+  "servings": 2,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/kimchi-jjigae-reference.jpg",
+  "imageAlt": "Close-up reference photograph of red kimchi stew with tofu and pork in a metal bowl.",
+  "imageCaption": "Reference photograph · traditional kimchi stew · displayed crop",
+  "imageCredit": "chomjong / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Gimchi-jjigae.jpg",
+  "imageLicense": "CC BY 2.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Two portions of stew for dinner, with some rice left over for a quick fried rice at lunch the next day.",
+  "story": "",
+  "equipment": [
+    "Large stew pot with a lid",
+    "Separate saucepan for the rice",
+    "Kettle",
+    "Chopping board and knife",
+    "Wooden spoon",
+    "Bowl or sieve for washing rice",
+    "Colander",
+    "Container for leftover rice"
+  ],
+  "advancePrep": "",
+  "importantNotes": "The stew makes two portions; the rice quantity deliberately leaves some extra for lunch the next day. Although we call it Pork Belly Stew, this version uses the pork loin steaks listed below. Prep time is an estimate, and the rice cooks alongside the stew. The stew water was supplied as one kettle rather than an exact volume; no millilitre amount has been assumed. Heat water in the kettle, but cook the rice in a saucepan.",
+  "groups": [
+    {
+      "title": "For the stew",
+      "ingredients": [
+        {
+          "id": "d2aaf22b-569b-53fd-b6de-6784cfa2fb6d",
+          "name": "Red onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1d884d5c-7ffa-5458-9d76-f116a07dfea0",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "2800d534-5578-5ba0-a703-99121b0a83ce",
+          "name": "Pork loin steaks",
+          "quantity": 200,
+          "unit": "g",
+          "note": "Use 200–300 g for the original two-portion batch; get the smallest pack available and slice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "344a4d71-07a2-56e2-9dea-aa7bbe584e78",
+          "name": "Spam",
+          "quantity": 1,
+          "unit": "can",
+          "note": "Dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "de895085-1827-59d2-b461-026f993fcfed",
+          "name": "Tofu",
+          "quantity": 200,
+          "unit": "g",
+          "note": "Dice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "555f4609-b66a-58bb-a0dd-d1643c75b321",
+          "name": "Lettuce",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Clean, then cut into four wedges.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b2049439-a1da-5539-911e-782b206c9157",
+          "name": "Kimchi",
+          "quantity": 400,
+          "unit": "g",
+          "note": "One chilled 400 g pack from the Asian store, or use 2 cans as in the original recipe; can size was not specified.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d01018d3-b907-5d98-a87b-c4a45befb6fb",
+          "name": "Gochujang",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Omit if there is none in the fridge.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8cd7ee33-f65e-565f-a1e4-c725c9dcafa9",
+          "name": "Boiling water for the stew",
+          "quantity": 1,
+          "unit": "kettle",
+          "note": "For the original two-portion batch; the kettle’s capacity determines the water volume.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "40f04db3-dab2-5199-8bc5-160d2f42ed10",
+          "name": "Light soy sauce",
+          "quantity": 50,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the rice, including some for lunch",
+      "ingredients": [
+        {
+          "id": "d407d93e-1579-51a6-96f4-d3c5bd42af0b",
+          "name": "Rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": "Wash three times if possible.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8a8a9804-4b65-53de-8880-29ed8cd75c61",
+          "name": "Water for boiling the rice",
+          "quantity": 1,
+          "unit": "kettle",
+          "note": "Heat in the kettle, then pour into the rice saucepan.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "112877c8-6ae9-5ef0-aecd-d066ae1c5f6a",
+      "title": "Prepare the ingredients",
+      "description": "Chop the red onion and peeled garlic. Slice the pork loin steaks. Dice the Spam and tofu. Clean the lettuce and cut the head into four wedges. Boil the kettle of water for the stew.",
+      "ingredients": [
+        "Red onion",
+        "Garlic",
+        "Pork loin steaks",
+        "Spam",
+        "Tofu",
+        "Lettuce",
+        "Boiling water for the stew"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "5b9b3e49-948c-5627-923a-715f601bc83e",
+      "title": "Start browning the pork",
+      "description": "Heat the stew pot over medium heat. Add the sliced pork and cook for 5 minutes, until it starts browning.",
+      "ingredients": [
+        "Pork loin steaks"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium heat",
+      "doneness": "Pork beginning to brown.",
+      "tip": "",
+      "warning": "The pork continues cooking in the stew; this first browning is not a doneness check.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "b9646ad4-c047-51af-9fd4-fc81db14aeee",
+      "title": "Cook the kimchi with the aromatics",
+      "description": "Add the kimchi, garlic and red onion to the pork. Cook for 10 minutes, stirring as needed.",
+      "ingredients": [
+        "Kimchi",
+        "Garlic",
+        "Red onion"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium heat",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "d42ba858-cc4a-5ef9-bf6e-1e846bfda669",
+      "title": "Add the remaining stew ingredients",
+      "description": "Add the gochujang if you have it; otherwise leave it out. Add the diced Spam and tofu, the boiled water for the stew and the light soy sauce. Mix gently, cover and let it bubble over medium-low heat for 30 minutes.",
+      "ingredients": [
+        "Gochujang",
+        "Spam",
+        "Tofu",
+        "Boiling water for the stew",
+        "Light soy sauce"
+      ],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "Medium-low heat, covered",
+      "doneness": "",
+      "tip": "Cook the rice in a separate saucepan while the stew bubbles.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ed7b0010-8753-5fed-8548-510061b349bd",
+      "title": "Wash and boil the rice alongside the stew",
+      "description": "While the stew bubbles, wash the rice three times if possible. Boil a fresh kettle of water and pour it into the separate rice saucepan. Bring the water to the boil, add the washed rice and boil for about 12 minutes. Check the grains are cooked before draining.",
+      "ingredients": [
+        "Rice",
+        "Water for boiling the rice"
+      ],
+      "durationMinutes": 12,
+      "timerMinutes": 12,
+      "heat": "Boiling water",
+      "doneness": "Cooked rice grains.",
+      "tip": "The 12-minute timer is a check; follow the rice packet if it needs a different time. Keep the stew’s 30-minute timer running too.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7045ce0a-94d1-5223-8aee-7826da01512a",
+      "title": "Drain the rice",
+      "description": "Drain the cooked rice in a colander and return the dinner rice to the rice pot. Set aside the extra lunch rice in a small container so it can cool quickly and go into the fridge.",
+      "ingredients": [
+        "Rice"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Keep the rice you will eat for dinner warm while the stew finishes.",
+      "warning": "Cool the leftover rice quickly, ideally within 1 hour, and refrigerate it for lunch within 24 hours. Do not leave it sitting in the pot until tomorrow.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "29bc9bc9-e43a-5f1f-9e12-7450192190df",
+      "title": "Add the lettuce",
+      "description": "After the stew has bubbled for 30 minutes, add the lettuce wedges. Cook for another 10 minutes.",
+      "ingredients": [
+        "Lettuce"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium-low heat",
+      "doneness": "Tender lettuce and a hot, bubbling stew.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "978fc3e0-cddc-5501-b478-4b3f114b0de2",
+      "title": "Serve immediately",
+      "description": "Check that the pork is cooked through, then serve the stew immediately with the cooked rice.",
+      "ingredients": [
+        "Rice"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "Cooked pork and stew steaming hot throughout.",
+      "tip": "The extra rice is for a quick fried rice at lunch the next day.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Kimchi packs or cans",
+      "text": "Use one chilled 400 g pack from the Asian store, or the original two cans. The can size was not specified."
+    },
+    {
+      "title": "No gochujang?",
+      "text": "Omit it if there is none in the fridge."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Two timers while cooking rice",
+      "text": "The rice cooks alongside the stew. Start its 12-minute timer without stopping the stew’s 30-minute timer."
+    },
+    {
+      "title": "Lettuce goes in at the end",
+      "text": "Add it only after the covered 30-minute bubbling stage, then give it another 10 minutes."
+    }
+  ],
+  "storage": "Cool the extra rice quickly in a small container, ideally within 1 hour, refrigerate and use within 24 hours. If any stew is left, cool and refrigerate it within 1–2 hours and use within 48 hours.",
+  "reheating": "For next-day fried rice, use the chilled leftover rice and cook until steaming hot throughout. Reheat rice only once. Reheat any leftover stew once until steaming hot throughout.",
+  "foodSafety": "The pork must be cooked through before serving. Keep leftover rice chilled for no more than 24 hours and reheat it only once. Use separate clean utensils after preparing raw pork.",
+  "servingSuggestion": "Two portions of stew for dinner, served with rice. Keep the extra rice for a quick fried rice at lunch the next day.",
+  "glossary": [
+    "Boil"
+  ]
+}

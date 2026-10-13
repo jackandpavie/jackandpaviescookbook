@@ -34,7 +34,9 @@
     "chicken-rice-simplified",
     "tomato-risotto",
     "lemon-and-sausage-risotto",
-    "chicken-and-mushroom-risotto"
+    "chicken-and-mushroom-risotto",
+    "chinese-claypot-rice",
+    "kimchi-jjigae"
   ],
   "collections": [
     {
@@ -46,7 +48,9 @@
         "chicken-rice-simplified",
         "tomato-risotto",
         "lemon-and-sausage-risotto",
-        "chicken-and-mushroom-risotto"
+        "chicken-and-mushroom-risotto",
+        "chinese-claypot-rice",
+        "kimchi-jjigae"
       ]
     },
     {
@@ -57,7 +61,9 @@
         "chicken-rice-simplified",
         "tomato-risotto",
         "lemon-and-sausage-risotto",
-        "chicken-and-mushroom-risotto"
+        "chicken-and-mushroom-risotto",
+        "chinese-claypot-rice",
+        "kimchi-jjigae"
       ]
     },
     {
@@ -67,7 +73,9 @@
         "char-kway-teow",
         "tomato-risotto",
         "lemon-and-sausage-risotto",
-        "chicken-and-mushroom-risotto"
+        "chicken-and-mushroom-risotto",
+        "chinese-claypot-rice",
+        "kimchi-jjigae"
       ]
     }
   ],

@@ -1,0 +1,386 @@
+{
+  "slug": "chinese-claypot-rice",
+  "aliases": [],
+  "title": "Chinese Claypot Rice",
+  "description": "A pot of ginger-garlic rice with mushrooms and your choice of chicken, pork, beef or lean pork mince.",
+  "category": "Rice dishes",
+  "cuisine": "Chinese-inspired",
+  "mainIngredient": "Rice",
+  "tags": [
+    "Dinner",
+    "Comfort food",
+    "Lunch the next day"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Easy",
+  "prepMinutes": 15,
+  "cookMinutes": 47,
+  "restMinutes": 10,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/chinese-claypot-rice-reference.jpg",
+  "imageAlt": "Reference photograph of chicken claypot rice in a rustic clay pot, with chicken, Chinese sausage and spring onions.",
+  "imageCaption": "Reference photograph · traditional chicken and sausage variation · displayed crop",
+  "imageCredit": "Lilblackdog29 / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg",
+  "imageLicense": "CC BY-SA 4.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Dinner and lunch for both of us. If it needs more flavour, try a squeeze of lime first; you can add extra soy sauce at the table too.",
+  "story": "",
+  "equipment": [
+    "Large pot with a close-fitting lid",
+    "Kettle",
+    "Measuring jug",
+    "Chopping board and knife",
+    "Wooden spoon",
+    "Bowl or sieve for washing rice",
+    "Containers for the next day’s lunches"
+  ],
+  "advancePrep": "Check the freezer for ginger-garlic blocks. For the original four-portion batch, 4 blocks replace the head of garlic and 50 g of ginger.",
+  "importantNotes": "Makes four meal portions: two for dinner and two for lunch the next day. Use 600–800 g of one chosen meat for this batch. Prep time is an estimate; the cooking and resting timers follow the supplied method. Keep the lid on for the final 10-minute rest.",
+  "groups": [
+    {
+      "title": "For the meat, mushrooms and rice",
+      "ingredients": [
+        {
+          "id": "0e5e04ca-dc46-546d-aa71-7909413fe75c",
+          "name": "Chicken",
+          "quantity": 600,
+          "unit": "g",
+          "note": "Use 600–800 g for the original four-portion batch, diced small. Or use the same range of sliced pork loin, thinly sliced beef steak or 5% lean pork mince.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5c1aa504-b375-5676-b5f0-6b765d7c702d",
+          "name": "Mushrooms",
+          "quantity": 400,
+          "unit": "g",
+          "note": "About 1 pack; slice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "40d42603-d9b1-5ab4-9bcc-fbda62d19f30",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and chop finely. Or replace this and the ginger with 4 ginger-garlic blocks for the original batch.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b2e914f7-9593-5523-bbda-32285a949654",
+          "name": "Ginger",
+          "quantity": 50,
+          "unit": "g",
+          "note": "Peel and chop finely; omit if using the ginger-garlic blocks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "85d15b2b-73b6-5979-9280-7c4f159034b7",
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Brown or red, whichever is available; chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1c04c08f-027d-5431-9b79-4fbb3c23596b",
+          "name": "Turmeric powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5795a3ee-94e4-59f3-9a7c-cdb8e0b87bb1",
+          "name": "Boiling water",
+          "quantity": 800,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "26c59c54-8bf2-55e4-a20b-c489913f9671",
+          "name": "Chicken stock cubes",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "11efa4af-0008-5d05-9a07-bf2721dda261",
+          "name": "Dark soy sauce",
+          "quantity": 50,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "cedb5122-4970-5085-a3f2-611dc273103b",
+          "name": "Rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Wash in cold water three times if possible, then drain.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "f5215b73-0ac8-5287-9e31-5c9aadef9659",
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Crushed.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve",
+      "ingredients": [
+        {
+          "id": "106f2fc5-046a-5028-b7ea-30e56a82ae33",
+          "name": "Lime wedges",
+          "quantity": null,
+          "unit": "",
+          "note": "For squeezing over your portion.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "249f3f07-2f07-5ae6-a8b3-185c0ad786b0",
+          "name": "Sesame oil",
+          "quantity": null,
+          "unit": "",
+          "note": "To drizzle over the finished rice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "40b0a3f6-d8f0-5746-8c1a-7e8e8424fad6",
+          "name": "Extra soy sauce",
+          "quantity": null,
+          "unit": "",
+          "note": "Add at the table only if wanted.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "5b462f50-4492-5bb0-93b0-70906e8193f9",
+      "title": "Prepare the meat and aromatics",
+      "description": "Choose your meat: chicken diced small, sliced pork loin steaks, thinly sliced beef steak, or 5% lean pork mince. Slice the mushrooms. Peel and finely chop the garlic and ginger, or use the freezer ginger-garlic blocks instead. Chop the brown or red onion. Boil the measured water.",
+      "ingredients": [
+        "Chicken",
+        "Mushrooms",
+        "Garlic",
+        "Ginger",
+        "Onion",
+        "Boiling water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "4b5fdcfe-3009-5def-8e36-d7275444e5f6",
+      "title": "Cook the meat, garlic, ginger and onion",
+      "description": "Add the garlic, ginger, onion and your chosen meat to the pot. Cook over medium heat for 10 minutes, stirring and moving everything around, until the onion softens and the meat changes colour. Break up mince as it cooks if that is your choice.",
+      "ingredients": [
+        "Chicken",
+        "Garlic",
+        "Ginger",
+        "Onion"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium heat",
+      "doneness": "Soft onion; chicken or pork pale on the outside, or beef and mince losing their raw colour.",
+      "tip": "",
+      "warning": "The initial colour change does not prove the meat is cooked through; it continues cooking in the next stages.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "c9a770f7-bc96-5f29-96ab-e995f8d1550c",
+      "title": "Add the mushrooms",
+      "description": "Add the sliced mushrooms and cook for 2 minutes, until they start releasing some water.",
+      "ingredients": [
+        "Mushrooms"
+      ],
+      "durationMinutes": 2,
+      "timerMinutes": 2,
+      "heat": "Medium heat",
+      "doneness": "Mushrooms beginning to release liquid.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "6956a0e7-ed80-5079-9181-7f45dbd091f5",
+      "title": "Add the turmeric and stock",
+      "description": "Add the turmeric powder, boiled water, chicken stock cubes and dark soy sauce. Stir, bring the pot to a bubble and let it cook for 20 minutes.",
+      "ingredients": [
+        "Turmeric powder",
+        "Boiling water",
+        "Chicken stock cubes",
+        "Dark soy sauce"
+      ],
+      "durationMinutes": 20,
+      "timerMinutes": 20,
+      "heat": "Bubbling over medium heat",
+      "doneness": "",
+      "tip": "Wash and drain the rice while the pot bubbles.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "fee0db13-278c-5a8c-aa33-eda22de9ea31",
+      "title": "Wash the rice while the pot cooks",
+      "description": "While the pot bubbles, wash the rice with cold water three times if possible to remove extra starch. Drain it, then keep it ready until the 20-minute cooking stage has finished.",
+      "ingredients": [
+        "Rice"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3d153149-9e98-5861-bb96-4e82cee1f0fd",
+      "title": "Add the rice and pepper",
+      "description": "After the pot has bubbled for 20 minutes, add the washed, drained rice and crushed black pepper. Mix through the meat, mushrooms and stock.",
+      "ingredients": [
+        "Rice",
+        "Black pepper"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "6be6abc9-7046-5c9a-98ea-ecfc25eb7271",
+      "title": "Cook the rice with the lid on",
+      "description": "Cover the pot and cook for 15 minutes, adjusting to medium-low heat to keep it gently bubbling.",
+      "ingredients": [],
+      "durationMinutes": 15,
+      "timerMinutes": 15,
+      "heat": "Medium-low heat, covered",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "9c782478-1d4f-5310-afa6-af263b775b5d",
+      "title": "Rest without opening the lid",
+      "description": "Turn off the stove. Do not open the lid yet. Leave the rice to sit for another 10 minutes.",
+      "ingredients": [],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Heat off",
+      "doneness": "Rice rested with the steam kept inside.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bfde6819-602b-50a8-8ad4-ae5f1a8d0ee3",
+      "title": "Serve with lime and sesame oil",
+      "description": "Open the lid, check that the rice and meat are cooked, and serve the dinner portions immediately with lime wedges and sesame oil. If it is not salty enough, add a little extra soy sauce to your portion. Keep the two lunch portions aside for prompt cooling.",
+      "ingredients": [
+        "Lime wedges",
+        "Sesame oil",
+        "Extra soy sauce"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "doneness": "Cooked rice and fully cooked meat.",
+      "tip": "Lime also brightens the flavour, so a little less salt is fine.",
+      "warning": "If using chicken or mince, a thermometer check is 75°C in the centre for 30 seconds. If the meat is not cooked through, continue cooking before serving.",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Choose your meat",
+      "text": "For the original four-portion batch, use 600–800 g of small diced chicken, sliced pork loin steaks, thinly sliced beef steak or 5% lean pork mince. Use one meat option, not all four."
+    },
+    {
+      "title": "Freezer ginger-garlic blocks",
+      "text": "Use 4 blocks for the original batch instead of the head of garlic and 50 g ginger."
+    },
+    {
+      "title": "Onion",
+      "text": "Use a brown or red onion, whichever is available."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Want a little more flavour?",
+      "text": "Try the lime wedges and sesame oil, then add extra soy sauce at the table if wanted."
+    },
+    {
+      "title": "Keeping the rice separate",
+      "text": "Wash it three times if possible, drain it, and keep the lid on during the final rest."
+    }
+  ],
+  "storage": "Divide the two lunch portions into small containers and cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours.",
+  "reheating": "Reheat a lunch portion once until steaming hot throughout. Stir or turn it when microwaving to avoid cold pockets.",
+  "foodSafety": "Meat must be cooked through before serving. A thermometer check for chicken and mince is 75°C in the centre for 30 seconds. Keep utensils used for raw meat away from the finished rice.",
+  "servingSuggestion": "Dinner for both of us, plus two lunch portions. Serve with lime wedges, sesame oil and extra soy sauce if wanted.",
+  "glossary": [
+    "Boil"
+  ]
+}

@@ -42,7 +42,7 @@
     "Rice spoon or fork"
   ],
   "advancePrep": "Check the freezer for ginger-garlic blocks. Four blocks can replace the fresh garlic and ginger for the pot, and one block can replace the garlic and ginger for the chilli sauce.",
-  "importantNotes": "Makes four servings. Prep and cooking times are estimates. The turmeric quantity still needs confirming with Pavie before cooking; the original instructions do not specify an amount. Remove the stock for the chilli sauce before adding the rice. Keep the lid on during the final 10-minute rest.",
+  "importantNotes": "Makes four servings. Prep and cooking times are estimates. Remove the stock for the chilli sauce before adding the rice. Keep the lid on during the final 10-minute rest.",
   "groups": [
     {
       "title": "For the chicken and rice",
@@ -90,9 +90,9 @@
         {
           "id": "b6a06d8c-c64f-50b3-bdd3-ab65af3648e4",
           "name": "Turmeric powder",
-          "quantity": null,
-          "unit": "",
-          "note": "Amount to confirm with Pavie before cooking.",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -253,7 +253,7 @@
     {
       "id": "65093572-adb2-50c7-aec8-085ae1465283",
       "title": "Add the stock ingredients and boil",
-      "description": "Add the turmeric powder once its amount has been confirmed, the chicken stock cube, the boiled water and the light soy sauce. Bring to the boil, cover with the lid and let it boil for 20 minutes.",
+      "description": "Add the turmeric powder, the chicken stock cube, the boiled water and the light soy sauce. Bring to the boil, cover with the lid and let it boil for 20 minutes.",
       "ingredients": [
         "Turmeric powder",
         "Chicken stock cube",
@@ -265,7 +265,7 @@
       "heat": "Boiling, covered",
       "doneness": "",
       "tip": "While this cooks, wash the rice and prepare the chilli sauce ingredients.",
-      "warning": "The turmeric amount is still to confirm; do not assume a quantity from this recipe.",
+      "warning": "",
       "image": "",
       "imageAlt": ""
     },
