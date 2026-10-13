@@ -21,13 +21,13 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/fried-vermicelli-mee-siam-reference.jpg",
-  "imageAlt": "Reference photograph of fried rice vermicelli with chicken, egg and basil.",
-  "imageCaption": "Reference photograph · chicken and basil variation · displayed crop",
-  "imageCredit": "Alpha / Wikimedia Commons",
-  "imageSource": "https://commons.wikimedia.org/wiki/File:Fried_Rice_Vermicelli_with_Chicken,_Egg_and_Basil_-_Chilli_Cafe_AUD10.90_(4159582214).jpg",
-  "imageLicense": "CC BY-SA 2.0",
-  "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "image": "/images/fried-vermicelli-mee-siam-editorial-v2.jpg",
+  "imageAlt": "Reference photograph: A neatly plated bowl of stir-fried vermicelli, egg and vegetables against a clean, pale background.",
+  "imageCaption": "Reference photograph · egg-and-vegetable vermicelli variation · displayed crop",
+  "imageCredit": "Eaksit Sangdee / Pexels",
+  "imageSource": "https://www.pexels.com/photo/thai-street-food-stir-fried-vermicelli-with-egg-and-vegetables-on-a-white-background-15797948/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "pasta",
   "gallery": [],
   "personalNote": "Same sauce and vegetables as our Char Kway Teow, Jack, but we’re using the thin rice vermicelli this time. We can use thin beef steaks instead of Spam if that’s what we fancy.",
@@ -344,5 +344,7 @@
   "glossary": [
     "Brown",
     "Sear"
-  ]
+  ],
+  "imagePosition": "50% 50%",
+  "imageZoom": 1.1
 }

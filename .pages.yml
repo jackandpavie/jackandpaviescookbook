@@ -123,6 +123,14 @@ content:
   - name: imageAlt
     label: Describe the main photograph
     type: string
+  - name: imagePosition
+    label: Photograph focus — optional
+    type: string
+    description: Two percentages, such as 50% 60%, to keep the food centred in the crop. Leave empty for the centre.
+  - name: imageZoom
+    label: Photograph zoom — optional
+    type: number
+    description: Leave empty for 1. A small value such as 1.1 can bring the food closer without changing the source photo.
   - name: imageCaption
     label: Main photograph caption
     type: string

@@ -20,13 +20,13 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/kimchi-jjigae-reference.jpg",
-  "imageAlt": "Close-up reference photograph of red kimchi stew with tofu and pork in a metal bowl.",
-  "imageCaption": "Reference photograph · traditional kimchi stew · displayed crop",
-  "imageCredit": "chomjong / Wikimedia Commons",
-  "imageSource": "https://commons.wikimedia.org/wiki/File:Gimchi-jjigae.jpg",
-  "imageLicense": "CC BY 2.0",
-  "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "image": "/images/kimchi-jjigae-editorial-v2.jpg",
+  "imageAlt": "Reference photograph: Kimchi stew topped with tofu and spring onions in a pale clay pot under soft natural light.",
+  "imageCaption": "Reference photograph · kimchi stew with tofu · displayed crop",
+  "imageCredit": "Cynthia Ortega Espinosa / Pexels",
+  "imageSource": "https://www.pexels.com/photo/kimchi-stew-on-a-clay-pot-13774731/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "curry",
   "gallery": [],
   "personalNote": "This is our pork-loin version of Pork Belly Stew, Jack. Two bowls of stew for dinner, and some rice saved for a quick fried rice at lunch tomorrow.",
@@ -345,5 +345,7 @@
   "servingSuggestion": "Two portions of stew for dinner, served with rice. Keep the extra rice for a quick fried rice at lunch the next day.",
   "glossary": [
     "Boil"
-  ]
+  ],
+  "imagePosition": "50% 55%",
+  "imageZoom": 1
 }

@@ -20,13 +20,13 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/chicken-pot-pie-reference.jpg",
-  "imageAlt": "Reference photograph of a golden pastry-topped chicken pot pie with vegetables in the creamy filling.",
+  "image": "/images/chicken-pot-pie-editorial-v2.jpg",
+  "imageAlt": "Reference photograph: Golden, flaky chicken pot pie cut open on a white plate, with a softly blurred background.",
   "imageCaption": "Reference photograph · chicken pot-pie variation · displayed crop",
-  "imageCredit": "Elsie Hui / Wikimedia Commons",
-  "imageSource": "https://commons.wikimedia.org/wiki/File:191-365_Chicken_Pot_Pie.jpg",
-  "imageLicense": "CC BY 2.0",
-  "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "imageCredit": "Nano Erdozain / Pexels",
+  "imageSource": "https://www.pexels.com/photo/delicious-chicken-pot-pie-with-flaky-crust-29535632/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "curry",
   "gallery": [],
   "personalNote": "Jack, keep stirring while the water goes in and we’ll get that nice, gooey filling. Use whichever flour we have in the cupboard.",
@@ -387,5 +387,7 @@
   "reheating": "Reheat once until the filling is steaming hot all the way through.",
   "foodSafety": "The first 5-minute fry only turns the outside of the chicken white. Check it is fully cooked before serving; a thermometer check is 75°C in the centre for 30 seconds.",
   "servingSuggestion": "Serve straight away, with a bit of that pastry and gooey filling on each of our plates.",
-  "glossary": []
+  "glossary": [],
+  "imagePosition": "50% 65%",
+  "imageZoom": 1.03
 }

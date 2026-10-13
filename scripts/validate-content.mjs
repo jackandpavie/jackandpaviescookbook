@@ -30,6 +30,8 @@ for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/re
  for(const s of arr(r.steps)){if(!s.id||steps.has(s.id))fail(f,'Every step needs a unique automatic identifier');steps.add(s.id);if(!s.title||!s.description)fail(f,'Give each step a title and instructions');for(const k of ['durationMinutes','timerMinutes'])if(s[k]!=null&&(!Number.isFinite(s[k])||s[k]<0))fail(f,`${k} must be non-negative`);for(const id of arr(s.ingredients))if(!ids.has(id)&&!names.has(id.toLowerCase()))fail(f,`Step ingredient “${id}” must match an ingredient name exactly`);media(f,s.image);}
  for(const t of arr(r.timeline))if(!Number.isFinite(t.start)||!Number.isFinite(t.end)||t.end<t.start||t.start<0||!t.task)fail(f,'Timeline needs a task and valid start/end minutes');
  media(f,r.image);for(const g of arr(r.gallery))media(f,g.image||g);
+ if(r.imageZoom!=null&&(!Number.isFinite(r.imageZoom)||r.imageZoom<1||r.imageZoom>1.5))fail(f,'Photograph zoom must be between 1 and 1.5');
+ if(r.imagePosition){const position=typeof r.imagePosition==='string'&&r.imagePosition.match(/^(\d+(?:\.\d+)?)%\s+(\d+(?:\.\d+)?)%$/);if(!position||position.slice(1).some(v=>Number(v)>100))fail(f,'Photograph focus must contain two percentages between 0% and 100%');}
  }
 }
 const site=JSON.parse(fs.readFileSync('content/site.json','utf8'));if(!site.title)fail('Site settings','Cookbook title is required');media('Site settings',site.heroImage);media('Site settings',site.introImage);

@@ -20,13 +20,13 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/lemon-and-sausage-risotto-reference.jpg",
-  "imageAlt": "Reference photograph of lemon and chicken risotto in an oval ceramic bowl, with herbs and lemon zest.",
-  "imageCaption": "Reference photograph · lemon and chicken variation · displayed crop",
-  "imageCredit": "Kolforn (Wikimedia)",
-  "imageSource": "https://commons.wikimedia.org/wiki/File:-2020-01-16_Lemon_Chicken_Risotto_with_Parmesan,_Trimingham_(2).JPG",
-  "imageLicense": "CC BY-SA 4.0",
-  "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "image": "/images/lemon-and-sausage-risotto-editorial-v2.jpg",
+  "imageAlt": "Reference photograph: Creamy lemon risotto in a ceramic bowl beside lemons and folded linen.",
+  "imageCaption": "Reference photograph · lemon-and-pea risotto variation · displayed crop",
+  "imageCredit": "Alesia Kozik / Pexels",
+  "imageSource": "https://www.pexels.com/photo/close-up-shot-of-risotto-6129137/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "pasta",
   "gallery": [],
   "personalNote": "This is our lemon version, Jack. Keep the juice for the end and add it a bit at a time, so we can stop when it tastes right for us.",
@@ -348,5 +348,7 @@
   "servingSuggestion": "Two dinners for both of us. Add Parmesan to our plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
   "glossary": [
     "Boil"
-  ]
+  ],
+  "imagePosition": "50% 58%",
+  "imageZoom": 1
 }
