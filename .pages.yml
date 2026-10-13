@@ -123,6 +123,21 @@ content:
   - name: imageAlt
     label: Describe the main photograph
     type: string
+  - name: imageCaption
+    label: Main photograph caption
+    type: string
+  - name: imageCredit
+    label: Photographer credit (for reference images)
+    type: string
+  - name: imageSource
+    label: Photograph source URL
+    type: string
+  - name: imageLicense
+    label: Photograph licence
+    type: string
+  - name: imageLicenseUrl
+    label: Photograph licence URL
+    type: string
   - name: gallery
     label: Extra finished-dish photographs
     type: object

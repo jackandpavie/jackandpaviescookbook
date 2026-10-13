@@ -1,0 +1,66 @@
+{
+  "title": "Our little cookbook",
+  "subtitle": "Good food. Familiar favourites. One step at a time.",
+  "dedication": "For you, and all the meals still to come.",
+  "welcomeTitle": "A little help. A lot of love.",
+  "welcomeMessage": "I’ve always loved cooking for you. So I wanted to put your favourites somewhere you can find them — with the little details, the timings, and a friendly nudge when you need one. Start with something simple. Take your time. I’m right here in the recipe.",
+  "signature": "With love, Pavie",
+  "heroImage": "/images/cover.webp",
+  "heroAlt": "Illustrative placeholder of a homemade meal on a linen-covered table",
+  "heroPlaceholder": true,
+  "introImage": "",
+  "footerMessage": "A growing collection of good food and little memories.",
+  "background": "#F7F3E9",
+  "ink": "#332B24",
+  "olive": "#4F5B3A",
+  "accent": "#A3482B",
+  "categories": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Pasta and noodles",
+    "Curries",
+    "Rice dishes",
+    "Quick meals",
+    "Comfort food",
+    "Baking",
+    "Desserts",
+    "Weekend cooking",
+    "Special occasions"
+  ],
+  "featuredRecipes": [
+    "tomato-basil-pasta",
+    "chickpea-curry-and-rice",
+    "roasted-tomato-gnocchi"
+  ],
+  "collections": [
+    {
+      "title": "Your favourites",
+      "description": "The ones you’ll come back to.",
+      "recipes": [
+        "tomato-basil-pasta",
+        "chickpea-curry-and-rice"
+      ]
+    },
+    {
+      "title": "A quiet evening in",
+      "description": "Something warm. Something comforting.",
+      "recipes": [
+        "roasted-tomato-gnocchi",
+        "chickpea-curry-and-rice"
+      ]
+    },
+    {
+      "title": "A little kitchen adventure",
+      "description": "Take your time and try something new.",
+      "recipes": [
+        "herby-pan-flatbreads"
+      ]
+    }
+  ],
+  "cardTitle": "A little book of your favourite things",
+  "cardMessage": "Made with love, and written so you can make them too.",
+  "cardInstruction": "Scan to open your cookbook.",
+  "productionUrl": "https://pavieselvaraj.github.io/jackandpaviescookbook/",
+  "cmsRepository": "pavieselvaraj/jackandpaviescookbook"
+}

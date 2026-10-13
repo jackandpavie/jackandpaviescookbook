@@ -3,7 +3,7 @@ const errors=[],routes=new Set();
 const fail=(f,msg)=>errors.push(`${f}: ${msg}`);
 const arr=(v)=>Array.isArray(v)?v:[];
 const media=(f,v)=>{const s=typeof v==='string'?v:v?.src||v?.path||'';if(s&&(!s.startsWith('/images/')||s.includes('..')||!fs.existsSync(path.resolve('public',s.slice(1)))))fail(f,`Image not found or unsafe image path: ${s}`);};
-for(const name of fs.readdirSync('content/recipes').filter(f=>f.endsWith('.json'))){
+for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/recipes') : []).filter(f=>f.endsWith('.json'))){
  const f='content/recipes/'+name;let r;try{r=JSON.parse(fs.readFileSync(f,'utf8'));}catch{fail(f,'Invalid JSON');continue;}
  if(!r.published)continue;
  if(!r.title?.trim())fail(f,'Recipe name is required');

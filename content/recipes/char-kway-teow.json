@@ -1,0 +1,344 @@
+{
+  "slug": "char-kway-teow",
+  "aliases": [],
+  "title": "Char Kway Teow",
+  "description": "Flat rice noodles with browned Spam, eggs, pak choi, beansprouts and chives, tossed in a soy-and-oyster sauce.",
+  "category": "Pasta and noodles",
+  "cuisine": "Singapore-inspired",
+  "mainIngredient": "Rice noodles",
+  "tags": [
+    "Dinner",
+    "Comfort food",
+    "Lunch the next day"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A little practice",
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": true,
+  "published": false,
+  "demo": false,
+  "added": "2026-10-13",
+  "image": "/images/char-kway-teow-reference.jpg",
+  "imageAlt": "Reference photograph of char kway teow on a wooden plate, with flat rice noodles, prawns and vegetables.",
+  "imageCaption": "Reference photograph · displayed crop",
+  "imageCredit": "Ardzun / Wikimedia Commons",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg",
+  "imageLicense": "CC BY-SA 4.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "art": "pasta",
+  "gallery": [],
+  "personalNote": "Cold-water soaking gives the noodles a better texture. If you forget, the boiling-water shortcut still works: they will be a little softer, but it does not make a big difference.",
+  "story": "",
+  "equipment": [
+    "Large wok",
+    "Two wooden spoons",
+    "Large bowl for soaking noodles",
+    "Colander",
+    "Chopping board and knife",
+    "Small bowl for the sauce",
+    "Measuring jug",
+    "Two containers for the next day’s lunches"
+  ],
+  "advancePrep": "Soak the flat rice noodles in cold water for 1 hour, then drain. If you forgot, soak them in boiling water for 5 minutes instead, then drain. The boiling-water method gives a slightly softer texture. Chop the other ingredients and mix the sauce while the noodles soak.",
+  "importantNotes": "Draft: confirm the dry noodle quantity before publishing. This makes four meal portions: dinner for both of us and two lunches for the next day. Prep and cooking times are estimates and exclude the noodle soak. Get everything chopped, drained and measured before heating the wok. The chives are added with the other vegetables.",
+  "groups": [
+    {
+      "title": "For the noodles and stir-fry",
+      "ingredients": [
+        {
+          "id": "6688572c-4908-5e92-adc0-1352ce7d2bb8",
+          "name": "Dried flat rice noodles",
+          "quantity": null,
+          "unit": "g",
+          "note": "Quantity to confirm; soak, then drain.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5e200d21-a2ad-51ff-8116-f8a9b6e8bd8a",
+          "name": "Spam",
+          "quantity": 1,
+          "unit": "can",
+          "note": "Cut into strips.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0.5
+        },
+        {
+          "id": "8dc5d150-0591-5d16-9ef2-3e765d88f746",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and chop semi-finely.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0.5
+        },
+        {
+          "id": "d8caca7f-1d38-51d2-b356-d1d298e5ddf2",
+          "name": "Pak choi",
+          "quantity": 200,
+          "unit": "g",
+          "note": "About 1 pack; separate the leaves and cut the stalks into matchsticks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5371f4a8-333d-5526-9b2d-6d0fda8f50cb",
+          "name": "Chives",
+          "quantity": 100,
+          "unit": "g",
+          "note": "Chop; garlic chives are even better if you have them.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8b4b8722-bf92-5606-ac6c-a5079350f602",
+          "name": "Beansprouts",
+          "quantity": 200,
+          "unit": "g",
+          "note": "About 1 pack.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "3f236863-c34c-5a7d-94a9-ccd418f0e205",
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "",
+          "note": "Ready to crack straight into the wok.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        }
+      ]
+    },
+    {
+      "title": "For the sauce",
+      "ingredients": [
+        {
+          "id": "04e5f09a-fa62-5c9e-ab63-dd131070b565",
+          "name": "Dark soy sauce",
+          "quantity": 50,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "2c9ff623-c684-59e1-9fc3-289ca314674e",
+          "name": "Light soy sauce",
+          "quantity": 50,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "3b753230-ced1-5c94-aa65-a58d6926a5b0",
+          "name": "Oyster sauce",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Vegetarian oyster sauce also works.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "0cbf54bb-8956-5df8-985f-82fd4ee3fe27",
+          "name": "Belachan chilli paste",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Adds a hawker-centre flavour; leave it out if you do not have it.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To finish cooking",
+      "ingredients": [
+        {
+          "id": "65658ffe-4ee1-5a28-bd8b-6721020144ac",
+          "name": "Hot water",
+          "quantity": 200,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "b69d4331-fc52-53d1-94b8-0a9b04f982ea",
+      "title": "Get everything ready",
+      "description": "Check that the noodles have been soaked and drained. Cut the Spam into strips and chop the garlic semi-finely. Separate the pak choi leaves and cut the stalks into matchsticks. Chop the chives and have the beansprouts ready. Keep all four eggs close by.",
+      "ingredients": [
+        "Dried flat rice noodles",
+        "Spam",
+        "Garlic",
+        "Pak choi",
+        "Chives",
+        "Beansprouts",
+        "Eggs"
+      ],
+      "timerMinutes": 0,
+      "durationMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "Once the wok is hot, the cooking moves quickly. Finish all the preparation first.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3bc63b88-66cd-5aba-aa6c-dd8587028db7",
+      "title": "Mix the sauce",
+      "description": "Mix the dark soy sauce, light soy sauce and oyster sauce in a small bowl. Add the optional belachan chilli paste if you have it. Measure the hot water separately.",
+      "ingredients": [
+        "Dark soy sauce",
+        "Light soy sauce",
+        "Oyster sauce",
+        "Belachan chilli paste",
+        "Hot water"
+      ],
+      "timerMinutes": 0,
+      "durationMinutes": 0,
+      "heat": "",
+      "doneness": "",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "55ad4986-67d2-5014-89d5-fd5e08a904a7",
+      "title": "Brown the Spam",
+      "description": "Heat the wok over high heat. Once it is hot, add the Spam. Let it brown on as many sides as possible, turning the strips as needed. This takes about 3–5 minutes and you should hear some crackling.",
+      "ingredients": [
+        "Spam"
+      ],
+      "timerMinutes": 3,
+      "durationMinutes": 0,
+      "heat": "High heat",
+      "doneness": "Brown, seared edges on several sides.",
+      "tip": "The browning gives it a seared texture that mimics Chinese sausage. The 3-minute timer is the first check; keep cooking for up to another 2 minutes if it needs more colour.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "e4abd129-cd21-5f4a-943b-8b5878427203",
+      "title": "Fry the garlic",
+      "description": "Add the chopped garlic and fry for 1 minute, moving it around so it cooks evenly. Browning is fine; do not let it turn black.",
+      "ingredients": [
+        "Garlic"
+      ],
+      "timerMinutes": 1,
+      "durationMinutes": 1,
+      "heat": "High heat",
+      "doneness": "Garlic smells fragrant and may be lightly browned, but is not black.",
+      "tip": "",
+      "warning": "Watch the garlic closely because it can burn quickly.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "6cce2ac9-54ee-514b-b8e5-f8ec397a3283",
+      "title": "Scramble the eggs",
+      "description": "Crack all four eggs into the wok and scramble them with the Spam and garlic until they form curds and are set.",
+      "ingredients": [
+        "Eggs"
+      ],
+      "timerMinutes": 0,
+      "durationMinutes": 0,
+      "heat": "High heat",
+      "doneness": "Set scrambled egg curds.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "1d0c936f-0b1b-5cd2-9408-06f0ab8e98ca",
+      "title": "Add the noodles and vegetables",
+      "description": "Add the drained noodles, pak choi leaves and stalks, beansprouts and chives. Use two wooden spoons to lift and toss everything together for 1 minute.",
+      "ingredients": [
+        "Dried flat rice noodles",
+        "Pak choi",
+        "Beansprouts",
+        "Chives"
+      ],
+      "timerMinutes": 1,
+      "durationMinutes": 1,
+      "heat": "High heat",
+      "doneness": "The noodles and vegetables are mixed through the Spam and eggs.",
+      "tip": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bb9145c1-f8e3-51c6-952b-2a11d25fcfc1",
+      "title": "Add the sauce and finish",
+      "description": "Pour in the mixed sauce and 200 ml of hot water. Toss and cook for about 5 minutes, until the noodles are cooked but still chewy. Serve the dinner portions immediately.",
+      "ingredients": [
+        "Dark soy sauce",
+        "Light soy sauce",
+        "Oyster sauce",
+        "Belachan chilli paste",
+        "Hot water"
+      ],
+      "timerMinutes": 5,
+      "durationMinutes": 5,
+      "heat": "High heat",
+      "doneness": "Cooked noodles with a pleasant chew, coated in the sauce.",
+      "tip": "Keep the two lunch portions aside for prompt cooling and refrigeration.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Oyster sauce",
+      "text": "Use oyster sauce or vegetarian oyster sauce."
+    },
+    {
+      "title": "Chives",
+      "text": "Ordinary chives work; garlic chives are even better if you have them."
+    },
+    {
+      "title": "No belachan chilli paste?",
+      "text": "Leave it out. It adds that hawker-centre flavour, but the recipe works without it."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Noodles softer than you wanted?",
+      "text": "Use the 1-hour cold-water soak next time. The boiling-water shortcut gives a softer texture."
+    }
+  ],
+  "storage": "Divide the two lunch portions into small containers so they cool quickly. Refrigerate within 1–2 hours, keep the fridge at 0–5°C, and eat them for lunch the next day.",
+  "reheating": "Reheat only the portion you will eat, until steaming hot throughout. Stir during reheating, especially in a microwave, to avoid a cold centre. Reheat only once.",
+  "foodSafety": "Keep the lunch portions chilled until you are ready to eat or reheat them. Storage and reheating guidance follows the Food Standards Agency’s advice on chilling food and using leftovers.",
+  "servingSuggestion": "Serve two portions straight from the wok; save the other two for the next day’s lunches.",
+  "glossary": [
+    "Brown",
+    "Sear"
+  ]
+}

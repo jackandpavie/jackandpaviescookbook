@@ -1,6 +1,6 @@
 # Our little cookbook
 
-A personal birthday cookbook built with Astro and browser-local cooking tools. The four sample recipes are **demonstration content**, not recipes supplied by Pavie. The homepage photograph is an **AI-generated placeholder**. Replace both in Pages CMS.
+A personal birthday cookbook built with Astro and browser-local cooking tools. Recipe content lives in `content/recipes`. Sample data for automated checks is kept separately in `tests/fixtures` and is never published as cookbook content. The homepage photograph is an **AI-generated placeholder**. Replace both in Pages CMS.
 
 ## What works
 

@@ -2,7 +2,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 export const settings = JSON.parse(fs.readFileSync(path.resolve('content/site.json'),'utf8'));
 for(const key of ['categories','featuredRecipes','collections'])if(!Array.isArray(settings[key]))settings[key]=[];
-export const recipes = fs.readdirSync(path.resolve('content/recipes')).filter(f=>f.endsWith('.json')).map(f=>{
+const recipeDirectory = path.resolve('content/recipes');
+export const recipes = (fs.existsSync(recipeDirectory) ? fs.readdirSync(recipeDirectory) : []).filter(f=>f.endsWith('.json')).map(f=>{
  const r=JSON.parse(fs.readFileSync(path.resolve('content/recipes',f),'utf8'));
  for(const key of ['aliases','tags','dietaryTags','gallery','equipment','groups','steps','timeline','substitutions','troubleshooting','glossary'])if(!Array.isArray(r[key]))r[key]=[];
  for(const g of r.groups)if(!Array.isArray(g.ingredients))g.ingredients=[];
