@@ -56,7 +56,8 @@
     "pinto-beans",
     "greek-avgolemono-soup",
     "cassoulet",
-    "lamb-mutton-mysore"
+    "lamb-mutton-mysore",
+    "pistachio-pesto-pasta"
   ],
   "collections": [
     {
@@ -90,7 +91,8 @@
         "pinto-beans",
         "greek-avgolemono-soup",
         "cassoulet",
-        "lamb-mutton-mysore"
+        "lamb-mutton-mysore",
+        "pistachio-pesto-pasta"
       ]
     },
     {
@@ -123,7 +125,8 @@
         "pinto-beans",
         "greek-avgolemono-soup",
         "cassoulet",
-        "lamb-mutton-mysore"
+        "lamb-mutton-mysore",
+        "pistachio-pesto-pasta"
       ]
     },
     {
@@ -155,7 +158,8 @@
         "pinto-beans",
         "greek-avgolemono-soup",
         "cassoulet",
-        "lamb-mutton-mysore"
+        "lamb-mutton-mysore",
+        "pistachio-pesto-pasta"
       ]
     }
   ],

@@ -1,0 +1,310 @@
+{
+  "slug": "pistachio-pesto-pasta",
+  "aliases": [],
+  "title": "Pistachio Pesto Pasta",
+  "description": "A silky pistachio-and-basil blender sauce, cooked chicken and whatever pasta we fancy. A quick, easy dinner for the two of us.",
+  "category": "Pasta and noodles",
+  "cuisine": "Italian-inspired",
+  "mainIngredient": "Pasta",
+  "tags": [
+    "Pistachios",
+    "Pesto",
+    "Basil",
+    "Chicken",
+    "Quick meals",
+    "One dinner"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Quick and easy",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "restMinutes": 0,
+  "servings": 2,
+  "portionNote": "Just one night: 2 portions for the two of us. The timings are a guide; cook the pasta for the time on its packet.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/pistachio-pesto-pasta-reference.jpg",
+  "imageAlt": "Reference photograph of green pesto-coated ribbon pasta topped with grated Parmesan on a white plate.",
+  "imageCaption": "Reference photograph · pesto pasta with Parmesan · displayed crop",
+  "imageCredit": "Valeria Boltneva / Pexels",
+  "imageSource": "https://www.pexels.com/photo/delicious-pesto-pasta-with-parmesan-cheese-30910495/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 48%",
+  "imageZoom": 1.04,
+  "art": "pasta",
+  "gallery": [],
+  "personalNote": "This is a quick one. Get the pasta boiling and warm the chicken while it cooks. Parmesan if we want cheese, but it’s absolutely lovely on its own.",
+  "story": "",
+  "equipment": [
+    "Blender and blender jar",
+    "Large saucepan",
+    "Pan for the chicken and sauce",
+    "Colander",
+    "Mug or jug for pasta water",
+    "Wooden spoon or tongs",
+    "Measuring jug and teaspoon"
+  ],
+  "advancePrep": "Remove the pistachio shells, peel the garlic clove and pluck the basil leaves from the stems. The chicken is already cooked for this one.",
+  "importantNotes": "Save some pasta water before draining. Use a little to warm the chicken and a splash to rinse the pesto out of the blender jar. The chicken needs to be piping hot all the way through.",
+  "groups": [
+    {
+      "title": "For the blender sauce",
+      "ingredients": [
+        {
+          "id": "2c3df813-0753-5d4f-82cd-be6bbc8e71c0",
+          "name": "Pistachios",
+          "quantity": 50,
+          "unit": "g",
+          "note": "About half a pack; remove the shells before blending.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "dbba9413-1e79-5349-b878-6c4b46cbdf74",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "clove",
+          "note": "Peel.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "6e163f9c-43bc-5578-a694-9217eaaae3cc",
+          "name": "Basil leaves",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Pluck the leaves from the stems.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "99e80f50-2cc7-5ec1-b030-b0db190d69ec",
+          "name": "Chicken stock cube",
+          "quantity": 1,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d40b1807-77e7-5088-a31d-812366eb8973",
+          "name": "Alpro soya cream",
+          "quantity": 30,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the pasta and pan",
+      "ingredients": [
+        {
+          "id": "c8cd8648-838e-563e-aab2-035427d27a7f",
+          "name": "Pasta",
+          "quantity": 300,
+          "unit": "g",
+          "note": "Dry weight. Whatever shape we fancy works.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1b8ae1e9-8b6e-55a2-8ba4-ee93fc6d0007",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "For the pasta water.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "870f5057-7cba-5b98-9f56-58f787456a5f",
+          "name": "Cooked chicken",
+          "quantity": 300,
+          "unit": "g",
+          "note": "Already fully cooked; this step warms it through.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5029da4d-36fc-5fc8-97c2-6920c3fbcd36",
+          "name": "Pasta water",
+          "quantity": null,
+          "unit": "",
+          "note": "Save some before draining. Use as needed to warm the chicken, rinse the blender jar and loosen the sauce.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a2be2a44-73fd-5f16-958a-7c803bb9b4ab",
+          "name": "Black pepper",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve",
+      "ingredients": [
+        {
+          "id": "83682470-c076-596a-9547-9a0a512d1949",
+          "name": "Parmesan",
+          "quantity": null,
+          "unit": "",
+          "note": "If we want cheese. Lovely without it too.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "5f220fe3-6d45-59af-b3e9-65479633f0cc",
+      "title": "Blend the pesto until it’s silky",
+      "description": "Remove the shells from about half a pack of pistachios — about 50 g. Add them to the blender jar with the peeled garlic clove, plucked basil leaves, chicken stock cube and Alpro soya cream. Blend it all together until the sauce is silky smooth.",
+      "ingredients": [
+        "Pistachios",
+        "Garlic",
+        "Basil leaves",
+        "Chicken stock cube",
+        "Alpro soya cream"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "A smooth sauce, with the pistachios blended right down.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "55aa0649-0939-57c9-ae05-356439cb10a1",
+      "title": "Get the pasta boiling",
+      "description": "Boil the pasta in salted water, following the cooking time on its packet. Whatever pasta we have works. While it’s boiling, carry on with the chicken and sauce.",
+      "ingredients": [
+        "Pasta",
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Boiling salted water",
+      "tip": "Keep a mug or jug handy so we can save some pasta water before draining anything.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "00de5c4b-da7f-5cf5-b54e-76b5d3ef5bbf",
+      "title": "Warm the cooked chicken",
+      "description": "While the pasta boils, put the cooked chicken in a pan on medium heat with a little water from the pasta pot. Cook for about 5 minutes, stirring it around, until the chicken is piping hot all the way through. Give it a little longer if it needs it.",
+      "ingredients": [
+        "Cooked chicken",
+        "Pasta water"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "The chicken is steaming hot throughout, not just warm on the outside.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3f2a3f3b-9fa6-5cce-a925-d6dec8c42e57",
+      "title": "Get all the pesto into the pan",
+      "description": "Add the pesto sauce to the hot chicken. Put a splash of water into the blender jar, squish it around to get the sauce off the sides and pour that into the pan too. Let the sauce bubble gently while the pasta finishes cooking.",
+      "ingredients": [
+        "Pistachios",
+        "Garlic",
+        "Basil leaves",
+        "Chicken stock cube",
+        "Alpro soya cream",
+        "Pasta water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Gentle bubbles",
+      "tip": "No need to leave all that sauce behind in the jar.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "75910408-2384-5e49-83f9-082f1a0f8eb5",
+      "title": "Add the pasta and finish with pepper",
+      "description": "Once the pasta is cooked to the way we like it, save some pasta water, then drain and add the pasta to the chicken and pesto. Mix it through so everything gets coated, then add the black pepper. If the sauce needs loosening, add a small splash of the saved pasta water.",
+      "ingredients": [
+        "Pasta",
+        "Pasta water",
+        "Black pepper"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium-low heat",
+      "tip": "",
+      "doneness": "Hot pasta and chicken coated in a silky sauce.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "a0d23a25-d3b8-5a38-a8fc-86acc193969e",
+      "title": "Dinner’s ready",
+      "description": "Serve straight away. Add Parmesan if we want cheese, but it’s absolutely lovely on its own. That’s dinner for both of us sorted — just for tonight.",
+      "ingredients": [
+        "Parmesan"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Whatever pasta we fancy",
+      "text": "Use 300 g of any dry pasta for the two portions and follow its packet cooking time."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "The sauce is a bit thick",
+      "text": "Add the saved pasta water a little at a time and squish it through until the sauce coats the pasta nicely."
+    }
+  ],
+  "storage": "This makes one dinner. If there’s any left, cool it quickly and refrigerate within 1–2 hours; use within 2 days.",
+  "reheating": "The cooked chicken is reheated in this recipe, so don’t reheat those portions again.",
+  "foodSafety": "Use fully cooked chicken that has been stored properly. Heat it until steaming hot throughout; 5 minutes is a guide, so keep going if the middle is still cool.",
+  "servingSuggestion": "Parmesan if we feel like cheese, or just as it is. Two portions for a quick one-night dinner.",
+  "glossary": [
+    "Boil"
+  ]
+}
