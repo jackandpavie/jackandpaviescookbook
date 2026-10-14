@@ -54,7 +54,8 @@
     "guacamole",
     "mexican-tomato-rice",
     "pinto-beans",
-    "greek-avgolemono-soup"
+    "greek-avgolemono-soup",
+    "cassoulet"
   ],
   "collections": [
     {
@@ -86,7 +87,8 @@
         "guacamole",
         "mexican-tomato-rice",
         "pinto-beans",
-        "greek-avgolemono-soup"
+        "greek-avgolemono-soup",
+        "cassoulet"
       ]
     },
     {
@@ -117,7 +119,8 @@
         "guacamole",
         "mexican-tomato-rice",
         "pinto-beans",
-        "greek-avgolemono-soup"
+        "greek-avgolemono-soup",
+        "cassoulet"
       ]
     },
     {
@@ -147,7 +150,8 @@
         "guacamole",
         "mexican-tomato-rice",
         "pinto-beans",
-        "greek-avgolemono-soup"
+        "greek-avgolemono-soup",
+        "cassoulet"
       ]
     }
   ],

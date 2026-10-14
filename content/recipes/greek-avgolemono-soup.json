@@ -20,7 +20,7 @@
   "cookMinutes": 65,
   "restMinutes": 0,
   "servings": 4,
-  "portionNote": "The full batch makes 4 portions for two dinners for both of us. Save half the base before adding eggs, then use 2 eggs each night. The second-night tab uses the saved half for 2 portions.",
+  "portionNote": "The soup base makes 4 portions for two dinners for both of us. The eggs and pepper listed in each choice are for that night’s two-portion dinner.",
   "featured": true,
   "published": true,
   "demo": false,
@@ -49,10 +49,10 @@
     "Ladle",
     "Clean food thermometer"
   ],
-  "advancePrep": "Chop the chicken and vegetables and boil the kettle. For the second dinner, pick the saved-base tab so we start with the refrigerated soup instead of cooking the whole recipe again.",
+  "advancePrep": "Chop the chicken and vegetables and boil the kettle. For the second dinner, pick the saved-base tab so we start with the refrigerated soup instead of cooking the whole recipe again. The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the soup bubbles, so don’t spend ages making everything match.",
   "importantNotes": "Keep the soup quite runny before adding the eggs. Whisk a little hot broth into the beaten eggs first, then pour them back in slowly while stirring vigorously over very low heat. Once the eggs go in, keep it below a boil.",
   "choiceHeading": "Making the batch, or having the second dinner?",
-  "choiceIntro": "The first choice makes all four portions and explains when to save half. The second starts with that saved half and finishes it with the remaining eggs.",
+  "choiceIntro": "The first choice makes the soup base for both nights and finishes tonight’s dinner. The second starts with the saved soup and finishes it with 2 eggs.",
   "groups": [],
   "steps": [],
   "recipeOptions": [
@@ -60,10 +60,10 @@
       "id": "make-batch",
       "slug": "greek-avgolemono-soup",
       "label": "Make the batch",
-      "description": "Make four portions. If we’re having two tonight, save half the base and finish tonight’s half with 2 eggs. Keep the other 2 eggs for tomorrow.",
+      "description": "Cook the soup base for both nights, put tomorrow’s soup aside, then finish tonight’s dinner with 2 eggs and the measured pepper.",
       "groups": [
         {
-          "title": "For both nights",
+          "title": "For the soup base — both nights",
           "ingredients": [
             {
               "id": "e066b855-f372-5d1e-bbe1-5dedaa51d29e",
@@ -100,7 +100,7 @@
               "name": "Garlic",
               "quantity": 1,
               "unit": "head",
-              "note": "Mince.",
+              "note": "Roughly chop.",
               "optional": false,
               "scaling": "linear",
               "roundTo": 0
@@ -166,11 +166,26 @@
               "roundTo": 0
             },
             {
+              "id": "0a9d05f6-f4ae-5861-86a6-fd49b69d6345",
+              "name": "Salt",
+              "quantity": null,
+              "unit": "",
+              "note": "Only a tiny bit if very undersalted; have some at the table if serving without Parmesan.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s finish",
+          "ingredients": [
+            {
               "id": "ad7c9faa-c85e-54f1-904a-16e1f09c22c4",
               "name": "Eggs",
-              "quantity": 4,
+              "quantity": 2,
               "unit": "",
-              "note": "For both nights: use 2 with half the soup tonight, and keep 2 uncracked in the fridge for tomorrow. Use all 4 if serving the whole pot now.",
+              "note": "For tonight’s finish.",
               "optional": false,
               "scaling": "linear",
               "roundTo": 0
@@ -178,19 +193,9 @@
             {
               "id": "e43477a5-a55d-5827-9796-073d22b7fae8",
               "name": "Pepper powder",
-              "quantity": 1,
+              "quantity": 0.5,
               "unit": "tbsp",
-              "note": "For both nights: use half tonight and half tomorrow if splitting the pot.",
-              "optional": false,
-              "scaling": "linear",
-              "roundTo": 0
-            },
-            {
-              "id": "0a9d05f6-f4ae-5861-86a6-fd49b69d6345",
-              "name": "Salt",
-              "quantity": null,
-              "unit": "",
-              "note": "Only a tiny bit if very undersalted; have some at the table if serving without Parmesan.",
+              "note": "For tonight’s finish.",
               "optional": false,
               "scaling": "linear",
               "roundTo": 0
@@ -213,7 +218,7 @@
         {
           "id": "984a8f73-029a-5a7d-a003-98ebed554229",
           "title": "Chop everything and boil the kettle",
-          "description": "Chop the chicken. Dice the onions and carrots and mince the head of garlic. Boil a kettle of water.",
+          "description": "Chop the chicken. Dice the onions and carrots and roughly chop the head of garlic. Boil a kettle of water.",
           "ingredients": [
             "Chicken",
             "Brown onions",
@@ -224,7 +229,7 @@
           "durationMinutes": 0,
           "timerMinutes": 0,
           "heat": "",
-          "tip": "",
+          "tip": "The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the soup bubbles, so don’t spend ages making everything match.",
           "doneness": "",
           "warning": "",
           "image": "",
@@ -334,8 +339,8 @@
         },
         {
           "id": "00765917-2d5b-57b5-b0e5-ba7d6009aa0c",
-          "title": "Put the second dinner aside before the eggs",
-          "description": "If we’re having this across two nights, divide the base evenly now: half for tonight and half to cool quickly and refrigerate for tomorrow. Keep 2 of the 4 eggs uncracked in the fridge and save half the pepper for the second night. If we’re serving all four portions now, keep the whole pot together.",
+          "title": "Put tomorrow’s soup aside",
+          "description": "Put tomorrow’s half of the soup base aside to cool quickly and refrigerate. Keep tonight’s soup in the pot, ready for the egg finish.",
           "ingredients": [],
           "durationMinutes": 0,
           "timerMinutes": 0,
@@ -348,8 +353,8 @@
         },
         {
           "id": "ce0020d6-7059-5546-81ab-5607bc42cad0",
-          "title": "Beat the eggs for the portion we’re eating",
-          "description": "For tonight’s half of the full batch, beat 2 eggs in a heatproof bowl. If we’re serving the whole pot now, beat all 4. With a scaled batch, use half the listed egg amount for half the base.",
+          "title": "Beat 2 eggs",
+          "description": "Beat 2 eggs in a heatproof bowl and keep them ready for the next step.",
           "ingredients": [
             "Eggs"
           ],
@@ -393,7 +398,7 @@
         {
           "id": "53448ffa-6d70-596e-b1ce-5941f9a7bea5",
           "title": "Pepper, then serve",
-          "description": "Add the pepper for the soup we’re finishing: half the listed amount for half the pot, or the full amount if serving all four portions now. Mix one last time and serve. Add Parmesan if we’re feeling cheesy, but it’s lovely on its own too. Have some salt on the side if we’re skipping the Parmesan.",
+          "description": "Add the pepper powder, mix one last time and serve. Add Parmesan if we’re feeling cheesy, but it’s lovely on its own too. Have some salt on the side if we’re skipping the Parmesan.",
           "ingredients": [
             "Pepper powder",
             "Parmesan",
@@ -414,7 +419,7 @@
       "id": "second-night",
       "slug": "greek-avgolemono-soup-second-night",
       "label": "Second dinner · saved base",
-      "description": "Reheat the saved half, loosen it with boiling water and finish with the remaining 2 eggs and half the pepper. This is two portions for tonight.",
+      "description": "Reheat the saved soup, loosen it with boiling water and finish it with 2 eggs and the measured pepper. This is two portions for tonight.",
       "servings": 2,
       "prepMinutes": 5,
       "cookMinutes": 10,
@@ -437,7 +442,7 @@
               "name": "Eggs",
               "quantity": 2,
               "unit": "",
-              "note": "The 2 eggs kept for the second dinner.",
+              "note": "For tonight’s finish.",
               "optional": false,
               "scaling": "linear",
               "roundTo": 0
@@ -447,7 +452,7 @@
               "name": "Pepper powder",
               "quantity": 0.5,
               "unit": "tbsp",
-              "note": "The remaining half of the full batch’s tablespoon.",
+              "note": "For tonight’s finish.",
               "optional": false,
               "scaling": "linear",
               "roundTo": 0
@@ -506,8 +511,8 @@
         },
         {
           "id": "631d97d6-f96c-57c2-9449-098d629c4fb8",
-          "title": "Beat the remaining eggs",
-          "description": "Beat the 2 eggs saved for tonight in a heatproof bowl. We’re finishing the reserved half of the original batch.",
+          "title": "Beat 2 eggs",
+          "description": "Beat 2 eggs in a heatproof bowl and keep them ready for the next step.",
           "ingredients": [
             "Eggs"
           ],
@@ -551,7 +556,7 @@
         {
           "id": "32764c64-0999-5a1d-aea3-1b49a9a47e0b",
           "title": "Finish with pepper and serve",
-          "description": "Add the remaining pepper — ½ tablespoon for this saved half of the full batch — and mix one last time. Serve with Parmesan if we fancy it, or leave it plain and have some salt on the side.",
+          "description": "Add the pepper powder and mix one last time. Serve with Parmesan if we fancy it, or leave it plain and have some salt on the side.",
           "ingredients": [
             "Pepper powder",
             "Parmesan",
@@ -598,8 +603,8 @@
       "text": "That’s alright. Add only a tiny bit of salt if it is very undersalted. The lemon, eggs, pepper and optional Parmesan still have to go in."
     }
   ],
-  "storage": "Cool the saved base quickly in shallow containers, refrigerate promptly and use within 24 hours because it contains rice. Freeze it if the second dinner will be later. Keep the remaining eggs uncracked in the fridge.",
-  "reheating": "Reheat the saved base once until steaming hot throughout, adding boiling water to loosen it. Then use the second-night tab to temper and stir in the remaining eggs over very low heat, finishing with pepper.",
+  "storage": "Cool the saved base quickly in shallow containers, refrigerate promptly and use within 24 hours because it contains rice. Freeze it if the second dinner will be later.",
+  "reheating": "Reheat the saved base once until steaming hot throughout, adding boiling water to loosen it. Then use the second-night tab to temper and stir in 2 beaten eggs over very low heat, finishing with the measured pepper.",
   "foodSafety": "Cook the chicken fully before tasting the broth. Check the chicken and finished soup with a clean food thermometer: at least 75°C. Keep the egg finish below a boil.",
   "servingSuggestion": "Four portions across two nights. Serve with Parmesan if we’re feeling cheesy, or enjoy it plain with a little salt on the side.",
   "glossary": [

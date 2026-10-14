@@ -1,0 +1,379 @@
+{
+  "slug": "cassoulet",
+  "aliases": [],
+  "title": "Cassoulet",
+  "description": "Whole sausages, chunky carrots and cannellini beans in a silky, thick broth. Six sausages make two dinners for both of us, with rice or garlic bread on the side.",
+  "category": "Comfort food",
+  "cuisine": "French-inspired",
+  "mainIngredient": "Sausages",
+  "tags": [
+    "Sausages",
+    "Beans",
+    "Cannellini beans",
+    "Stew",
+    "Two dinners"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Nice and simple",
+  "prepMinutes": 15,
+  "cookMinutes": 65,
+  "restMinutes": 0,
+  "servings": 4,
+  "portionNote": "The full batch uses 6 sausages for 4 portions across two dinners. If we eat a bit too much on the first night, we can cook more sausages for the second dinner.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/cassoulet-reference.jpg",
+  "imageAlt": "Reference photograph of white-bean stew with carrots and meat in a patterned white bowl, with bread alongside.",
+  "imageCaption": "Reference photograph · bean-stew and bread variation · displayed crop",
+  "imageCredit": "Boryslav Shoot / Pexels",
+  "imageSource": "https://www.pexels.com/photo/soup-and-bread-19870149/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 20%",
+  "imageZoom": 1.02,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "We can keep it simple with just sausages, or add some pork loin or chicken if that’s what we’re in the mood for. If we eat too much on the first night, we can always add more sausages for the next dinner.",
+  "story": "",
+  "equipment": [
+    "Large pot with a lid",
+    "Wooden spoon or tongs",
+    "Chopping board and knife",
+    "Kettle",
+    "Measuring spoon",
+    "Tupperware for the second dinner",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Chop the onions and garlic, leave the carrots in larger chunks and boil a kettle of water. The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the stew bubbles, so don’t spend ages making everything match. Keep the carrots in larger chunks.",
+  "importantNotes": "Keep the sausages whole and brown them on as many sides as possible. Dark brown patches add flavour. The beans go in after the 30-minute covered simmer, then get another 15 minutes to make the broth silky and thick.",
+  "groups": [
+    {
+      "title": "For both nights",
+      "ingredients": [
+        {
+          "id": "7a1f8439-4214-5f04-9f44-f833718d82e3",
+          "name": "Whole sausages",
+          "quantity": 6,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "72029257-8b88-5716-987d-e3041e1e84ab",
+          "name": "Brown onions",
+          "quantity": 2,
+          "unit": "",
+          "note": "Roughly chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "575f0b82-1e84-5599-beee-a754f941b71f",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Roughly chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b65a10bf-ca6e-56e6-b97f-ad1194720f7f",
+          "name": "Carrots",
+          "quantity": 4,
+          "unit": "",
+          "note": "Cut into larger chunks; no fine dicing needed.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "6d88c4ac-890f-58eb-997e-5505ba93be17",
+          "name": "Water",
+          "quantity": 1,
+          "unit": "kettle",
+          "note": "Boil before starting.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "4334a89b-42e5-5aca-8f8e-7e91b65eb59b",
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "eb24665a-b2be-5b76-974e-51c8b052925e",
+          "name": "Dried thyme or mixed herbs",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Use whichever we have.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "65318fb8-d52a-5ded-a7f5-84b2b3fe7025",
+          "name": "Chicken stock cubes",
+          "quantity": 3,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "75959cce-45b9-5541-9e97-b66480f658d3",
+          "name": "Canned cannellini beans",
+          "quantity": 2,
+          "unit": "cans",
+          "note": "Ready-cooked canned beans.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "50f347a2-1171-5310-bf4c-bb7dd86f80a9",
+          "name": "Ground black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "Mix up the meat if we fancy it",
+      "ingredients": [
+        {
+          "id": "bc42be58-f020-5c32-8551-9a205e6ce17f",
+          "name": "Pork loin steaks",
+          "quantity": null,
+          "unit": "",
+          "note": "Optional, alongside or in place of some sausages. Cut into pieces if using.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e5430a21-b34d-5f07-b809-f6060f0ed250",
+          "name": "Chicken",
+          "quantity": null,
+          "unit": "",
+          "note": "Optional, alongside or in place of some sausages. Cut into pieces if using.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve",
+      "ingredients": [
+        {
+          "id": "71c38f65-d722-5a1b-95cc-c8176b87a32a",
+          "name": "Boiled rice or garlic bread",
+          "quantity": null,
+          "unit": "",
+          "note": "Whichever we fancy.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5a8a5c9c-df2b-5b29-b82e-3ee496a9f8d1",
+          "name": "Parmesan",
+          "quantity": null,
+          "unit": "",
+          "note": "If we feel like it.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "97144dab-8700-5828-bdf2-b12418b6e37f",
+      "title": "Keep the chopping easy",
+      "description": "Roughly chop the brown onions and the head of garlic. Cut the carrots into larger chunks. If we’re adding pork loin or chicken, cut that into pieces too. Boil a kettle of water.",
+      "ingredients": [
+        "Brown onions",
+        "Garlic",
+        "Carrots",
+        "Pork loin steaks",
+        "Chicken",
+        "Water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the stew bubbles, so don’t spend ages making everything match. Keep the carrots in larger chunks.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "a2f78e0d-d7a9-5b7c-ae6b-8cc8882f3e7a",
+      "title": "Brown the whole sausages",
+      "description": "Put the whole sausages in the pot on medium heat and brown them on as many sides as possible for 10 minutes, turning them as they cook. Don’t worry about a dark brown patch; that browning adds flavour.",
+      "ingredients": [
+        "Whole sausages"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "A good brown colour on several sides; they finish cooking in the stew.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "50a54db0-2c33-59c6-b228-9cad986d6fe4",
+      "title": "Add the vegetables and any extra meat",
+      "description": "Add the onions, garlic and chunky carrots. Add the optional pork loin or chicken now if we’re using it. Squish everything around with the sausages and cook for 10 minutes. We can just stick to the sausages if we want to keep things simple.",
+      "ingredients": [
+        "Brown onions",
+        "Garlic",
+        "Carrots",
+        "Pork loin steaks",
+        "Chicken"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ae97a9ef-07d2-578a-81f9-8f3769178b02",
+      "title": "Add the water, herbs and stock",
+      "description": "Pour in the kettle of boiled water. Add the bay leaves, dried thyme or mixed herbs, and chicken stock cubes. Mix it around and bring it to a bubble.",
+      "ingredients": [
+        "Water",
+        "Bay leaves",
+        "Dried thyme or mixed herbs",
+        "Chicken stock cubes"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "48b138b7-fdad-5e6f-adfc-3a96be48b946",
+      "title": "Cover and let it bubble",
+      "description": "Put the lid on, turn the heat down to low and let it bubble gently for 30 minutes.",
+      "ingredients": [],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "Low heat · covered",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "13992c7a-8e9e-5f6f-a5ad-da5932a54e30",
+      "title": "Add the cannellini beans",
+      "description": "Open the pot and add the canned cannellini beans. Let it bubble gently for another 15 minutes with the lid off, until the broth becomes silky and thick. Stir from time to time so it doesn’t catch on the bottom.",
+      "ingredients": [
+        "Canned cannellini beans"
+      ],
+      "durationMinutes": 15,
+      "timerMinutes": 15,
+      "heat": "Gentle bubbles · uncovered",
+      "tip": "",
+      "doneness": "Silky, thick broth and all the meat cooked through.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "666c51f5-e1be-596d-a3c0-f3c08da5da67",
+      "title": "Finish with pepper",
+      "description": "Add the ground black pepper and mix it through. Fish out the bay leaves and throw them away. Check the sausages and any extra meat are fully cooked before serving.",
+      "ingredients": [
+        "Ground black pepper",
+        "Bay leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "A clean food thermometer in the centre of a sausage or thick piece of meat should read at least 75°C.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "5159a5fa-833c-5540-a6d3-d0f2b8c4c0e7",
+      "title": "Rice or garlic bread, and Parmesan if we fancy it",
+      "description": "Serve with boiled rice or garlic bread, and add Parmesan if we feel like it. This is for two dinners. Put the second dinner aside to cool and refrigerate. If we eat more than planned tonight, we can cook some extra sausages for the next dinner.",
+      "ingredients": [
+        "Boiled rice or garlic bread",
+        "Parmesan"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Keep it simple or mix up the meat",
+      "text": "Six whole sausages are the usual version. We can add pork loin, chicken or both, or use them in place of some sausages, depending on what we fancy."
+    },
+    {
+      "title": "Dried herbs",
+      "text": "Use 1 tablespoon dried thyme or mixed herbs, whichever we have."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "We ate a bit too much on the first night",
+      "text": "Cook some extra sausages separately, following their packet until cooked through, and add them to the second dinner when reheating that portion."
+    },
+    {
+      "title": "The broth needs a bit longer",
+      "text": "After adding the beans, let it bubble gently with the lid off until it becomes silky and thick. Stir so the bottom doesn’t catch."
+    }
+  ],
+  "storage": "Cool the second dinner quickly and refrigerate within 1–2 hours. Use within 2 days. Keep any saved rice separately and use it within 24 hours.",
+  "reheating": "Reheat the portion we’re eating once until steaming hot throughout. Cook any extra sausages fully before adding them to that portion.",
+  "foodSafety": "The sausages and any optional pork or chicken must be fully cooked through. Use a clean food thermometer to check the centre reaches at least 75°C.",
+  "servingSuggestion": "Boiled rice or garlic bread, with Parmesan if we fancy it. Six sausages make two dinners for both of us; extra sausages can help the second dinner go further.",
+  "glossary": [
+    "Brown",
+    "Simmer"
+  ]
+}

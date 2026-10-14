@@ -46,7 +46,7 @@
     "Measuring jug",
     "Clean food thermometer"
   ],
-  "advancePrep": "Make one bowl of ground spices and one of whole spices. Check the freezer for 4 ginger-garlic blocks before mincing fresh garlic and ginger. Boil some water before starting.",
+  "advancePrep": "Make one bowl of ground spices and one of whole spices. Check the freezer for 4 ginger-garlic blocks before chopping fresh garlic and ginger. Boil some water before starting. The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the curry bubbles, so don’t spend ages making everything match.",
   "importantNotes": "The ground spices go in with the chicken. The whole spices go in later with the passata and water. After the 30-minute simmer, lift the lid and stir carefully because the thick curry can splash.",
   "groups": [
     {
@@ -147,7 +147,7 @@
           "name": "Garlic",
           "quantity": 1,
           "unit": "head",
-          "note": "Mince with the fresh ginger, or replace both with 4 frozen ginger-garlic blocks for the full batch.",
+          "note": "Roughly chop with the fresh ginger, or replace both with 4 frozen ginger-garlic blocks for the full batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -157,7 +157,7 @@
           "name": "Ginger",
           "quantity": 50,
           "unit": "g",
-          "note": "Mince. Skip the fresh garlic and ginger if using the 4 freezer blocks.",
+          "note": "Roughly chop. Skip the fresh garlic and ginger if using the 4 freezer blocks.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -311,7 +311,7 @@
     {
       "id": "8d58e7c4-cddf-59b1-900b-ac27af807b44",
       "title": "Get the onions and chicken ready",
-      "description": "Chop the brown onions and the chicken. If we have ginger-garlic blocks in the freezer, use 4 for the full batch. Otherwise, mince the head of garlic and the ginger. Chop the coriander and keep it for the end. Boil some water in the kettle.",
+      "description": "Chop the brown onions and the chicken. If we have ginger-garlic blocks in the freezer, use 4 for the full batch. Otherwise, roughly chop the head of garlic and the ginger. Chop the coriander and keep it for the end. Boil some water in the kettle.",
       "ingredients": [
         "Brown onions",
         "Garlic",
@@ -323,7 +323,7 @@
       "durationMinutes": 0,
       "timerMinutes": 0,
       "heat": "",
-      "tip": "Use either the freezer blocks or the fresh garlic and ginger.",
+      "tip": "Use either the freezer blocks or the fresh garlic and ginger. The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the curry bubbles, so don’t spend ages making everything match.",
       "doneness": "",
       "warning": "",
       "image": "",
