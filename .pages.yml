@@ -190,6 +190,11 @@ content:
     label: Recipe to link at the end — optional
     type: string
     description: Paste the recipe address name only, such as coconut-milk-pulao-rice. It must match a published recipe in this cookbook.
+  - name: servingRecipes
+    label: More side recipes to link at the end — optional
+    type: string
+    list: true
+    description: Add each side recipe's address name, such as guacamole. Every address must match a published recipe in this cookbook.
   - name: equipment
     label: Equipment needed
     type: string

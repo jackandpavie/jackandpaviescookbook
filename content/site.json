@@ -49,7 +49,11 @@
     "asian-pork-and-tofu-meatballs",
     "south-indian-coconut-chicken-curry",
     "butter-chicken",
-    "coconut-milk-pulao-rice"
+    "coconut-milk-pulao-rice",
+    "mexican-taco-fajita-enchilada-filling",
+    "guacamole",
+    "mexican-tomato-rice",
+    "pinto-beans"
   ],
   "collections": [
     {
@@ -76,7 +80,11 @@
         "asian-pork-and-tofu-meatballs",
         "south-indian-coconut-chicken-curry",
         "butter-chicken",
-        "coconut-milk-pulao-rice"
+        "coconut-milk-pulao-rice",
+        "mexican-taco-fajita-enchilada-filling",
+        "guacamole",
+        "mexican-tomato-rice",
+        "pinto-beans"
       ]
     },
     {
@@ -102,7 +110,11 @@
         "asian-pork-and-tofu-meatballs",
         "south-indian-coconut-chicken-curry",
         "butter-chicken",
-        "coconut-milk-pulao-rice"
+        "coconut-milk-pulao-rice",
+        "mexican-taco-fajita-enchilada-filling",
+        "guacamole",
+        "mexican-tomato-rice",
+        "pinto-beans"
       ]
     },
     {
@@ -127,7 +139,11 @@
         "asian-pork-and-tofu-meatballs",
         "south-indian-coconut-chicken-curry",
         "butter-chicken",
-        "coconut-milk-pulao-rice"
+        "coconut-milk-pulao-rice",
+        "mexican-taco-fajita-enchilada-filling",
+        "guacamole",
+        "mexican-tomato-rice",
+        "pinto-beans"
       ]
     }
   ],

@@ -1,0 +1,155 @@
+{
+  "slug": "pinto-beans",
+  "aliases": [],
+  "title": "Pinto Beans",
+  "description": "The quick little bean side: one can of whichever beans we have, garlic powder and a sprinkle of salt. Enough for the two of us at one dinner.",
+  "category": "Dinner",
+  "cuisine": "Mexican-inspired",
+  "mainIngredient": "Beans",
+  "tags": [
+    "Beans",
+    "Pinto beans",
+    "Side dish",
+    "Quick meals"
+  ],
+  "dietaryTags": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "difficulty": "Nice and simple",
+  "prepMinutes": 2,
+  "cookMinutes": 5,
+  "restMinutes": 0,
+  "servings": 2,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/pinto-beans-reference.jpg",
+  "imageAlt": "Reference photograph of cooked beans with herbs and a lime wedge in a pale stone bowl.",
+  "imageCaption": "Reference photograph · beans with herbs and lime variation · serving inspiration",
+  "imageCredit": "Anna Tarazevich / Pexels",
+  "imageSource": "https://www.pexels.com/photo/a-bowl-of-cooked-beans-with-lime-garnish-8479384/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 65%",
+  "imageZoom": 1.02,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "They don’t have to be pinto beans. Use whichever can of beans we have or fancy.",
+  "story": "",
+  "equipment": [
+    "Small saucepan",
+    "Spoon",
+    "Teaspoon"
+  ],
+  "advancePrep": "Use ready-cooked canned beans. The heating time is a guide; follow the can and heat until steaming hot.",
+  "importantNotes": "",
+  "groups": [
+    {
+      "title": "For one dinner",
+      "ingredients": [
+        {
+          "id": "4a2936d7-0165-5ac4-942b-4ab703ab4781",
+          "name": "Canned pinto beans or beans of choice",
+          "quantity": 1,
+          "unit": "can",
+          "note": "Ready-cooked beans. Follow the can’s instructions about draining and heating.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "84366759-3091-547f-a35b-cc087d7b0b99",
+          "name": "Garlic powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "370a8bfc-7c0a-5a23-a4a8-af4f3d98baa1",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "A sprinkle.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1f706fea-a686-556a-bd19-7cdae16e19d7",
+          "name": "Water",
+          "quantity": null,
+          "unit": "",
+          "note": "A small splash only if needed to keep the beans from catching.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "e9d3ce47-b3f8-51e6-b798-6fa653ea82e9",
+      "title": "Get the beans bubbling",
+      "description": "Tip the canned beans into a small saucepan and heat on medium. Use their liquid, unless the can tells us to drain or rinse them; if needed, add a small splash of water so the beans can bubble without catching on the bottom.",
+      "ingredients": [
+        "Canned pinto beans or beans of choice",
+        "Water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium heat",
+      "tip": "These are already-cooked canned beans. Follow the heating instructions on the can.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "45d64662-c583-5457-90d4-0f34e4578c06",
+      "title": "Add the garlic powder and salt",
+      "description": "Once they start bubbling, add the garlic powder and a sprinkle of salt. Stir it through and keep heating until the beans are steaming hot, following the can’s heating instructions.",
+      "ingredients": [
+        "Garlic powder",
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "Beans steaming hot throughout.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "dd65cb86-fd54-5d1f-8d0b-dbf1c00c4b02",
+      "title": "Serve alongside dinner",
+      "description": "Serve the beans alongside whichever version of the filling and other sides we’re having. One can is enough for the two of us at this dinner.",
+      "ingredients": [],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [],
+  "troubleshooting": [],
+  "storage": "",
+  "reheating": "",
+  "foodSafety": "",
+  "servingSuggestion": "A side for 2 portions at one dinner, with tacos, fajitas, enchiladas or a Mexican bowl.",
+  "glossary": [],
+  "portionNote": "The full batch is a side for 2 portions at one dinner. Make another can for the second night if we want beans again.",
+  "servingRecipe": "mexican-taco-fajita-enchilada-filling"
+}

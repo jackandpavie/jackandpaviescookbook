@@ -1,0 +1,183 @@
+{
+  "slug": "guacamole",
+  "aliases": [],
+  "title": "Guacamole",
+  "description": "Four ripe avocados, a very finely minced clove of garlic, coriander and lime. Keep it a little lumpy and serve it from the Tupperware so there’s one less bowl to wash.",
+  "category": "Dinner",
+  "cuisine": "Mexican-inspired",
+  "mainIngredient": "Avocado",
+  "tags": [
+    "Avocado",
+    "Guacamole",
+    "Side dish",
+    "Two dinners"
+  ],
+  "dietaryTags": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "difficulty": "Nice and simple",
+  "prepMinutes": 10,
+  "cookMinutes": 0,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/guacamole-reference.jpg",
+  "imageAlt": "Reference photograph of chunky guacamole in a dark bowl with tortilla chips on a wooden table.",
+  "imageCaption": "Reference photograph · guacamole with tomato and chips variation · serving inspiration",
+  "imageCredit": "Los Muertos Crew / Pexels",
+  "imageSource": "https://www.pexels.com/photo/guacamole-and-chips-on-a-bowl-7601338/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "58% 70%",
+  "imageZoom": 1.03,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Mince the garlic as finely as you humanly can. We want it mixed through the guacamole without finding a big lump of raw garlic in a mouthful.",
+  "story": "",
+  "equipment": [
+    "Tupperware with a lid",
+    "Fork",
+    "Chopping board and knife"
+  ],
+  "advancePrep": "Use ripe avocados. If the Tupperware is big enough, mix straight into it and save washing another bowl.",
+  "importantNotes": "",
+  "groups": [
+    {
+      "title": "For both nights",
+      "ingredients": [
+        {
+          "id": "2d787bc1-a5e2-52e9-8d69-f7c0d9fd4846",
+          "name": "Ripe avocados",
+          "quantity": 4,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e884345c-9817-537a-ba8b-06d50d1ba05e",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "clove",
+          "note": "Smash, then mince as finely as possible.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "4a386909-467c-546a-ae51-34817dd39360",
+          "name": "Fresh coriander",
+          "quantity": 1,
+          "unit": "handful",
+          "note": "Finely chop the leaves.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8d2b6c12-52f6-52aa-871d-c5f5aad6c842",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "To taste.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "f6adc8c3-1c24-53f5-ae1a-91a28cd019ae",
+          "name": "Lime",
+          "quantity": 1,
+          "unit": "",
+          "note": "Use the juice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "f68f6571-f703-53a6-98d0-9021c7158b8d",
+      "title": "Make the garlic really fine",
+      "description": "Smash the garlic clove and mince it as finely as you humanly can. Finely chop the coriander leaves.",
+      "ingredients": [
+        "Garlic",
+        "Fresh coriander"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "947081a6-8419-5f57-9c4e-c6fe2ffa510d",
+      "title": "Mash the avocados",
+      "description": "Scoop the ripe avocados into the Tupperware and mash them with a fork. If the box is too small for mixing, use a bowl and transfer it afterwards.",
+      "ingredients": [
+        "Ripe avocados"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "92334c8b-1c55-51f9-8eb3-83dcb4e8a86a",
+      "title": "Mix it all together",
+      "description": "Add the finely minced garlic, coriander, lime juice and salt. Mix and mash until it is semi-lumpy. We don’t need it completely smooth.",
+      "ingredients": [
+        "Garlic",
+        "Fresh coriander",
+        "Lime",
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "A little lumpy, with the garlic and herbs mixed through.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ab1751f4-434d-5d75-b4d7-af3149cc0db1",
+      "title": "Serve from the box",
+      "description": "Serve the guacamole from the Tupperware so we don’t have another bowl to wash. This is enough for two nights; use a clean spoon and put the lid back on before returning what we’re saving to the fridge.",
+      "ingredients": [],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [],
+  "troubleshooting": [],
+  "storage": "Keep covered in the fridge between dinners and use a clean serving spoon. Put the saved guacamole back in the fridge promptly.",
+  "reheating": "",
+  "foodSafety": "",
+  "servingSuggestion": "Have alongside the tacos, fajitas, enchiladas or a Mexican bowl. This batch is for both nights.",
+  "glossary": [],
+  "portionNote": "The full batch is a side for two dinners for both of us: 4 side portions.",
+  "servingRecipe": "mexican-taco-fajita-enchilada-filling"
+}

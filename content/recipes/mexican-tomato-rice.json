@@ -1,0 +1,271 @@
+{
+  "slug": "mexican-tomato-rice",
+  "aliases": [],
+  "title": "Mexican Rice",
+  "description": "A little rice side for the Mexican dinner. Choose tomato, or swap it for lime and coriander if that’s what we fancy.",
+  "category": "Rice dishes",
+  "cuisine": "Mexican-inspired",
+  "mainIngredient": "Rice",
+  "tags": [
+    "Rice",
+    "Tomato rice",
+    "Lime and coriander",
+    "Side dish"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Nice and simple",
+  "prepMinutes": 5,
+  "cookMinutes": 12,
+  "restMinutes": 10,
+  "servings": 2,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/mexican-tomato-rice-reference.jpg",
+  "imageAlt": "Reference photograph of fluffy seasoned rice in a simple white serving dish.",
+  "imageCaption": "Reference photograph · seasoned rice variation · serving inspiration",
+  "imageCredit": "Audy of Course / Pexels",
+  "imageSource": "https://www.pexels.com/photo/rice-in-a-dish-20500495/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 60%",
+  "imageZoom": 1.02,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "When the 12 minutes are up, switch the stove off and leave the lid alone for another 10. Then gently fluff it with a fork. Squishing it around breaks the grains and makes the rice mushy.",
+  "story": "",
+  "equipment": [
+    "Medium saucepan with a well-fitting lid",
+    "Kettle",
+    "Sieve",
+    "Measuring jug",
+    "Measuring spoon",
+    "Fork"
+  ],
+  "advancePrep": "Boil the measured water. Wash the rice 3 times and drain it well before adding it to the bubbling pot.",
+  "importantNotes": "Both versions use 500 ml water, 300 g rice and 1 chicken or beef stock cube for the full batch. Cook covered for 12 minutes on low heat, then rest with the lid closed for 10 minutes.",
+  "groups": [
+    {
+      "title": "The rice base",
+      "ingredients": [
+        {
+          "id": "6f7b3745-021c-565d-beae-b94499d77f40",
+          "name": "Water",
+          "quantity": 500,
+          "unit": "ml",
+          "note": "Boil first.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "511799e3-b824-542d-833f-7dc8cd907f6f",
+          "name": "Chicken or beef stock cube",
+          "quantity": 1,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "25874ded-8821-5281-9d79-5cb2a0d2b6b7",
+          "name": "White rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": "Wash 3 times and drain.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "f7151ed6-f8ef-5cfc-814b-dc5817f1f171",
+      "title": "Wash the rice 3 times",
+      "description": "Wash the rice in cold water 3 times, then drain it well. We can do this while the flavoured stock comes to a boil.",
+      "ingredients": [
+        "White rice"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7b9b40ae-a6cc-5773-8019-a12a92c03dba",
+      "title": "Add the rice and cover",
+      "description": "Once the stock cube has dissolved and the pot is bubbling, add the washed, drained rice. Cover with the lid, turn the heat to low and cook for 12 minutes.",
+      "ingredients": [
+        "White rice"
+      ],
+      "durationMinutes": 12,
+      "timerMinutes": 12,
+      "heat": "Low heat · covered",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7bfd1553-6aa3-5421-bffb-d0025822b25a",
+      "title": "Switch off — don’t open the lid yet",
+      "description": "Turn off the stove and leave the lid closed. Let the rice rest for another 10 minutes.",
+      "ingredients": [],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Heat off · lid closed",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "40e78f7b-bbf4-5937-9cb3-3b7234ad8320",
+      "title": "Gently fluff it with a fork",
+      "description": "Now open the lid and gently fluff the rice with a fork. Don’t squish it around, because that breaks the grains and makes it mushy. Serve with the filling and whichever other sides we’re having.",
+      "ingredients": [],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Chicken or beef stock",
+      "text": "Use whichever stock cube we have or fancy."
+    },
+    {
+      "title": "Not in the mood for tomato rice?",
+      "text": "Pick the lime and coriander tab. For the full batch, replace the tablespoon of tomato paste with the juice of 1 lime and a handful of chopped coriander leaves."
+    }
+  ],
+  "troubleshooting": [],
+  "storage": "Cool saved rice quickly, refrigerate promptly and use within 24 hours.",
+  "reheating": "Reheat saved rice once until steaming hot throughout.",
+  "foodSafety": "",
+  "servingSuggestion": "Two dinner portions, with maybe an extra lunch for you. Serve with the filling, guacamole or beans; choose whichever sides we fancy.",
+  "glossary": [
+    "Boil"
+  ],
+  "portionNote": "The full batch is for 2 portions at one dinner, with maybe an extra lunch for you. Make another batch for the second dinner if needed.",
+  "choiceHeading": "Tomato, or lime and coriander?",
+  "choiceIntro": "Pick the flavour for tonight. The rice, water and stock cube stay the same.",
+  "servingRecipe": "mexican-taco-fajita-enchilada-filling",
+  "recipeOptions": [
+    {
+      "id": "tomato",
+      "slug": "mexican-tomato-rice",
+      "label": "Tomato rice",
+      "description": "Tomato paste and a stock cube flavour the rice. This is the usual tomato version.",
+      "groups": [
+        {
+          "title": "Tomato flavour",
+          "ingredients": [
+            {
+              "id": "6c225a9a-562a-5eb1-b999-4281d58b740e",
+              "name": "Tomato paste",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "251b8ba0-5352-5bc7-826d-e9115d59a812",
+          "title": "Make the tomato stock",
+          "description": "Boil the measured water — 500 ml for the full batch — and pour it into a medium saucepan. Add the tomato paste and the chicken or beef stock cube. Let it boil, stirring until the cube dissolves.",
+          "ingredients": [
+            "Water",
+            "Tomato paste",
+            "Chicken or beef stock cube"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "afterSteps": []
+    },
+    {
+      "id": "lime-coriander",
+      "slug": "mexican-lime-and-coriander-rice",
+      "label": "Lime and coriander rice",
+      "description": "Skip the tomato paste and use the juice of a lime and a handful of chopped coriander instead.",
+      "groups": [
+        {
+          "title": "Lime and coriander flavour",
+          "ingredients": [
+            {
+              "id": "85ebea97-03fa-5e3c-8927-8384c1217ba3",
+              "name": "Lime",
+              "quantity": 1,
+              "unit": "",
+              "note": "Use the juice.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "cb8b686e-d1fe-559f-ae52-15bdbf41b2ad",
+              "name": "Fresh coriander",
+              "quantity": 1,
+              "unit": "handful",
+              "note": "Chop the leaves.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "c6caf307-1c5d-559c-9b02-619baddbcc08",
+          "title": "Make the lime and coriander stock",
+          "description": "Boil the measured water — 500 ml for the full batch — and pour it into a medium saucepan. Add the chicken or beef stock cube, the lime juice and the chopped coriander. Let it boil, stirring until the cube dissolves. We’re using the lime and coriander instead of the tomato paste.",
+          "ingredients": [
+            "Water",
+            "Chicken or beef stock cube",
+            "Lime",
+            "Fresh coriander"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "afterSteps": []
+    }
+  ]
+}

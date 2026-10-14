@@ -8,6 +8,8 @@ for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/re
  const f='content/recipes/'+name;let source;try{source=JSON.parse(fs.readFileSync(f,'utf8'));}catch{fail(f,'Invalid JSON');continue;}
  if(!source.published)continue;
  if(source.servingRecipe)recipeLinks.push([f,source.servingRecipe]);
+ if(source.servingRecipes!=null&&!Array.isArray(source.servingRecipes))fail(f,'Serving recipe links must be a list');
+ for(const slug of arr(source.servingRecipes))recipeLinks.push([f,slug]);
  if(source.recipeOptions!=null&&!Array.isArray(source.recipeOptions)){fail(f,'Recipe options must be a list');continue;}
  const optionIds=new Set();
  if(arr(source.recipeOptions).length&&source.recipeOptions[0]?.slug!==source.slug)fail(f,'The first option must use the main recipe address');

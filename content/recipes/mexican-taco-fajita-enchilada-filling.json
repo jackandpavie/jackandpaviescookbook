@@ -1,0 +1,1149 @@
+{
+  "slug": "mexican-taco-fajita-enchilada-filling",
+  "aliases": [],
+  "title": "Mexican Taco, Fajita and Enchilada Filling + Sides",
+  "description": "Make the filling once, put half away for tomorrow, then choose tacos, fajitas, enchiladas or a Mexican bowl. Pick whichever sides we fancy from the links at the end.",
+  "category": "Dinner",
+  "cuisine": "Mexican-inspired",
+  "mainIngredient": "Mince",
+  "tags": [
+    "Pork mince",
+    "Turkey mince",
+    "Beef mince",
+    "Chicken mince",
+    "Tacos",
+    "Fajitas",
+    "Enchiladas",
+    "Two dinners"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Nice and simple",
+  "prepMinutes": 15,
+  "cookMinutes": 25,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/mexican-taco-fajita-enchilada-filling-reference.jpg",
+  "imageAlt": "Reference photograph of crisp folded tacos filled with beef and melted cheese on a dark surface.",
+  "imageCaption": "Reference photograph · beef-and-cheese taco variation · serving inspiration",
+  "imageCredit": "Diamond Multimedia Films / Pexels",
+  "imageSource": "https://www.pexels.com/photo/taco-with-beef-and-cheese-filling-on-black-surface-9993709/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "45% 75%",
+  "imageZoom": 1.05,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Put tomorrow’s half in a Tupperware as soon as the filling is ready. Then we can have a different version on the second night without cooking the whole thing again.",
+  "story": "",
+  "equipment": [
+    "Large frying pan",
+    "Wooden spoon",
+    "Chopping board and knife",
+    "Tupperware for the second dinner",
+    "Oven and baking dish — for tacos or enchiladas",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Choose the version for tonight, then pick whichever sides we fancy. Fresh choices start with the full mince batch. The chilled-filling choices start with the cooked half saved in the fridge.",
+  "importantNotes": "Tacos and enchiladas bake at 180°C. With freshly cooked filling, bake for 15 minutes with cheese on from the start. With chilled filling, wet the shells or tortillas first and bake for 30 minutes, adding cheese halfway through. Check the centre is steaming hot before serving.",
+  "groups": [],
+  "steps": [],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Pick the mince",
+      "text": "Use 1 kg pork, turkey, beef or chicken mince for the full batch. Any of these works with the same filling method."
+    },
+    {
+      "title": "No peppers?",
+      "text": "Leave them out. If we have them, use 2 bell peppers of whatever colour is available."
+    },
+    {
+      "title": "Pick the seasoning",
+      "text": "Use 2 packets of taco or fajita seasoning for the full batch."
+    }
+  ],
+  "troubleshooting": [],
+  "storage": "Cool the reserved half quickly, refrigerate within 1–2 hours and use within 2 days.",
+  "reheating": "Reheat the saved filling once until steaming hot throughout. The chilled taco and enchilada choices show the longer oven method. For fajitas or bowls, heat the saved filling through separately before serving.",
+  "foodSafety": "All four types of mince need to be fully cooked. Check the thickest part with a clean food thermometer: at least 75°C.",
+  "servingSuggestion": "Choose whichever sides we want. Guacamole is a two-night batch; each rice batch and the beans are for one dinner for both of us.",
+  "glossary": [
+    "Brown"
+  ],
+  "portionNote": "Fresh-filling choices make 4 portions across two dinners: use half tonight and save half. The chilled-filling choices use that saved half for 2 portions on the second night.",
+  "choiceHeading": "What are we making tonight?",
+  "choiceIntro": "The filling works for all four dinners. Use a fresh-filling choice when making the big batch, or a chilled-filling choice for the saved half.",
+  "servingRecipes": [
+    "guacamole",
+    "mexican-tomato-rice",
+    "mexican-lime-and-coriander-rice",
+    "pinto-beans"
+  ],
+  "recipeOptions": [
+    {
+      "id": "bowl",
+      "slug": "mexican-taco-fajita-enchilada-filling",
+      "label": "Mexican bowl",
+      "description": "Make the full filling, save half and have tonight’s half with whichever sides we fancy.",
+      "groups": [
+        {
+          "title": "The full filling — for both nights",
+          "ingredients": [
+            {
+              "id": "45ba9aae-b664-5995-a7e0-562a1e597a21",
+              "name": "Mince of choice",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Choose pork, turkey, beef or chicken mince. Use one.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "818d2e81-90ff-59c9-9af1-deac5148ec8f",
+              "name": "Brown or red onion",
+              "quantity": 1,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "80402376-77a5-518c-8bd9-a07536b12a80",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4e91dbb8-c387-5a6c-80ba-cb6b4f2f2983",
+              "name": "Bell peppers",
+              "quantity": 2,
+              "unit": "",
+              "note": "Any colour. Chop if using.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "d5c8b754-523e-537f-9fec-2606359d3967",
+              "name": "Taco or fajita seasoning",
+              "quantity": 2,
+              "unit": "packets",
+              "note": "Use whichever seasoning we fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "8eacb604-f8c6-567e-be04-6dda6bed659b",
+          "title": "Get everything chopped",
+          "description": "Choose pork, turkey, beef or chicken mince. Chop the onion and the head of garlic. If we’re using bell peppers, chop those too; any colour is fine.",
+          "ingredients": [
+            "Mince of choice",
+            "Brown or red onion",
+            "Garlic",
+            "Bell peppers"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "42e42f04-5c90-57d1-bf7e-5f03b84cd18d",
+          "title": "Start browning the mince",
+          "description": "Heat the pan on medium-high heat and add the mince. Break it up and let it brown for about 5 minutes, until it is roughly halfway browned.",
+          "ingredients": [
+            "Mince of choice"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium-high heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "666db78f-5080-55b6-ac9d-19c128cb3e8e",
+          "title": "Add the onion and garlic",
+          "description": "Add the chopped onion and garlic, turn the heat down to medium and cook for 10 minutes, squishing the mince around and breaking up any big lumps.",
+          "ingredients": [
+            "Brown or red onion",
+            "Garlic"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "25434e5f-3eab-5300-b76c-dd6816ee2b1b",
+          "title": "Season it and add the peppers",
+          "description": "Add the taco or fajita seasoning — 2 packets for the full batch — and squish it through. Add the bell peppers if we’re using them and cook for another 10 minutes. If we’re skipping the peppers, give the seasoned mince the same cooking time. Check the mince is fully cooked through.",
+          "ingredients": [
+            "Taco or fajita seasoning",
+            "Bell peppers"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Mince fully cooked through; a clean food thermometer should read at least 75°C.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4d329d9d-2a65-5b45-a08f-2b65c7df29db",
+          "title": "Put half away right now",
+          "description": "The filling is ready. Put half into a clean Tupperware for the second dinner, and use the other half tonight. Cool the saved filling quickly and refrigerate it promptly.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "This is the full four-portion batch: two portions tonight and two saved for the next dinner.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "32bcf25a-f129-5f9a-8f34-72279b0a1935",
+          "title": "Make the bowls",
+          "description": "Spoon tonight’s half of the filling into bowls and add whichever sides we’re having. The guacamole, both rice options and beans are linked at the end of this card.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "tacos-fresh",
+      "slug": "mexican-taco-fajita-enchilada-filling-fresh-tacos",
+      "label": "Tacos · fresh filling",
+      "description": "Make the full batch, save half and bake tonight’s tacos for 15 minutes at 180°C, with cheese on from the start.",
+      "cookMinutes": 40,
+      "groups": [
+        {
+          "title": "The full filling — for both nights",
+          "ingredients": [
+            {
+              "id": "45ba9aae-b664-5995-a7e0-562a1e597a21",
+              "name": "Mince of choice",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Choose pork, turkey, beef or chicken mince. Use one.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "818d2e81-90ff-59c9-9af1-deac5148ec8f",
+              "name": "Brown or red onion",
+              "quantity": 1,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "80402376-77a5-518c-8bd9-a07536b12a80",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4e91dbb8-c387-5a6c-80ba-cb6b4f2f2983",
+              "name": "Bell peppers",
+              "quantity": 2,
+              "unit": "",
+              "note": "Any colour. Chop if using.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "d5c8b754-523e-537f-9fec-2606359d3967",
+              "name": "Taco or fajita seasoning",
+              "quantity": 2,
+              "unit": "packets",
+              "note": "Use whichever seasoning we fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s version",
+          "ingredients": [
+            {
+              "id": "6b623c3d-4221-5239-8a1d-f9f7a46d74f9",
+              "name": "Soft taco shells",
+              "quantity": null,
+              "unit": "",
+              "note": "Enough for tonight’s dinner.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2259ebbf-3ad3-5f48-9bd8-0f36264b91a9",
+              "name": "Favourite cheese blend",
+              "quantity": null,
+              "unit": "",
+              "note": "A generous sprinkle.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "8eacb604-f8c6-567e-be04-6dda6bed659b",
+          "title": "Get everything chopped",
+          "description": "Choose pork, turkey, beef or chicken mince. Chop the onion and the head of garlic. If we’re using bell peppers, chop those too; any colour is fine.",
+          "ingredients": [
+            "Mince of choice",
+            "Brown or red onion",
+            "Garlic",
+            "Bell peppers"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "42e42f04-5c90-57d1-bf7e-5f03b84cd18d",
+          "title": "Start browning the mince",
+          "description": "Heat the pan on medium-high heat and add the mince. Break it up and let it brown for about 5 minutes, until it is roughly halfway browned.",
+          "ingredients": [
+            "Mince of choice"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium-high heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "666db78f-5080-55b6-ac9d-19c128cb3e8e",
+          "title": "Add the onion and garlic",
+          "description": "Add the chopped onion and garlic, turn the heat down to medium and cook for 10 minutes, squishing the mince around and breaking up any big lumps.",
+          "ingredients": [
+            "Brown or red onion",
+            "Garlic"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "25434e5f-3eab-5300-b76c-dd6816ee2b1b",
+          "title": "Season it and add the peppers",
+          "description": "Add the taco or fajita seasoning — 2 packets for the full batch — and squish it through. Add the bell peppers if we’re using them and cook for another 10 minutes. If we’re skipping the peppers, give the seasoned mince the same cooking time. Check the mince is fully cooked through.",
+          "ingredients": [
+            "Taco or fajita seasoning",
+            "Bell peppers"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Mince fully cooked through; a clean food thermometer should read at least 75°C.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4d329d9d-2a65-5b45-a08f-2b65c7df29db",
+          "title": "Put half away right now",
+          "description": "The filling is ready. Put half into a clean Tupperware for the second dinner, and use the other half tonight. Cool the saved filling quickly and refrigerate it promptly.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "This is the full four-portion batch: two portions tonight and two saved for the next dinner.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "35db203a-23ae-5fe2-9cf1-67477c0b3139",
+          "title": "Get the oven ready",
+          "description": "Preheat the oven to 180°C.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "81606cc3-f7a1-5e98-8ed5-d2583d91e936",
+          "title": "Fill them and add the cheese",
+          "description": "Line the soft taco shells in a baking dish and spoon tonight’s half of the filling evenly into them. Sprinkle generously with the favourite cheese blend.",
+          "ingredients": [
+            "Soft taco shells",
+            "Favourite cheese blend"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "91d84527-f465-534f-bdcf-c9eb15069be0",
+          "title": "Bake for 15 minutes",
+          "description": "Bake at 180°C for 15 minutes, until the cheese is melted and the filling is hot. Serve with whichever sides we fancy.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "Melted cheese and hot filling.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "tacos-chilled",
+      "slug": "mexican-taco-fajita-enchilada-filling-chilled-tacos",
+      "label": "Tacos · chilled filling",
+      "description": "Use the saved half straight from the fridge. Wet the shells and bake for 30 minutes at 180°C, adding cheese after the first 15 minutes.",
+      "servings": 2,
+      "prepMinutes": 5,
+      "cookMinutes": 30,
+      "groups": [
+        {
+          "title": "For tonight’s version",
+          "ingredients": [
+            {
+              "id": "5ed8f1ca-5831-5666-b4a4-635ecc85fc21",
+              "name": "Saved cooked filling",
+              "quantity": 0.5,
+              "unit": "batch",
+              "note": "The half saved from the 1 kg mince batch; already cooked and refrigerated. This serves two.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6b623c3d-4221-5239-8a1d-f9f7a46d74f9",
+              "name": "Soft taco shells",
+              "quantity": null,
+              "unit": "",
+              "note": "Enough for tonight’s dinner.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2259ebbf-3ad3-5f48-9bd8-0f36264b91a9",
+              "name": "Favourite cheese blend",
+              "quantity": null,
+              "unit": "",
+              "note": "A generous sprinkle.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "5ddf9f34-f5c4-5cef-aff4-cb5163a615fd",
+              "name": "Water for dipping the shells",
+              "quantity": null,
+              "unit": "",
+              "note": "Briefly wet the shells or tortillas before filling them.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [],
+      "afterSteps": [
+        {
+          "id": "a09e92c3-ec45-53bb-937c-396c0c7e696d",
+          "title": "Use the saved filling",
+          "description": "Use the cooked half saved in the fridge for tonight’s two portions. Preheat the oven to 180°C. Keep the filling chilled until we’re ready to assemble.",
+          "ingredients": [
+            "Saved cooked filling"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "0bc4b471-f94f-51d3-a726-d6c1a0552324",
+          "title": "Wet the shells and add the cold filling",
+          "description": "Briefly wet the soft taco shells in water, line them in the baking dish and divide the cold filling between them. Keep the cheese aside for now.",
+          "ingredients": [
+            "Saved cooked filling",
+            "Soft taco shells",
+            "Water for dipping the shells"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "dbf4b6e4-fa7c-5e18-9209-e419b309ed51",
+          "title": "Bake for the first 15 minutes",
+          "description": "Bake at 180°C for 15 minutes without the cheese. This is the first half of the 30-minute bake.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "7e31b94b-4f9d-54f6-810d-4ac64f2181d8",
+          "title": "Now add the cheese",
+          "description": "Carefully take the dish out and sprinkle generously with the favourite cheese blend.",
+          "ingredients": [
+            "Favourite cheese blend"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a22c0110-1282-548c-a230-37d912e9ccdc",
+          "title": "Bake for another 15 minutes",
+          "description": "Return the dish to the oven at 180°C for another 15 minutes, making 30 minutes in total. Check the filling in the centre is steaming hot throughout before serving. If it needs longer, keep heating until it is hot right through.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "The filling is steaming hot right through the centre. Serve with the sides we fancy.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "fajitas",
+      "slug": "mexican-taco-fajita-enchilada-filling-fajitas",
+      "label": "Fajitas",
+      "description": "Make the filling, save half and serve tonight’s half with tortillas and the sides we fancy.",
+      "groups": [
+        {
+          "title": "The full filling — for both nights",
+          "ingredients": [
+            {
+              "id": "45ba9aae-b664-5995-a7e0-562a1e597a21",
+              "name": "Mince of choice",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Choose pork, turkey, beef or chicken mince. Use one.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "818d2e81-90ff-59c9-9af1-deac5148ec8f",
+              "name": "Brown or red onion",
+              "quantity": 1,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "80402376-77a5-518c-8bd9-a07536b12a80",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4e91dbb8-c387-5a6c-80ba-cb6b4f2f2983",
+              "name": "Bell peppers",
+              "quantity": 2,
+              "unit": "",
+              "note": "Any colour. Chop if using.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "d5c8b754-523e-537f-9fec-2606359d3967",
+              "name": "Taco or fajita seasoning",
+              "quantity": 2,
+              "unit": "packets",
+              "note": "Use whichever seasoning we fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s version",
+          "ingredients": [
+            {
+              "id": "8425ba78-d9ee-5ed1-b499-d7b9580693b5",
+              "name": "Tortillas",
+              "quantity": null,
+              "unit": "",
+              "note": "Enough for tonight’s dinner.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "8eacb604-f8c6-567e-be04-6dda6bed659b",
+          "title": "Get everything chopped",
+          "description": "Choose pork, turkey, beef or chicken mince. Chop the onion and the head of garlic. If we’re using bell peppers, chop those too; any colour is fine.",
+          "ingredients": [
+            "Mince of choice",
+            "Brown or red onion",
+            "Garlic",
+            "Bell peppers"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "42e42f04-5c90-57d1-bf7e-5f03b84cd18d",
+          "title": "Start browning the mince",
+          "description": "Heat the pan on medium-high heat and add the mince. Break it up and let it brown for about 5 minutes, until it is roughly halfway browned.",
+          "ingredients": [
+            "Mince of choice"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium-high heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "666db78f-5080-55b6-ac9d-19c128cb3e8e",
+          "title": "Add the onion and garlic",
+          "description": "Add the chopped onion and garlic, turn the heat down to medium and cook for 10 minutes, squishing the mince around and breaking up any big lumps.",
+          "ingredients": [
+            "Brown or red onion",
+            "Garlic"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "25434e5f-3eab-5300-b76c-dd6816ee2b1b",
+          "title": "Season it and add the peppers",
+          "description": "Add the taco or fajita seasoning — 2 packets for the full batch — and squish it through. Add the bell peppers if we’re using them and cook for another 10 minutes. If we’re skipping the peppers, give the seasoned mince the same cooking time. Check the mince is fully cooked through.",
+          "ingredients": [
+            "Taco or fajita seasoning",
+            "Bell peppers"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Mince fully cooked through; a clean food thermometer should read at least 75°C.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4d329d9d-2a65-5b45-a08f-2b65c7df29db",
+          "title": "Put half away right now",
+          "description": "The filling is ready. Put half into a clean Tupperware for the second dinner, and use the other half tonight. Cool the saved filling quickly and refrigerate it promptly.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "This is the full four-portion batch: two portions tonight and two saved for the next dinner.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "d6d7a659-f6c4-536d-a19f-942db8ae3def",
+          "title": "Tortillas and whichever sides we fancy",
+          "description": "Serve tonight’s half of the filling with tortillas and whichever sides we want. Warm the tortillas following the packet if we like.",
+          "ingredients": [
+            "Tortillas"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "enchiladas-fresh",
+      "slug": "mexican-taco-fajita-enchilada-filling-fresh-enchiladas",
+      "label": "Enchiladas · fresh filling",
+      "description": "Roll tonight’s half into tortillas, sprinkle with cheese and bake for 15 minutes at 180°C. Save the other half for the second dinner.",
+      "cookMinutes": 40,
+      "groups": [
+        {
+          "title": "The full filling — for both nights",
+          "ingredients": [
+            {
+              "id": "45ba9aae-b664-5995-a7e0-562a1e597a21",
+              "name": "Mince of choice",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Choose pork, turkey, beef or chicken mince. Use one.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "818d2e81-90ff-59c9-9af1-deac5148ec8f",
+              "name": "Brown or red onion",
+              "quantity": 1,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "80402376-77a5-518c-8bd9-a07536b12a80",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4e91dbb8-c387-5a6c-80ba-cb6b4f2f2983",
+              "name": "Bell peppers",
+              "quantity": 2,
+              "unit": "",
+              "note": "Any colour. Chop if using.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "d5c8b754-523e-537f-9fec-2606359d3967",
+              "name": "Taco or fajita seasoning",
+              "quantity": 2,
+              "unit": "packets",
+              "note": "Use whichever seasoning we fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s version",
+          "ingredients": [
+            {
+              "id": "8425ba78-d9ee-5ed1-b499-d7b9580693b5",
+              "name": "Tortillas",
+              "quantity": null,
+              "unit": "",
+              "note": "Enough for tonight’s dinner.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2259ebbf-3ad3-5f48-9bd8-0f36264b91a9",
+              "name": "Favourite cheese blend",
+              "quantity": null,
+              "unit": "",
+              "note": "A generous sprinkle.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [
+        {
+          "id": "8eacb604-f8c6-567e-be04-6dda6bed659b",
+          "title": "Get everything chopped",
+          "description": "Choose pork, turkey, beef or chicken mince. Chop the onion and the head of garlic. If we’re using bell peppers, chop those too; any colour is fine.",
+          "ingredients": [
+            "Mince of choice",
+            "Brown or red onion",
+            "Garlic",
+            "Bell peppers"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "42e42f04-5c90-57d1-bf7e-5f03b84cd18d",
+          "title": "Start browning the mince",
+          "description": "Heat the pan on medium-high heat and add the mince. Break it up and let it brown for about 5 minutes, until it is roughly halfway browned.",
+          "ingredients": [
+            "Mince of choice"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium-high heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "666db78f-5080-55b6-ac9d-19c128cb3e8e",
+          "title": "Add the onion and garlic",
+          "description": "Add the chopped onion and garlic, turn the heat down to medium and cook for 10 minutes, squishing the mince around and breaking up any big lumps.",
+          "ingredients": [
+            "Brown or red onion",
+            "Garlic"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "25434e5f-3eab-5300-b76c-dd6816ee2b1b",
+          "title": "Season it and add the peppers",
+          "description": "Add the taco or fajita seasoning — 2 packets for the full batch — and squish it through. Add the bell peppers if we’re using them and cook for another 10 minutes. If we’re skipping the peppers, give the seasoned mince the same cooking time. Check the mince is fully cooked through.",
+          "ingredients": [
+            "Taco or fajita seasoning",
+            "Bell peppers"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Mince fully cooked through; a clean food thermometer should read at least 75°C.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4d329d9d-2a65-5b45-a08f-2b65c7df29db",
+          "title": "Put half away right now",
+          "description": "The filling is ready. Put half into a clean Tupperware for the second dinner, and use the other half tonight. Cool the saved filling quickly and refrigerate it promptly.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "This is the full four-portion batch: two portions tonight and two saved for the next dinner.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "5462ccac-d37c-50c9-ae9b-48923383a2fc",
+          "title": "Get the oven ready",
+          "description": "Preheat the oven to 180°C.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b8fc9828-f6a8-586a-a0c8-f723d291c753",
+          "title": "Fill them and add the cheese",
+          "description": "Spoon tonight’s half of the filling into the middle of the tortillas, roll them up and arrange them in a baking dish. Sprinkle generously with the favourite cheese blend.",
+          "ingredients": [
+            "Tortillas",
+            "Favourite cheese blend"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "7346100a-533d-583d-9d95-c758dc99b505",
+          "title": "Bake for 15 minutes",
+          "description": "Bake at 180°C for 15 minutes, until the cheese is melted and the filling is hot. Serve with whichever sides we fancy.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "Melted cheese and hot filling.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "enchiladas-chilled",
+      "slug": "mexican-taco-fajita-enchilada-filling-chilled-enchiladas",
+      "label": "Enchiladas · chilled filling",
+      "description": "Use the saved half. Wet the tortillas, roll them around the cold filling and bake for 30 minutes at 180°C, adding cheese halfway through.",
+      "servings": 2,
+      "prepMinutes": 5,
+      "cookMinutes": 30,
+      "groups": [
+        {
+          "title": "For tonight’s version",
+          "ingredients": [
+            {
+              "id": "5ed8f1ca-5831-5666-b4a4-635ecc85fc21",
+              "name": "Saved cooked filling",
+              "quantity": 0.5,
+              "unit": "batch",
+              "note": "The half saved from the 1 kg mince batch; already cooked and refrigerated. This serves two.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "8425ba78-d9ee-5ed1-b499-d7b9580693b5",
+              "name": "Tortillas",
+              "quantity": null,
+              "unit": "",
+              "note": "Enough for tonight’s dinner.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2259ebbf-3ad3-5f48-9bd8-0f36264b91a9",
+              "name": "Favourite cheese blend",
+              "quantity": null,
+              "unit": "",
+              "note": "A generous sprinkle.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "5ddf9f34-f5c4-5cef-aff4-cb5163a615fd",
+              "name": "Water for dipping the shells",
+              "quantity": null,
+              "unit": "",
+              "note": "Briefly wet the shells or tortillas before filling them.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [],
+      "afterSteps": [
+        {
+          "id": "223a22be-4e04-5762-8af1-9b00001fa170",
+          "title": "Use the saved filling",
+          "description": "Use the cooked half saved in the fridge for tonight’s two portions. Preheat the oven to 180°C. Keep the filling chilled until we’re ready to assemble.",
+          "ingredients": [
+            "Saved cooked filling"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6a887605-8f5b-5f9b-a52b-cbc95d8ec931",
+          "title": "Wet the shells and add the cold filling",
+          "description": "Briefly wet the tortillas in water, put the cold filling in the middle, roll them up and line them in the baking dish. Keep the cheese aside for now.",
+          "ingredients": [
+            "Saved cooked filling",
+            "Tortillas",
+            "Water for dipping the shells"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "dead831b-5eb4-50bf-9bb3-10da8bfe9628",
+          "title": "Bake for the first 15 minutes",
+          "description": "Bake at 180°C for 15 minutes without the cheese. This is the first half of the 30-minute bake.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "cb8815b5-ceef-5b78-b183-2ad03e9e4135",
+          "title": "Now add the cheese",
+          "description": "Carefully take the dish out and sprinkle generously with the favourite cheese blend.",
+          "ingredients": [
+            "Favourite cheese blend"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "bfdfa3f0-5b90-540c-8a4d-f8a6155f217e",
+          "title": "Bake for another 15 minutes",
+          "description": "Return the dish to the oven at 180°C for another 15 minutes, making 30 minutes in total. Check the filling in the centre is steaming hot throughout before serving. If it needs longer, keep heating until it is hot right through.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Oven · 180°C",
+          "tip": "",
+          "doneness": "The filling is steaming hot right through the centre. Serve with the sides we fancy.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    }
+  ]
+}
