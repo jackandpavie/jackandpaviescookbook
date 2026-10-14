@@ -1,0 +1,592 @@
+{
+  "slug": "south-indian-coconut-chicken-curry",
+  "aliases": [],
+  "title": "South Indian Coconut Chicken Curry",
+  "description": "Get the two little spice bowls ready first, then take your time with the onions. Finish the curry with light coconut milk and coriander, with enough for two dinners for both of us.",
+  "category": "Curries",
+  "cuisine": "South Indian",
+  "mainIngredient": "Chicken",
+  "tags": [
+    "Chicken",
+    "Coconut",
+    "Curry",
+    "Two dinners"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Take your time",
+  "prepMinutes": 20,
+  "cookMinutes": 78,
+  "restMinutes": 0,
+  "servings": 4,
+  "portionNote": "The full batch makes 4 portions: two dinners for both of us. The second dinner can have naan or parathas alongside the rice.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/south-indian-coconut-chicken-curry-reference.jpg",
+  "imageAlt": "Reference photograph of a creamy golden-brown chicken curry topped with fresh coriander in a simple white bowl.",
+  "imageCaption": "Reference photograph · chicken curry variation · serving inspiration",
+  "imageCredit": "I Own My Food Art / Pexels",
+  "imageSource": "https://www.pexels.com/photo/close-up-shot-of-delicious-chicken-curry-in-white-ceramic-bowl-8992836/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 50%",
+  "imageZoom": 1.03,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "If it still looks watery when you lift the lid, don’t panic. Let it bubble uncovered until you’re happy with the thickness, then add the coconut milk. We can have rice and poppadoms tonight, and naan or parathas with the rice for the next dinner.",
+  "story": "",
+  "equipment": [
+    "Large pot with a lid",
+    "Two small bowls",
+    "Chopping board and knife",
+    "Kettle",
+    "Wooden spoon",
+    "Measuring spoons",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Set out one bowl of whole spices and another of ground spices. Check the freezer for 4 ginger-garlic blocks before chopping fresh garlic and ginger. Allow about 70–80 minutes on the hob, plus any extra time needed to reduce the curry.",
+  "importantNotes": "Before starting, check the cinnamon amount with me; its quantity and size still need confirming. The first covered simmer is 20–30 minutes; check at 20 minutes. Any extra uncovered reducing happens before the coconut milk, which gets its own final 10 minutes of cooking.",
+  "groups": [
+    {
+      "title": "Bowl one — whole spices",
+      "ingredients": [
+        {
+          "id": "b3edb174-be73-5d61-b864-48ce79a23bbb",
+          "name": "Mustard seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "30c0aa9b-d62b-5a18-82e2-bcf7981f6308",
+          "name": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "ab94ec41-0748-5054-98f0-39c8ce278776",
+          "name": "Fennel seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "351bcae7-5e1f-5e80-99fd-286042f5dbf8",
+          "name": "Cinnamon stick",
+          "quantity": null,
+          "unit": "",
+          "note": "Amount and size to confirm before cooking.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c668e299-df5f-534c-bb2a-f3009cc3a206",
+          "name": "Cardamom pods",
+          "quantity": 4,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "0ef65574-73d0-5eae-8153-ae4eb1437343",
+          "name": "Cloves",
+          "quantity": 4,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "591ef8b9-14da-573c-bbef-2e191104d398",
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5b1c868b-f56a-5b8c-a1ee-6c577576bdd8",
+          "name": "Curry leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "Bowl two — ground spices",
+      "ingredients": [
+        {
+          "id": "1466028b-60ae-5e4a-a248-ae1caa35547d",
+          "name": "Turmeric powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "3b9b47d8-fc85-5e69-954e-3532231462de",
+          "name": "Special curry powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "Use the special curry powder we have.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "2b16168d-2b52-5386-a6e8-a0910f0f03da",
+          "name": "Garam masala",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "2315a85a-7294-5173-bd8f-6243be6c3ebc",
+          "name": "Kashmiri red chilli powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the curry",
+      "ingredients": [
+        {
+          "id": "9c4548ee-8155-5b4a-b3c1-acf9d95294e9",
+          "name": "Red or brown onions",
+          "quantity": 2,
+          "unit": "",
+          "note": "Or use 1 pack of shallots for the full batch.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "722dab35-201d-5d5a-99f2-77071bfdf72c",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Use with the fresh ginger, or replace both with 4 frozen ginger-garlic blocks for the full batch.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1765cc9b-f9e9-5403-9a98-dcc0c0ae7df8",
+          "name": "Ginger",
+          "quantity": 50,
+          "unit": "g",
+          "note": "Use with the head of garlic; skip both fresh ingredients if using the 4 frozen ginger-garlic blocks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8c49b4df-3f07-55b1-9778-f966b5fdcad7",
+          "name": "Vine-ripened tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Or 1 pack of salad tomatoes for the full batch. Vine-ripened ones are sweeter, so the curry tastes better.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "f885f8cd-b847-534a-a0fc-7c4112d71b99",
+          "name": "Fresh coriander",
+          "quantity": 1,
+          "unit": "bunch",
+          "note": "Chop the leaves.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a4f0aa3f-4d97-5f39-b89c-e7f261d97134",
+          "name": "Chicken",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "Chop into pieces.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8ef411ca-58e9-5051-a2f7-95b60f655e42",
+          "name": "Oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e455d7ad-6c52-58e3-86ad-2254d0ac17c4",
+          "name": "Salt for the onions",
+          "quantity": null,
+          "unit": "",
+          "note": "A sprinkle to help the onions release their juices.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a598c8bb-e18e-5c56-97af-67f79a47eb4c",
+          "name": "Water",
+          "quantity": 1,
+          "unit": "kettle",
+          "note": "Boil before starting. Kettles vary in size, so reduce the curry uncovered if it is still watery.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a627c3b7-c00d-5167-a874-91a359269f77",
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": "Add with the boiled water, then taste and adjust before the coconut milk.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b5aa1fc5-34ef-599e-9e18-34755f5c29fa",
+          "name": "Light coconut milk",
+          "quantity": 1,
+          "unit": "can",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve across two dinners",
+      "ingredients": [
+        {
+          "id": "8621cbe2-702f-5f9d-b49f-078ead66d591",
+          "name": "Cooked rice",
+          "quantity": null,
+          "unit": "",
+          "note": "To serve with both dinners.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "fc947e60-1de4-594b-9f70-4dd1bb5b72db",
+          "name": "Poppadoms",
+          "quantity": null,
+          "unit": "",
+          "note": "To serve with the first dinner.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "9f6bb6a0-052c-5345-bbf4-d9baa5de7135",
+          "name": "Naan or parathas",
+          "quantity": null,
+          "unit": "",
+          "note": "For the next dinner, alongside the rice.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "56aeedbb-7f93-5e1b-9d8a-5341be898e50",
+      "title": "Set out the whole spices",
+      "description": "Take a small bowl and add the mustard seeds, cumin seeds, fennel seeds, cinnamon, cardamom pods, cloves, bay leaves and a handful of curry leaves. Keep this bowl separate from the ground spices.",
+      "ingredients": [
+        "Mustard seeds",
+        "Cumin seeds",
+        "Fennel seeds",
+        "Cinnamon stick",
+        "Cardamom pods",
+        "Cloves",
+        "Bay leaves",
+        "Curry leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Check the cinnamon amount with me before starting.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "2f908cbd-7741-506c-b527-3520e9ab4a7d",
+      "title": "Make the second little spice bowl",
+      "description": "In another small bowl, put the turmeric, special curry powder, garam masala and Kashmiri red chilli powder. Put it aside for later; this bowl goes in after the chicken.",
+      "ingredients": [
+        "Turmeric powder",
+        "Special curry powder",
+        "Garam masala",
+        "Kashmiri red chilli powder"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "9556a142-bc00-5206-b393-d2e45366bb3f",
+      "title": "Get the chopping out of the way",
+      "description": "Chop the red or brown onions, or use a pack of shallots for the full batch. If we have ginger-garlic blocks in the freezer, use 4 for the full batch instead of the fresh garlic and ginger. Otherwise, mince the head of garlic and the ginger. Chop the tomatoes, the coriander leaves and the chicken. Boil a kettle of water. Keep the coriander aside for the end.",
+      "ingredients": [
+        "Red or brown onions",
+        "Garlic",
+        "Ginger",
+        "Vine-ripened tomatoes",
+        "Fresh coriander",
+        "Chicken",
+        "Water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Vine-ripened tomatoes are sweeter, so the curry tastes better. Salad tomatoes are fine if that’s what we have.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "d25d4a10-dd15-5177-812f-2826ace3feed",
+      "title": "Let the whole spices crackle",
+      "description": "Heat the oil in the pot on medium heat. Add the whole spices from the first bowl and let them crackle for 30 seconds.",
+      "ingredients": [
+        "Oil",
+        "Mustard seeds",
+        "Cumin seeds",
+        "Fennel seeds",
+        "Cinnamon stick",
+        "Cardamom pods",
+        "Cloves",
+        "Bay leaves",
+        "Curry leaves"
+      ],
+      "durationMinutes": 0.5,
+      "timerMinutes": 0.5,
+      "heat": "Medium heat",
+      "tip": "Stay by the pot for this bit; it only takes half a minute.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "61e6b2d6-cc05-5a73-a2ba-bf95f2ff3437",
+      "title": "Give the onions their time",
+      "description": "Add the onions, ginger and garlic, or the freezer blocks if that’s what we’re using. Sprinkle some salt over the onions so they release their juices and cook a bit quicker. Squish everything around on medium heat for 15 minutes, until the onions are soft and you can smell the aroma.",
+      "ingredients": [
+        "Red or brown onions",
+        "Garlic",
+        "Ginger",
+        "Salt for the onions"
+      ],
+      "durationMinutes": 15,
+      "timerMinutes": 15,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "The onions are soft and the pot smells lovely.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "fc196cdd-0466-5e2e-859d-8f95d230a06f",
+      "title": "Squish the tomatoes down",
+      "description": "Add the chopped tomatoes and squish them around for another 10 minutes, until they get soft and mushy.",
+      "ingredients": [
+        "Vine-ripened tomatoes"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "The tomatoes have softened into the onions.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "28bb7a10-e68c-5b66-b0e3-58123bad2f34",
+      "title": "Add the chicken",
+      "description": "Add the chopped chicken and squish it around for 10 minutes, until it starts turning white on the outside and releasing its juices.",
+      "ingredients": [
+        "Chicken"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium heat",
+      "tip": "This is the first cooking stage for the chicken; it still has the simmer and coconut-milk stage to go.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "00b3f3b5-0332-5cdb-b746-103e06a50336",
+      "title": "Now add the ground spices",
+      "description": "Tip in the second bowl of ground spices. Mix and squish everything around for another 2 minutes, until the spices start smelling nice.",
+      "ingredients": [
+        "Turmeric powder",
+        "Special curry powder",
+        "Garam masala",
+        "Kashmiri red chilli powder"
+      ],
+      "durationMinutes": 2,
+      "timerMinutes": 2,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bbce01aa-575b-5ad3-bf54-1735213cc1ef",
+      "title": "Add the water and let it bubble",
+      "description": "Pour in the kettle of boiled water and add the measured salt — ½ teaspoon for the full batch. Mix everything together, bring it to a bubble, cover with the lid and turn the heat down to low. Let it bubble gently for 20 minutes before checking it. The full covered simmer may take 20–30 minutes.",
+      "ingredients": [
+        "Water",
+        "Salt"
+      ],
+      "durationMinutes": 20,
+      "timerMinutes": 20,
+      "heat": "Low heat · covered",
+      "tip": "Use the 20-minute timer as the first check, then follow the next step.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "0c9c4af3-2a7c-5185-9fa7-f467a9549ece",
+      "title": "Check the thickness — don’t panic if it’s watery",
+      "description": "After 20 minutes, lift the lid and see whether the curry has started thickening slightly. If it needs more covered cooking, give it up to another 10 minutes. If it is still watery, leave the lid off and let it bubble until it thickens to the curry texture you like. Stir it from time to time so nothing catches on the bottom.",
+      "ingredients": [],
+      "durationMinutes": 0,
+      "timerMinutes": 10,
+      "heat": "Low heat; uncovered if reducing",
+      "tip": "The 10-minute timer is only for an extra covered simmer if needed. Uncovered reducing has no fixed time — go by the texture. We do this before adding the coconut milk.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7933278a-2b8a-5cca-8022-8082cfc69733",
+      "title": "Taste, then finish with coconut milk",
+      "description": "Once you’re happy with the thickness, check that the chicken is cooked through before tasting the sauce. Taste for salt and adjust if it needs it. Now add the can of light coconut milk and the chopped coriander leaves. Bring it back to a gentle boil and keep it bubbling for 10 minutes, stirring now and then. Then take it off the heat.",
+      "ingredients": [
+        "Salt",
+        "Light coconut milk",
+        "Fresh coriander"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Gentle boil",
+      "tip": "",
+      "doneness": "Chicken cooked through and the curry steaming hot throughout. A clean food thermometer in a thick piece of chicken should read 75°C for 30 seconds.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "2fc4ea37-b2ce-53a1-9e0d-f7ed81abc37d",
+      "title": "Dinner tonight, and another one sorted",
+      "description": "Serve with cooked rice and poppadoms. This makes four portions for two dinners for both of us. For the next dinner, we can have naan or parathas alongside the rice.",
+      "ingredients": [
+        "Cooked rice",
+        "Poppadoms",
+        "Naan or parathas"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Put the second dinner aside to cool and refrigerate promptly. Make the rice fresh for each dinner if that’s easier.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "The freezer blocks",
+      "text": "For the full batch, use 4 ginger-garlic blocks instead of the head of garlic and 50 g ginger. Use one option, rather than adding both."
+    },
+    {
+      "title": "Onions or shallots",
+      "text": "Use 2 red or brown onions, whichever we have, or 1 pack of shallots for the full batch."
+    },
+    {
+      "title": "The tomatoes",
+      "text": "Use 400 g vine-ripened tomatoes, or 1 pack of salad tomatoes for the full batch. Vine-ripened ones are sweeter and make the curry taste better."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Still too watery",
+      "text": "Don’t panic. Before adding the coconut milk, let the curry bubble uncovered until it starts thickening to the texture you like. Stir every so often so the bottom does not catch."
+    },
+    {
+      "title": "Not sure about the salt",
+      "text": "Start with the sprinkle on the onions and the measured ½ teaspoon with the water for the full batch. Taste again after reducing and before adding the coconut milk; add a little more only if it needs it."
+    }
+  ],
+  "storage": "Put the second dinner into smaller containers so it cools quickly. Refrigerate within 1–2 hours and use within 2 days. If saving cooked rice too, cool it quickly and use within 24 hours; otherwise cook fresh rice for the second dinner.",
+  "reheating": "Reheat only the curry we’re eating, once, until it is steaming hot all the way through. Stir so the chicken and sauce heat evenly. Serve with rice and naan or parathas for the second dinner.",
+  "foodSafety": "The chicken needs to be cooked all the way through before tasting the sauce or serving. Check a thick piece with a clean food thermometer: 75°C for 30 seconds. Turning white on the outside during the first 10 minutes is only an early cooking cue.",
+  "servingSuggestion": "Rice and poppadoms for the first dinner. For the next one, rice with naan or parathas. The full curry makes 4 portions across the two dinners.",
+  "glossary": [
+    "Simmer",
+    "Boil"
+  ]
+}
