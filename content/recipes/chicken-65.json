@@ -1,25 +1,29 @@
 {
   "slug": "chicken-65",
   "aliases": [],
-  "title": "Chicken 65",
-  "description": "Spicy yoghurt-marinated chicken, crisped in the air fryer. Four portions to have with dal, add to fried rice or serve as an extra side with a curry.",
+  "title": "Chicken 65 / Gobi 65",
+  "description": "Spicy yoghurt-marinated chicken, or cauliflower for Gobi 65 like from Saravana Bhavan, crisped in the air fryer. Four portions to have with dal, add to fried rice or serve beside a curry.",
   "category": "Comfort food",
   "cuisine": "South Indian-inspired",
-  "mainIngredient": "Chicken",
+  "mainIngredient": "Chicken or cauliflower",
   "tags": [
     "Chicken",
     "Air fryer",
     "Chicken 65",
     "Marinade",
-    "Curry leaves"
+    "Curry leaves",
+    "Gobi 65",
+    "Cauliflower"
   ],
-  "dietaryTags": [],
+  "dietaryTags": [
+    "Vegetarian option"
+  ],
   "difficulty": "Marinate ahead, then air fry",
   "prepMinutes": 15,
   "cookMinutes": 30,
   "restMinutes": 60,
   "servings": 4,
-  "portionNote": "The full batch uses 1 kg chicken breast and makes 4 portions. Serve with dal for a complete meal, add it to fried rice or have it as an extra side with a curry.",
+  "portionNote": "The full batch uses 1 kg chicken breast, or 1 kg cauliflower florets for Gobi 65, and makes 4 portions. Choose the version below so the ingredients and steps match.",
   "featured": true,
   "published": true,
   "demo": false,
@@ -47,340 +51,9 @@
     "Clean food thermometer"
   ],
   "advancePrep": "Defrost the 4 ginger-garlic cubes so they become a paste. Plan for at least 1 hour of fridge time after coating the chicken; a few hours or overnight is better.",
-  "importantNotes": "Taste and adjust the seasoned yoghurt mixture before adding flour or raw chicken. The chicken cubes should be similar sizes, so they cook evenly. Air fry in a single layer at 180°C for 30 minutes per batch, flipping and shaking halfway, then shaking again at the end. Use both baskets or extra batches if needed.",
-  "groups": [
-    {
-      "title": "For the marinade",
-      "ingredients": [
-        {
-          "id": "65d77533-fb98-51fd-861a-bf5f71df3676",
-          "name": "Ginger-garlic cubes",
-          "quantity": 4,
-          "unit": "",
-          "note": "Defrost fully so they become a paste.",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "255fa0b9-534d-50cb-871e-065179e3c544",
-          "name": "Kashmiri chilli powder",
-          "quantity": 1,
-          "unit": "tbsp",
-          "note": "",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "428af88b-b5b0-5d31-b952-6355652b77b9",
-          "name": "Coriander powder",
-          "quantity": 1,
-          "unit": "tbsp",
-          "note": "",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "191b2fcf-98d7-54c1-b005-ca19d25180d1",
-          "name": "Garam masala",
-          "quantity": 1,
-          "unit": "tsp",
-          "note": "",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "6a7924ab-7aa2-5d31-b949-90d66ae59d1d",
-          "name": "Black pepper powder",
-          "quantity": 2,
-          "unit": "tsp",
-          "note": "",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "2a635a1a-28ac-52d1-9df4-4d7be57f2b1b",
-          "name": "Salt",
-          "quantity": 1,
-          "unit": "tsp",
-          "note": "Taste the marinade before the flour and raw chicken go in; adjust if needed.",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "2482fb7c-71ae-5712-a9cf-c0e6fb014b9d",
-          "name": "Plain yoghurt",
-          "quantity": 4,
-          "unit": "tbsp",
-          "note": "Keep a tiny bit extra handy if the coating is too thick.",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "2d92c631-b49e-57a7-96b7-d634168aaa80",
-          "name": "Lime",
-          "quantity": 1,
-          "unit": "",
-          "note": "Use the juice.",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "70e58b9a-657b-57d0-a41c-c539adff837d",
-          "name": "Curry leaves",
-          "quantity": 1,
-          "unit": "handful",
-          "note": "",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "dc0d611e-3e96-5346-9a37-f65a196bb7a9",
-          "name": "Cornflour",
-          "quantity": 2,
-          "unit": "tbsp",
-          "note": "",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "9ed46f7b-ed90-5f0e-ab6a-6ff455d3228b",
-          "name": "Rice flour or ground rice",
-          "quantity": 1,
-          "unit": "tbsp",
-          "note": "Use whichever we have.",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        }
-      ]
-    },
-    {
-      "title": "Chicken and air fryer",
-      "ingredients": [
-        {
-          "id": "7e91bbab-2160-50cc-ad96-4d53a7b8cf3d",
-          "name": "Chicken breast",
-          "quantity": 1000,
-          "unit": "g",
-          "note": "Cut into similar-sized cubes.",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        },
-        {
-          "id": "83d84b7c-38bb-5f6b-ba51-c6e17996c2e4",
-          "name": "Oil spray",
-          "quantity": null,
-          "unit": "",
-          "note": "Spray the bottom of the baskets and the tops of the chicken pieces.",
-          "optional": false,
-          "scaling": "linear",
-          "roundTo": 0
-        }
-      ]
-    }
-  ],
-  "steps": [
-    {
-      "id": "8c1c558f-a5cf-53e0-86c8-7f33902e3cc3",
-      "title": "Make the seasoned yoghurt straight in the Tupperware",
-      "description": "Use a clean Tupperware instead of a bowl. Mix the defrosted ginger-garlic paste, Kashmiri chilli powder, coriander powder, garam masala, black pepper, salt, yoghurt, lime juice and curry leaves together.",
-      "ingredients": [
-        "Ginger-garlic cubes",
-        "Kashmiri chilli powder",
-        "Coriander powder",
-        "Garam masala",
-        "Black pepper powder",
-        "Salt",
-        "Plain yoghurt",
-        "Lime",
-        "Curry leaves"
-      ],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "8aba9214-9828-5f50-8b6a-f86f44421897",
-      "title": "Taste it before the flour or chicken goes in",
-      "description": "Give this mixture a taste now and adjust the salt and spices if needed. It should taste really salty and spicy — that will mellow out once it coats all the chicken. Do this taste test before adding the flours or raw chicken.",
-      "ingredients": [
-        "Ginger-garlic cubes",
-        "Kashmiri chilli powder",
-        "Coriander powder",
-        "Garam masala",
-        "Black pepper powder",
-        "Salt",
-        "Plain yoghurt",
-        "Lime",
-        "Curry leaves"
-      ],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "3040bfce-012d-59b2-aef0-073922ea9f88",
-      "title": "Mix in the two flours",
-      "description": "Add the cornflour and rice flour or ground rice. Mix them through the marinade until it’s all combined.",
-      "ingredients": [
-        "Cornflour",
-        "Rice flour or ground rice"
-      ],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "26cee802-719d-5974-8d13-29ad936075d9",
-      "title": "Cube the chicken and coat it properly",
-      "description": "Chop the chicken breast into similar-sized cubes and add it to the Tupperware. Mix it around until all the pieces are coated. If the mixture is too thick to coat them, add a tiny bit more yoghurt and mix again.",
-      "ingredients": [
-        "Chicken breast",
-        "Plain yoghurt"
-      ],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "",
-      "tip": "Similar-sized pieces will cook more evenly. Don’t taste the marinade after the raw chicken has gone in.",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "d70eb296-8a3e-522b-8274-a194399638c5",
-      "title": "Lid on and into the fridge",
-      "description": "Put the lid on and marinate in the fridge for at least 1 hour. A few hours or overnight is much better if we’ve planned ahead.",
-      "ingredients": [],
-      "durationMinutes": 0,
-      "timerMinutes": 60,
-      "heat": "In the fridge",
-      "tip": "The one-hour timer is the minimum marination time. Leave it longer in the fridge if we’ve got time.",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "25c88f57-18c3-5a5e-9c08-372a2fac98c9",
-      "title": "Oil the baskets and leave the chicken in one layer",
-      "description": "Spray the bottom of the air fryer baskets with oil. Lay the chicken pieces out in a single layer, then spray the tops with oil too. Use both baskets or cook in batches if we need more space; the pieces need room to crisp.",
-      "ingredients": [
-        "Chicken breast",
-        "Oil spray"
-      ],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "1bb27bcc-70f1-545f-a2cf-89ff01ab0ae0",
-      "title": "Air fry the first 15 minutes",
-      "description": "Put the chicken into the air fryer at 180°C and cook for the first 15 minutes.",
-      "ingredients": [
-        "Chicken breast"
-      ],
-      "durationMinutes": 15,
-      "timerMinutes": 15,
-      "heat": "Air fryer · 180°C",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "920f5b1c-7347-55dd-a690-d38d6f8fceda",
-      "title": "Halfway: flip and shake",
-      "description": "Flip the chicken pieces with tongs and give the baskets a shake so the pieces move around and crisp on the other sides.",
-      "ingredients": [],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "Halfway through the 30-minute air fry",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "6831d915-9d5c-54ca-95b7-1f87d1377481",
-      "title": "Another 15 minutes at 180°C",
-      "description": "Return the baskets to the air fryer and cook for another 15 minutes at 180°C. That makes 30 minutes of cooking altogether for this batch.",
-      "ingredients": [
-        "Chicken breast"
-      ],
-      "durationMinutes": 15,
-      "timerMinutes": 15,
-      "heat": "Air fryer · 180°C",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "8136ccf5-0d37-5a33-bb71-436d8d6fa529",
-      "title": "One last shake, then check the middle",
-      "description": "Give the baskets another shake at the end. Check a few of the thickest chicken pieces are fully cooked through before serving. We want crisp edges and hot, cooked chicken inside. If any pieces need more time, put them back in and check again.",
-      "ingredients": [
-        "Chicken breast"
-      ],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "",
-      "tip": "",
-      "doneness": "Crisp coating and chicken that is steaming hot through the middle. A clean food thermometer in a thick piece should read at least 75°C.",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    },
-    {
-      "id": "697e6411-7d35-5499-bc48-9375648890b1",
-      "title": "With dal, in fried rice or beside a curry",
-      "description": "This makes 4 portions. Serve with dal to make a complete meal, add the cooked pieces to fried rice or have them as an extra side with a curry. The dal and the cooked-chicken fried rice recipes are linked below.",
-      "ingredients": [],
-      "durationMinutes": 0,
-      "timerMinutes": 0,
-      "heat": "",
-      "tip": "",
-      "doneness": "",
-      "warning": "",
-      "image": "",
-      "imageAlt": ""
-    }
-  ],
+  "importantNotes": "Taste and adjust the seasoned yoghurt mixture before adding the flours. For the chicken version, do the taste test before the raw chicken goes in too. Air fry in a single layer at 200°C, turning and gently shaking halfway, then shaking at the end. Chicken gets 30 minutes per batch; check cauliflower earlier and stop when tender inside and crisp outside. Use both baskets or extra batches if needed.",
+  "groups": [],
+  "steps": [],
   "timeline": [],
   "substitutions": [
     {
@@ -394,11 +67,15 @@
     {
       "title": "Make it a meal",
       "text": "Serve Chicken 65 with the dal for a complete meal. It also works mixed into fried rice, or as an extra side with a curry."
+    },
+    {
+      "title": "Gobi 65, like from Saravana Bhavan",
+      "text": "Choose the Gobi 65 tab and swap the chicken for the same weight of cauliflower florets. Use the same marinade, keep the florets similar sizes and check for a tender middle and crisp edges. Small florets may cook sooner than the chicken."
     }
   ],
   "troubleshooting": [
     {
-      "title": "The chicken isn’t crisp enough",
+      "title": "The coating isn’t crisp enough",
       "text": "Leave space between the pieces, spray the tops with oil and remember the halfway flip and shake, plus another shake at the end. Use extra batches if needed instead of stacking the pieces."
     },
     {
@@ -407,12 +84,694 @@
     }
   ],
   "storage": "Marinate in the covered Tupperware in the fridge. If preparing ahead, a few hours or overnight is better. Cool cooked leftovers quickly and refrigerate within 1–2 hours; use within 2 days.",
-  "reheating": "Reheat only the portion we’re eating, once, until steaming hot throughout. If adding saved Chicken 65 to fried rice, heat the pieces through fully with the rice.",
-  "foodSafety": "Taste the seasoned yoghurt before adding flour or raw chicken. Once the chicken is in, don’t taste the raw marinade. Check the thickest chicken pieces reach at least 75°C before serving.",
-  "servingSuggestion": "Four portions. Serve with Simple Tarka Dal for a complete meal, add to fried rice or have as an extra side with a curry.",
+  "reheating": "Reheat only the portion we’re eating, once, until steaming hot throughout. If adding saved Chicken 65 or Gobi 65 to fried rice, heat the pieces through fully with the rice.",
+  "foodSafety": "Taste the seasoned yoghurt before adding the flours or raw chicken. For Chicken 65, check the thickest pieces reach at least 75°C before serving. For Gobi 65, cook until the florets are tender through the middle.",
+  "servingSuggestion": "Four portions of Chicken 65 or Gobi 65. Serve with dal, add to fried rice or have as an extra side with a curry. For the cauliflower version, use the cooked florets instead of chicken in the linked fried-rice recipe.",
   "servingRecipes": [
     "simple-tarka-dal",
     "gochujang-fried-rice-with-chicken"
   ],
-  "glossary": []
+  "glossary": [],
+  "choiceHeading": "Chicken 65 or Gobi 65?",
+  "choiceIntro": "Choose chicken or the cauliflower version, like from Saravana Bhavan. The ingredients and cooking steps follow the choice.",
+  "recipeOptions": [
+    {
+      "id": "chicken",
+      "slug": "chicken-65",
+      "label": "Chicken 65",
+      "description": "1 kg chicken breast for 4 portions, air fried at 200°C for 30 minutes per batch.",
+      "groups": [
+        {
+          "title": "For the marinade",
+          "ingredients": [
+            {
+              "id": "65d77533-fb98-51fd-861a-bf5f71df3676",
+              "name": "Ginger-garlic cubes",
+              "quantity": 4,
+              "unit": "",
+              "note": "Defrost fully so they become a paste.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "255fa0b9-534d-50cb-871e-065179e3c544",
+              "name": "Kashmiri chilli powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "428af88b-b5b0-5d31-b952-6355652b77b9",
+              "name": "Coriander powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "191b2fcf-98d7-54c1-b005-ca19d25180d1",
+              "name": "Garam masala",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6a7924ab-7aa2-5d31-b949-90d66ae59d1d",
+              "name": "Black pepper powder",
+              "quantity": 2,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2a635a1a-28ac-52d1-9df4-4d7be57f2b1b",
+              "name": "Salt",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "Taste the marinade before the flour and raw chicken go in; adjust if needed.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2482fb7c-71ae-5712-a9cf-c0e6fb014b9d",
+              "name": "Plain yoghurt",
+              "quantity": 4,
+              "unit": "tbsp",
+              "note": "Keep a tiny bit extra handy if the coating is too thick.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2d92c631-b49e-57a7-96b7-d634168aaa80",
+              "name": "Lime",
+              "quantity": 1,
+              "unit": "",
+              "note": "Use the juice.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "70e58b9a-657b-57d0-a41c-c539adff837d",
+              "name": "Curry leaves",
+              "quantity": 1,
+              "unit": "handful",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "dc0d611e-3e96-5346-9a37-f65a196bb7a9",
+              "name": "Cornflour",
+              "quantity": 2,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9ed46f7b-ed90-5f0e-ab6a-6ff455d3228b",
+              "name": "Rice flour or ground rice",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "Use whichever we have.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "Chicken and air fryer",
+          "ingredients": [
+            {
+              "id": "7e91bbab-2160-50cc-ad96-4d53a7b8cf3d",
+              "name": "Chicken breast",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Cut into similar-sized cubes.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "83d84b7c-38bb-5f6b-ba51-c6e17996c2e4",
+              "name": "Oil spray",
+              "quantity": null,
+              "unit": "",
+              "note": "Spray the bottom of the baskets and the tops of the chicken pieces.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "8c1c558f-a5cf-53e0-86c8-7f33902e3cc3",
+          "title": "Make the seasoned yoghurt straight in the Tupperware",
+          "description": "Use a clean Tupperware instead of a bowl. Mix the defrosted ginger-garlic paste, Kashmiri chilli powder, coriander powder, garam masala, black pepper, salt, yoghurt, lime juice and curry leaves together.",
+          "ingredients": [
+            "Ginger-garlic cubes",
+            "Kashmiri chilli powder",
+            "Coriander powder",
+            "Garam masala",
+            "Black pepper powder",
+            "Salt",
+            "Plain yoghurt",
+            "Lime",
+            "Curry leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8aba9214-9828-5f50-8b6a-f86f44421897",
+          "title": "Taste it before the flour or chicken goes in",
+          "description": "Give this mixture a taste now and adjust the salt and spices if needed. It should taste really salty and spicy — that will mellow out once it coats all the chicken. Do this taste test before adding the flours or raw chicken.",
+          "ingredients": [
+            "Ginger-garlic cubes",
+            "Kashmiri chilli powder",
+            "Coriander powder",
+            "Garam masala",
+            "Black pepper powder",
+            "Salt",
+            "Plain yoghurt",
+            "Lime",
+            "Curry leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "3040bfce-012d-59b2-aef0-073922ea9f88",
+          "title": "Mix in the two flours",
+          "description": "Add the cornflour and rice flour or ground rice. Mix them through the marinade until it’s all combined.",
+          "ingredients": [
+            "Cornflour",
+            "Rice flour or ground rice"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "26cee802-719d-5974-8d13-29ad936075d9",
+          "title": "Cube the chicken and coat it properly",
+          "description": "Chop the chicken breast into similar-sized cubes and add it to the Tupperware. Mix it around until all the pieces are coated. If the mixture is too thick to coat them, add a tiny bit more yoghurt and mix again.",
+          "ingredients": [
+            "Chicken breast",
+            "Plain yoghurt"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Similar-sized pieces will cook more evenly. Don’t taste the marinade after the raw chicken has gone in.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "d70eb296-8a3e-522b-8274-a194399638c5",
+          "title": "Lid on and into the fridge",
+          "description": "Put the lid on and marinate in the fridge for at least 1 hour. A few hours or overnight is much better if we’ve planned ahead.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 60,
+          "heat": "In the fridge",
+          "tip": "The one-hour timer is the minimum marination time. Leave it longer in the fridge if we’ve got time.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "25c88f57-18c3-5a5e-9c08-372a2fac98c9",
+          "title": "Oil the baskets and leave the chicken in one layer",
+          "description": "Spray the bottom of the air fryer baskets with oil. Lay the chicken pieces out in a single layer, then spray the tops with oil too. Use both baskets or cook in batches if we need more space; the pieces need room to crisp.",
+          "ingredients": [
+            "Chicken breast",
+            "Oil spray"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "1bb27bcc-70f1-545f-a2cf-89ff01ab0ae0",
+          "title": "Air fry the first 15 minutes",
+          "description": "Put the chicken into the air fryer at 200°C and cook for the first 15 minutes.",
+          "ingredients": [
+            "Chicken breast"
+          ],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Air fryer · 200°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "920f5b1c-7347-55dd-a690-d38d6f8fceda",
+          "title": "Halfway: flip and shake",
+          "description": "Flip the chicken pieces with tongs and give the baskets a shake so the pieces move around and crisp on the other sides.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Halfway through the 30-minute air fry",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6831d915-9d5c-54ca-95b7-1f87d1377481",
+          "title": "Another 15 minutes at 200°C",
+          "description": "Return the baskets to the air fryer and cook for another 15 minutes at 200°C. That makes 30 minutes of cooking altogether for this batch.",
+          "ingredients": [
+            "Chicken breast"
+          ],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Air fryer · 200°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8136ccf5-0d37-5a33-bb71-436d8d6fa529",
+          "title": "One last shake, then check the middle",
+          "description": "Give the baskets another shake at the end. Check a few of the thickest chicken pieces are fully cooked through before serving. We want crisp edges and hot, cooked chicken inside. If any pieces need more time, put them back in and check again.",
+          "ingredients": [
+            "Chicken breast"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "Crisp coating and chicken that is steaming hot through the middle. A clean food thermometer in a thick piece should read at least 75°C.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "697e6411-7d35-5499-bc48-9375648890b1",
+          "title": "With dal, in fried rice or beside a curry",
+          "description": "This makes 4 portions. Serve with dal to make a complete meal, add the cooked pieces to fried rice or have them as an extra side with a curry. The dal and the cooked-chicken fried rice recipes are linked below.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "gobi",
+      "slug": "gobi-65",
+      "label": "Gobi 65 · cauliflower",
+      "description": "Swap the chicken for 1 kg cauliflower florets, using the same marinade. Four portions of Gobi 65, like from Saravana Bhavan.",
+      "groups": [
+        {
+          "title": "For the marinade",
+          "ingredients": [
+            {
+              "id": "65d77533-fb98-51fd-861a-bf5f71df3676",
+              "name": "Ginger-garlic cubes",
+              "quantity": 4,
+              "unit": "",
+              "note": "Defrost fully so they become a paste.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "255fa0b9-534d-50cb-871e-065179e3c544",
+              "name": "Kashmiri chilli powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "428af88b-b5b0-5d31-b952-6355652b77b9",
+              "name": "Coriander powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "191b2fcf-98d7-54c1-b005-ca19d25180d1",
+              "name": "Garam masala",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6a7924ab-7aa2-5d31-b949-90d66ae59d1d",
+              "name": "Black pepper powder",
+              "quantity": 2,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2a635a1a-28ac-52d1-9df4-4d7be57f2b1b",
+              "name": "Salt",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "Taste the marinade before the flour and raw chicken go in; adjust if needed.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2482fb7c-71ae-5712-a9cf-c0e6fb014b9d",
+              "name": "Plain yoghurt",
+              "quantity": 4,
+              "unit": "tbsp",
+              "note": "Keep a tiny bit extra handy if the coating is too thick.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2d92c631-b49e-57a7-96b7-d634168aaa80",
+              "name": "Lime",
+              "quantity": 1,
+              "unit": "",
+              "note": "Use the juice.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "70e58b9a-657b-57d0-a41c-c539adff837d",
+              "name": "Curry leaves",
+              "quantity": 1,
+              "unit": "handful",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "dc0d611e-3e96-5346-9a37-f65a196bb7a9",
+              "name": "Cornflour",
+              "quantity": 2,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9ed46f7b-ed90-5f0e-ab6a-6ff455d3228b",
+              "name": "Rice flour or ground rice",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "Use whichever we have.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "Cauliflower and air fryer",
+          "ingredients": [
+            {
+              "id": "b2aaf839-fad7-5fec-900a-93b9cd126181",
+              "name": "Cauliflower florets",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Use 1 kg cauliflower florets in place of the chicken. Keep the florets similar sizes.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "83d84b7c-38bb-5f6b-ba51-c6e17996c2e4",
+              "name": "Oil spray",
+              "quantity": null,
+              "unit": "",
+              "note": "Spray the bottom of the baskets and the tops of the chicken pieces.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "8c1c558f-a5cf-53e0-86c8-7f33902e3cc3",
+          "title": "Make the seasoned yoghurt straight in the Tupperware",
+          "description": "Use a clean Tupperware instead of a bowl. Mix the defrosted ginger-garlic paste, Kashmiri chilli powder, coriander powder, garam masala, black pepper, salt, yoghurt, lime juice and curry leaves together.",
+          "ingredients": [
+            "Ginger-garlic cubes",
+            "Kashmiri chilli powder",
+            "Coriander powder",
+            "Garam masala",
+            "Black pepper powder",
+            "Salt",
+            "Plain yoghurt",
+            "Lime",
+            "Curry leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8aba9214-9828-5f50-8b6a-f86f44421897",
+          "title": "Taste it before the flour goes in",
+          "description": "Give the seasoned yoghurt mixture a taste now and adjust the salt and spices if needed. It should taste really salty and spicy; that mellows once it coats the cauliflower. Taste before adding the flours.",
+          "ingredients": [
+            "Ginger-garlic cubes",
+            "Kashmiri chilli powder",
+            "Coriander powder",
+            "Garam masala",
+            "Black pepper powder",
+            "Salt",
+            "Plain yoghurt",
+            "Lime",
+            "Curry leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "3040bfce-012d-59b2-aef0-073922ea9f88",
+          "title": "Mix in the two flours",
+          "description": "Add the cornflour and rice flour or ground rice. Mix them through the marinade until it’s all combined.",
+          "ingredients": [
+            "Cornflour",
+            "Rice flour or ground rice"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "26cee802-719d-5974-8d13-29ad936075d9",
+          "title": "Break the cauliflower into florets and coat it",
+          "description": "Use 1 kg of cauliflower florets in place of the chicken. Keep the florets similar sizes and mix them into the marinade until coated. Add a tiny bit more yoghurt if the mixture is too thick.",
+          "ingredients": [
+            "Cauliflower florets",
+            "Plain yoghurt"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Keep the florets similar sizes so they cook evenly.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "d70eb296-8a3e-522b-8274-a194399638c5",
+          "title": "Lid on and into the fridge",
+          "description": "Put the lid on and marinate in the fridge for at least 1 hour. A few hours or overnight is much better if we’ve planned ahead.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 60,
+          "heat": "In the fridge",
+          "tip": "The one-hour timer is the minimum marination time. Leave it longer in the fridge if we’ve got time.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "25c88f57-18c3-5a5e-9c08-372a2fac98c9",
+          "title": "Oil the baskets and leave the florets in one layer",
+          "description": "Spray the bottom of the air fryer baskets with oil. Lay the cauliflower florets out in a single layer, then spray the tops with oil too. Use both baskets or cook in batches if we need more space; the pieces need room to crisp.",
+          "ingredients": [
+            "Cauliflower florets",
+            "Oil spray"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "1bb27bcc-70f1-545f-a2cf-89ff01ab0ae0",
+          "title": "Air fry the first 15 minutes",
+          "description": "Put the cauliflower into the air fryer at 200°C and cook for the first 15 minutes.",
+          "ingredients": [
+            "Cauliflower florets"
+          ],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Air fryer · 200°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "920f5b1c-7347-55dd-a690-d38d6f8fceda",
+          "title": "Halfway: flip and shake",
+          "description": "Turn the florets gently with tongs and give the baskets a gentle shake so the other sides can crisp.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Halfway through the 30-minute air fry",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6831d915-9d5c-54ca-95b7-1f87d1377481",
+          "title": "Another 15 minutes at 200°C",
+          "description": "Return the baskets to the air fryer at 200°C for up to another 15 minutes. Check earlier if the florets are small, and stop once they are tender inside with crisp edges. The full 30 minutes is a guide for the cauliflower.",
+          "ingredients": [
+            "Cauliflower florets"
+          ],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Air fryer · 200°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8136ccf5-0d37-5a33-bb71-436d8d6fa529",
+          "title": "One last gentle shake, then check the florets",
+          "description": "Give the baskets a gentle shake at the end. Check a thick floret with a fork: it should be tender in the middle with crisp edges. Give any firm pieces a little longer if needed.",
+          "ingredients": [
+            "Cauliflower florets"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "Tender cauliflower through the middle, with a crisp, spicy coating.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "697e6411-7d35-5499-bc48-9375648890b1",
+          "title": "With dal, in fried rice or beside a curry",
+          "description": "This makes 4 portions of Gobi 65, like the cauliflower version from Saravana Bhavan. Serve with dal or rice, or as an extra side with a curry. For fried rice, use these cooked florets in place of the chicken in the linked fried-rice recipe.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    }
+  ]
 }

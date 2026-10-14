@@ -1,0 +1,354 @@
+{
+  "slug": "salt-and-chilli-chicken",
+  "aliases": [],
+  "title": "Salt and Chilli Chicken",
+  "description": "Chicken in a cornflour, black-pepper and Chinese five-spice coating, crisped in the air fryer. The chunky onions and mild chillies go in for just the last 5 minutes.",
+  "category": "Comfort food",
+  "cuisine": "Chinese-inspired",
+  "mainIngredient": "Chicken",
+  "tags": [
+    "Chicken",
+    "Air fryer",
+    "Chinese five-spice",
+    "Salt and chilli",
+    "Fried rice"
+  ],
+  "dietaryTags": [],
+  "difficulty": "A few simple air-fryer steps",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "restMinutes": 0,
+  "servings": 4,
+  "portionNote": "The full batch uses 1 kg chicken and makes 4 portions. Have it with white rice, fried rice or whatever we have, or use the cooked chicken to make fried rice.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/salt-and-chilli-chicken-reference.jpg",
+  "imageAlt": "Reference photograph of golden, crispy fried chicken pieces in a simple white serving dish.",
+  "imageCaption": "Reference photograph · crispy fried-chicken variation · displayed crop",
+  "imageCredit": "Marvin Sacdalan / Pexels",
+  "imageSource": "https://www.pexels.com/photo/crispy-fried-chicken-in-white-ceramic-food-tray-13065202/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "40% 52%",
+  "imageZoom": 1.06,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Keep the onions and chillies for just the last 5 minutes. We can have this with rice, or use the cooked chicken in a fried rice if that’s what we fancy.",
+  "story": "",
+  "equipment": [
+    "Large bowl for the flour mixture",
+    "Chopping board and knife",
+    "Measuring spoons",
+    "Air fryer baskets",
+    "Oil spray",
+    "Tongs",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Mix the cornflour and seasonings, then cube the chicken and coat it. Get the onion, any spring onions and mild chillies ready to slice while the chicken cooks.",
+  "importantNotes": "Air fry at 200°C for 30 minutes per batch: 15 minutes, flip, another 10 minutes, then add the veg for the final 5 minutes. Shake at the end. Keep the chicken in a single layer and use both baskets or extra batches if needed.",
+  "groups": [
+    {
+      "title": "For the flour coating",
+      "ingredients": [
+        {
+          "id": "f7f6ec43-1a91-5eed-b168-a63ed3d411d8",
+          "name": "Cornflour",
+          "quantity": 10,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8adb1ffd-e40d-5ac9-b25f-e7f4c36ecc49",
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a7017562-55ba-559b-9e89-92023633ce68",
+          "name": "Ground black pepper",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d2e5b891-34e4-5871-a9d6-6004bad044ec",
+          "name": "Chinese five-spice powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "Chicken and air fryer",
+      "ingredients": [
+        {
+          "id": "39cc8edb-2c3f-52cd-88de-35f386e9073f",
+          "name": "Chicken",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "Cut into similar-sized cubes.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e056e393-bd42-52de-b963-68fcb2f8aa26",
+          "name": "Oil spray",
+          "quantity": null,
+          "unit": "",
+          "note": "For the bottom of the baskets and the tops of the chicken pieces.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the final 5 minutes",
+      "ingredients": [
+        {
+          "id": "53411458-9c84-53b1-ab96-340eb3b630f5",
+          "name": "White onion",
+          "quantity": 1,
+          "unit": "",
+          "note": "Cut into big chunks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "eca801f7-948f-5301-ad74-e35540d7adae",
+          "name": "Spring onions",
+          "quantity": null,
+          "unit": "",
+          "note": "Slice, if we have any.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d3ba9391-a48f-5c9c-be16-8ade3b34661d",
+          "name": "Mild chillies",
+          "quantity": 2,
+          "unit": "",
+          "note": "Slice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve",
+      "ingredients": [
+        {
+          "id": "3f661907-2b75-589a-90e5-24bed876e05b",
+          "name": "Cooked white rice or fried rice",
+          "quantity": null,
+          "unit": "",
+          "note": "Or whatever we have and fancy alongside.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "e92898c9-ff25-51c4-9f05-89b11162cf42",
+      "title": "Mix the cornflour and seasonings",
+      "description": "Mix the cornflour, salt, ground black pepper and Chinese five-spice powder in a large bowl. This is the coating for the chicken.",
+      "ingredients": [
+        "Cornflour",
+        "Salt",
+        "Ground black pepper",
+        "Chinese five-spice powder"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "b310ad26-7d84-5745-91b7-5dbb8a4eeb94",
+      "title": "Cube the chicken and coat it",
+      "description": "Cut the chicken into similar-sized cubes and add it to the flour mixture. Mix it around until the pieces are coated.",
+      "ingredients": [
+        "Chicken",
+        "Cornflour"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Similar-sized pieces will cook more evenly.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "e60348b0-099c-5a56-b91f-504fb77beaf1",
+      "title": "Oil the baskets and the chicken",
+      "description": "Spray the air fryer baskets with oil. Lay the chicken pieces out in a single layer, then spray the tops with more oil. Use both baskets or cook in batches if we need the space.",
+      "ingredients": [
+        "Chicken",
+        "Oil spray"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Leave some room around the pieces so they can crisp.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "13fb7869-c6fc-53d4-85b3-5fcec223fa39",
+      "title": "The first 15 minutes — get the veg ready",
+      "description": "Air fry the chicken at 200°C for the first 15 minutes. While it cooks, cut the white onion into big chunks, slice any spring onions we have and slice the two mild chillies. Keep the veg aside for now.",
+      "ingredients": [
+        "Chicken",
+        "White onion",
+        "Spring onions",
+        "Mild chillies"
+      ],
+      "durationMinutes": 15,
+      "timerMinutes": 15,
+      "heat": "Air fryer · 200°C",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "f6ee0bdc-b13b-5448-bf43-e237de8061d1",
+      "title": "Halfway: flip the chicken",
+      "description": "At the 15-minute mark, flip the chicken pieces with tongs. The veg stays out for now.",
+      "ingredients": [],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Halfway through the 30-minute air fry",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "069248fb-4ba8-53de-8052-4e261484cebb",
+      "title": "Another 10 minutes before the veg",
+      "description": "Return the chicken to the air fryer for another 10 minutes at 200°C. It will have cooked for 25 minutes altogether when this timer finishes.",
+      "ingredients": [
+        "Chicken"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Air fryer · 200°C",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "eedc8862-fab3-5ce9-a2a0-341f075d80f0",
+      "title": "Add the onions and chillies for the last 5 minutes",
+      "description": "Now add the chunky white onion, any spring onions and the sliced mild chillies to the baskets. Spread them around the chicken and air fry at 200°C for the final 5 minutes. That makes 30 minutes of cooking in total.",
+      "ingredients": [
+        "White onion",
+        "Spring onions",
+        "Mild chillies"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Air fryer · 200°C · final 5 minutes",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "1fbda81a-6c5b-5ac9-9cf7-cc3c6101028d",
+      "title": "Shake at the end, then check the chicken",
+      "description": "Give the baskets a shake at the end to mix the chicken and veg around. Check a few of the thickest chicken pieces are fully cooked through before serving. If any pieces need more time, return them to the air fryer and check again.",
+      "ingredients": [
+        "Chicken"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "Crisp chicken with a steaming-hot middle. A clean thermometer in a thick piece should read at least 75°C.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "37d3a551-b42d-5ee2-bfcc-739b2ce3f48e",
+      "title": "Rice alongside, or make it into fried rice",
+      "description": "This makes 4 portions. Serve with white rice, fried rice or whatever we have. We can also use this cooked chicken to make a fried rice — add it where the fried-rice recipe calls for cooked chicken.",
+      "ingredients": [
+        "Cooked white rice or fried rice"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Spring onions if we have them",
+      "text": "Slice some spring onions and add them with the white onion and mild chillies for the last 5 minutes. Leave them out if there aren’t any."
+    },
+    {
+      "title": "Use it in fried rice",
+      "text": "Add the cooked Salt and Chilli Chicken where a fried-rice recipe uses cooked chicken, and heat it through with the rice. The cooked-chicken fried rice recipe is linked below."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "The chicken isn’t crisp enough",
+      "text": "Keep the pieces in a single layer, spray the baskets and the tops with oil, and remember to flip halfway and shake at the end. Use another batch rather than stacking the chicken."
+    },
+    {
+      "title": "The whole kilo won’t fit",
+      "text": "Use both baskets or cook in separate single-layer batches. The 30-minute time is for each batch, so allow longer if cooking batches one after another."
+    }
+  ],
+  "storage": "Cool cooked leftovers quickly and refrigerate within 1–2 hours. Use within 2 days. Keep any saved rice separately and use it within 24 hours.",
+  "reheating": "Reheat the portion we’re eating once until steaming hot throughout. If using saved chicken in fried rice, heat the pieces through fully with the rice.",
+  "foodSafety": "The chicken must be fully cooked through. Check the centre of a thick piece reaches at least 75°C; the 30 minutes is a guide and the pieces may need longer depending on size and the air fryer.",
+  "servingSuggestion": "Four portions with fried rice, white rice or whatever we fancy. The cooked chicken can also go straight into a fried rice.",
+  "servingRecipe": "gochujang-fried-rice-with-chicken",
+  "glossary": []
+}

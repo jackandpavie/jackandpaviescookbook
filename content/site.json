@@ -61,7 +61,8 @@
     "spaghetti-bolognese",
     "creamy-pasta",
     "simple-tarka-dal",
-    "chicken-65"
+    "chicken-65",
+    "salt-and-chilli-chicken"
   ],
   "collections": [
     {
@@ -100,7 +101,8 @@
         "spaghetti-bolognese",
         "creamy-pasta",
         "simple-tarka-dal",
-        "chicken-65"
+        "chicken-65",
+        "salt-and-chilli-chicken"
       ]
     },
     {
@@ -138,7 +140,8 @@
         "spaghetti-bolognese",
         "creamy-pasta",
         "simple-tarka-dal",
-        "chicken-65"
+        "chicken-65",
+        "salt-and-chilli-chicken"
       ]
     },
     {
@@ -175,7 +178,8 @@
         "spaghetti-bolognese",
         "creamy-pasta",
         "simple-tarka-dal",
-        "chicken-65"
+        "chicken-65",
+        "salt-and-chilli-chicken"
       ]
     }
   ],
