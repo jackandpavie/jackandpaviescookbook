@@ -1,0 +1,1819 @@
+{
+  "slug": "creamy-pasta",
+  "aliases": [],
+  "title": "Creamy Pasta",
+  "description": "A creamy sauce for two dinners, with chicken or whichever mince we fancy. Long pasta is lovely here, but any shape works. Add Parmesan to the sauce, sprinkle it on top or leave it out.",
+  "category": "Pasta and noodles",
+  "cuisine": "Italian-inspired",
+  "mainIngredient": "Chicken or mince",
+  "tags": [
+    "Chicken",
+    "Pork mince",
+    "Beef mince",
+    "Turkey mince",
+    "Soya cream",
+    "Two dinners"
+  ],
+  "dietaryTags": [
+    "Dairy-free option"
+  ],
+  "difficulty": "Make it how we fancy it",
+  "prepMinutes": 10,
+  "cookMinutes": 35,
+  "restMinutes": 0,
+  "servings": 2,
+  "yieldUnit": "portions per night",
+  "portionLabel": "How many people each night?",
+  "portionNote": "The sauce makes two dinners for the two of us: 4 sauce portions altogether. The 1 kg of protein and 200 ml soya cream are for both nights. The 300 g pasta, 100 g optional Parmesan and pepper are for tonight’s 2 portions.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/creamy-pasta-reference.jpg",
+  "imageAlt": "Reference photograph of creamy ribbon pasta with chicken pieces and sliced mushrooms on a simple white plate.",
+  "imageCaption": "Reference photograph · chicken-and-mushroom variation · displayed crop",
+  "imageCredit": "Kemal Can / Pexels",
+  "imageSource": "https://www.pexels.com/photo/creamy-chicken-alfredo-pasta-on-marble-table-37336685/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 53%",
+  "imageZoom": 1.03,
+  "art": "pasta",
+  "gallery": [],
+  "personalNote": "Use whichever protein we fancy and add whatever extras are around. Mushrooms go in with the onions, peas go in with the pasta, and lemon and basil brighten it up at the end. We can leave the Parmesan out for a dairy-free dinner — just serve some salt on the side.",
+  "story": "",
+  "equipment": [
+    "Large pot",
+    "Separate saucepan for pasta",
+    "Wooden spoon or tongs",
+    "Chopping board and knife",
+    "Kettle",
+    "Measuring jug",
+    "Colander",
+    "Clean container for tomorrow’s sauce",
+    "Cup and teaspoon if using cornstarch"
+  ],
+  "advancePrep": "Chop the onions and garlic, prepare the chosen protein and boil 1 litre of water. Slice mushrooms now if we want them. The onions, garlic and any mushrooms don’t have to be chopped really fine or look uniform. They’ll soften while the sauce bubbles, so don’t spend ages making everything match.",
+  "importantNotes": "The 20-minute simmer is uncovered. Add the 200 ml of soya cream to the full sauce batch, then remove the bay leaf and save half before any pasta or Parmesan goes in. Cook the pasta for 2 minutes less than the packet and reserve 200 ml of its water before draining.",
+  "choiceHeading": "What protein do we fancy?",
+  "choiceIntro": "Use 1 kg of the chosen protein for the sauce batch. Each choice makes two dinners; the 300 g pasta below is for tonight’s two portions.",
+  "groups": [],
+  "steps": [],
+  "recipeOptions": [
+    {
+      "id": "chicken",
+      "slug": "creamy-pasta",
+      "label": "Chicken",
+      "description": "1 kg of chicken for both nights. Finish half the creamy sauce with tonight’s pasta and keep the other half for tomorrow.",
+      "groups": [
+        {
+          "title": "The creamy sauce — for both nights",
+          "ingredients": [
+            {
+              "id": "65554ace-ffa7-569a-a641-313839f35ea2",
+              "name": "Chicken",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Cut into small pieces before cooking.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "778cbd97-78cb-504b-8705-6d52dd6db426",
+              "name": "Onions",
+              "quantity": 2,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b385099e-9029-5c8b-a551-9ba9a0e41b9b",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "58a986f8-4507-5d3f-b6d3-633599faf592",
+              "name": "Chicken or beef stock cubes",
+              "quantity": 2,
+              "unit": "",
+              "note": "Whichever we have or fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9a3b18c7-0720-5d75-b27e-d2e311e75024",
+              "name": "Water for the sauce",
+              "quantity": 1000,
+              "unit": "ml",
+              "note": "Boil before adding.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c8c0411f-8e7d-57f5-b066-4de05ce3a837",
+              "name": "Bay leaf",
+              "quantity": 1,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "726e229a-1a48-56a9-bd4a-67082a2c0bd1",
+              "name": "Alpro soya cream",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "For the whole sauce batch. Add before saving half for tomorrow.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "5812c5d1-c134-560d-b272-348446d605ab",
+              "name": "Mushrooms",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Slice and add with the onions and garlic.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s two portions",
+          "ingredients": [
+            {
+              "id": "4439229d-16eb-5821-8c50-80ac62b6b094",
+              "name": "Pasta",
+              "quantity": 300,
+              "unit": "g",
+              "note": "Dry weight. Long noodles work really well, but any shape is good.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "11d0b574-6455-5923-90c0-4f5339bd80f2",
+              "name": "Water for pasta",
+              "quantity": null,
+              "unit": "",
+              "note": "Boil another kettle for the pasta.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "a3107dc5-f81d-5102-b2d0-ce13dddf2fa0",
+              "name": "Reserved pasta water",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "Save before draining; add only as much as the sauce needs.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6fa53432-c993-57bd-99d0-5c3cf3550e58",
+              "name": "Parmesan",
+              "quantity": 100,
+              "unit": "g",
+              "note": "Optional: stir into tonight’s sauce OR sprinkle over the finished pasta. Leave out for the dairy-free version.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ee6b74c3-62c0-548b-8f40-92940805d35c",
+              "name": "Ground black pepper",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "fa39a0bc-a1f8-5879-86f8-64a6aed198f9",
+              "name": "Cornstarch",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "Only if the sauce is too runny. Mix with a little cold water before adding.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "35a25e25-c71a-5d34-83db-93513cd5ac5d",
+              "name": "Frozen peas",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Add with the drained pasta and cook until hot through.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "At the end, if we fancy it",
+          "ingredients": [
+            {
+              "id": "724273aa-c72a-569b-95e1-aae81400bff6",
+              "name": "Lemon",
+              "quantity": null,
+              "unit": "",
+              "note": "A little juice for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "41d328a5-9751-550d-aa0c-626ae7702d4d",
+              "name": "Basil leaves",
+              "quantity": null,
+              "unit": "",
+              "note": "Pluck from the stems and add at the end for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "60a2853d-003a-5a84-9aae-d52ae28b124a",
+              "name": "Salt to serve",
+              "quantity": null,
+              "unit": "",
+              "note": "Put some on the side, especially if we’re leaving out the Parmesan. Season at the table.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "69945cea-f667-5e43-974f-78a6edbf8327",
+          "title": "Get the chopping and water sorted",
+          "description": "Chop the onions and peel and chop the head of garlic. Boil 1 litre of water for the sauce. If we’re adding mushrooms, slice them now. Cut the chicken into small pieces too.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Water for the sauce",
+            "Mushrooms",
+            "Chicken"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and any mushrooms don’t have to be chopped really fine or look uniform. They’ll soften while the sauce bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e9980057-cd4f-5bcb-b082-ac3165a7d15d",
+          "title": "Start browning the chicken",
+          "description": "Heat the pot on medium heat and add the chicken pieces. Start browning them for 5 minutes, moving them around so they colour on a few sides.",
+          "ingredients": [
+            "Chicken"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Starting to brown; it will finish cooking in the sauce.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "89f22ce9-f43a-59ef-bc40-58f6cdcfbda0",
+          "title": "Add the onions, garlic and any mushrooms",
+          "description": "Add the onions and garlic. If we fancy mushrooms for some veg, add them now too. Squish everything around with the meat for another 5 minutes, until the onions are softened.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Softened onions.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4a218fe4-2678-564b-ad64-2cf25abaa9b8",
+          "title": "Add the stock, water and bay leaf",
+          "description": "Add the chicken or beef stock cubes and the litre of boiled water. Mix everything together, add the bay leaf and bring it to a gentle bubble.",
+          "ingredients": [
+            "Chicken or beef stock cubes",
+            "Water for the sauce",
+            "Bay leaf"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e565f2ae-e876-5f21-9fa8-b6ae5db9c1fb",
+          "title": "Let it bubble uncovered",
+          "description": "Cook for 20 minutes with the lid off, stirring from time to time so the bottom doesn’t catch. Keep it gently bubbling while the sauce cooks down.",
+          "ingredients": [],
+          "durationMinutes": 20,
+          "timerMinutes": 20,
+          "heat": "Gentle bubbles · uncovered",
+          "tip": "",
+          "doneness": "The meat is fully cooked and the sauce has cooked down a little.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "9b617104-5638-5dcc-8d5c-03e1ee98bf16",
+          "title": "Get the pasta going — two minutes less",
+          "description": "Boil another kettle of water and get the pasta boiling in a separate saucepan. Long noodles work great, but any shape will be good. Cook it for 2 minutes less than the packet says, because we want it to finish in the sauce. Save 200 ml of pasta water before draining.",
+          "ingredients": [
+            "Pasta",
+            "Water for pasta",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling water",
+          "tip": "If the packet says 10 minutes, drain after 8. Carry on with the cream and saving step while the pasta boils.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "74be32d7-4ca8-51ae-9286-b34e6e3bbcd4",
+          "title": "Add the soya cream to the whole batch",
+          "description": "While the pasta cooks, add the Alpro soya cream to the pot and let the sauce bubble gently. This goes into the whole batch, before we split it for the two nights.",
+          "ingredients": [
+            "Alpro soya cream"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6697ba2b-48c0-595f-9617-020a39f59e73",
+          "title": "Bay leaf out, then save tomorrow’s half",
+          "description": "Take the bay leaf out and throw it away. Check the meat is cooked through, then take half of the creamy sauce and meat out into a clean container. Let it cool and put it in the fridge for tomorrow. Keep the other half in the pot for tonight.",
+          "ingredients": [
+            "Bay leaf",
+            "Chicken"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Save half now, before adding tonight’s pasta, Parmesan or pepper. The saved half already has its share of the soya cream.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b3be57f0-be3b-56ff-823e-97080a5ca59b",
+          "title": "Parmesan in the sauce, on top, or leave it out",
+          "description": "If we want the Parmesan stirred into the sauce, add it to tonight’s half now, just before the pasta. If we want it sprinkled on top, keep it aside for serving instead. It’s the same 100 g either way — choose whichever we’re in the mood for. For a dairy-free dinner, leave it out altogether.",
+          "ingredients": [
+            "Parmesan"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "7e119918-1cba-5450-946d-971eae54e1f0",
+          "title": "Finish the pasta in the sauce",
+          "description": "Drain the pasta, remembering to save the pasta water first, and add it to tonight’s sauce. Add some frozen peas now if we fancy them. Mix gently and cook for another 2 minutes, until the pasta is cooked the way we like it and the sauce coats it nicely.",
+          "ingredients": [
+            "Pasta",
+            "Reserved pasta water",
+            "Frozen peas"
+          ],
+          "durationMinutes": 2,
+          "timerMinutes": 2,
+          "heat": "Medium-low heat",
+          "tip": "If using frozen peas, follow their packet cooking time; they may need a little longer to get hot through.",
+          "doneness": "Hot pasta in a thick, creamy sauce. Any peas should be hot right through.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2781f863-2649-516c-be95-5514bff52b03",
+          "title": "Too thick or too runny? Easy enough to fix",
+          "description": "If the dish is too dry, add a little of the saved pasta water and mix gently. If it’s too runny, mix the teaspoon of cornstarch with a little cold water in a cup first. Stir that smooth mixture into the sauce and let it bubble gently until it thickens.",
+          "ingredients": [
+            "Reserved pasta water",
+            "Cornstarch"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles if thickening",
+          "tip": "Only use the cornstarch if it needs it. Mixing it with cold water first stops dry lumps forming in the sauce.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a559438a-1ce8-5a03-bd85-d23d370d2a42",
+          "title": "Finish with pepper, and some brightness if we fancy it",
+          "description": "Finish with the ground black pepper. Add a little lemon juice and some basil leaves if we want to brighten the sauce. We can change the extras depending on the mood and it tastes like a slightly different dish each time.",
+          "ingredients": [
+            "Ground black pepper",
+            "Lemon",
+            "Basil leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "ca06e34b-66fa-51a0-b760-55c706bdc690",
+          "title": "Parmesan on top if we saved it, salt on the side",
+          "description": "Serve straight away. If we kept the Parmesan for the top, sprinkle it over now. If we’re going dairy-free, leave the cheese out and put some salt on the side so we can season at the table.",
+          "ingredients": [
+            "Parmesan",
+            "Salt to serve"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "pork",
+      "slug": "creamy-pasta-with-pork-mince",
+      "label": "Pork mince",
+      "description": "1 kg of pork mince for both nights. Finish half the creamy sauce with tonight’s pasta and keep the other half for tomorrow.",
+      "groups": [
+        {
+          "title": "The creamy sauce — for both nights",
+          "ingredients": [
+            {
+              "id": "d5c43e45-6528-5b03-818f-f8018cc4b7a7",
+              "name": "Pork mince",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Break up the clumps as it browns.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "778cbd97-78cb-504b-8705-6d52dd6db426",
+              "name": "Onions",
+              "quantity": 2,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b385099e-9029-5c8b-a551-9ba9a0e41b9b",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "58a986f8-4507-5d3f-b6d3-633599faf592",
+              "name": "Chicken or beef stock cubes",
+              "quantity": 2,
+              "unit": "",
+              "note": "Whichever we have or fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9a3b18c7-0720-5d75-b27e-d2e311e75024",
+              "name": "Water for the sauce",
+              "quantity": 1000,
+              "unit": "ml",
+              "note": "Boil before adding.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c8c0411f-8e7d-57f5-b066-4de05ce3a837",
+              "name": "Bay leaf",
+              "quantity": 1,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "726e229a-1a48-56a9-bd4a-67082a2c0bd1",
+              "name": "Alpro soya cream",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "For the whole sauce batch. Add before saving half for tomorrow.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "5812c5d1-c134-560d-b272-348446d605ab",
+              "name": "Mushrooms",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Slice and add with the onions and garlic.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s two portions",
+          "ingredients": [
+            {
+              "id": "4439229d-16eb-5821-8c50-80ac62b6b094",
+              "name": "Pasta",
+              "quantity": 300,
+              "unit": "g",
+              "note": "Dry weight. Long noodles work really well, but any shape is good.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "11d0b574-6455-5923-90c0-4f5339bd80f2",
+              "name": "Water for pasta",
+              "quantity": null,
+              "unit": "",
+              "note": "Boil another kettle for the pasta.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "a3107dc5-f81d-5102-b2d0-ce13dddf2fa0",
+              "name": "Reserved pasta water",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "Save before draining; add only as much as the sauce needs.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6fa53432-c993-57bd-99d0-5c3cf3550e58",
+              "name": "Parmesan",
+              "quantity": 100,
+              "unit": "g",
+              "note": "Optional: stir into tonight’s sauce OR sprinkle over the finished pasta. Leave out for the dairy-free version.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ee6b74c3-62c0-548b-8f40-92940805d35c",
+              "name": "Ground black pepper",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "fa39a0bc-a1f8-5879-86f8-64a6aed198f9",
+              "name": "Cornstarch",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "Only if the sauce is too runny. Mix with a little cold water before adding.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "35a25e25-c71a-5d34-83db-93513cd5ac5d",
+              "name": "Frozen peas",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Add with the drained pasta and cook until hot through.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "At the end, if we fancy it",
+          "ingredients": [
+            {
+              "id": "724273aa-c72a-569b-95e1-aae81400bff6",
+              "name": "Lemon",
+              "quantity": null,
+              "unit": "",
+              "note": "A little juice for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "41d328a5-9751-550d-aa0c-626ae7702d4d",
+              "name": "Basil leaves",
+              "quantity": null,
+              "unit": "",
+              "note": "Pluck from the stems and add at the end for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "60a2853d-003a-5a84-9aae-d52ae28b124a",
+              "name": "Salt to serve",
+              "quantity": null,
+              "unit": "",
+              "note": "Put some on the side, especially if we’re leaving out the Parmesan. Season at the table.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "69945cea-f667-5e43-974f-78a6edbf8327",
+          "title": "Get the chopping and water sorted",
+          "description": "Chop the onions and peel and chop the head of garlic. Boil 1 litre of water for the sauce. If we’re adding mushrooms, slice them now.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Water for the sauce",
+            "Mushrooms"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and any mushrooms don’t have to be chopped really fine or look uniform. They’ll soften while the sauce bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e9980057-cd4f-5bcb-b082-ac3165a7d15d",
+          "title": "Start browning the mince",
+          "description": "Heat the pot on medium heat and add the pork mince. Start browning it for 5 minutes, squishing it around to break up the clumps.",
+          "ingredients": [
+            "Pork mince"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Starting to brown; it will finish cooking in the sauce.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "89f22ce9-f43a-59ef-bc40-58f6cdcfbda0",
+          "title": "Add the onions, garlic and any mushrooms",
+          "description": "Add the onions and garlic. If we fancy mushrooms for some veg, add them now too. Squish everything around with the meat for another 5 minutes, until the onions are softened.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Softened onions.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4a218fe4-2678-564b-ad64-2cf25abaa9b8",
+          "title": "Add the stock, water and bay leaf",
+          "description": "Add the chicken or beef stock cubes and the litre of boiled water. Mix everything together, add the bay leaf and bring it to a gentle bubble.",
+          "ingredients": [
+            "Chicken or beef stock cubes",
+            "Water for the sauce",
+            "Bay leaf"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e565f2ae-e876-5f21-9fa8-b6ae5db9c1fb",
+          "title": "Let it bubble uncovered",
+          "description": "Cook for 20 minutes with the lid off, stirring from time to time so the bottom doesn’t catch. Keep it gently bubbling while the sauce cooks down.",
+          "ingredients": [],
+          "durationMinutes": 20,
+          "timerMinutes": 20,
+          "heat": "Gentle bubbles · uncovered",
+          "tip": "",
+          "doneness": "The meat is fully cooked and the sauce has cooked down a little.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "9b617104-5638-5dcc-8d5c-03e1ee98bf16",
+          "title": "Get the pasta going — two minutes less",
+          "description": "Boil another kettle of water and get the pasta boiling in a separate saucepan. Long noodles work great, but any shape will be good. Cook it for 2 minutes less than the packet says, because we want it to finish in the sauce. Save 200 ml of pasta water before draining.",
+          "ingredients": [
+            "Pasta",
+            "Water for pasta",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling water",
+          "tip": "If the packet says 10 minutes, drain after 8. Carry on with the cream and saving step while the pasta boils.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "74be32d7-4ca8-51ae-9286-b34e6e3bbcd4",
+          "title": "Add the soya cream to the whole batch",
+          "description": "While the pasta cooks, add the Alpro soya cream to the pot and let the sauce bubble gently. This goes into the whole batch, before we split it for the two nights.",
+          "ingredients": [
+            "Alpro soya cream"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6697ba2b-48c0-595f-9617-020a39f59e73",
+          "title": "Bay leaf out, then save tomorrow’s half",
+          "description": "Take the bay leaf out and throw it away. Check the meat is cooked through, then take half of the creamy sauce and meat out into a clean container. Let it cool and put it in the fridge for tomorrow. Keep the other half in the pot for tonight.",
+          "ingredients": [
+            "Bay leaf",
+            "Pork mince"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Save half now, before adding tonight’s pasta, Parmesan or pepper. The saved half already has its share of the soya cream.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b3be57f0-be3b-56ff-823e-97080a5ca59b",
+          "title": "Parmesan in the sauce, on top, or leave it out",
+          "description": "If we want the Parmesan stirred into the sauce, add it to tonight’s half now, just before the pasta. If we want it sprinkled on top, keep it aside for serving instead. It’s the same 100 g either way — choose whichever we’re in the mood for. For a dairy-free dinner, leave it out altogether.",
+          "ingredients": [
+            "Parmesan"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "7e119918-1cba-5450-946d-971eae54e1f0",
+          "title": "Finish the pasta in the sauce",
+          "description": "Drain the pasta, remembering to save the pasta water first, and add it to tonight’s sauce. Add some frozen peas now if we fancy them. Mix gently and cook for another 2 minutes, until the pasta is cooked the way we like it and the sauce coats it nicely.",
+          "ingredients": [
+            "Pasta",
+            "Reserved pasta water",
+            "Frozen peas"
+          ],
+          "durationMinutes": 2,
+          "timerMinutes": 2,
+          "heat": "Medium-low heat",
+          "tip": "If using frozen peas, follow their packet cooking time; they may need a little longer to get hot through.",
+          "doneness": "Hot pasta in a thick, creamy sauce. Any peas should be hot right through.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2781f863-2649-516c-be95-5514bff52b03",
+          "title": "Too thick or too runny? Easy enough to fix",
+          "description": "If the dish is too dry, add a little of the saved pasta water and mix gently. If it’s too runny, mix the teaspoon of cornstarch with a little cold water in a cup first. Stir that smooth mixture into the sauce and let it bubble gently until it thickens.",
+          "ingredients": [
+            "Reserved pasta water",
+            "Cornstarch"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles if thickening",
+          "tip": "Only use the cornstarch if it needs it. Mixing it with cold water first stops dry lumps forming in the sauce.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a559438a-1ce8-5a03-bd85-d23d370d2a42",
+          "title": "Finish with pepper, and some brightness if we fancy it",
+          "description": "Finish with the ground black pepper. Add a little lemon juice and some basil leaves if we want to brighten the sauce. We can change the extras depending on the mood and it tastes like a slightly different dish each time.",
+          "ingredients": [
+            "Ground black pepper",
+            "Lemon",
+            "Basil leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "ca06e34b-66fa-51a0-b760-55c706bdc690",
+          "title": "Parmesan on top if we saved it, salt on the side",
+          "description": "Serve straight away. If we kept the Parmesan for the top, sprinkle it over now. If we’re going dairy-free, leave the cheese out and put some salt on the side so we can season at the table.",
+          "ingredients": [
+            "Parmesan",
+            "Salt to serve"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "beef",
+      "slug": "creamy-pasta-with-beef-mince",
+      "label": "Beef mince",
+      "description": "1 kg of beef mince for both nights. Finish half the creamy sauce with tonight’s pasta and keep the other half for tomorrow.",
+      "groups": [
+        {
+          "title": "The creamy sauce — for both nights",
+          "ingredients": [
+            {
+              "id": "88585cd9-bb3e-5c49-b257-659a9c0393a0",
+              "name": "Beef mince",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Break up the clumps as it browns.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "778cbd97-78cb-504b-8705-6d52dd6db426",
+              "name": "Onions",
+              "quantity": 2,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b385099e-9029-5c8b-a551-9ba9a0e41b9b",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "58a986f8-4507-5d3f-b6d3-633599faf592",
+              "name": "Chicken or beef stock cubes",
+              "quantity": 2,
+              "unit": "",
+              "note": "Whichever we have or fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9a3b18c7-0720-5d75-b27e-d2e311e75024",
+              "name": "Water for the sauce",
+              "quantity": 1000,
+              "unit": "ml",
+              "note": "Boil before adding.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c8c0411f-8e7d-57f5-b066-4de05ce3a837",
+              "name": "Bay leaf",
+              "quantity": 1,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "726e229a-1a48-56a9-bd4a-67082a2c0bd1",
+              "name": "Alpro soya cream",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "For the whole sauce batch. Add before saving half for tomorrow.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "5812c5d1-c134-560d-b272-348446d605ab",
+              "name": "Mushrooms",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Slice and add with the onions and garlic.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s two portions",
+          "ingredients": [
+            {
+              "id": "4439229d-16eb-5821-8c50-80ac62b6b094",
+              "name": "Pasta",
+              "quantity": 300,
+              "unit": "g",
+              "note": "Dry weight. Long noodles work really well, but any shape is good.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "11d0b574-6455-5923-90c0-4f5339bd80f2",
+              "name": "Water for pasta",
+              "quantity": null,
+              "unit": "",
+              "note": "Boil another kettle for the pasta.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "a3107dc5-f81d-5102-b2d0-ce13dddf2fa0",
+              "name": "Reserved pasta water",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "Save before draining; add only as much as the sauce needs.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6fa53432-c993-57bd-99d0-5c3cf3550e58",
+              "name": "Parmesan",
+              "quantity": 100,
+              "unit": "g",
+              "note": "Optional: stir into tonight’s sauce OR sprinkle over the finished pasta. Leave out for the dairy-free version.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ee6b74c3-62c0-548b-8f40-92940805d35c",
+              "name": "Ground black pepper",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "fa39a0bc-a1f8-5879-86f8-64a6aed198f9",
+              "name": "Cornstarch",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "Only if the sauce is too runny. Mix with a little cold water before adding.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "35a25e25-c71a-5d34-83db-93513cd5ac5d",
+              "name": "Frozen peas",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Add with the drained pasta and cook until hot through.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "At the end, if we fancy it",
+          "ingredients": [
+            {
+              "id": "724273aa-c72a-569b-95e1-aae81400bff6",
+              "name": "Lemon",
+              "quantity": null,
+              "unit": "",
+              "note": "A little juice for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "41d328a5-9751-550d-aa0c-626ae7702d4d",
+              "name": "Basil leaves",
+              "quantity": null,
+              "unit": "",
+              "note": "Pluck from the stems and add at the end for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "60a2853d-003a-5a84-9aae-d52ae28b124a",
+              "name": "Salt to serve",
+              "quantity": null,
+              "unit": "",
+              "note": "Put some on the side, especially if we’re leaving out the Parmesan. Season at the table.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "69945cea-f667-5e43-974f-78a6edbf8327",
+          "title": "Get the chopping and water sorted",
+          "description": "Chop the onions and peel and chop the head of garlic. Boil 1 litre of water for the sauce. If we’re adding mushrooms, slice them now.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Water for the sauce",
+            "Mushrooms"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and any mushrooms don’t have to be chopped really fine or look uniform. They’ll soften while the sauce bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e9980057-cd4f-5bcb-b082-ac3165a7d15d",
+          "title": "Start browning the mince",
+          "description": "Heat the pot on medium heat and add the beef mince. Start browning it for 5 minutes, squishing it around to break up the clumps.",
+          "ingredients": [
+            "Beef mince"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Starting to brown; it will finish cooking in the sauce.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "89f22ce9-f43a-59ef-bc40-58f6cdcfbda0",
+          "title": "Add the onions, garlic and any mushrooms",
+          "description": "Add the onions and garlic. If we fancy mushrooms for some veg, add them now too. Squish everything around with the meat for another 5 minutes, until the onions are softened.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Softened onions.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4a218fe4-2678-564b-ad64-2cf25abaa9b8",
+          "title": "Add the stock, water and bay leaf",
+          "description": "Add the chicken or beef stock cubes and the litre of boiled water. Mix everything together, add the bay leaf and bring it to a gentle bubble.",
+          "ingredients": [
+            "Chicken or beef stock cubes",
+            "Water for the sauce",
+            "Bay leaf"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e565f2ae-e876-5f21-9fa8-b6ae5db9c1fb",
+          "title": "Let it bubble uncovered",
+          "description": "Cook for 20 minutes with the lid off, stirring from time to time so the bottom doesn’t catch. Keep it gently bubbling while the sauce cooks down.",
+          "ingredients": [],
+          "durationMinutes": 20,
+          "timerMinutes": 20,
+          "heat": "Gentle bubbles · uncovered",
+          "tip": "",
+          "doneness": "The meat is fully cooked and the sauce has cooked down a little.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "9b617104-5638-5dcc-8d5c-03e1ee98bf16",
+          "title": "Get the pasta going — two minutes less",
+          "description": "Boil another kettle of water and get the pasta boiling in a separate saucepan. Long noodles work great, but any shape will be good. Cook it for 2 minutes less than the packet says, because we want it to finish in the sauce. Save 200 ml of pasta water before draining.",
+          "ingredients": [
+            "Pasta",
+            "Water for pasta",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling water",
+          "tip": "If the packet says 10 minutes, drain after 8. Carry on with the cream and saving step while the pasta boils.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "74be32d7-4ca8-51ae-9286-b34e6e3bbcd4",
+          "title": "Add the soya cream to the whole batch",
+          "description": "While the pasta cooks, add the Alpro soya cream to the pot and let the sauce bubble gently. This goes into the whole batch, before we split it for the two nights.",
+          "ingredients": [
+            "Alpro soya cream"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6697ba2b-48c0-595f-9617-020a39f59e73",
+          "title": "Bay leaf out, then save tomorrow’s half",
+          "description": "Take the bay leaf out and throw it away. Check the meat is cooked through, then take half of the creamy sauce and meat out into a clean container. Let it cool and put it in the fridge for tomorrow. Keep the other half in the pot for tonight.",
+          "ingredients": [
+            "Bay leaf",
+            "Beef mince"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Save half now, before adding tonight’s pasta, Parmesan or pepper. The saved half already has its share of the soya cream.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b3be57f0-be3b-56ff-823e-97080a5ca59b",
+          "title": "Parmesan in the sauce, on top, or leave it out",
+          "description": "If we want the Parmesan stirred into the sauce, add it to tonight’s half now, just before the pasta. If we want it sprinkled on top, keep it aside for serving instead. It’s the same 100 g either way — choose whichever we’re in the mood for. For a dairy-free dinner, leave it out altogether.",
+          "ingredients": [
+            "Parmesan"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "7e119918-1cba-5450-946d-971eae54e1f0",
+          "title": "Finish the pasta in the sauce",
+          "description": "Drain the pasta, remembering to save the pasta water first, and add it to tonight’s sauce. Add some frozen peas now if we fancy them. Mix gently and cook for another 2 minutes, until the pasta is cooked the way we like it and the sauce coats it nicely.",
+          "ingredients": [
+            "Pasta",
+            "Reserved pasta water",
+            "Frozen peas"
+          ],
+          "durationMinutes": 2,
+          "timerMinutes": 2,
+          "heat": "Medium-low heat",
+          "tip": "If using frozen peas, follow their packet cooking time; they may need a little longer to get hot through.",
+          "doneness": "Hot pasta in a thick, creamy sauce. Any peas should be hot right through.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2781f863-2649-516c-be95-5514bff52b03",
+          "title": "Too thick or too runny? Easy enough to fix",
+          "description": "If the dish is too dry, add a little of the saved pasta water and mix gently. If it’s too runny, mix the teaspoon of cornstarch with a little cold water in a cup first. Stir that smooth mixture into the sauce and let it bubble gently until it thickens.",
+          "ingredients": [
+            "Reserved pasta water",
+            "Cornstarch"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles if thickening",
+          "tip": "Only use the cornstarch if it needs it. Mixing it with cold water first stops dry lumps forming in the sauce.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a559438a-1ce8-5a03-bd85-d23d370d2a42",
+          "title": "Finish with pepper, and some brightness if we fancy it",
+          "description": "Finish with the ground black pepper. Add a little lemon juice and some basil leaves if we want to brighten the sauce. We can change the extras depending on the mood and it tastes like a slightly different dish each time.",
+          "ingredients": [
+            "Ground black pepper",
+            "Lemon",
+            "Basil leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "ca06e34b-66fa-51a0-b760-55c706bdc690",
+          "title": "Parmesan on top if we saved it, salt on the side",
+          "description": "Serve straight away. If we kept the Parmesan for the top, sprinkle it over now. If we’re going dairy-free, leave the cheese out and put some salt on the side so we can season at the table.",
+          "ingredients": [
+            "Parmesan",
+            "Salt to serve"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "turkey",
+      "slug": "creamy-pasta-with-turkey-mince",
+      "label": "Turkey mince",
+      "description": "1 kg of turkey mince for both nights. Finish half the creamy sauce with tonight’s pasta and keep the other half for tomorrow.",
+      "groups": [
+        {
+          "title": "The creamy sauce — for both nights",
+          "ingredients": [
+            {
+              "id": "7b02d6c2-bd43-5bb9-8795-c34907ae8c83",
+              "name": "Turkey mince",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Break up the clumps as it browns.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "778cbd97-78cb-504b-8705-6d52dd6db426",
+              "name": "Onions",
+              "quantity": 2,
+              "unit": "",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b385099e-9029-5c8b-a551-9ba9a0e41b9b",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "58a986f8-4507-5d3f-b6d3-633599faf592",
+              "name": "Chicken or beef stock cubes",
+              "quantity": 2,
+              "unit": "",
+              "note": "Whichever we have or fancy.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9a3b18c7-0720-5d75-b27e-d2e311e75024",
+              "name": "Water for the sauce",
+              "quantity": 1000,
+              "unit": "ml",
+              "note": "Boil before adding.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c8c0411f-8e7d-57f5-b066-4de05ce3a837",
+              "name": "Bay leaf",
+              "quantity": 1,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "726e229a-1a48-56a9-bd4a-67082a2c0bd1",
+              "name": "Alpro soya cream",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "For the whole sauce batch. Add before saving half for tomorrow.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "5812c5d1-c134-560d-b272-348446d605ab",
+              "name": "Mushrooms",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Slice and add with the onions and garlic.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s two portions",
+          "ingredients": [
+            {
+              "id": "4439229d-16eb-5821-8c50-80ac62b6b094",
+              "name": "Pasta",
+              "quantity": 300,
+              "unit": "g",
+              "note": "Dry weight. Long noodles work really well, but any shape is good.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "11d0b574-6455-5923-90c0-4f5339bd80f2",
+              "name": "Water for pasta",
+              "quantity": null,
+              "unit": "",
+              "note": "Boil another kettle for the pasta.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "a3107dc5-f81d-5102-b2d0-ce13dddf2fa0",
+              "name": "Reserved pasta water",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "Save before draining; add only as much as the sauce needs.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6fa53432-c993-57bd-99d0-5c3cf3550e58",
+              "name": "Parmesan",
+              "quantity": 100,
+              "unit": "g",
+              "note": "Optional: stir into tonight’s sauce OR sprinkle over the finished pasta. Leave out for the dairy-free version.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ee6b74c3-62c0-548b-8f40-92940805d35c",
+              "name": "Ground black pepper",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "fa39a0bc-a1f8-5879-86f8-64a6aed198f9",
+              "name": "Cornstarch",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "Only if the sauce is too runny. Mix with a little cold water before adding.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "35a25e25-c71a-5d34-83db-93513cd5ac5d",
+              "name": "Frozen peas",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional veg. Add with the drained pasta and cook until hot through.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "At the end, if we fancy it",
+          "ingredients": [
+            {
+              "id": "724273aa-c72a-569b-95e1-aae81400bff6",
+              "name": "Lemon",
+              "quantity": null,
+              "unit": "",
+              "note": "A little juice for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "41d328a5-9751-550d-aa0c-626ae7702d4d",
+              "name": "Basil leaves",
+              "quantity": null,
+              "unit": "",
+              "note": "Pluck from the stems and add at the end for brightness.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "60a2853d-003a-5a84-9aae-d52ae28b124a",
+              "name": "Salt to serve",
+              "quantity": null,
+              "unit": "",
+              "note": "Put some on the side, especially if we’re leaving out the Parmesan. Season at the table.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "69945cea-f667-5e43-974f-78a6edbf8327",
+          "title": "Get the chopping and water sorted",
+          "description": "Chop the onions and peel and chop the head of garlic. Boil 1 litre of water for the sauce. If we’re adding mushrooms, slice them now.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Water for the sauce",
+            "Mushrooms"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and any mushrooms don’t have to be chopped really fine or look uniform. They’ll soften while the sauce bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e9980057-cd4f-5bcb-b082-ac3165a7d15d",
+          "title": "Start browning the mince",
+          "description": "Heat the pot on medium heat and add the turkey mince. Start browning it for 5 minutes, squishing it around to break up the clumps.",
+          "ingredients": [
+            "Turkey mince"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Starting to brown; it will finish cooking in the sauce.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "89f22ce9-f43a-59ef-bc40-58f6cdcfbda0",
+          "title": "Add the onions, garlic and any mushrooms",
+          "description": "Add the onions and garlic. If we fancy mushrooms for some veg, add them now too. Squish everything around with the meat for another 5 minutes, until the onions are softened.",
+          "ingredients": [
+            "Onions",
+            "Garlic",
+            "Mushrooms"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Softened onions.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4a218fe4-2678-564b-ad64-2cf25abaa9b8",
+          "title": "Add the stock, water and bay leaf",
+          "description": "Add the chicken or beef stock cubes and the litre of boiled water. Mix everything together, add the bay leaf and bring it to a gentle bubble.",
+          "ingredients": [
+            "Chicken or beef stock cubes",
+            "Water for the sauce",
+            "Bay leaf"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e565f2ae-e876-5f21-9fa8-b6ae5db9c1fb",
+          "title": "Let it bubble uncovered",
+          "description": "Cook for 20 minutes with the lid off, stirring from time to time so the bottom doesn’t catch. Keep it gently bubbling while the sauce cooks down.",
+          "ingredients": [],
+          "durationMinutes": 20,
+          "timerMinutes": 20,
+          "heat": "Gentle bubbles · uncovered",
+          "tip": "",
+          "doneness": "The meat is fully cooked and the sauce has cooked down a little.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "9b617104-5638-5dcc-8d5c-03e1ee98bf16",
+          "title": "Get the pasta going — two minutes less",
+          "description": "Boil another kettle of water and get the pasta boiling in a separate saucepan. Long noodles work great, but any shape will be good. Cook it for 2 minutes less than the packet says, because we want it to finish in the sauce. Save 200 ml of pasta water before draining.",
+          "ingredients": [
+            "Pasta",
+            "Water for pasta",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling water",
+          "tip": "If the packet says 10 minutes, drain after 8. Carry on with the cream and saving step while the pasta boils.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "74be32d7-4ca8-51ae-9286-b34e6e3bbcd4",
+          "title": "Add the soya cream to the whole batch",
+          "description": "While the pasta cooks, add the Alpro soya cream to the pot and let the sauce bubble gently. This goes into the whole batch, before we split it for the two nights.",
+          "ingredients": [
+            "Alpro soya cream"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6697ba2b-48c0-595f-9617-020a39f59e73",
+          "title": "Bay leaf out, then save tomorrow’s half",
+          "description": "Take the bay leaf out and throw it away. Check the meat is cooked through, then take half of the creamy sauce and meat out into a clean container. Let it cool and put it in the fridge for tomorrow. Keep the other half in the pot for tonight.",
+          "ingredients": [
+            "Bay leaf",
+            "Turkey mince"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Save half now, before adding tonight’s pasta, Parmesan or pepper. The saved half already has its share of the soya cream.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b3be57f0-be3b-56ff-823e-97080a5ca59b",
+          "title": "Parmesan in the sauce, on top, or leave it out",
+          "description": "If we want the Parmesan stirred into the sauce, add it to tonight’s half now, just before the pasta. If we want it sprinkled on top, keep it aside for serving instead. It’s the same 100 g either way — choose whichever we’re in the mood for. For a dairy-free dinner, leave it out altogether.",
+          "ingredients": [
+            "Parmesan"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "7e119918-1cba-5450-946d-971eae54e1f0",
+          "title": "Finish the pasta in the sauce",
+          "description": "Drain the pasta, remembering to save the pasta water first, and add it to tonight’s sauce. Add some frozen peas now if we fancy them. Mix gently and cook for another 2 minutes, until the pasta is cooked the way we like it and the sauce coats it nicely.",
+          "ingredients": [
+            "Pasta",
+            "Reserved pasta water",
+            "Frozen peas"
+          ],
+          "durationMinutes": 2,
+          "timerMinutes": 2,
+          "heat": "Medium-low heat",
+          "tip": "If using frozen peas, follow their packet cooking time; they may need a little longer to get hot through.",
+          "doneness": "Hot pasta in a thick, creamy sauce. Any peas should be hot right through.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2781f863-2649-516c-be95-5514bff52b03",
+          "title": "Too thick or too runny? Easy enough to fix",
+          "description": "If the dish is too dry, add a little of the saved pasta water and mix gently. If it’s too runny, mix the teaspoon of cornstarch with a little cold water in a cup first. Stir that smooth mixture into the sauce and let it bubble gently until it thickens.",
+          "ingredients": [
+            "Reserved pasta water",
+            "Cornstarch"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle bubbles if thickening",
+          "tip": "Only use the cornstarch if it needs it. Mixing it with cold water first stops dry lumps forming in the sauce.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a559438a-1ce8-5a03-bd85-d23d370d2a42",
+          "title": "Finish with pepper, and some brightness if we fancy it",
+          "description": "Finish with the ground black pepper. Add a little lemon juice and some basil leaves if we want to brighten the sauce. We can change the extras depending on the mood and it tastes like a slightly different dish each time.",
+          "ingredients": [
+            "Ground black pepper",
+            "Lemon",
+            "Basil leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "ca06e34b-66fa-51a0-b760-55c706bdc690",
+          "title": "Parmesan on top if we saved it, salt on the side",
+          "description": "Serve straight away. If we kept the Parmesan for the top, sprinkle it over now. If we’re going dairy-free, leave the cheese out and put some salt on the side so we can season at the table.",
+          "ingredients": [
+            "Parmesan",
+            "Salt to serve"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Parmesan is optional — dairy-free if we fancy it",
+      "text": "The cream is Alpro soya cream, so we can leave the Parmesan out for a dairy-free dinner. Put some salt on the side so we can season at the table. If using the cheese, use 100 g for tonight: stir it into the sauce or sprinkle it over the finished pasta."
+    },
+    {
+      "title": "Mushrooms for some veg",
+      "text": "Slice some mushrooms and add them while cooking the onions and garlic. They go into the full sauce batch, so both nights get some."
+    },
+    {
+      "title": "Peas with the pasta",
+      "text": "Add some frozen peas with tonight’s cooked, drained pasta. Follow the packet cooking time and make sure they’re hot right through."
+    },
+    {
+      "title": "Lemon and basil for brightness",
+      "text": "Add a little lemon juice and some plucked basil leaves at the end if that’s what we fancy. No fixed amount — add a little and taste."
+    },
+    {
+      "title": "For the second dinner",
+      "text": "The saved half already has its soya cream in it. Reheat it gently until steaming hot throughout, then use fresh pasta cooked for 2 minutes less than its packet time. Save some pasta water and finish the pasta in the hot sauce for about 2 minutes, loosening if needed. Have Parmesan in the sauce, on top or leave it out and serve salt on the side."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Too dry or thick",
+      "text": "Add some of the reserved pasta water a little at a time and mix gently until the sauce coats the pasta nicely."
+    },
+    {
+      "title": "Too liquidy",
+      "text": "Mix 1 teaspoon of cornstarch with a little cold water until smooth. Stir it into tonight’s sauce and let it bubble gently until it thickens. Only use it if the sauce needs it."
+    },
+    {
+      "title": "Leaving the Parmesan out",
+      "text": "The dish still gets its creaminess from the soya cream. Serve some salt on the side and season at the table if it needs it."
+    }
+  ],
+  "storage": "Cool the saved half of the creamy sauce quickly in a clean container and refrigerate within 1–2 hours. Use within 2 days. Keep it separate from tonight’s pasta.",
+  "reheating": "Reheat the saved sauce once, gently, until steaming hot throughout, stirring and adding a splash of water if it has thickened. Finish it with freshly cooked pasta.",
+  "foodSafety": "The chicken or mince must be fully cooked through before splitting the sauce or serving. Check any optional frozen peas are hot through too.",
+  "servingSuggestion": "Two portions tonight, with another two from the saved sauce. Parmesan in the sauce, on top or leave it out for a dairy-free dinner, with salt on the side.",
+  "glossary": [
+    "Brown",
+    "Simmer",
+    "Boil"
+  ]
+}

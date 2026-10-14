@@ -58,7 +58,8 @@
     "cassoulet",
     "lamb-mutton-mysore",
     "pistachio-pesto-pasta",
-    "spaghetti-bolognese"
+    "spaghetti-bolognese",
+    "creamy-pasta"
   ],
   "collections": [
     {
@@ -94,7 +95,8 @@
         "cassoulet",
         "lamb-mutton-mysore",
         "pistachio-pesto-pasta",
-        "spaghetti-bolognese"
+        "spaghetti-bolognese",
+        "creamy-pasta"
       ]
     },
     {
@@ -129,7 +131,8 @@
         "cassoulet",
         "lamb-mutton-mysore",
         "pistachio-pesto-pasta",
-        "spaghetti-bolognese"
+        "spaghetti-bolognese",
+        "creamy-pasta"
       ]
     },
     {
@@ -163,7 +166,8 @@
         "cassoulet",
         "lamb-mutton-mysore",
         "pistachio-pesto-pasta",
-        "spaghetti-bolognese"
+        "spaghetti-bolognese",
+        "creamy-pasta"
       ]
     }
   ],
