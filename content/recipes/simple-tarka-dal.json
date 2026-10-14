@@ -2,7 +2,7 @@
   "slug": "simple-tarka-dal",
   "aliases": [],
   "title": "Simple Tarka Dal",
-  "description": "Roughly chopped veg and whichever lentils we have, cooked until soft and mushy. The spice bowl goes in after the first simmer, with coconut milk and a Shapla-style tarka if we fancy them.",
+  "description": "Roughly chopped veg and whichever lentils we have, cooked until soft and mushy. Four portions, with optional coconut milk, spinach, eggs and a Shapla-style tarka if we fancy them.",
   "category": "Curries",
   "cuisine": "Indian-inspired",
   "mainIngredient": "Lentils",
@@ -21,8 +21,8 @@
   "prepMinutes": 15,
   "cookMinutes": 55,
   "restMinutes": 0,
-  "servings": 2,
-  "portionNote": "A guide of 2 generous portions with rice or bread. Adjust to suit how much we’re having alongside. The full dal batch starts with 200 g dry lentils.",
+  "servings": 4,
+  "portionNote": "The full batch uses 200 g dry lentils and makes 4 portions. Serve with rice or bread and poppadoms.",
   "featured": true,
   "published": true,
   "demo": false,
@@ -50,7 +50,7 @@
     "Smallest saucepan for the optional tarka"
   ],
   "advancePrep": "Wash and soak the dal for at least 15 minutes; longer is fine. Get the spice bowl and roughly chopped veg ready while it soaks. The onions, garlic and tomatoes don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the dal bubbles, so don’t spend ages making everything match.",
-  "importantNotes": "The cumin seeds, turmeric, sambar powder, first measure of asafoetida and curry leaves all go in the same bowl. Add that bowl after the first covered simmer. The optional tarka has its own extra half-teaspoon of asafoetida; it doesn’t replace the teaspoon in the dal.",
+  "importantNotes": "The cumin seeds, turmeric, sambar powder, first measure of asafoetida and curry leaves all go in the same bowl. Add that bowl after the first covered simmer. The optional tarka has its own extra half-teaspoon of asafoetida; it doesn’t replace the teaspoon in the dal. For spinach dal, add spinach with the spices. For egg dal, add 1 teaspoon garam masala to the spice bowl, then scramble 4 eggs into the finished thick dal until cooked through. Allow a little extra cooking time for the eggs.",
   "groups": [
     {
       "title": "The dal and veg",
@@ -233,6 +233,41 @@
       ]
     },
     {
+      "title": "Spinach or egg dal, if we fancy it",
+      "ingredients": [
+        {
+          "id": "fb1546e1-d330-5bbd-aade-30a015cb76ad",
+          "name": "Spinach",
+          "quantity": null,
+          "unit": "",
+          "note": "Add with the spice bowl to make spinach dal.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "063aebcd-0181-5d94-8da2-7af17dfad9aa",
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": "",
+          "note": "For egg dal: crack into the finished thick dal and scramble through.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "54a1a591-b979-5cf2-89e5-b93a543c3c56",
+          "name": "Garam masala for egg dal",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Only if using eggs. Add to the spice bowl.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
       "title": "The optional Shapla-style tarka",
       "ingredients": [
         {
@@ -314,13 +349,14 @@
     {
       "id": "7c922802-b20c-5a4a-b105-8b41818930e9",
       "title": "Make one spice bowl",
-      "description": "Put the cumin seeds, turmeric, sambar powder, the teaspoon of asafoetida and the handful of curry leaves into a small bowl. Ask bubu about the sambar powder and asafoetida if you’re making this alone.",
+      "description": "Put the cumin seeds, turmeric, sambar powder, the teaspoon of asafoetida and the handful of curry leaves into a small bowl. Ask bubu about the sambar powder and asafoetida if you’re making this alone. If we’re making egg dal, add the extra teaspoon of garam masala to this bowl too.",
       "ingredients": [
         "Cumin seeds",
         "Turmeric powder",
         "Sambar powder",
         "Asafoetida for the spice bowl",
-        "Curry leaves"
+        "Curry leaves",
+        "Garam masala for egg dal"
       ],
       "durationMinutes": 0,
       "timerMinutes": 0,
@@ -391,14 +427,16 @@
     {
       "id": "6fac846a-5fe2-5a36-a642-0a09bc278a10",
       "title": "Now add the spice bowl",
-      "description": "Tip everything from the spice bowl into the softened dal and mix it through. If we fancy the coconut version, add the can of coconut milk now too. Let it cook for another 20 minutes until thick, stirring so it doesn’t stick.",
+      "description": "Tip everything from the spice bowl into the softened dal and mix it through. Add spinach now if we fancy spinach dal. If we want the coconut version, add the can of coconut milk now too. Let it cook for another 20 minutes until thick, stirring so it doesn’t stick.",
       "ingredients": [
         "Cumin seeds",
         "Turmeric powder",
         "Sambar powder",
         "Asafoetida for the spice bowl",
         "Curry leaves",
-        "Coconut milk"
+        "Coconut milk",
+        "Spinach",
+        "Garam masala for egg dal"
       ],
       "durationMinutes": 20,
       "timerMinutes": 20,
@@ -423,6 +461,22 @@
       "heat": "Gentle bubbles",
       "tip": "",
       "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "85821dab-bf7b-52f1-8528-55c126f9fbcc",
+      "title": "Optional: scramble in the eggs for egg dal",
+      "description": "If we’re making egg dal, crack the 4 eggs into the finished thick dal. Keep it on medium-low heat and scramble them through with the spoon until the eggs are cooked through. The extra teaspoon of garam masala should already have gone into the spice bowl. Skip this step if we’re not using eggs.",
+      "ingredients": [
+        "Eggs"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium-low heat · optional",
+      "tip": "Give the eggs enough time to cook through; they should be set rather than runny.",
+      "doneness": "Cooked egg scrambled through the thick dal.",
       "warning": "",
       "image": "",
       "imageAlt": ""
@@ -498,6 +552,14 @@
     {
       "title": "Ask bubu about the two powders",
       "text": "If you’re making this alone, ask bubu about the sambar powder and asafoetida. The spice bowl uses 2 tablespoons sambar powder and 1 teaspoon asafoetida; the optional tarka uses another ½ teaspoon asafoetida."
+    },
+    {
+      "title": "Spinach dal",
+      "text": "Add spinach with the spice bowl and let it cook into the dal during the 20-minute thickening stage."
+    },
+    {
+      "title": "Egg dal",
+      "text": "Add 1 teaspoon garam masala to the spice bowl if using eggs. Once the dal is thick and finished with coriander and pepper, crack in 4 eggs and scramble them through on medium-low heat until cooked through."
     }
   ],
   "troubleshooting": [
@@ -513,9 +575,12 @@
   "storage": "Cool any leftover dal quickly and refrigerate within 1–2 hours. Use within 2 days. Keep any saved rice separate and use it within 24 hours.",
   "reheating": "Reheat the portion we’re eating once until steaming hot throughout. Add a splash of water if it has thickened in the fridge.",
   "foodSafety": "Cook the lentils until fully soft, using their packet instructions as a guide. Take the tarka pan off the heat before carefully pouring the hot mixture into the dal.",
-  "servingSuggestion": "Cooked rice, naan or parathas, with poppadoms. Coconut milk and the finishing tarka are both optional.",
+  "servingSuggestion": "Four portions with rice, naan or parathas and poppadoms. Add spinach with the spices, or make egg dal with 4 eggs and the extra garam masala. Coconut milk and the finishing tarka are optional too. Serve Chicken 65 alongside the dal for a complete meal; the recipe is linked below.",
   "glossary": [
     "Simmer",
     "Boil"
+  ],
+  "servingRecipes": [
+    "chicken-65"
   ]
 }
