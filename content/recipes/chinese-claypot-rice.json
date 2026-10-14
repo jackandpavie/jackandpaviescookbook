@@ -42,7 +42,7 @@
     "Containers for the next day’s lunches"
   ],
   "advancePrep": "Check the freezer for ginger-garlic blocks. For the original four-portion batch, 4 blocks replace the head of garlic and 50 g of ginger.",
-  "importantNotes": "Four portions: dinner for both of us and two lunches for tomorrow. For our batch, use 600–800 g of whichever one meat you choose. Prep time is an estimate. Don’t open the lid during the final 10-minute rest.",
+  "importantNotes": "Four portions: dinner for both of us and two lunches for tomorrow. For the batch, use 600–800 g of whichever one meat you choose. Prep time is an estimate. Don’t open the lid during the final 10-minute rest.",
   "groups": [
     {
       "title": "For the meat, mushrooms and rice",
@@ -52,7 +52,7 @@
           "name": "Chicken",
           "quantity": 600,
           "unit": "g",
-          "note": "Use 600–800 g for our four-portion batch, diced small. Or use the same range of sliced pork loin, thinly sliced beef steak or 5% lean pork mince.",
+          "note": "Use 600–800 g for the four-portion batch, diced small. Or use the same range of sliced pork loin, thinly sliced beef steak or 5% lean pork mince.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -72,7 +72,7 @@
           "name": "Garlic",
           "quantity": 1,
           "unit": "head",
-          "note": "Peel and chop finely. Or replace this and the ginger with 4 ginger-garlic blocks for our batch.",
+          "note": "Peel and chop finely. Or replace this and the ginger with 4 ginger-garlic blocks for the batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -199,7 +199,7 @@
     {
       "id": "5b462f50-4492-5bb0-93b0-70906e8193f9",
       "title": "Prepare the meat and aromatics",
-      "description": "Pick whichever meat we’re using, Jack: small diced chicken, sliced pork loin, thin beef steaks or 5% lean pork mince. Slice the mushrooms. Check for ginger-garlic blocks in the freezer, or peel and finely chop the garlic and ginger. Chop whichever onion we have and boil the measured water.",
+      "description": "Pick whichever meat we’re using: small diced chicken, sliced pork loin, thin beef steaks or 5% lean pork mince. Slice the mushrooms. Check for ginger-garlic blocks in the freezer, or peel and finely chop the garlic and ginger. Chop whichever onion we have and boil the measured water.",
       "ingredients": [
         "Chicken",
         "Mushrooms",
@@ -335,7 +335,7 @@
     {
       "id": "bfde6819-602b-50a8-8ad4-ae5f1a8d0ee3",
       "title": "Serve with lime and sesame oil",
-      "description": "Open the lid and check that the rice and meat are cooked. Serve our dinner straight away with lime wedges and sesame oil. If it needs more salt, add a little extra soy sauce to your plate. Try the lime too—it brightens the flavour, so less salt is fine. Put our lunch portions aside to cool promptly.",
+      "description": "Open the lid and check that the rice and meat are cooked. Serve straight away with lime wedges and sesame oil. If it needs more salt, add a little extra soy sauce to your plate. Try the lime too—it brightens the flavour, so less salt is fine. Put the lunch portions aside to cool promptly.",
       "ingredients": [
         "Lime wedges",
         "Sesame oil",

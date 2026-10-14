@@ -346,7 +346,7 @@ content:
       type: string
       required: true
     - name: description
-      label: Note to Jack about this option
+      label: Personal note about this option
       type: text
     - name: advancePrep
       label: Preparation before starting

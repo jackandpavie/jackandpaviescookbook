@@ -2,7 +2,7 @@
   "slug": "gochujang-fried-rice",
   "aliases": [],
   "title": "Gochujang Fried Rice",
-  "description": "Our gochujang rice with eggs, whichever vegetables we have, and Spam, beef or cooked chicken.",
+  "description": "gochujang rice with eggs, whichever vegetables we have, and Spam, beef or cooked chicken.",
   "category": "Rice dishes",
   "cuisine": "Korean-inspired",
   "mainIngredient": "White rice",
@@ -37,7 +37,7 @@
   "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Jack, use whichever vegetables we have. We’re cooling and slightly undercooking the fresh rice first so the grains stay separate when we fry it.",
+  "personalNote": "Use whichever vegetables we have. We’re cooling and slightly undercooking the fresh rice first so the grains stay separate when we fry it.",
   "story": "",
   "equipment": [
     "Large wok",
@@ -46,12 +46,12 @@
     "Saucepan for rice",
     "Kettle",
     "Colander or sieve",
-    "Container for our second dinner"
+    "Container for the second dinner"
   ],
-  "advancePrep": "Chop the garlic and ginger, or check for our ginger-garlic blocks in the freezer. If we use pak choi, separate the greens and cut the stalks into matchsticks.",
+  "advancePrep": "Chop the garlic and ginger, or check the freezer for ginger-garlic blocks. If we use pak choi, separate the greens and cut the stalks into matchsticks.",
   "importantNotes": "This makes four portions across two dinners for both of us. Pick one protein using the tabs, and use one of the vegetable options in the ingredient note. Get everything ready before the wok goes on. Fresh pak choi or beansprouts need about 2 minutes; frozen vegetables need 5 minutes. The times are estimates. For fresh rice, the 8-minute boil is deliberately shorter than our usual rice method; the rice finishes cooking in the wok.",
   "choiceHeading": "Spam, beef or cooked chicken tonight?",
-  "choiceIntro": "Pick our protein, Jack. I’ve kept the rest of the wok method the same.",
+  "choiceIntro": "Pick the protein. I’ve kept the rest of the wok method the same.",
   "groups": [
     {
       "title": "For the rice and wok",
@@ -61,7 +61,7 @@
           "name": "White rice",
           "quantity": 400,
           "unit": "g",
-          "note": "Or use 3 packs of packet rice for our full four-portion batch; use half that packet amount for a two-portion dinner.",
+          "note": "Or use 3 packs of packet rice for the full four-portion batch; use half that packet amount for a two-portion dinner.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -71,7 +71,7 @@
           "name": "Garlic",
           "quantity": 1,
           "unit": "head",
-          "note": "Peel and chop. Or replace this and the ginger with 2 frozen ginger-garlic blocks for our batch.",
+          "note": "Peel and chop. Or replace this and the ginger with 2 frozen ginger-garlic blocks for the batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -146,7 +146,7 @@
           "name": "Lime wedges",
           "quantity": null,
           "unit": "",
-          "note": "For squeezing over our plates.",
+          "note": "For squeezing over the plates.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -168,7 +168,7 @@
     {
       "id": "eae20a58-13a5-5ad8-98ad-4474b6b60241",
       "title": "Add the garlic and ginger",
-      "description": "Add the chopped garlic and ginger, or our ginger-garlic blocks, and fry for another 2 minutes. Squish them around and keep an eye on the garlic so it doesn’t go black.",
+      "description": "Add the chopped garlic and ginger, or the ginger-garlic blocks, and fry for another 2 minutes. Squish them around and keep an eye on the garlic so it doesn’t go black.",
       "ingredients": [
         "Garlic",
         "Ginger"
@@ -201,7 +201,7 @@
     {
       "id": "5500c39d-3669-52b7-b255-91e7dac4516e",
       "title": "Add whichever vegetables we chose",
-      "description": "Add our vegetables. If we’re using fresh pak choi or beansprouts, cook for 2 minutes. If we chose frozen peas or mixed frozen vegetables, cook for 5 minutes instead. Squish everything around so it heats evenly.",
+      "description": "Add the vegetables. If we’re using fresh pak choi or beansprouts, cook for 2 minutes. If we chose frozen peas or mixed frozen vegetables, cook for 5 minutes instead. Squish everything around so it heats evenly.",
       "ingredients": [
         "Pak choi"
       ],
@@ -233,7 +233,7 @@
     },
     {
       "id": "04ecdfca-beff-596f-88fa-02e504d7e930",
-      "title": "Fry our rice until hot",
+      "title": "Fry the rice until hot",
       "description": "Now add the well-drained rice and fry for 5–10 minutes, tossing and squishing it around, until it’s nice and hot all the way through. The fresh rice must finish cooking here; taste a few grains to check they’re cooked.",
       "ingredients": [
         "White rice"
@@ -241,7 +241,7 @@
       "durationMinutes": 0,
       "timerMinutes": 5,
       "heat": "High heat",
-      "tip": "The 5-minute timer is our first check. Keep going for up to 10 minutes if it needs it.",
+      "tip": "The 5-minute timer is the first check. Keep going for up to 10 minutes if it needs it.",
       "warning": "",
       "doneness": "Steaming hot rice throughout, with cooked, separate rice grains.",
       "image": "",
@@ -249,7 +249,7 @@
     },
     {
       "id": "3c6c39d1-2380-5605-9c11-c3755aeea80a",
-      "title": "Serve our dinner",
+      "title": "Serve dinner",
       "description": "Serve straight away with lime wedges and sesame oil. For the Spam or beef batch, put the second dinner into small containers to cool promptly. For cooked chicken, make the second dinner fresh using the portion of chicken we kept chilled and unheated.",
       "ingredients": [
         "Lime wedges",
@@ -273,7 +273,7 @@
       "description": "Spam tonight? Dice it nice and fine, then give it 3 minutes in the hot wok.",
       "groups": [
         {
-          "title": "Our chosen protein",
+          "title": "Chosen protein",
           "ingredients": [
             {
               "id": "9b7c91fd-8a96-5686-9729-ee7b3a559375",
@@ -291,8 +291,8 @@
       "beforeSteps": [
         {
           "id": "3a38406b-6921-5117-98bd-c94be0f7fcbe",
-          "title": "Get everything ready for our spam version",
-          "description": "Dice the Spam finely, smaller than we do for the pork stew. Chop the garlic and ginger, or use our freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
+          "title": "Get everything ready for the spam version",
+          "description": "Dice the Spam finely, smaller than we do for the pork stew. Chop the garlic and ginger, or use the freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
           "ingredients": [
             "Spam",
             "Garlic",
@@ -313,8 +313,8 @@
         },
         {
           "id": "99d732e6-b1c0-554d-b14f-f5e7497220c2",
-          "title": "Choose our rice and start the short boil",
-          "description": "For our full four-portion batch, we can use 3 packs of packet rice (half that amount for a two-portion dinner), prepared as the label says, and skip the fresh-rice boil and rinse. If we’re making fresh rice instead, wash the white rice, put it into a saucepan of boiling water and boil for 8 minutes. We’re stopping a little early because it finishes cooking in the wok.",
+          "title": "Choose the rice and start the short boil",
+          "description": "For the full four-portion batch, we can use 3 packs of packet rice (half that amount for a two-portion dinner), prepared as the label says, and skip the fresh-rice boil and rinse. If we’re making fresh rice instead, wash the white rice, put it into a saucepan of boiling water and boil for 8 minutes. We’re stopping a little early because it finishes cooking in the wok.",
           "ingredients": [
             "White rice",
             "Water for preparing the rice"
@@ -347,8 +347,8 @@
         },
         {
           "id": "5a969100-6450-5353-b9f8-1c92c949d59e",
-          "title": "Fry our Spam",
-          "description": "Get the wok hot on high heat and add our finely diced Spam. Fry it for 3 minutes, moving it around so it starts to brown.",
+          "title": "Fry the Spam",
+          "description": "Get the wok hot on high heat and add the finely diced Spam. Fry it for 3 minutes, moving it around so it starts to brown.",
           "ingredients": [
             "Spam"
           ],
@@ -371,7 +371,7 @@
       "description": "Beef tonight? Use thin slices and start with a 7-minute searing check.",
       "groups": [
         {
-          "title": "Our chosen protein",
+          "title": "Chosen protein",
           "ingredients": [
             {
               "id": "b8322156-a73a-5a56-b12c-b0c04e148076",
@@ -389,8 +389,8 @@
       "beforeSteps": [
         {
           "id": "0b0fc748-dfb1-5dc7-80d9-4d82f7fd227f",
-          "title": "Get everything ready for our beef version",
-          "description": "Slice the beef steaks thinly. Chop the garlic and ginger, or use our freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
+          "title": "Get everything ready for the beef version",
+          "description": "Slice the beef steaks thinly. Chop the garlic and ginger, or use the freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
           "ingredients": [
             "Thin beef steaks",
             "Garlic",
@@ -411,8 +411,8 @@
         },
         {
           "id": "99d732e6-b1c0-554d-b14f-f5e7497220c2",
-          "title": "Choose our rice and start the short boil",
-          "description": "For our full four-portion batch, we can use 3 packs of packet rice (half that amount for a two-portion dinner), prepared as the label says, and skip the fresh-rice boil and rinse. If we’re making fresh rice instead, wash the white rice, put it into a saucepan of boiling water and boil for 8 minutes. We’re stopping a little early because it finishes cooking in the wok.",
+          "title": "Choose the rice and start the short boil",
+          "description": "For the full four-portion batch, we can use 3 packs of packet rice (half that amount for a two-portion dinner), prepared as the label says, and skip the fresh-rice boil and rinse. If we’re making fresh rice instead, wash the white rice, put it into a saucepan of boiling water and boil for 8 minutes. We’re stopping a little early because it finishes cooking in the wok.",
           "ingredients": [
             "White rice",
             "Water for preparing the rice"
@@ -445,7 +445,7 @@
         },
         {
           "id": "32d06907-0e79-5e07-b611-3fc27bcf685c",
-          "title": "Sear our thin beef steaks",
+          "title": "Sear the thin beef steaks",
           "description": "Get the wok hot on high heat and add the thinly sliced beef. Start with 7 minutes, turning and checking it for a good brown sear. Keep cooking if it needs longer, until it’s cooked through; don’t let it burn.",
           "ingredients": [
             "Thin beef steaks"
@@ -453,7 +453,7 @@
           "durationMinutes": 0,
           "timerMinutes": 7,
           "heat": "High heat",
-          "tip": "The 7-minute timer is our first check, Jack. Keep cooking until you’re happy the beef is cooked through.",
+          "tip": "The 7-minute timer is the first check. Keep cooking until you’re happy the beef is cooked through.",
           "warning": "",
           "doneness": "A good brown sear and beef cooked through.",
           "image": "",
@@ -469,7 +469,7 @@
       "description": "Cooked chicken tonight? Follow the Spam’s 3-minute timing. I’ve set the portion control to two for tonight; keep tomorrow’s chicken chilled and unheated, and make that dinner fresh so we don’t reheat it twice.",
       "groups": [
         {
-          "title": "Our chosen protein",
+          "title": "Chosen protein",
           "ingredients": [
             {
               "id": "dc6322e7-d127-5370-9dff-857d78fa7778",
@@ -487,8 +487,8 @@
       "beforeSteps": [
         {
           "id": "fb850012-bffe-5d41-aaee-3138b0997f03",
-          "title": "Get everything ready for our chicken version",
-          "description": "Have our already cooked chicken ready in small pieces. Chop the garlic and ginger, or use our freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
+          "title": "Get everything ready for the chicken version",
+          "description": "Have the already cooked chicken ready in small pieces. Chop the garlic and ginger, or use the freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
           "ingredients": [
             "Cooked chicken",
             "Garlic",
@@ -509,8 +509,8 @@
         },
         {
           "id": "99d732e6-b1c0-554d-b14f-f5e7497220c2",
-          "title": "Choose our rice and start the short boil",
-          "description": "For our full four-portion batch, we can use 3 packs of packet rice (half that amount for a two-portion dinner), prepared as the label says, and skip the fresh-rice boil and rinse. If we’re making fresh rice instead, wash the white rice, put it into a saucepan of boiling water and boil for 8 minutes. We’re stopping a little early because it finishes cooking in the wok.",
+          "title": "Choose the rice and start the short boil",
+          "description": "For the full four-portion batch, we can use 3 packs of packet rice (half that amount for a two-portion dinner), prepared as the label says, and skip the fresh-rice boil and rinse. If we’re making fresh rice instead, wash the white rice, put it into a saucepan of boiling water and boil for 8 minutes. We’re stopping a little early because it finishes cooking in the wok.",
           "ingredients": [
             "White rice",
             "Water for preparing the rice"
@@ -543,8 +543,8 @@
         },
         {
           "id": "f76bad89-8f48-5852-a9fa-b7284481a89b",
-          "title": "Fry our cooked chicken",
-          "description": "Get the wok hot on high heat and add our already cooked chicken. Fry it for 3 minutes, following the Spam timing, then carry on with the garlic and eggs.",
+          "title": "Fry the cooked chicken",
+          "description": "Get the wok hot on high heat and add the already cooked chicken. Fry it for 3 minutes, following the Spam timing, then carry on with the garlic and eggs.",
           "ingredients": [
             "Cooked chicken"
           ],
@@ -565,7 +565,7 @@
   "timeline": [],
   "substitutions": [
     {
-      "title": "Our ginger-garlic blocks",
+      "title": "Frozen ginger-garlic blocks",
       "text": "Use 2 frozen blocks instead of the head of garlic and 50 g ginger for this batch."
     },
     {
@@ -574,7 +574,7 @@
     },
     {
       "title": "Protein amounts",
-      "text": "Our usual version uses one can of Spam. We can use thin beef steaks or our cooked chicken instead; pick one using the tabs above."
+      "text": "The usual version uses one can of Spam. We can use thin beef steaks or the cooked chicken instead; pick one using the tabs above."
     },
     {
       "title": "Packet rice",
@@ -591,10 +591,10 @@
       "text": "Give frozen vegetables 5 minutes, rather than the fresh vegetables’ 2 minutes. Follow their packet if it needs longer."
     }
   ],
-  "storage": "For Spam or beef, divide our second dinner into small containers to cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours. For the cooked-chicken version, keep the unheated chicken for night two properly chilled and within its safe storage time, then make that dinner fresh.",
+  "storage": "For Spam or beef, divide the second dinner into small containers to cool quickly, ideally within 1 hour. Refrigerate and eat within 24 hours. For the cooked-chicken version, keep the unheated chicken for night two properly chilled and within its safe storage time, then make that dinner fresh.",
   "reheating": "Reheat the saved Spam or beef dinner once until steaming hot throughout, stirring or turning it to avoid cold pockets. Saved rice should be used within 24 hours. With cooked chicken, fry a fresh dinner portion rather than reheating chicken that we have already heated once.",
   "foodSafety": "The beef must be cooked through. Use properly chilled cooked chicken that has not already been reheated, and heat tonight’s meal until steaming hot throughout. Keep the remaining cooked chicken unheated for the second dinner, and reheat it only once when we cook that portion.",
-  "servingSuggestion": "Serve our dinner straight away with lime wedges and sesame oil. This batch gives us a second dinner too.",
+  "servingSuggestion": "Serve straight away with lime wedges and sesame oil. This batch gives us a second dinner too.",
   "glossary": [
     "Brown",
     "Boil"

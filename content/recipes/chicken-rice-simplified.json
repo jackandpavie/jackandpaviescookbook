@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Chilli sauce for bubu and soy sauce for dudu. Be gentle with the rice at the end, Jack—this is the bit where we fluff it rather than squish it.",
+  "personalNote": "Chilli sauce for bubu and soy sauce for dudu. Be gentle with the rice at the end—this is the bit where we fluff it rather than squish it.",
   "story": "",
   "equipment": [
     "Large pot with a close-fitting lid",
@@ -42,7 +42,7 @@
     "Rice spoon or fork"
   ],
   "advancePrep": "Check the freezer for ginger-garlic blocks. Four blocks can replace the fresh garlic and ginger for the pot, and one block can replace the garlic and ginger for the chilli sauce.",
-  "importantNotes": "This makes four portions. Remember to take the stock out for our chilli sauce before the rice goes in. Keep the lid on for the final 10-minute rest. The prep and cooking times are estimates.",
+  "importantNotes": "This makes four portions. Remember to take the stock out for the chilli sauce before the rice goes in. Keep the lid on for the final 10-minute rest. The prep and cooking times are estimates.",
   "groups": [
     {
       "title": "For the chicken and rice",
@@ -52,7 +52,7 @@
           "name": "Chicken",
           "quantity": 500,
           "unit": "g",
-          "note": "Use 500–600 g for our four-portion batch; chop into small pieces.",
+          "note": "Use 500–600 g for the four-portion batch; chop into small pieces.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -62,7 +62,7 @@
           "name": "Garlic for the pot",
           "quantity": 1,
           "unit": "head",
-          "note": "Peel and chop finely. Can be replaced together with the ginger by 4 ginger-garlic blocks for our batch.",
+          "note": "Peel and chop finely. Can be replaced together with the ginger by 4 ginger-garlic blocks for the batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -147,7 +147,7 @@
           "name": "Garlic for the chilli sauce",
           "quantity": 1,
           "unit": "clove",
-          "note": "Or replace this and the ginger with 1 ginger-garlic block for our batch.",
+          "note": "Or replace this and the ginger with 1 ginger-garlic block for the batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -214,7 +214,7 @@
     {
       "id": "c6414003-f1d4-52aa-8af1-fba78828c114",
       "title": "Prepare the aromatics and chicken",
-      "description": "Check the freezer first, Jack: if we have ginger-garlic blocks, use those instead of chopping the fresh garlic and ginger. Otherwise peel and chop both as small as you can. Dice the red onion, or clean and chop the spring onions properly so we don’t get sand in the food. Chop the chicken into small pieces and boil the measured water.",
+      "description": "Check the freezer first: if we have ginger-garlic blocks, use those instead of chopping the fresh garlic and ginger. Otherwise peel and chop both as small as you can. Dice the red onion, or clean and chop the spring onions properly so we don’t get sand in the food. Chop the chicken into small pieces and boil the measured water.",
       "ingredients": [
         "Boiling water",
         "Garlic for the pot",
@@ -292,7 +292,7 @@
     {
       "id": "7a617a67-c4ec-5e4c-a025-fa924848a29b",
       "title": "Save stock for the chilli sauce",
-      "description": "After the 20 minutes, check the chicken is cooked through, then take out the stock measured for our chilli sauce BEFORE adding the rice. Let that stock cool before blending. I like to help it cool by standing a heat-safe container in a bowl of cold water.",
+      "description": "After the 20 minutes, check the chicken is cooked through, then take out the stock measured for the chilli sauce BEFORE adding the rice. Let that stock cool before blending. I like to help it cool by standing a heat-safe container in a bowl of cold water.",
       "ingredients": [
         "Cooked chicken stock"
       ],
@@ -338,7 +338,7 @@
     {
       "id": "877550b0-f40f-59f4-86d4-816c87f89bdf",
       "title": "Blend the chilli sauce",
-      "description": "Blend the chilli-sauce garlic, ginger, chillies, cooled stock and lime juice. It doesn’t need to be perfectly smooth. If you’re using our ginger-garlic block, use that instead of the fresh garlic and ginger.",
+      "description": "Blend the chilli-sauce garlic, ginger, chillies, cooled stock and lime juice. It doesn’t need to be perfectly smooth. If you’re using the ginger-garlic block, use that instead of the fresh garlic and ginger.",
       "ingredients": [
         "Garlic for the chilli sauce",
         "Ginger for the chilli sauce",

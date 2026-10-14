@@ -2,7 +2,7 @@
   "slug": "kimchi-jjigae",
   "aliases": [],
   "title": "Kimchi Jjigae / Pork Belly Stew",
-  "description": "Our pork-loin version of kimchi stew, with Spam, tofu and lettuce, served with rice.",
+  "description": "pork-loin version of kimchi stew, with Spam, tofu and lettuce, served with rice.",
   "category": "Comfort food",
   "cuisine": "Korean-inspired",
   "mainIngredient": "Pork",
@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "This is our pork-loin version of Pork Belly Stew, Jack. Two bowls of stew for dinner, and some rice saved for a quick fried rice at lunch tomorrow.",
+  "personalNote": "This is the pork-loin version of Pork Belly Stew. Two bowls of stew for dinner, and some rice saved for a quick fried rice at lunch tomorrow.",
   "story": "",
   "equipment": [
     "Large stew pot with a lid",
@@ -42,7 +42,7 @@
     "Container for leftover rice"
   ],
   "advancePrep": "",
-  "importantNotes": "The stew feeds the two of us; the rice leaves us some extra for tomorrow’s lunch. Use pork loin for this version. A kettleful is our water measure for the stew, and we’ll boil another kettle for the rice. The rice cooks in a saucepan while the stew bubbles. Prep time is an estimate.",
+  "importantNotes": "The stew feeds the two of us; the rice leaves us some extra for tomorrow’s lunch. Use pork loin for this version. Use a kettleful of water for the stew, and boil another kettle for the rice. The rice cooks in a saucepan while the stew bubbles. Prep time is an estimate.",
   "groups": [
     {
       "title": "For the stew",
@@ -72,7 +72,7 @@
           "name": "Pork loin steaks",
           "quantity": 200,
           "unit": "g",
-          "note": "Use 200–300 g for our two-portion batch; get the smallest pack available and slice.",
+          "note": "Use 200–300 g for the two-portion batch; get the smallest pack available and slice.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -132,7 +132,7 @@
           "name": "Boiling water for the stew",
           "quantity": 1,
           "unit": "kettle",
-          "note": "For our two-portion batch; the kettle’s capacity determines the water volume.",
+          "note": "For the two-portion batch; the kettle’s capacity determines the water volume.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -272,7 +272,7 @@
     {
       "id": "7045ce0a-94d1-5223-8aee-7826da01512a",
       "title": "Drain the rice",
-      "description": "Drain the rice and return our dinner rice to the rice pot. Put the extra rice into a small container to cool quickly, then pop it in the fridge for tomorrow’s fried rice. Keep the dinner rice warm while the stew finishes.",
+      "description": "Drain the rice and return tonight’s rice to the rice pot. Put the extra rice into a small container to cool quickly, then pop it in the fridge for tomorrow’s fried rice. Keep tonight’s rice warm while the stew finishes.",
       "ingredients": [
         "Rice"
       ],
@@ -304,7 +304,7 @@
     {
       "id": "978fc3e0-cddc-5501-b478-4b3f114b0de2",
       "title": "Serve immediately",
-      "description": "Check the pork is cooked through, then serve the stew with our rice straight away. We’ve got some extra rice ready for a quick fried rice at lunch tomorrow.",
+      "description": "Check the pork is cooked through, then serve the stew with the rice straight away. We’ve got some extra rice ready for a quick fried rice at lunch tomorrow.",
       "ingredients": [
         "Rice"
       ],

@@ -2,7 +2,7 @@
   "slug": "fried-vermicelli-mee-siam",
   "aliases": [],
   "title": "Fried Vermicelli / Mee Siam",
-  "description": "Our Char Kway Teow flavours with rice vermicelli, using Spam or thin beef steaks.",
+  "description": "Char Kway Teow flavours with rice vermicelli, using Spam or thin beef steaks.",
   "category": "Pasta and noodles",
   "cuisine": "Singapore-inspired",
   "mainIngredient": "Rice vermicelli",
@@ -30,7 +30,7 @@
   "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "Same sauce and vegetables as our Char Kway Teow, Jack, but we’re using the thin rice vermicelli this time. We can use thin beef steaks instead of Spam if that’s what we fancy.",
+  "personalNote": "Same sauce and vegetables as our Char Kway Teow, but we’re using the thin rice vermicelli this time. We can use thin beef steaks instead of Spam if that’s what we fancy.",
   "story": "",
   "equipment": [
     "Large wok",
@@ -185,7 +185,7 @@
     {
       "id": "3031e41f-4d81-556a-8997-e3395f34d01c",
       "title": "Get everything ready",
-      "description": "Okay Jack, get everything ready before the wok goes on. Drain the soaked vermicelli, slice the Spam into strips and chop the garlic semi-finely. Separate the pak choi leaves and cut the stalks into matchsticks. Chop the chives and have the beansprouts and eggs beside you. Once we start, this moves quite quickly.",
+      "description": "Get everything ready before the wok goes on. Drain the soaked vermicelli, slice the Spam into strips and chop the garlic semi-finely. Separate the pak choi leaves and cut the stalks into matchsticks. Chop the chives and have the beansprouts and eggs beside you. Once we start, this moves quite quickly.",
       "ingredients": [
         "Rice vermicelli",
         "Spam",
@@ -226,7 +226,7 @@
     },
     {
       "id": "57e07ec5-d400-5e47-8718-39c591eb46f0",
-      "title": "Brown our Spam, or sear the beef",
+      "title": "Brown the Spam, or sear the beef",
       "description": "If we’re using Spam, brown it in the hot wok on high heat for about 3–5 minutes, turning the strips so as many sides as possible get seared. If we’re using thin beef steaks instead, give them 5 minutes on high heat for a good brown sear. You can keep cooking for up to 10 minutes if you want them more thoroughly cooked. Keep turning and checking so they don’t burn.",
       "ingredients": [
         "Spam"
@@ -235,7 +235,7 @@
       "durationMinutes": 0,
       "heat": "High heat",
       "doneness": "Brown, seared edges on several sides.",
-      "tip": "The timer is a check, Jack. Look at the meat as well; Spam wants browned edges, and the beef wants a good sear and to be cooked how you’re comfortable with it.",
+      "tip": "The timer is a check. Look at the meat as well; Spam wants browned edges, and the beef wants a good sear and to be cooked how you’re comfortable with it.",
       "warning": "",
       "image": "",
       "imageAlt": ""
@@ -275,7 +275,7 @@
     {
       "id": "5cf5e2e9-f41d-5d45-929e-66c607e22fef",
       "title": "Add the noodles and vegetables",
-      "description": "Now add the drained vermicelli, pak choi leaves and stalks, beansprouts and chives. Use our two wooden spoons to lift and toss everything around for 1 minute so it gets properly mixed.",
+      "description": "Now add the drained vermicelli, pak choi leaves and stalks, beansprouts and chives. Use two wooden spoons to lift and toss everything around for 1 minute so it gets properly mixed.",
       "ingredients": [
         "Rice vermicelli",
         "Pak choi",
@@ -294,7 +294,7 @@
     {
       "id": "96fe9c66-9b77-5bcc-a434-560176a97f7c",
       "title": "Add the sauce and finish",
-      "description": "Pour in the sauce and the measured hot water. Toss it around and cook for about 5 minutes, until the vermicelli are cooked but still have a nice chew. Serve our dinner straight away, and put the two lunch portions aside to cool promptly.",
+      "description": "Pour in the sauce and the measured hot water. Toss it around and cook for about 5 minutes, until the vermicelli are cooked but still have a nice chew. Serve straight away, and put the two lunch portions aside to cool promptly.",
       "ingredients": [
         "Dark soy sauce",
         "Light soy sauce",
@@ -316,7 +316,7 @@
   "substitutions": [
     {
       "title": "Thin beef steaks instead of Spam",
-      "text": "We can use thinly sliced beef steaks instead of the Spam. Give them 5 minutes on high heat for a good brown sear. If you’re not confident they’re cooked through, cook for up to 10 minutes, keeping an eye on them so they don’t burn. Use the Spam ingredient list for our usual version, or the beef we’re swapping it for."
+      "text": "We can use thinly sliced beef steaks instead of the Spam. Give them 5 minutes on high heat for a good brown sear. If you’re not confident they’re cooked through, cook for up to 10 minutes, keeping an eye on them so they don’t burn. Use the Spam ingredient list for the usual version, or the beef we’re swapping it for."
     },
     {
       "title": "Oyster sauce",
@@ -334,7 +334,7 @@
   "troubleshooting": [
     {
       "title": "A little softer than you wanted?",
-      "text": "Use the 30-minute cold-water soak next time, Jack. The 1-minute boiling-water shortcut makes the vermicelli a little softer."
+      "text": "Use the 30-minute cold-water soak next time. The 1-minute boiling-water shortcut makes the vermicelli a little softer."
     }
   ],
   "storage": "Divide the two lunch portions into small containers so they cool quickly. Refrigerate within 1–2 hours, keep the fridge at 0–5°C, and eat them for lunch the next day.",

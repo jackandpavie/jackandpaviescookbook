@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "If the sauce looks a tiny bit scrambled, don’t worry, Jack. It will still taste just as good. The dish is not ruined, so don’t spiral.",
+  "personalNote": "If the sauce looks a tiny bit scrambled, don’t worry. It will still taste just as good. The dish is not ruined, so don’t spiral.",
   "story": "",
   "equipment": [
     "Large saucepan",
@@ -149,7 +149,7 @@
     {
       "id": "94cbe4d5-97e4-5dce-a5a6-9b3c1a3d093f",
       "title": "Get the garlic and water ready",
-      "description": "Peel the garlic and crush the cloves, Jack—don’t chop them for this one. Boil two kettles of water, one after the other if you’re using the same kettle. Pour them into a big saucepan, bring it to the boil and salt it heavily.",
+      "description": "Peel the garlic and crush the cloves—don’t chop them for this one. Boil two kettles of water, one after the other if you’re using the same kettle. Pour them into a big saucepan, bring it to the boil and salt it heavily.",
       "ingredients": [
         "Garlic",
         "Salt"
@@ -184,7 +184,7 @@
     {
       "id": "9bb5b7fc-ef40-5ef0-97d3-6d8f7b5e1df9",
       "title": "Mix the egg sauce",
-      "description": "Beat the eggs, grated Parmesan and black pepper together in a bowl. That’s our sauce. Have it ready before the pasta goes back into the wok.",
+      "description": "Beat the eggs, grated Parmesan and black pepper together in a bowl. That’s the sauce. Have it ready before the pasta goes back into the wok.",
       "ingredients": [
         "Eggs",
         "Parmesan",

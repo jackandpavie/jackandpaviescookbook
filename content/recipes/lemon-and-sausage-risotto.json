@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "This is our lemon version, Jack. Keep the juice for the end and add it a bit at a time, so we can stop when it tastes right for us.",
+  "personalNote": "This is the lemon version. Keep the juice for the end and add it a bit at a time, so we can stop when it tastes right for us.",
   "story": "",
   "equipment": [
     "Large oven-safe pot with an oven-safe lid",
@@ -42,7 +42,7 @@
     "Containers for the second-dinner portions"
   ],
   "advancePrep": "Air-fry the sausages until fully cooked according to their packet, then slice them thinly. Wash the lemon and zest it before juicing. Pick the basil leaves off the stalks and chop the parsley.",
-  "importantNotes": "Four portions means two dinners for both of us. Garlic bread can help on the second night if we have a bit more on the first. We’re using the zest and juice of one lemon. Don’t wash the rice. Keep Parmesan at the table if we want the second dinner dairy-free, and use dairy-free sausage and stock too. For our batch, we can swap 300 g sausage for 500 g chicken or 500 g of 5% lean pork mince; check the swap note for the cooking changes. Times are estimates and don’t include air-frying the sausage.",
+  "importantNotes": "Four portions means two dinners for both of us. Garlic bread can help on the second night if we have a bit more on the first. We’re using the zest and juice of one lemon. Don’t wash the rice. Keep Parmesan at the table if we want the second dinner dairy-free, and use dairy-free sausage and stock too. For the batch, we can swap 300 g sausage for 500 g chicken or 500 g of 5% lean pork mince; check the swap note for the cooking changes. Times are estimates and don’t include air-frying the sausage.",
   "groups": [
     {
       "title": "For the risotto",
@@ -182,7 +182,7 @@
           "name": "Garlic bread",
           "quantity": null,
           "unit": "",
-          "note": "Optional with our second dinner if we ate a bit more on the first night. Heat following the packet.",
+          "note": "Optional with the second dinner if we ate a bit more on the first night. Heat following the packet.",
           "optional": true,
           "scaling": "linear",
           "roundTo": 0
@@ -216,7 +216,7 @@
     {
       "id": "0bb6b510-b040-53e1-be94-9767b00dbcb8",
       "title": "Soften the onion and garlic",
-      "description": "Put the sausage in our oven-safe pot on medium heat. Add the garlic and onion and squish them around for 5 minutes, until the onion softens.",
+      "description": "Put the sausage in the oven-safe pot on medium heat. Add the garlic and onion and squish them around for 5 minutes, until the onion softens.",
       "ingredients": [
         "Sausages",
         "Garlic",
@@ -301,8 +301,8 @@
     },
     {
       "id": "a5f285b6-7739-5b28-97b0-b47a736c66e6",
-      "title": "Our first dinner, and a little help for night two",
-      "description": "Keep Parmesan at the table so we can add it to our own plates. This makes two dinners for both of us. If we have a bit more tonight and the second dinner is smaller, we can have garlic bread with it—just heat it following the packet.",
+      "title": "Dinner tonight, and a little help for night two",
+      "description": "Keep Parmesan at the table so we can add it to individual plates. This makes two dinners for both of us. If we have a bit more tonight and the second dinner is smaller, we can have garlic bread with it—just heat it following the packet.",
       "ingredients": [
         "Parmesan",
         "Garlic bread"
@@ -321,7 +321,7 @@
   "substitutions": [
     {
       "title": "Swap the protein",
-      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe our batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
+      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe the batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
     },
     {
       "title": "Black pepper",
@@ -342,10 +342,10 @@
       "text": "Leave the risotto rice unwashed so its starch stays in the dish."
     }
   ],
-  "storage": "Put our second dinner into small containers so it cools quickly, ideally within 1 hour. Keep it in the fridge and eat within 24 hours. Freeze it if we’re saving it longer, and keep Parmesan separate if we want it dairy-free.",
+  "storage": "Put the second dinner into small containers so it cools quickly, ideally within 1 hour. Keep it in the fridge and eat within 24 hours. Freeze it if we’re saving it longer, and keep Parmesan separate if we want it dairy-free.",
   "reheating": "Reheat once until steaming hot throughout. Stir or turn it during microwave reheating to avoid cold pockets.",
   "foodSafety": "Cook sausage fully before slicing. For chicken or pork mince swaps, check the meat is fully cooked before tasting the liquid or serving. A thermometer check is 75°C in the centre for 30 seconds. Use oven gloves for the hot pot and lid.",
-  "servingSuggestion": "Two dinners for both of us. Add Parmesan to our plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
+  "servingSuggestion": "Two dinners for both of us. Add Parmesan to individual plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
   "glossary": [
     "Boil"
   ],

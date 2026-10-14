@@ -2,7 +2,7 @@
   "slug": "chicken-pot-pie",
   "aliases": [],
   "title": "Chicken Pot Pie",
-  "description": "Our chicken, mushroom and vegetable filling with a pastry lid. Dinner for the two of us.",
+  "description": "chicken, mushroom and vegetable filling with a pastry lid. Dinner for the two of us.",
   "category": "Comfort food",
   "cuisine": "Home cooking",
   "mainIngredient": "Chicken",
@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Jack, keep stirring while the water goes in and we’ll get that nice, gooey filling. Use whichever flour we have in the cupboard.",
+  "personalNote": "Keep stirring while the water goes in and we’ll get that nice, gooey filling. Use whichever flour we have in the cupboard.",
   "story": "",
   "equipment": [
     "Pan or wok safe in the oven at 180°C",
@@ -39,11 +39,11 @@
     "Measuring jug",
     "Oven gloves"
   ],
-  "advancePrep": "Get everything chopped, boil 1 litre of water and preheat the oven to 180°C. Have our pastry sheet ready according to its packet.",
-  "importantNotes": "This makes two portions for our dinner. Check that the pan or wok, including its handles, is safe to put in the oven. We can use plain/all-purpose flour or self-raising flour. If we use cornflour instead, mix it with a little cold water and stir it into the hot stock rather than roasting it dry.",
+  "advancePrep": "Get everything chopped, boil 1 litre of water and preheat the oven to 180°C. Have the pastry sheet ready according to its packet.",
+  "importantNotes": "This makes two portions for dinner. Check that the pan or wok, including its handles, is safe to put in the oven. We can use plain/all-purpose flour or self-raising flour. If we use cornflour instead, mix it with a little cold water and stir it into the hot stock rather than roasting it dry.",
   "groups": [
     {
-      "title": "For our chicken and vegetables",
+      "title": "For the chicken and vegetables",
       "ingredients": [
         {
           "id": "345ab968-705f-5d2c-9922-15e747d81f77",
@@ -185,7 +185,7 @@
           "name": "Pastry sheet",
           "quantity": 1,
           "unit": "",
-          "note": "Enough to cover our pan as well as possible. Follow the packet’s handling instructions.",
+          "note": "Enough to cover the pan as well as possible. Follow the packet’s handling instructions.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -197,7 +197,7 @@
     {
       "id": "f25abcdc-40e4-569c-acd9-be8f9c5080b4",
       "title": "Get everything ready",
-      "description": "Chop the chicken breast into small pieces. Dice the brown onion, peel and dice our carrots, peel and dice the garlic, and slice the mushrooms. Boil the water for our stock. Put the oven on at 180°C too, Jack, so it’s ready when we need it.",
+      "description": "Chop the chicken breast into small pieces. Dice the brown onion, peel and dice the carrots, peel and dice the garlic, and slice the mushrooms. Boil the water for the stock. Put the oven on at 180°C too, so it’s ready when we need it.",
       "ingredients": [
         "Chicken breast",
         "Brown onion",
@@ -218,7 +218,7 @@
     {
       "id": "6086b2ec-6628-574b-9f05-53fcd6972a0b",
       "title": "Start with the chicken",
-      "description": "Put the chicken into our oven-safe pan or wok on medium-high heat and fry for about 5 minutes, until the outside turns white. Squish it around so it cooks evenly. This is just the first stage; it finishes cooking later.",
+      "description": "Put the chicken into the oven-safe pan or wok on medium-high heat and fry for about 5 minutes, until the outside turns white. Squish it around so it cooks evenly. This is just the first stage; it finishes cooking later.",
       "ingredients": [
         "Chicken breast"
       ],
@@ -251,7 +251,7 @@
     },
     {
       "id": "99ccf24f-5b2f-5e8c-b1da-ac3b6e5c5add",
-      "title": "Add the mushrooms and our stock flavours",
+      "title": "Add the mushrooms and the stock flavours",
       "description": "Add the chicken stock cubes, bay leaves, optional dried thyme and sliced mushrooms. Cook for another 5 minutes, squishing everything around, until the mushrooms soften. If there’s no thyme in the cupboard, don’t worry about it.",
       "ingredients": [
         "Chicken stock cubes",
@@ -270,7 +270,7 @@
     },
     {
       "id": "dcc29c2f-8232-54d6-96cb-0dfaa7d645a6",
-      "title": "Stir in and cook our flour",
+      "title": "Stir in and cook the flour",
       "description": "If we’re using plain/all-purpose or self-raising flour, add it now and mix it around with everything for 2 minutes. We’re cooking out the flour and giving it that slightly nutty taste. It’s what helps the filling become nice and gooey. If we’re using cornflour, skip the dry-flour stage and mix it with a little cold water in a cup instead; we add that after the stock.",
       "ingredients": [
         "Plain or all-purpose flour",
@@ -305,7 +305,7 @@
     },
     {
       "id": "5b8bd7a9-e4bf-5eca-a526-e07191da6447",
-      "title": "Let our filling cook down",
+      "title": "Let the filling cook down",
       "description": "Let the filling bubble for another 10 minutes, stirring every minute or so and scraping the bottom so nothing burns. We want the sauce thick and gooey. If it still looks too loose to hold the pastry, let it reduce a little longer.",
       "ingredients": [],
       "durationMinutes": 10,
@@ -337,8 +337,8 @@
     },
     {
       "id": "34142a16-460d-5292-81b7-37ced7b5a121",
-      "title": "Give our pie its pastry lid",
-      "description": "Lay the pastry sheet over our pan or wok and cover the top as well as you can. Make a small slit in the top for steam to escape. Don’t worry if it isn’t a perfectly neat lid, Jack.",
+      "title": "Give the pie its pastry lid",
+      "description": "Lay the pastry sheet over the pan or wok and cover the top as well as you can. Make a small slit in the top for steam to escape. Don’t worry if it isn’t a perfectly neat lid.",
       "ingredients": [
         "Pastry sheet"
       ],
@@ -353,8 +353,8 @@
     },
     {
       "id": "1124ac61-b016-5b33-bd43-88e0a5d1a7c9",
-      "title": "Bake and serve our pie",
-      "description": "Put the pan into our oven at 180°C and bake for about 40 minutes, until the pastry is golden and cooked and the filling is bubbling hot. Use oven gloves to take it out, and remember the handle stays hot. Serve straight away.",
+      "title": "Bake and serve the pie",
+      "description": "Put the pan into the oven at 180°C and bake for about 40 minutes, until the pastry is golden and cooked and the filling is bubbling hot. Use oven gloves to take it out, and remember the handle stays hot. Serve straight away.",
       "ingredients": [],
       "durationMinutes": 40,
       "timerMinutes": 40,
@@ -370,7 +370,7 @@
   "substitutions": [
     {
       "title": "Whichever flour is in the cupboard",
-      "text": "For our two-portion pie, use 2 tablespoons of plain/all-purpose flour or self-raising flour. If we have neither, use 1 tablespoon of cornflour. The cornflour goes in as a cold-water paste after the hot stock, as written in the method."
+      "text": "For the two-portion pie, use 2 tablespoons of plain/all-purpose flour or self-raising flour. If we have neither, use 1 tablespoon of cornflour. The cornflour goes in as a cold-water paste after the hot stock, as written in the method."
     }
   ],
   "troubleshooting": [
@@ -386,7 +386,7 @@
   "storage": "If we have leftovers, cool them promptly and refrigerate within 1–2 hours. Eat within 48 hours or freeze.",
   "reheating": "Reheat once until the filling is steaming hot all the way through.",
   "foodSafety": "The first 5-minute fry only turns the outside of the chicken white. Check it is fully cooked before serving; a thermometer check is 75°C in the centre for 30 seconds.",
-  "servingSuggestion": "Serve straight away, with a bit of that pastry and gooey filling on each of our plates.",
+  "servingSuggestion": "Serve straight away, with a bit of that pastry and gooey filling on each plate.",
   "glossary": [],
   "imagePosition": "50% 65%",
   "imageZoom": 1.03

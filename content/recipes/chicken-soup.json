@@ -2,7 +2,7 @@
   "slug": "chicken-soup",
   "aliases": [],
   "title": "Chicken Soup",
-  "description": "Our pot-pie chicken and vegetables as a soup, finished with soy cream. Choose noodles, rice or your Mum’s dumplings.",
+  "description": "pot-pie chicken and vegetables as a soup, finished with soy cream. Choose noodles, rice or your Mum’s dumplings.",
   "category": "Comfort food",
   "cuisine": "Home cooking",
   "mainIngredient": "Chicken",
@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Jack, it starts just like our pot-pie filling. We leave out the flour and pastry, and finish with soy cream. Pick what the bubbies fancy having with it.",
+  "personalNote": "It starts just like the pot-pie filling. We leave out the flour and pastry, and finish with soy cream. Pick what the bubbies fancy having with it.",
   "story": "",
   "equipment": [
     "Large soup pot with a lid",
@@ -40,11 +40,11 @@
     "Separate saucepan for rice or noodles",
     "Mixing bowl for dumplings"
   ],
-  "advancePrep": "Get the chicken and vegetables chopped and boil 1 litre of water. Choose our accompaniment before starting.",
+  "advancePrep": "Get the chicken and vegetables chopped and boil 1 litre of water. Choose the accompaniment before starting.",
   "importantNotes": "Use the tabs for a complete method. With noodles or rice, this is one dinner for the two of us. With your Mum’s full batch of 16 dumplings, we split it into four portions: dinner and lunch for both of us, or two dinners with some extra garlic bread. There’s no flour in the soup base; self-raising flour is only used if we choose the dumplings.",
   "groups": [
     {
-      "title": "For our chicken and vegetables",
+      "title": "For the chicken and vegetables",
       "ingredients": [
         {
           "id": "4c804d31-2b69-5836-85c8-c81aef0fa1e7",
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "title": "To finish our soup",
+      "title": "To finish the soup",
       "ingredients": [
         {
           "id": "ed6090e0-2c3b-5be7-b2e7-66f5b75c7c8e",
@@ -178,7 +178,7 @@
     {
       "id": "77c41d2e-26fd-56f8-83c8-8c20b651bc86",
       "title": "Get everything ready",
-      "description": "Chop the chicken breast into small pieces. Dice the brown onion, peel and dice our carrots, peel and dice the garlic, and slice the mushrooms. Boil the water for our stock.",
+      "description": "Chop the chicken breast into small pieces. Dice the brown onion, peel and dice the carrots, peel and dice the garlic, and slice the mushrooms. Boil the water for the stock.",
       "ingredients": [
         "Chicken breast",
         "Brown onion",
@@ -199,7 +199,7 @@
     {
       "id": "54b7eb5a-c387-5b8f-9efe-322a12c45e52",
       "title": "Start with the chicken",
-      "description": "Put the chicken into our soup pot on medium-high heat and fry for about 5 minutes, until the outside turns white. Squish it around so it cooks evenly. This is just the first stage; it finishes cooking later.",
+      "description": "Put the chicken into the soup pot on medium-high heat and fry for about 5 minutes, until the outside turns white. Squish it around so it cooks evenly. This is just the first stage; it finishes cooking later.",
       "ingredients": [
         "Chicken breast"
       ],
@@ -232,7 +232,7 @@
     },
     {
       "id": "6e9e60c9-5181-54c9-b4e3-1093c2bc255e",
-      "title": "Add the mushrooms and our stock flavours",
+      "title": "Add the mushrooms and the stock flavours",
       "description": "Add the chicken stock cubes, bay leaves, optional dried thyme and sliced mushrooms. Cook for another 5 minutes, squishing everything around, until the mushrooms soften. If there’s no thyme in the cupboard, don’t worry about it.",
       "ingredients": [
         "Chicken stock cubes",
@@ -251,7 +251,7 @@
     },
     {
       "id": "92fa00f4-f03e-5f58-8812-9cdc3f0aa918",
-      "title": "Add our hot water",
+      "title": "Add the hot water",
       "description": "Pour in the boiled water and stir everything around. Bring the soup back to a bubble. We’re leaving out the flour from the pie recipe, so there’s no flour-roasting step here.",
       "ingredients": [
         "Water for the stock"
@@ -270,13 +270,13 @@
   "substitutions": [
     {
       "title": "No dried thyme in the cupboard",
-      "text": "It’s optional in our chicken soup, so don’t worry if we don’t have it. For Mum’s dumplings, her teaspoon of herbs can be dried thyme or dried mixed herbs."
+      "text": "It’s optional in the chicken soup, so don’t worry if we don’t have it. For Mum’s dumplings, her teaspoon of herbs can be dried thyme or dried mixed herbs."
     }
   ],
   "troubleshooting": [
     {
       "title": "Soup rather than pie filling",
-      "text": "The soup is meant to be looser than our pie filling. Leave out the flour and finish with the soy cream at the end."
+      "text": "The soup is meant to be looser than the pie filling. Leave out the flour and finish with the soy cream at the end."
     },
     {
       "title": "Checking Mum’s dumplings",
@@ -284,13 +284,13 @@
     }
   ],
   "storage": "For another meal, divide the soup into small containers, cool promptly and refrigerate within 1–2 hours. Eat within 48 hours or freeze. If storing it with cooked rice, cool quickly, ideally within 1 hour, and refrigerate for no more than 24 hours.",
-  "reheating": "Reheat our soup and any dumplings once, until steaming hot throughout. If we saved cooked rice too, reheat it once until steaming hot as well.",
+  "reheating": "Reheat the soup and any dumplings once, until steaming hot throughout. If we saved cooked rice too, reheat it once until steaming hot as well.",
   "foodSafety": "The chicken needs to be fully cooked by the end of the soup cooking. A thermometer check is 75°C in the centre for 30 seconds.",
   "servingSuggestion": "Serve straight away with the accompaniment we chose. With the 16-dumpling batch, save two portions for lunch or another dinner; garlic bread can help make the second dinner a bit bigger.",
   "glossary": [],
   "portionNote": "The noodle and rice versions make two portions. The dumpling version makes four portions with 16 dumplings. Use the portion control for the version you have selected.",
   "choiceHeading": "Noodles, rice or Mum’s dumplings?",
-  "choiceIntro": "Pick our accompaniment, Jack. I’ve written out each method so you can just follow the one we fancy.",
+  "choiceIntro": "Pick the accompaniment. I’ve written out each method so you can just follow the one we fancy.",
   "recipeOptions": [
     {
       "id": "egg-noodles",
@@ -300,7 +300,7 @@
       "description": "One dinner for the two of us, with 300 g egg noodles boiled separately.",
       "groups": [
         {
-          "title": "Our noodles",
+          "title": "The noodles",
           "ingredients": [
             {
               "id": "d5977f87-cc14-5cd5-911d-3c93fdf20010",
@@ -317,7 +317,7 @@
               "name": "Water for noodles",
               "quantity": null,
               "unit": "",
-              "note": "Enough to boil our noodles in a separate saucepan.",
+              "note": "Enough to boil the noodles in a separate saucepan.",
               "optional": false,
               "scaling": "linear",
               "roundTo": 0
@@ -329,8 +329,8 @@
       "afterSteps": [
         {
           "id": "8ec0908b-ff41-5b77-8412-0b9208e23245",
-          "title": "Let the soup bubble and boil our noodles separately",
-          "description": "Let our soup bubble for another 10 minutes, stirring every minute or so and scraping the bottom. While it cooks, boil the egg noodles separately according to their packet and drain them. Use the packet’s noodle time alongside the soup timer. Check that the chicken is fully cooked.",
+          "title": "Let the soup bubble and boil the noodles separately",
+          "description": "Let the soup bubble for another 10 minutes, stirring every minute or so and scraping the bottom. While it cooks, boil the egg noodles separately according to their packet and drain them. Use the packet’s noodle time alongside the soup timer. Check that the chicken is fully cooked.",
           "ingredients": [
             "Egg noodles",
             "Water for noodles"
@@ -347,7 +347,7 @@
         {
           "id": "734c720e-166a-56a5-857c-0dbf7aed0ffe",
           "title": "Peas, pepper and soy cream to finish",
-          "description": "Once the chicken is fully cooked, turn off the stove. Add the green peas and coarse ground black pepper, or pepper powder, and mix. Take out both bay leaves and throw them away. Stir in the Alpro soy cream at the end. That’s our soup ready, Jack.",
+          "description": "Once the chicken is fully cooked, turn off the stove. Add the green peas and coarse ground black pepper, or pepper powder, and mix. Take out both bay leaves and throw them away. Stir in the Alpro soy cream at the end. That’s the soup ready.",
           "ingredients": [
             "Green peas",
             "Coarse ground black pepper",
@@ -357,7 +357,7 @@
           "durationMinutes": 0,
           "timerMinutes": 0,
           "heat": "",
-          "tip": "If our peas are frozen, thaw or cook them following their packet before adding them here; we want them hot through.",
+          "tip": "If the peas are frozen, thaw or cook them following their packet before adding them here; we want them hot through.",
           "doneness": "Fully cooked chicken and hot soup, finished with the soy cream.",
           "warning": "",
           "image": "",
@@ -365,8 +365,8 @@
         },
         {
           "id": "e0fd7038-9eb1-5505-bcb9-57f437d96555",
-          "title": "Serve our soup and noodles",
-          "description": "Serve straight away with our separately boiled egg noodles. That’s dinner for the two of us.",
+          "title": "Serve the soup and noodles",
+          "description": "Serve straight away with the separately boiled egg noodles. That’s dinner for the two of us.",
           "ingredients": [
             "Egg noodles"
           ],
@@ -389,7 +389,7 @@
       "description": "One dinner for the two of us, with 300 g boiled rice to serve alongside.",
       "groups": [
         {
-          "title": "Our rice",
+          "title": "The rice",
           "ingredients": [
             {
               "id": "a15a9d44-b296-50da-8de6-2bf3800f0aee",
@@ -407,8 +407,8 @@
       "beforeSteps": [
         {
           "id": "6277c820-82a3-5e83-b9cd-4d7685728eab",
-          "title": "Have our boiled rice ready",
-          "description": "We’re serving this with boiled rice. If it isn’t cooked yet, boil rice separately following its packet and have the cooked amount listed here ready for our bowls. You can do this while the soup cooks.",
+          "title": "Have the boiled rice ready",
+          "description": "We’re serving this with boiled rice. If it isn’t cooked yet, boil rice separately following its packet and have the cooked amount listed here ready for the bowls. You can do this while the soup cooks.",
           "ingredients": [
             "Boiled rice"
           ],
@@ -425,7 +425,7 @@
       "afterSteps": [
         {
           "id": "a1148389-dfdb-5d0a-aa1d-859145b446c8",
-          "title": "Let our soup bubble",
+          "title": "Let the soup bubble",
           "description": "Let the soup bubble for another 10 minutes, stirring every minute or so and scraping the bottom. Check that the chicken is fully cooked.",
           "ingredients": [],
           "durationMinutes": 10,
@@ -440,7 +440,7 @@
         {
           "id": "c2e75412-b922-56e0-bbd2-fa2e11ef66cb",
           "title": "Peas, pepper and soy cream to finish",
-          "description": "Once the chicken is fully cooked, turn off the stove. Add the green peas and coarse ground black pepper, or pepper powder, and mix. Take out both bay leaves and throw them away. Stir in the Alpro soy cream at the end. That’s our soup ready, Jack.",
+          "description": "Once the chicken is fully cooked, turn off the stove. Add the green peas and coarse ground black pepper, or pepper powder, and mix. Take out both bay leaves and throw them away. Stir in the Alpro soy cream at the end. That’s the soup ready.",
           "ingredients": [
             "Green peas",
             "Coarse ground black pepper",
@@ -450,7 +450,7 @@
           "durationMinutes": 0,
           "timerMinutes": 0,
           "heat": "",
-          "tip": "If our peas are frozen, thaw or cook them following their packet before adding them here; we want them hot through.",
+          "tip": "If the peas are frozen, thaw or cook them following their packet before adding them here; we want them hot through.",
           "doneness": "Fully cooked chicken and hot soup, finished with the soy cream.",
           "warning": "",
           "image": "",
@@ -458,8 +458,8 @@
         },
         {
           "id": "28221305-1280-50b2-b47b-554664a1d383",
-          "title": "Serve with our boiled rice",
-          "description": "Serve the soup straight away with our boiled rice. Dinner for the two of us, Jack.",
+          "title": "Serve with the boiled rice",
+          "description": "Serve the soup straight away with the boiled rice. Dinner for the two of us.",
           "ingredients": [
             "Boiled rice"
           ],
@@ -539,7 +539,7 @@
           ]
         },
         {
-          "title": "For our second dinner, if we fancy it",
+          "title": "For the second dinner, if we fancy it",
           "ingredients": [
             {
               "id": "9cb9afa7-3ffa-5471-a019-c9573c5a582d",
@@ -558,7 +558,7 @@
         {
           "id": "3a2337ef-72cf-5b93-af97-a761abbf440c",
           "title": "Mix Mum’s dry ingredients",
-          "description": "Jack, this is your Mum’s dumpling recipe. Mix the suet, self-raising flour, dried thyme or mixed herbs, and salt together in a bowl first. Her full batch is 5 oz suet, 10 oz flour, 1 teaspoon of herbs and ½ teaspoon of salt.",
+          "description": "This is your Mum’s dumpling recipe. Mix the suet, self-raising flour, dried thyme or mixed herbs, and salt together in a bowl first. Her full batch is 5 oz suet, 10 oz flour, 1 teaspoon of herbs and ½ teaspoon of salt.",
           "ingredients": [
             "Suet",
             "Self-raising flour for dumplings",
@@ -577,7 +577,7 @@
         {
           "id": "835a1c81-d826-53bb-aaef-cf451c77e423",
           "title": "Add cold water bit by bit",
-          "description": "Add cold water a little at a time and mix between each addition. Stop once we have a dough that comes together without sticking to our hands. We don’t need to guess a fixed amount of water; go by how the dough feels.",
+          "description": "Add cold water a little at a time and mix between each addition. Stop once we have a dough that comes together without sticking to your hands. We don’t need to guess a fixed amount of water; go by how the dough feels.",
           "ingredients": [
             "Cold water for dumplings"
           ],
@@ -592,7 +592,7 @@
         },
         {
           "id": "ad212000-2ad4-5194-bfbb-5476060bfcb3",
-          "title": "Shape our dumplings",
+          "title": "Shape the dumplings",
           "description": "Divide the dough into 16 roughly equal pieces for Mum’s full batch and roll them gently into balls. Try to keep them a similar size so they cook together.",
           "ingredients": [],
           "durationMinutes": 0,
@@ -608,7 +608,7 @@
       "afterSteps": [
         {
           "id": "f5f8faaf-36fa-5238-b334-f7811db80d0a",
-          "title": "Cook Mum’s dumplings in our soup",
+          "title": "Cook Mum’s dumplings in the soup",
           "description": "Add the dumplings to the bubbling soup for its last 20 minutes of cooking. Keep the soup gently bubbling with the lid on, giving the dumplings room to puff up. This replaces the shorter final 10-minute cook in the noodle and rice versions. After 20 minutes, open one dumpling to check it’s fluffy and cooked in the middle, with no sticky raw dough. Cook a little longer if needed, and check the chicken is fully cooked too.",
           "ingredients": [
             "Suet",
@@ -629,7 +629,7 @@
         {
           "id": "287d3ca3-67cb-53b4-a3e1-1bc40816e388",
           "title": "Peas, pepper and soy cream to finish",
-          "description": "Once the chicken is fully cooked, turn off the stove. Add the green peas and coarse ground black pepper, or pepper powder, and mix. Take out both bay leaves and throw them away. Stir in the Alpro soy cream at the end. That’s our soup ready, Jack.",
+          "description": "Once the chicken is fully cooked, turn off the stove. Add the green peas and coarse ground black pepper, or pepper powder, and mix. Take out both bay leaves and throw them away. Stir in the Alpro soy cream at the end. That’s the soup ready.",
           "ingredients": [
             "Green peas",
             "Coarse ground black pepper",
@@ -639,7 +639,7 @@
           "durationMinutes": 0,
           "timerMinutes": 0,
           "heat": "",
-          "tip": "If our peas are frozen, thaw or cook them following their packet before adding them here; we want them hot through.",
+          "tip": "If the peas are frozen, thaw or cook them following their packet before adding them here; we want them hot through.",
           "doneness": "Fully cooked chicken and hot soup, finished with the soy cream.",
           "warning": "",
           "image": "",
@@ -647,8 +647,8 @@
         },
         {
           "id": "ec2ca649-25e0-5f45-86d1-fc832af42aef",
-          "title": "Our soup and dumplings for two meals",
-          "description": "Serve straight away, lifting the dumplings gently into our bowls. The full batch makes 16 dumplings, so we have four per portion across four portions: dinner and lunch for both of us, or two dinners. If we want a bit more at the second dinner, make some garlic bread following its packet.",
+          "title": "Soup and dumplings for two meals",
+          "description": "Serve straight away, lifting the dumplings gently into the bowls. The full batch makes 16 dumplings, so we have four per portion across four portions: dinner and lunch for both of us, or two dinners. If we want a bit more at the second dinner, make some garlic bread following its packet.",
           "ingredients": [
             "Garlic bread"
           ],

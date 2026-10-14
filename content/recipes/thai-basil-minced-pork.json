@@ -2,7 +2,7 @@
   "slug": "thai-basil-minced-pork",
   "aliases": [],
   "title": "Thai Basil Minced Pork",
-  "description": "One pork base for our two dinners, with rice or whichever noodles the bubbies fancy.",
+  "description": "One pork base for two dinners, with rice or whichever noodles the bubbies fancy.",
   "category": "Comfort food",
   "cuisine": "Thai-inspired",
   "mainIngredient": "Pork",
@@ -33,7 +33,7 @@
   "imageLicenseUrl": "https://www.pexels.com/license/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Jack, I’d make the whole kilo of pork so we’ve got dinner for two nights. Save half of the base before adding any noodles, then pick a different carb tomorrow if the bubbies are in a different mood.",
+  "personalNote": "I’d make the whole kilo of pork so we’ve got dinner for two nights. Save half of the base before adding any noodles, then pick a different carb tomorrow if the bubbies are in a different mood.",
   "story": "",
   "equipment": [
     "Large wok or frying pan",
@@ -50,14 +50,14 @@
   "secondNightNote": "For night two, use the half of the pork base we saved in the fridge. Prepare whichever carb we fancy using its steps below, and reheat the saved pork once until it’s steaming hot all the way through. Serve the carb alongside it, or toss cooked noodles through the reheated pork. We can have a fried egg on top if we feel like it.",
   "groups": [
     {
-      "title": "Our pork base for both nights",
+      "title": "The pork base for both nights",
       "ingredients": [
         {
           "id": "308dcfdb-bbdd-5280-8805-a87d1719920d",
           "name": "5% lean pork mince",
           "quantity": 1,
           "unit": "kg",
-          "note": "This is the full batch for our two dinners.",
+          "note": "This is the full batch for two dinners.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -153,7 +153,7 @@
   "steps": [
     {
       "id": "4f531946-b3ee-575a-a96c-61bb7b2eade9",
-      "title": "Get our pork ingredients ready",
+      "title": "Get the pork ingredients ready",
       "description": "Peel and chop the onions and garlic, and pick the basil leaves off their stems. Have the soy sauces and pepper measured so you’re not looking for things once the mince starts cooking.",
       "ingredients": [
         "Onions",
@@ -232,7 +232,7 @@
       "durationMinutes": 0,
       "timerMinutes": 0,
       "heat": "High heat",
-      "tip": "Look at the texture, Jack. Add the water only if we need it.",
+      "tip": "Look at the texture. Add the water only if we need it.",
       "warning": "",
       "doneness": "",
       "image": "",
@@ -257,7 +257,7 @@
     },
     {
       "id": "dfbf6a06-04d6-518a-a4f7-4471dc47d71c",
-      "title": "Save half for our second night",
+      "title": "Save half for the second night",
       "description": "Take HALF the pork base out now, before tossing any noodles in. Put it in a shallow container to cool promptly, then refrigerate it for tomorrow. Tonight we’re using the other half of the base.",
       "ingredients": [],
       "durationMinutes": 0,
@@ -289,7 +289,7 @@
   "storage": "Put tomorrow’s half of the pork in a shallow container so it cools quickly, then refrigerate within 1–2 hours. Eat it within 48 hours. Keep the base separate from the carb so we can make a fresh choice on night two. If we save any cooked rice, cool it ideally within 1 hour and use it within 24 hours.",
   "reheating": "Reheat only the saved pork we’re eating, once, until steaming hot all the way through. Serve it with a freshly prepared carb. Any saved rice should be reheated only once, until steaming hot throughout.",
   "foodSafety": "The pork mince needs to be fully cooked before we eat it: a thermometer check is 75°C in the centre for 30 seconds. Cook any optional fried eggs to your liking using British Lion or Laid in Britain hen eggs if the yolks will be runny.",
-  "servingSuggestion": "Half the pork base for our dinner tonight, half for night two. Choose our carb for tonight, and add a fried egg each if we feel like it.",
+  "servingSuggestion": "Half the pork base for dinner tonight, half for night two. Choose the carb for tonight, and add a fried egg each if we feel like it.",
   "glossary": [
     "Brown",
     "Boil"
@@ -305,7 +305,7 @@
       "cookMinutes": 35,
       "groups": [
         {
-          "title": "Our carb for tonight (two of us)",
+          "title": "The carb for tonight (two of us)",
           "ingredients": [
             {
               "id": "9756d61d-c368-553f-8128-5859fae4e14a",
@@ -333,8 +333,8 @@
       "beforeSteps": [
         {
           "id": "00574a47-0079-556a-8fbd-721d2d414517",
-          "title": "Get our rice ready",
-          "description": "Wash the white rice in cold water three times if you can. Boil a kettle of water, pour it into our separate rice saucepan and bring it to the boil. You can cook the rice alongside the pork, using its separate timer.",
+          "title": "Get the rice ready",
+          "description": "Wash the white rice in cold water three times if you can. Boil a kettle of water, pour it into the separate rice saucepan and bring it to the boil. You can cook the rice alongside the pork, using its separate timer.",
           "ingredients": [
             "White rice",
             "Water for rice"
@@ -370,7 +370,7 @@
         {
           "id": "bbb0a837-2427-5c63-a13c-4e76c6b69adf",
           "title": "Rice and pork, and an egg if we fancy it",
-          "description": "Serve the rice with tonight’s half of the pork base straight away. If we feel like a fried egg on top, fry one for each of us and put it on our plates.",
+          "description": "Serve the rice with tonight’s half of the pork base straight away. If we feel like a fried egg on top, fry one for each of us and put it on the plates.",
           "ingredients": [
             "Eggs"
           ],
@@ -395,7 +395,7 @@
       "cookMinutes": 35,
       "groups": [
         {
-          "title": "Our carb for tonight (two of us)",
+          "title": "The carb for tonight (two of us)",
           "ingredients": [
             {
               "id": "74708bed-8324-53d1-8b89-9e8772802864",
@@ -424,7 +424,7 @@
       "afterSteps": [
         {
           "id": "cb2a84ec-d5e4-53ed-be75-fc70f6c84f0f",
-          "title": "Boil our egg noodles",
+          "title": "Boil the egg noodles",
           "description": "Boil the egg noodles separately, following the packet’s time and instructions. Drain them once they’re cooked.",
           "ingredients": [
             "Egg noodles",
@@ -468,7 +468,7 @@
       "cookMinutes": 35,
       "groups": [
         {
-          "title": "Our carb for tonight (two of us)",
+          "title": "The carb for tonight (two of us)",
           "ingredients": [
             {
               "id": "c649f28f-18a3-5704-b55a-9f9a97731cc7",
@@ -496,7 +496,7 @@
       "beforeSteps": [
         {
           "id": "6376d67c-1481-5e2b-be7f-2683148d83c2",
-          "title": "Soak our vermicelli",
+          "title": "Soak the vermicelli",
           "description": "Soak the rice vermicelli in cold water for 30 minutes, then drain it. If you forgot, use boiling water for 1 minute instead; it makes the noodles a little softer. Get the pork going while the cold-water version soaks.",
           "ingredients": [
             "Rice vermicelli",
@@ -532,7 +532,7 @@
         },
         {
           "id": "2af3d6fe-5c97-5708-a278-1a8f12175e0b",
-          "title": "Serve our vermicelli and pork",
+          "title": "Serve the vermicelli and pork",
           "description": "Check we’ve saved half the pork base before tossing any noodles through tonight’s half. Serve straight away, with a fried egg each if we feel like it.",
           "ingredients": [
             "Rice vermicelli",
@@ -559,7 +559,7 @@
       "cookMinutes": 35,
       "groups": [
         {
-          "title": "Our carb for tonight (two of us)",
+          "title": "The carb for tonight (two of us)",
           "ingredients": [
             {
               "id": "1d0e71b0-5267-5c3d-8fcf-2807d6c61ba1",
@@ -597,7 +597,7 @@
       "beforeSteps": [
         {
           "id": "b7c5214a-4595-515e-a09b-e76be3398459",
-          "title": "Soak our flat rice noodles",
+          "title": "Soak the flat rice noodles",
           "description": "Soak the flat rice noodles in cold water for 1 hour, like our Char Kway Teow, then drain them. If you forgot, soak in boiling water for 5 minutes instead. They’ll be a bit softer, but it doesn’t make a big difference. Get the other ingredients ready while they soak.",
           "ingredients": [
             "Flat rice noodles",
@@ -616,7 +616,7 @@
       "afterSteps": [
         {
           "id": "bc3053c6-9b4f-58b2-be6d-22b5ea081b6f",
-          "title": "Cook our flat noodles through",
+          "title": "Cook the flat noodles through",
           "description": "If we’re tossing the flat noodles through the pork, check that tomorrow’s half of the base is already out. Add the drained, soaked noodles to tonight’s hot pork, add the hot water measured for finishing them, and toss on high heat for about 5 minutes, like our Char Kway Teow, until they’re cooked but still chewy. If we want noodles on the side instead, finish cooking them following the packet, then drain and serve alongside the pork.",
           "ingredients": [
             "Flat rice noodles",

@@ -2,7 +2,7 @@
   "slug": "gochujang-fried-noodles",
   "aliases": [],
   "title": "Gochujang Fried Noodles",
-  "description": "Our gochujang noodles with eggs, whichever vegetables we have, and Spam, beef or cooked chicken.",
+  "description": "gochujang noodles with eggs, whichever vegetables we have, and Spam, beef or cooked chicken.",
   "category": "Pasta and noodles",
   "cuisine": "Korean-inspired",
   "mainIngredient": "Egg noodles",
@@ -37,7 +37,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "Jack, use whichever vegetables we have. Same wok method as our gochujang fried rice, but with egg noodles tonight.",
+  "personalNote": "Use whichever vegetables we have. Same wok method as our gochujang fried rice, but with egg noodles tonight.",
   "story": "",
   "equipment": [
     "Large wok",
@@ -46,12 +46,12 @@
     "Saucepan for noodles",
     "Kettle",
     "Colander or sieve",
-    "Container for our second dinner"
+    "Container for the second dinner"
   ],
-  "advancePrep": "Chop the garlic and ginger, or check for our ginger-garlic blocks in the freezer. If we use pak choi, separate the greens and cut the stalks into matchsticks.",
+  "advancePrep": "Chop the garlic and ginger, or check the freezer for ginger-garlic blocks. If we use pak choi, separate the greens and cut the stalks into matchsticks.",
   "importantNotes": "This makes four portions across two dinners for both of us. Pick one protein using the tabs, and use one of the vegetable options in the ingredient note. Get everything ready before the wok goes on. Fresh pak choi or beansprouts need about 2 minutes; frozen vegetables need 5 minutes. The times are estimates. Boil the egg noodles using the packet instructions before they go into the wok.",
   "choiceHeading": "Spam, beef or cooked chicken tonight?",
-  "choiceIntro": "Pick our protein, Jack. I’ve kept the rest of the wok method the same.",
+  "choiceIntro": "Pick the protein. I’ve kept the rest of the wok method the same.",
   "groups": [
     {
       "title": "For the noodles and wok",
@@ -71,7 +71,7 @@
           "name": "Garlic",
           "quantity": 1,
           "unit": "head",
-          "note": "Peel and chop. Or replace this and the ginger with 2 frozen ginger-garlic blocks for our batch.",
+          "note": "Peel and chop. Or replace this and the ginger with 2 frozen ginger-garlic blocks for the batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -146,7 +146,7 @@
           "name": "Lime wedges",
           "quantity": null,
           "unit": "",
-          "note": "For squeezing over our plates.",
+          "note": "For squeezing over the plates.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -168,7 +168,7 @@
     {
       "id": "ce5b0635-46dc-5b74-b261-0e8b9b737658",
       "title": "Add the garlic and ginger",
-      "description": "Add the chopped garlic and ginger, or our ginger-garlic blocks, and fry for another 2 minutes. Squish them around and keep an eye on the garlic so it doesn’t go black.",
+      "description": "Add the chopped garlic and ginger, or the ginger-garlic blocks, and fry for another 2 minutes. Squish them around and keep an eye on the garlic so it doesn’t go black.",
       "ingredients": [
         "Garlic",
         "Ginger"
@@ -201,7 +201,7 @@
     {
       "id": "82b75325-3c5a-5f96-969f-d0cd5b80208c",
       "title": "Add whichever vegetables we chose",
-      "description": "Add our vegetables. If we’re using fresh pak choi or beansprouts, cook for 2 minutes. If we chose frozen peas or mixed frozen vegetables, cook for 5 minutes instead. Squish everything around so it heats evenly.",
+      "description": "Add the vegetables. If we’re using fresh pak choi or beansprouts, cook for 2 minutes. If we chose frozen peas or mixed frozen vegetables, cook for 5 minutes instead. Squish everything around so it heats evenly.",
       "ingredients": [
         "Pak choi"
       ],
@@ -233,7 +233,7 @@
     },
     {
       "id": "ca96d0b0-1457-5e11-a7b9-19594285f23e",
-      "title": "Fry our noodles until hot",
+      "title": "Fry the noodles until hot",
       "description": "Now add the well-drained cooked egg noodles and fry for 5–10 minutes, tossing and squishing it around, until it’s nice and hot all the way through. Keep the noodles moving so the sauce gets mixed through.",
       "ingredients": [
         "Egg noodles"
@@ -241,7 +241,7 @@
       "durationMinutes": 0,
       "timerMinutes": 5,
       "heat": "High heat",
-      "tip": "The 5-minute timer is our first check. Keep going for up to 10 minutes if it needs it.",
+      "tip": "The 5-minute timer is the first check. Keep going for up to 10 minutes if it needs it.",
       "warning": "",
       "doneness": "Steaming hot noodles throughout.",
       "image": "",
@@ -249,7 +249,7 @@
     },
     {
       "id": "cbf69c46-4933-5923-923e-2102da98fe96",
-      "title": "Serve our dinner",
+      "title": "Serve dinner",
       "description": "Serve straight away with lime wedges and sesame oil. For the Spam or beef batch, put the second dinner into small containers to cool promptly. For cooked chicken, make the second dinner fresh using the portion of chicken we kept chilled and unheated.",
       "ingredients": [
         "Lime wedges",
@@ -273,7 +273,7 @@
       "description": "Spam tonight? Dice it nice and fine, then give it 3 minutes in the hot wok.",
       "groups": [
         {
-          "title": "Our chosen protein",
+          "title": "Chosen protein",
           "ingredients": [
             {
               "id": "02e099ea-19ee-5b8c-aca9-f05fbd545d78",
@@ -291,8 +291,8 @@
       "beforeSteps": [
         {
           "id": "0e30fb5c-7b32-569a-b6f9-5b0d31c2db0a",
-          "title": "Get everything ready for our spam version",
-          "description": "Dice the Spam finely, smaller than we do for the pork stew. Chop the garlic and ginger, or use our freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
+          "title": "Get everything ready for the spam version",
+          "description": "Dice the Spam finely, smaller than we do for the pork stew. Chop the garlic and ginger, or use the freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
           "ingredients": [
             "Spam",
             "Garlic",
@@ -313,7 +313,7 @@
         },
         {
           "id": "0ffdeac1-c487-59c0-b6a6-fcc72dd33755",
-          "title": "Boil our egg noodles",
+          "title": "Boil the egg noodles",
           "description": "Boil the egg noodles separately using the packet’s instructions, then drain them. We’re using noodles instead of the rice, and the rest of the wok method stays the same.",
           "ingredients": [
             "Egg noodles",
@@ -330,8 +330,8 @@
         },
         {
           "id": "50f65f16-68a3-51b6-8fbb-ab4459e92ddd",
-          "title": "Fry our Spam",
-          "description": "Get the wok hot on high heat and add our finely diced Spam. Fry it for 3 minutes, moving it around so it starts to brown.",
+          "title": "Fry the Spam",
+          "description": "Get the wok hot on high heat and add the finely diced Spam. Fry it for 3 minutes, moving it around so it starts to brown.",
           "ingredients": [
             "Spam"
           ],
@@ -354,7 +354,7 @@
       "description": "Beef tonight? Use thin slices and start with a 7-minute searing check.",
       "groups": [
         {
-          "title": "Our chosen protein",
+          "title": "Chosen protein",
           "ingredients": [
             {
               "id": "ac119963-3643-570c-8885-691dfffd906e",
@@ -372,8 +372,8 @@
       "beforeSteps": [
         {
           "id": "42112ccf-42fa-591f-92ee-0d5f7eeaa881",
-          "title": "Get everything ready for our beef version",
-          "description": "Slice the beef steaks thinly. Chop the garlic and ginger, or use our freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
+          "title": "Get everything ready for the beef version",
+          "description": "Slice the beef steaks thinly. Chop the garlic and ginger, or use the freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
           "ingredients": [
             "Thin beef steaks",
             "Garlic",
@@ -394,7 +394,7 @@
         },
         {
           "id": "0ffdeac1-c487-59c0-b6a6-fcc72dd33755",
-          "title": "Boil our egg noodles",
+          "title": "Boil the egg noodles",
           "description": "Boil the egg noodles separately using the packet’s instructions, then drain them. We’re using noodles instead of the rice, and the rest of the wok method stays the same.",
           "ingredients": [
             "Egg noodles",
@@ -411,7 +411,7 @@
         },
         {
           "id": "d28f1552-c05e-5b96-a02e-df0418f91d0d",
-          "title": "Sear our thin beef steaks",
+          "title": "Sear the thin beef steaks",
           "description": "Get the wok hot on high heat and add the thinly sliced beef. Start with 7 minutes, turning and checking it for a good brown sear. Keep cooking if it needs longer, until it’s cooked through; don’t let it burn.",
           "ingredients": [
             "Thin beef steaks"
@@ -419,7 +419,7 @@
           "durationMinutes": 0,
           "timerMinutes": 7,
           "heat": "High heat",
-          "tip": "The 7-minute timer is our first check, Jack. Keep cooking until you’re happy the beef is cooked through.",
+          "tip": "The 7-minute timer is the first check. Keep cooking until you’re happy the beef is cooked through.",
           "warning": "",
           "doneness": "A good brown sear and beef cooked through.",
           "image": "",
@@ -435,7 +435,7 @@
       "description": "Cooked chicken tonight? Follow the Spam’s 3-minute timing. I’ve set the portion control to two for tonight; keep tomorrow’s chicken chilled and unheated, and make that dinner fresh so we don’t reheat it twice.",
       "groups": [
         {
-          "title": "Our chosen protein",
+          "title": "Chosen protein",
           "ingredients": [
             {
               "id": "513a6371-c1af-59d2-8f48-a7a0068d6fc9",
@@ -453,8 +453,8 @@
       "beforeSteps": [
         {
           "id": "28234df9-6a3d-5e5e-bf4f-898f6dca5ca0",
-          "title": "Get everything ready for our chicken version",
-          "description": "Have our already cooked chicken ready in small pieces. Chop the garlic and ginger, or use our freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
+          "title": "Get everything ready for the chicken version",
+          "description": "Have the already cooked chicken ready in small pieces. Chop the garlic and ginger, or use the freezer blocks. Choose whichever one vegetable option we have. If it’s pak choi, separate the leaves and cut the stalks into matchsticks. Have the eggs and sauces ready too.",
           "ingredients": [
             "Cooked chicken",
             "Garlic",
@@ -475,7 +475,7 @@
         },
         {
           "id": "0ffdeac1-c487-59c0-b6a6-fcc72dd33755",
-          "title": "Boil our egg noodles",
+          "title": "Boil the egg noodles",
           "description": "Boil the egg noodles separately using the packet’s instructions, then drain them. We’re using noodles instead of the rice, and the rest of the wok method stays the same.",
           "ingredients": [
             "Egg noodles",
@@ -492,8 +492,8 @@
         },
         {
           "id": "b996e0b1-15ed-50ab-9ca4-108994234584",
-          "title": "Fry our cooked chicken",
-          "description": "Get the wok hot on high heat and add our already cooked chicken. Fry it for 3 minutes, following the Spam timing, then carry on with the garlic and eggs.",
+          "title": "Fry the cooked chicken",
+          "description": "Get the wok hot on high heat and add the already cooked chicken. Fry it for 3 minutes, following the Spam timing, then carry on with the garlic and eggs.",
           "ingredients": [
             "Cooked chicken"
           ],
@@ -514,7 +514,7 @@
   "timeline": [],
   "substitutions": [
     {
-      "title": "Our ginger-garlic blocks",
+      "title": "Frozen ginger-garlic blocks",
       "text": "Use 2 frozen blocks instead of the head of garlic and 50 g ginger for this batch."
     },
     {
@@ -523,7 +523,7 @@
     },
     {
       "title": "Protein amounts",
-      "text": "Our usual version uses one can of Spam. We can use thin beef steaks or our cooked chicken instead; pick one using the tabs above."
+      "text": "The usual version uses one can of Spam. We can use thin beef steaks or the cooked chicken instead; pick one using the tabs above."
     }
   ],
   "troubleshooting": [
@@ -536,10 +536,10 @@
       "text": "Give frozen vegetables 5 minutes, rather than the fresh vegetables’ 2 minutes. Follow their packet if it needs longer."
     }
   ],
-  "storage": "For Spam or beef, divide our second dinner into small containers to cool quickly, then refrigerate within 1–2 hours and eat within 48 hours. For the cooked-chicken version, keep the unheated chicken for night two properly chilled and within its safe storage time, then make that dinner fresh.",
+  "storage": "For Spam or beef, divide the second dinner into small containers to cool quickly, then refrigerate within 1–2 hours and eat within 48 hours. For the cooked-chicken version, keep the unheated chicken for night two properly chilled and within its safe storage time, then make that dinner fresh.",
   "reheating": "Reheat the saved Spam or beef dinner once until steaming hot throughout, stirring or turning it to avoid cold pockets.  With cooked chicken, fry a fresh dinner portion rather than reheating chicken that we have already heated once.",
   "foodSafety": "The beef must be cooked through. Use properly chilled cooked chicken that has not already been reheated, and heat tonight’s meal until steaming hot throughout. Keep the remaining cooked chicken unheated for the second dinner, and reheat it only once when we cook that portion.",
-  "servingSuggestion": "Serve our dinner straight away with lime wedges and sesame oil. This batch gives us a second dinner too.",
+  "servingSuggestion": "Serve straight away with lime wedges and sesame oil. This batch gives us a second dinner too.",
   "glossary": [
     "Brown",
     "Boil"

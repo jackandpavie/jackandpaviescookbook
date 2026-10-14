@@ -29,7 +29,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "pasta",
   "gallery": [],
-  "personalNote": "Jack, fennel and tomato are a lovely combination—the fennel lifts the tomatoes’ sweetness. Better a little less salty than too salty: we can always add salt, but we can’t remove it.",
+  "personalNote": "Fennel and tomato are a lovely combination—the fennel lifts the tomatoes’ sweetness. Better a little less salty than too salty: we can always add salt, but we can’t remove it.",
   "story": "",
   "equipment": [
     "Large oven-safe pot with an oven-safe lid",
@@ -42,7 +42,7 @@
     "Containers for the second-dinner portions"
   ],
   "advancePrep": "Air-fry the sausages until fully cooked according to their packet, then cut into thin slices. Pick the basil leaves off their stalks.",
-  "importantNotes": "Four portions means two dinners for both of us. If we eat a bit more on the first night, we can have garlic bread with the second dinner. Don’t wash this rice: we want the starch for creaminess. Use an oven-safe pot and lid. Keep Parmesan at the table if we want the second dinner dairy-free, and choose dairy-free sausage and stock too. For our batch, we can swap 300 g sausage for 500 g chicken or 500 g of 5% lean pork mince; check the swap note for the cooking changes. Times are estimates and don’t include air-frying the sausage.",
+  "importantNotes": "Four portions means two dinners for both of us. If we eat a bit more on the first night, we can have garlic bread with the second dinner. Don’t wash this rice: we want the starch for creaminess. Use an oven-safe pot and lid. Keep Parmesan at the table if we want the second dinner dairy-free, and choose dairy-free sausage and stock too. For the batch, we can swap 300 g sausage for 500 g chicken or 500 g of 5% lean pork mince; check the swap note for the cooking changes. Times are estimates and don’t include air-frying the sausage.",
   "groups": [
     {
       "title": "For the risotto",
@@ -192,7 +192,7 @@
           "name": "Garlic bread",
           "quantity": null,
           "unit": "",
-          "note": "Optional with our second dinner if we ate a bit more on the first night. Heat following the packet.",
+          "note": "Optional with the second dinner if we ate a bit more on the first night. Heat following the packet.",
           "optional": true,
           "scaling": "linear",
           "roundTo": 0
@@ -224,7 +224,7 @@
     {
       "id": "c2650163-cc5c-503e-a122-cd0173841d47",
       "title": "Soften the onion and garlic",
-      "description": "Put the sliced sausage in our oven-safe pot on medium heat. Add the garlic and onion and fry for 5 minutes, until the onion softens.",
+      "description": "Put the sliced sausage in the oven-safe pot on medium heat. Add the garlic and onion and fry for 5 minutes, until the onion softens.",
       "ingredients": [
         "Sausages",
         "Garlic",
@@ -294,7 +294,7 @@
     {
       "id": "f6c51ca6-1c3f-5f51-9fbd-64a0a74a7ff7",
       "title": "Bake the covered risotto",
-      "description": "Once it starts boiling, put the oven-safe lid on and move the pot into the oven for 30 minutes. Use the oven gloves, Jack; those handles get hot.",
+      "description": "Once it starts boiling, put the oven-safe lid on and move the pot into the oven for 30 minutes. Use the oven gloves; those handles get hot.",
       "ingredients": [],
       "durationMinutes": 30,
       "timerMinutes": 30,
@@ -324,8 +324,8 @@
     },
     {
       "id": "bb017594-68c2-53c5-83a1-39b3dd84e7ae",
-      "title": "Our first dinner, and a little help for night two",
-      "description": "Add Parmesan to our plates rather than the whole pot. This batch is for two dinners for both of us, so keep the second dinner aside. If we end up eating a bit more tonight, we can have what’s left with some garlic bread on night two—heat it following the packet.",
+      "title": "Dinner tonight, and a little help for night two",
+      "description": "Add Parmesan to individual plates rather than the whole pot. This batch is for two dinners for both of us, so keep the second dinner aside. If we end up eating a bit more tonight, we can have what’s left with some garlic bread on night two—heat it following the packet.",
       "ingredients": [
         "Parmesan",
         "Garlic bread"
@@ -344,11 +344,11 @@
   "substitutions": [
     {
       "title": "Swap the protein",
-      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe our batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
+      "text": "For this original batch, interchange 300 g sausage with 500 g chicken or 500 g of 5% lean pork mince. The numbered ingredient quantities scale with the portion control, but these swap quantities describe the batch. Air-fry sausage until fully cooked according to its packet, then slice it. For chicken, cut into small pieces and cook it in the pot with the aromatics; it must be fully cooked by the end of baking. For pork mince, break it up in the pot and cook it through before continuing. If using raw chicken or mince, wait until the meat is fully cooked before tasting the cooking liquid."
     },
     {
       "title": "Salad tomatoes instead of vine-ripened",
-      "text": "For our batch, use 2 packs of salad tomatoes and add ½ teaspoon of sugar when cooking the tomatoes down."
+      "text": "For the batch, use 2 packs of salad tomatoes and add ½ teaspoon of sugar when cooking the tomatoes down."
     },
     {
       "title": "Black pepper",
@@ -369,10 +369,10 @@
       "text": "That is fine. Parmesan adds saltiness at the table, and you can add a little salt to a dairy-free portion if needed."
     }
   ],
-  "storage": "Put our second dinner into small containers so it cools quickly, ideally within 1 hour. Keep it in the fridge and eat within 24 hours. Freeze it if we’re saving it longer, and keep Parmesan separate if we want it dairy-free.",
+  "storage": "Put the second dinner into small containers so it cools quickly, ideally within 1 hour. Keep it in the fridge and eat within 24 hours. Freeze it if we’re saving it longer, and keep Parmesan separate if we want it dairy-free.",
   "reheating": "Reheat once until steaming hot throughout. Stir or turn it during microwave reheating to avoid cold pockets.",
   "foodSafety": "Air-fry the sausages until fully cooked before slicing. Use an oven-safe pot and lid, and remember the handles stay hot after baking.",
-  "servingSuggestion": "Two dinners for both of us. Add Parmesan to our plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
+  "servingSuggestion": "Two dinners for both of us. Add Parmesan to individual plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
   "glossary": [
     "Boil"
   ]

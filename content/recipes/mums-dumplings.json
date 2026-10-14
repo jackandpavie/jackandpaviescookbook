@@ -32,7 +32,7 @@
   "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
   "art": "curry",
   "gallery": [],
-  "personalNote": "Jack, this is your Mum’s recipe. Add the cold water bit by bit and stop when the dough comes together without being sticky. Nice and simple.",
+  "personalNote": "This is your Mum’s recipe. Add the cold water bit by bit and stop when the dough comes together without being sticky. Nice and simple.",
   "story": "",
   "equipment": [
     "Mixing bowl",
@@ -108,7 +108,7 @@
           "name": "Gravy granules",
           "quantity": null,
           "unit": "",
-          "note": "Use the amount on our packet to make 500 ml of finished gravy for Mum’s full batch.",
+          "note": "Use the amount on the packet to make 500 ml of finished gravy for Mum’s full batch.",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "title": "For our second dinner, if we fancy it",
+      "title": "For the second dinner, if we fancy it",
       "ingredients": [
         {
           "id": "c027ea3d-deca-5967-a6aa-2ce2df4c97ce",
@@ -144,8 +144,8 @@
   "steps": [
     {
       "id": "f20f9d5f-71df-5a8d-998d-5681c7ba2e35",
-      "title": "Put our oven on",
-      "description": "Preheat the oven to 180°C and get our baking dish ready.",
+      "title": "Put the oven on",
+      "description": "Preheat the oven to 180°C and get the baking dish ready.",
       "ingredients": [],
       "durationMinutes": 0,
       "timerMinutes": 0,
@@ -159,7 +159,7 @@
     {
       "id": "2e987181-c7df-5e4e-a937-32b794d4dfca",
       "title": "Mix Mum’s dry ingredients",
-      "description": "Jack, this is your Mum’s dumpling recipe. Mix the suet, self-raising flour, dried thyme or mixed herbs, and salt together in a bowl first. Her full batch is 5 oz suet, 10 oz flour, 1 teaspoon of herbs and ½ teaspoon of salt.",
+      "description": "This is your Mum’s dumpling recipe. Mix the suet, self-raising flour, dried thyme or mixed herbs, and salt together in a bowl first. Her full batch is 5 oz suet, 10 oz flour, 1 teaspoon of herbs and ½ teaspoon of salt.",
       "ingredients": [
         "Suet",
         "Self-raising flour for dumplings",
@@ -178,7 +178,7 @@
     {
       "id": "d238b5eb-b3e7-5008-b1e5-2f60336bff20",
       "title": "Add cold water bit by bit",
-      "description": "Add cold water a little at a time and mix between each addition. Stop once we have a dough that comes together without sticking to our hands. We don’t need to guess a fixed amount of water; go by how the dough feels.",
+      "description": "Add cold water a little at a time and mix between each addition. Stop once we have a dough that comes together without sticking to your hands. We don’t need to guess a fixed amount of water; go by how the dough feels.",
       "ingredients": [
         "Cold water for dumplings"
       ],
@@ -193,7 +193,7 @@
     },
     {
       "id": "66b7e144-61e8-5582-960c-7b832b31b813",
-      "title": "Shape our dumplings",
+      "title": "Shape the dumplings",
       "description": "Divide the dough into 16 roughly equal pieces for Mum’s full batch and roll them gently into balls. Try to keep them a similar size so they cook together.",
       "ingredients": [],
       "durationMinutes": 0,
@@ -207,8 +207,8 @@
     },
     {
       "id": "182e0187-2cc6-56fe-a5db-b8ee3f9253f2",
-      "title": "Make our gravy",
-      "description": "Make the gravy with our gravy granules and hot water, following the packet. For Mum’s full batch, we want 500 ml of finished gravy. Pour it into the baking dish.",
+      "title": "Make the gravy",
+      "description": "Make the gravy with the gravy granules and hot water, following the packet. For Mum’s full batch, we want 500 ml of finished gravy. Pour it into the baking dish.",
       "ingredients": [
         "Gravy granules",
         "Hot water for gravy"
@@ -225,7 +225,7 @@
     {
       "id": "ed8a2d61-872e-54b2-b50b-860079fa7602",
       "title": "Put the dumplings on top and bake",
-      "description": "Place the dumplings on top of the gravy with a bit of room between them to puff up. Put the dish into our oven at 180°C for the first 10 minutes.",
+      "description": "Place the dumplings on top of the gravy with a bit of room between them to puff up. Put the dish into the oven at 180°C for the first 10 minutes.",
       "ingredients": [],
       "durationMinutes": 10,
       "timerMinutes": 10,
@@ -252,8 +252,8 @@
     },
     {
       "id": "30b44857-e850-5734-9805-d8738307d4c3",
-      "title": "Serve our dumplings and gravy",
-      "description": "Serve straight away with the gravy. Mum’s full batch makes 16 dumplings, enough for dinner and lunch for both of us, or two dinners. Save two portions for our next meal. We can have some garlic bread with the second dinner if we fancy it.",
+      "title": "Serve the dumplings and gravy",
+      "description": "Serve straight away with the gravy. Mum’s full batch makes 16 dumplings, enough for dinner and lunch for both of us, or two dinners. Save two portions for the next meal. We can have some garlic bread with the second dinner if we fancy it.",
       "ingredients": [
         "Garlic bread"
       ],
@@ -284,7 +284,7 @@
       "text": "Check one after the full 20-minute bake. It should be fluffy and cooked in the middle, with no sticky raw dough. Give it a little longer if it needs it."
     }
   ],
-  "storage": "For our next meal, cool the dumplings and gravy promptly and refrigerate within 1–2 hours. Eat within 48 hours or freeze.",
+  "storage": "For the next meal, cool the dumplings and gravy promptly and refrigerate within 1–2 hours. Eat within 48 hours or freeze.",
   "reheating": "Reheat once until the dumplings and gravy are steaming hot all the way through.",
   "foodSafety": "",
   "servingSuggestion": "Four dumplings per portion. Save two portions for lunch or another dinner, and add garlic bread if we fancy a bit extra with the second dinner.",
