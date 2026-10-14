@@ -1,0 +1,610 @@
+{
+  "slug": "greek-avgolemono-soup",
+  "aliases": [],
+  "title": "Greek Avgolemono Soup",
+  "description": "Chicken, carrots, rice and lemon, finished with eggs stirred in until the soup is thick and silky. Four portions for two nights, with Parmesan if we’re feeling cheesy.",
+  "category": "Comfort food",
+  "cuisine": "Greek-inspired",
+  "mainIngredient": "Chicken",
+  "tags": [
+    "Chicken",
+    "Soup",
+    "Rice",
+    "Eggs",
+    "Lemon",
+    "Two dinners"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Take your time with the eggs",
+  "prepMinutes": 20,
+  "cookMinutes": 65,
+  "restMinutes": 0,
+  "servings": 4,
+  "portionNote": "The full batch makes 4 portions for two dinners for both of us. Save half the base before adding eggs, then use 2 eggs each night. The second-night tab uses the saved half for 2 portions.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/greek-avgolemono-soup-reference.jpg",
+  "imageAlt": "Reference photograph of creamy avgolemono in a turquoise bowl on a pale wooden table, topped with herbs and pepper.",
+  "imageCaption": "Reference photograph · avgolemono serving inspiration · displayed crop",
+  "imageCredit": "Sarah Stierch",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Avgolemono_-_Sarah_Stierch.jpg",
+  "imageLicense": "CC BY 4.0",
+  "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "imagePosition": "50% 54%",
+  "imageZoom": 1.02,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Don’t worry if the broth tastes a bit flat before the lemon and eggs. Keep the salt a little low, especially if we’re having Parmesan. We can always add a bit at the table, but we can’t take it out.",
+  "story": "",
+  "equipment": [
+    "Very large pot with a lid",
+    "Wooden spoon",
+    "Chopping board and knife",
+    "Kettle",
+    "Sieve",
+    "Heatproof bowl",
+    "Whisk or fork",
+    "Ladle",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Chop the chicken and vegetables and boil the kettle. For the second dinner, pick the saved-base tab so we start with the refrigerated soup instead of cooking the whole recipe again.",
+  "importantNotes": "Keep the soup quite runny before adding the eggs. Whisk a little hot broth into the beaten eggs first, then pour them back in slowly while stirring vigorously over very low heat. Once the eggs go in, keep it below a boil.",
+  "choiceHeading": "Making the batch, or having the second dinner?",
+  "choiceIntro": "The first choice makes all four portions and explains when to save half. The second starts with that saved half and finishes it with the remaining eggs.",
+  "groups": [],
+  "steps": [],
+  "recipeOptions": [
+    {
+      "id": "make-batch",
+      "slug": "greek-avgolemono-soup",
+      "label": "Make the batch",
+      "description": "Make four portions. If we’re having two tonight, save half the base and finish tonight’s half with 2 eggs. Keep the other 2 eggs for tomorrow.",
+      "groups": [
+        {
+          "title": "For both nights",
+          "ingredients": [
+            {
+              "id": "e066b855-f372-5d1e-bbe1-5dedaa51d29e",
+              "name": "Chicken",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "Chop into pieces.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "f408658d-10ab-5d6c-80d5-bd5209fad7e2",
+              "name": "Brown onions",
+              "quantity": 2,
+              "unit": "",
+              "note": "Dice.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b1e6391b-827d-5f15-bbb3-9480b623e80a",
+              "name": "Carrots",
+              "quantity": 4,
+              "unit": "large",
+              "note": "Or use 6 small carrots for the full batch. Dice.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "19f5faeb-7035-55b5-8467-f7ea234504eb",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Mince.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6803575f-e63f-5a7d-ad12-e81f57a3a3c6",
+              "name": "Mixed herbs or dried thyme",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "Use whichever we have.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "969f41fe-27dc-52d0-8c95-a984f813d511",
+              "name": "Chicken stock cubes",
+              "quantity": 3,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "76f08ce2-0574-5f14-9302-1edfc59b2206",
+              "name": "Bay leaves",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "36a4f3a7-aa8f-5ec4-9468-689aeecf37ea",
+              "name": "Water",
+              "quantity": 1,
+              "unit": "kettle",
+              "note": "Boil before starting. Add more boiling water later if needed to keep the soup runny.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "56525a84-463f-5d45-aada-9fc58c47cc3d",
+              "name": "Lemon",
+              "quantity": 1,
+              "unit": "",
+              "note": "Use the juice.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ee5815f2-4088-596d-a7c4-c70519d0e3d7",
+              "name": "White rice",
+              "quantity": 400,
+              "unit": "g",
+              "note": "Wash and drain.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ad7c9faa-c85e-54f1-904a-16e1f09c22c4",
+              "name": "Eggs",
+              "quantity": 4,
+              "unit": "",
+              "note": "For both nights: use 2 with half the soup tonight, and keep 2 uncracked in the fridge for tomorrow. Use all 4 if serving the whole pot now.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "e43477a5-a55d-5827-9796-073d22b7fae8",
+              "name": "Pepper powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "For both nights: use half tonight and half tomorrow if splitting the pot.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "0a9d05f6-f4ae-5861-86a6-fd49b69d6345",
+              "name": "Salt",
+              "quantity": null,
+              "unit": "",
+              "note": "Only a tiny bit if very undersalted; have some at the table if serving without Parmesan.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9bee3170-b760-567f-9a00-f38c8f18b51b",
+              "name": "Parmesan",
+              "quantity": null,
+              "unit": "",
+              "note": "To serve, if we’re feeling cheesy.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [],
+      "afterSteps": [
+        {
+          "id": "984a8f73-029a-5a7d-a003-98ebed554229",
+          "title": "Chop everything and boil the kettle",
+          "description": "Chop the chicken. Dice the onions and carrots and mince the head of garlic. Boil a kettle of water.",
+          "ingredients": [
+            "Chicken",
+            "Brown onions",
+            "Carrots",
+            "Garlic",
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "214f73f7-379c-5f09-af2d-cd93b5876c17",
+          "title": "Start the chicken and vegetables together",
+          "description": "Heat a large pot on medium heat. Add the chicken, onions, garlic and carrots and fry for 10 minutes, moving everything around, until the chicken is white on the outside and the vegetables have started softening.",
+          "ingredients": [
+            "Chicken",
+            "Brown onions",
+            "Garlic",
+            "Carrots"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a607cdcf-5bdb-52d4-a584-93c815a66af7",
+          "title": "Add the herbs, stock and water",
+          "description": "Add the mixed herbs or dried thyme, whichever we have, the chicken stock cubes and the bay leaves. Pour in the kettle of boiled water and mix it around.",
+          "ingredients": [
+            "Mixed herbs or dried thyme",
+            "Chicken stock cubes",
+            "Bay leaves",
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2adf4dca-60d3-5e59-875e-c076a5fff587",
+          "title": "Put the lid on and let it bubble",
+          "description": "Bring the soup to a gentle bubble, cover and cook on low heat for 30 minutes. Wash and drain the rice while it cooks.",
+          "ingredients": [],
+          "durationMinutes": 30,
+          "timerMinutes": 30,
+          "heat": "Low heat · covered",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "45a3ef95-36d9-5aad-9221-b6fb78105a37",
+          "title": "Taste lightly, take out the bay leaves and add lemon",
+          "description": "Open the pot and check the chicken is cooked through before tasting the broth. If it is very undersalted, add a tiny bit of salt. If it feels alright, leave it alone. It’s meant to taste a bit flat for now. Fish out the bay leaves and throw them away, then add the lemon juice.",
+          "ingredients": [
+            "Salt",
+            "Bay leaves",
+            "Lemon"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "We’re keeping the salt a little low because Parmesan adds more at the table.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "5fc5aa7c-f0ad-50fa-9203-2736c0733d7d",
+          "title": "Add the washed rice",
+          "description": "Add the washed, drained rice, cover again and let it cook at a gentle boil for 20 minutes. Check the rice is tender before moving on.",
+          "ingredients": [
+            "White rice"
+          ],
+          "durationMinutes": 20,
+          "timerMinutes": 20,
+          "heat": "Low heat · covered",
+          "tip": "",
+          "doneness": "Tender rice.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "35c50372-af44-5807-ba23-ac6d9ec78604",
+          "title": "Keep it quite runny",
+          "description": "Open the pot and check the water level. The soup should still be quite runny. If it has thickened too much, add more boiling water and stir until it loosens up. The eggs will thicken it again.",
+          "ingredients": [
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "00765917-2d5b-57b5-b0e5-ba7d6009aa0c",
+          "title": "Put the second dinner aside before the eggs",
+          "description": "If we’re having this across two nights, divide the base evenly now: half for tonight and half to cool quickly and refrigerate for tomorrow. Keep 2 of the 4 eggs uncracked in the fridge and save half the pepper for the second night. If we’re serving all four portions now, keep the whole pot together.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The second-night tab starts with this saved base. Because it contains rice, use the refrigerated portion within 24 hours, or freeze it for later.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "ce0020d6-7059-5546-81ab-5607bc42cad0",
+          "title": "Beat the eggs for the portion we’re eating",
+          "description": "For tonight’s half of the full batch, beat 2 eggs in a heatproof bowl. If we’re serving the whole pot now, beat all 4. With a scaled batch, use half the listed egg amount for half the base.",
+          "ingredients": [
+            "Eggs"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "0144f07f-bd6b-55bd-9d8a-e825c0bd44ee",
+          "title": "Warm the eggs with a little hot broth",
+          "description": "Turn the heat right down so the soup is no longer bubbling. Whisk a little hot liquid from the soup into the beaten eggs, starting with a small trickle. Add a little more gradually while whisking constantly, until the eggs feel warm. This helps them mix smoothly into the soup.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "We’re using broth from the pot, so there’s no extra water or extra lemon to add here.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2233b23e-14d7-518f-b214-6f011896fc18",
+          "title": "Stir it into something silky",
+          "description": "Slowly pour the warmed egg mixture into the soup while stirring vigorously, like we do for carbonara. Keep stirring on very low heat for about 5 minutes, until it becomes thick and silky. Keep it below a boil so the eggs don’t scramble.",
+          "ingredients": [],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Very low heat · no boiling",
+          "tip": "",
+          "doneness": "Thick and silky, with no scrambled pieces. Heat the finished soup to at least 75°C, keeping it below a boil.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "53448ffa-6d70-596e-b1ce-5941f9a7bea5",
+          "title": "Pepper, then serve",
+          "description": "Add the pepper for the soup we’re finishing: half the listed amount for half the pot, or the full amount if serving all four portions now. Mix one last time and serve. Add Parmesan if we’re feeling cheesy, but it’s lovely on its own too. Have some salt on the side if we’re skipping the Parmesan.",
+          "ingredients": [
+            "Pepper powder",
+            "Parmesan",
+            "Salt"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Parmesan has salt in it, so we’ve kept the soup a little less salty. Better to add a little at the table than have too much in the pot.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "second-night",
+      "slug": "greek-avgolemono-soup-second-night",
+      "label": "Second dinner · saved base",
+      "description": "Reheat the saved half, loosen it with boiling water and finish with the remaining 2 eggs and half the pepper. This is two portions for tonight.",
+      "servings": 2,
+      "prepMinutes": 5,
+      "cookMinutes": 10,
+      "groups": [
+        {
+          "title": "For the second dinner",
+          "ingredients": [
+            {
+              "id": "e5ad8727-33b0-54b4-83c8-98be2bb6c5b3",
+              "name": "Saved chicken, rice and lemon soup base",
+              "quantity": 0.5,
+              "unit": "batch",
+              "note": "The half saved before adding eggs and pepper; for the second dinner for both of us.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ad7c9faa-c85e-54f1-904a-16e1f09c22c4",
+              "name": "Eggs",
+              "quantity": 2,
+              "unit": "",
+              "note": "The 2 eggs kept for the second dinner.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "e43477a5-a55d-5827-9796-073d22b7fae8",
+              "name": "Pepper powder",
+              "quantity": 0.5,
+              "unit": "tbsp",
+              "note": "The remaining half of the full batch’s tablespoon.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "5faf9fcb-dd7e-574d-85de-c340c328f35c",
+              "name": "Extra boiling water",
+              "quantity": null,
+              "unit": "",
+              "note": "As needed to loosen the saved soup.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9bee3170-b760-567f-9a00-f38c8f18b51b",
+              "name": "Parmesan",
+              "quantity": null,
+              "unit": "",
+              "note": "To serve, if we’re feeling cheesy.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "0a9d05f6-f4ae-5861-86a6-fd49b69d6345",
+              "name": "Salt",
+              "quantity": null,
+              "unit": "",
+              "note": "At the table if serving without Parmesan.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "beforeSteps": [],
+      "afterSteps": [
+        {
+          "id": "afab5582-24cd-5f00-9199-af299cf1bf4e",
+          "title": "Reheat the saved base and loosen it",
+          "description": "Put the saved half of the soup base into a pot and reheat until it is steaming hot all the way through, stirring so it heats evenly. The rice will have absorbed more liquid in the fridge, so add boiling water until it is quite runny again. Then turn the heat right down before adding the eggs.",
+          "ingredients": [
+            "Saved chicken, rice and lemon soup base",
+            "Extra boiling water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Gentle heat · stir regularly",
+          "tip": "Use the refrigerated rice soup within 24 hours, or thaw a safely frozen portion in the fridge before reheating.",
+          "doneness": "Base steaming hot throughout before the fresh egg finish.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "631d97d6-f96c-57c2-9449-098d629c4fb8",
+          "title": "Beat the remaining eggs",
+          "description": "Beat the 2 eggs saved for tonight in a heatproof bowl. We’re finishing the reserved half of the original batch.",
+          "ingredients": [
+            "Eggs"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "88b6a321-ccdc-5cb5-9ab8-6ef702c5b44a",
+          "title": "Warm the eggs with a little hot broth",
+          "description": "Turn the heat right down so the soup is no longer bubbling. Whisk a little hot liquid from the soup into the beaten eggs, starting with a small trickle. Add a little more gradually while whisking constantly, until the eggs feel warm. This helps them mix smoothly into the soup.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "We’re using broth from the pot, so there’s no extra water or extra lemon to add here.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "36eab072-7897-564a-ba11-35b6ec3b90a6",
+          "title": "Stir it into something silky",
+          "description": "Slowly pour the warmed egg mixture into the soup while stirring vigorously, like we do for carbonara. Keep stirring on very low heat for about 5 minutes, until it becomes thick and silky. Keep it below a boil so the eggs don’t scramble.",
+          "ingredients": [],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Very low heat · no boiling",
+          "tip": "",
+          "doneness": "Thick and silky, with no scrambled pieces. Heat the finished soup to at least 75°C, keeping it below a boil.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "32764c64-0999-5a1d-aea3-1b49a9a47e0b",
+          "title": "Finish with pepper and serve",
+          "description": "Add the remaining pepper — ½ tablespoon for this saved half of the full batch — and mix one last time. Serve with Parmesan if we fancy it, or leave it plain and have some salt on the side.",
+          "ingredients": [
+            "Pepper powder",
+            "Parmesan",
+            "Salt"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Whichever dried herbs we have",
+      "text": "Use 1 tablespoon mixed herbs or dried thyme for the full batch."
+    },
+    {
+      "title": "Large or small carrots",
+      "text": "Use 4 large carrots or 6 small ones for the full batch."
+    },
+    {
+      "title": "Parmesan or no Parmesan",
+      "text": "It’s lovely on its own. If we skip the Parmesan, keep some salt on the side so we can add a little at the table."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "It has become too thick",
+      "text": "Add more boiling water before the eggs so the soup is quite runny. The rice also absorbs liquid in the fridge, so loosen the saved base when reheating."
+    },
+    {
+      "title": "Keeping the eggs silky",
+      "text": "Warm the beaten eggs gradually with a little hot broth while whisking, then pour them back into the pot slowly while stirring vigorously. Keep the heat very low and do not let it boil."
+    },
+    {
+      "title": "It tastes a little flat early on",
+      "text": "That’s alright. Add only a tiny bit of salt if it is very undersalted. The lemon, eggs, pepper and optional Parmesan still have to go in."
+    }
+  ],
+  "storage": "Cool the saved base quickly in shallow containers, refrigerate promptly and use within 24 hours because it contains rice. Freeze it if the second dinner will be later. Keep the remaining eggs uncracked in the fridge.",
+  "reheating": "Reheat the saved base once until steaming hot throughout, adding boiling water to loosen it. Then use the second-night tab to temper and stir in the remaining eggs over very low heat, finishing with pepper.",
+  "foodSafety": "Cook the chicken fully before tasting the broth. Check the chicken and finished soup with a clean food thermometer: at least 75°C. Keep the egg finish below a boil.",
+  "servingSuggestion": "Four portions across two nights. Serve with Parmesan if we’re feeling cheesy, or enjoy it plain with a little salt on the side.",
+  "glossary": [
+    "Simmer",
+    "Boil",
+    "Whisk"
+  ]
+}
