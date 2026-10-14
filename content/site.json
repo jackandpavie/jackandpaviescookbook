@@ -59,7 +59,8 @@
     "lamb-mutton-mysore",
     "pistachio-pesto-pasta",
     "spaghetti-bolognese",
-    "creamy-pasta"
+    "creamy-pasta",
+    "simple-tarka-dal"
   ],
   "collections": [
     {
@@ -96,7 +97,8 @@
         "lamb-mutton-mysore",
         "pistachio-pesto-pasta",
         "spaghetti-bolognese",
-        "creamy-pasta"
+        "creamy-pasta",
+        "simple-tarka-dal"
       ]
     },
     {
@@ -132,7 +134,8 @@
         "lamb-mutton-mysore",
         "pistachio-pesto-pasta",
         "spaghetti-bolognese",
-        "creamy-pasta"
+        "creamy-pasta",
+        "simple-tarka-dal"
       ]
     },
     {
@@ -167,7 +170,8 @@
         "lamb-mutton-mysore",
         "pistachio-pesto-pasta",
         "spaghetti-bolognese",
-        "creamy-pasta"
+        "creamy-pasta",
+        "simple-tarka-dal"
       ]
     }
   ],

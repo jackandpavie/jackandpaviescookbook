@@ -1,0 +1,521 @@
+{
+  "slug": "simple-tarka-dal",
+  "aliases": [],
+  "title": "Simple Tarka Dal",
+  "description": "Roughly chopped veg and whichever lentils we have, cooked until soft and mushy. The spice bowl goes in after the first simmer, with coconut milk and a Shapla-style tarka if we fancy them.",
+  "category": "Curries",
+  "cuisine": "Indian-inspired",
+  "mainIngredient": "Lentils",
+  "tags": [
+    "Dal",
+    "Lentils",
+    "Yellow dal",
+    "Green moong",
+    "Tarka",
+    "Coconut milk"
+  ],
+  "dietaryTags": [
+    "Vegetarian"
+  ],
+  "difficulty": "Let it bubble",
+  "prepMinutes": 15,
+  "cookMinutes": 55,
+  "restMinutes": 0,
+  "servings": 2,
+  "portionNote": "A guide of 2 generous portions with rice or bread. Adjust to suit how much we’re having alongside. The full dal batch starts with 200 g dry lentils.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/simple-tarka-dal-reference.jpg",
+  "imageAlt": "Reference photograph of thick yellow dal in a metal serving bowl, garnished with herbs and dried chillies, with naan behind it.",
+  "imageCaption": "Reference photograph · dal with a dried-chilli garnish · displayed crop",
+  "imageCredit": "Anil Sharma / Pexels",
+  "imageSource": "https://www.pexels.com/photo/traditional-indian-lentil-curry-with-chilies-33430562/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 48%",
+  "imageZoom": 1.07,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Ask bubu about the sambar powder and asafoetida if you’re making this alone. We can add coconut milk for a Sri Lankan-style version, or finish with the optional tarka — that’s the bit that adds that Shapla flavour!",
+  "story": "",
+  "equipment": [
+    "Pot with a lid",
+    "Small bowl for the spices",
+    "Bowl for soaking the dal",
+    "Chopping board and knife",
+    "Wooden spoon",
+    "Kettle and measuring jug",
+    "Smallest saucepan for the optional tarka"
+  ],
+  "advancePrep": "Wash and soak the dal for at least 15 minutes; longer is fine. Get the spice bowl and roughly chopped veg ready while it soaks. The onions, garlic and tomatoes don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the dal bubbles, so don’t spend ages making everything match.",
+  "importantNotes": "The cumin seeds, turmeric, sambar powder, first measure of asafoetida and curry leaves all go in the same bowl. Add that bowl after the first covered simmer. The optional tarka has its own extra half-teaspoon of asafoetida; it doesn’t replace the teaspoon in the dal.",
+  "groups": [
+    {
+      "title": "The dal and veg",
+      "ingredients": [
+        {
+          "id": "d33bd586-528f-5d1d-b440-e414e916aa83",
+          "name": "Dry lentils or dal",
+          "quantity": 200,
+          "unit": "g",
+          "note": "Yellow dal, green moong dal or whichever lentils we have. Wash and soak for at least 15 minutes.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a4c40df7-0b0a-5fa6-8ab2-77abb96246a3",
+          "name": "Soaking water",
+          "quantity": null,
+          "unit": "",
+          "note": "Enough cold water to cover the dal generously; drain before cooking.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "91d7497d-7013-5d28-8672-5ca375acc177",
+          "name": "Onions",
+          "quantity": 2,
+          "unit": "",
+          "note": "Red or brown. Roughly chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "e6a79b07-c00d-5fbd-be23-9b22319e6be4",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Peel and roughly chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "de682651-f343-512e-8773-864a6f7b6de3",
+          "name": "Tomatoes",
+          "quantity": 400,
+          "unit": "g",
+          "note": "About 4 vine-ripened tomatoes, or 1 pack of salad tomatoes for the full batch. Roughly chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "40255aee-85c5-53c1-9888-26283fe4317a",
+          "name": "Green chilli",
+          "quantity": 1,
+          "unit": "",
+          "note": "Slit down the middle.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "23972e37-b3a2-5899-99b7-5b5a4a009e3b",
+          "name": "Water for cooking",
+          "quantity": 1000,
+          "unit": "ml",
+          "note": "Boil before adding. Keep extra hot water handy if the lentils need longer.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "aca516c1-75e4-544b-9054-a4aad8ed5f22",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "Add some at the start, then taste and adjust before finishing.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "The spice bowl — add after the first simmer",
+      "ingredients": [
+        {
+          "id": "d74d22b8-4985-5dbd-919b-f9d27a319d1b",
+          "name": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5659bf47-b866-5441-8077-a20401c43310",
+          "name": "Turmeric powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "6e48e69c-a29d-5edf-aad3-47c550823595",
+          "name": "Sambar powder",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "Ask bubu if you’re making this alone.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "5e9c8a92-03d8-5b78-ab85-55e5aed94150",
+          "name": "Asafoetida for the spice bowl",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "Ask bubu about this too. This is the main dal measure.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "4ea5352c-8482-5dc8-b408-c3aaafb9d302",
+          "name": "Curry leaves",
+          "quantity": 1,
+          "unit": "handful",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To finish",
+      "ingredients": [
+        {
+          "id": "da1eb48f-101b-53a3-badc-f505ba0af889",
+          "name": "Coriander leaves",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "2d17cefa-4ab8-5337-a134-36fcb67c812f",
+          "name": "Ground black pepper",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "Coconut version, if we fancy it",
+      "ingredients": [
+        {
+          "id": "ba779c5f-025f-5072-8af1-55cea50f09ba",
+          "name": "Coconut milk",
+          "quantity": 1,
+          "unit": "can",
+          "note": "Optional: add with the spice bowl for the Sri Lankan-style version.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "The optional Shapla-style tarka",
+      "ingredients": [
+        {
+          "id": "3b497bbe-b096-59a1-b16e-958c4f3ad3da",
+          "name": "Oil or ghee for the tarka",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "Use either, in the smallest saucepan.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1134383b-1afd-5567-8509-b6e693296d55",
+          "name": "Mustard seeds",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "For the optional tarka.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1bc49c0a-81f7-5246-a192-fe4124d5bf6d",
+          "name": "Asafoetida for the tarka",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": "An extra measure, only if making the optional tarka.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve",
+      "ingredients": [
+        {
+          "id": "ed5f4bd2-4f55-5365-ae18-6c49dc350b42",
+          "name": "Cooked rice, naan or parathas",
+          "quantity": null,
+          "unit": "",
+          "note": "Whichever we fancy alongside.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "beac7372-8759-59bc-b94d-b997e9778687",
+          "name": "Poppadoms",
+          "quantity": null,
+          "unit": "",
+          "note": "To serve with the dal and rice or bread.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "f227a7b5-7757-5282-93bc-a925b68bf1df",
+      "title": "Wash and soak the dal",
+      "description": "Wash the yellow dal, green moong dal or whichever lentils we have. Cover with cold water and let it soak for at least 15 minutes. Longer is fine. Get the spice bowl and veg ready while it soaks.",
+      "ingredients": [
+        "Dry lentils or dal",
+        "Soaking water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 15,
+      "heat": "",
+      "tip": "Check the packet for the lentils we’re using too. Whole lentils can need longer to soften than split dal.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7c922802-b20c-5a4a-b105-8b41818930e9",
+      "title": "Make one spice bowl",
+      "description": "Put the cumin seeds, turmeric, sambar powder, the teaspoon of asafoetida and the handful of curry leaves into a small bowl. Ask bubu about the sambar powder and asafoetida if you’re making this alone.",
+      "ingredients": [
+        "Cumin seeds",
+        "Turmeric powder",
+        "Sambar powder",
+        "Asafoetida for the spice bowl",
+        "Curry leaves"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Keep this bowl aside for now. It goes into the dal after the first covered simmer, not at the beginning.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "43370dcf-a804-5e32-8484-9e165dc6cd99",
+      "title": "Rough chopping is fine",
+      "description": "Roughly chop the onions, the whole head of garlic and the tomatoes. Slit the green chilli. Chop the coriander for later and boil 1 litre of water.",
+      "ingredients": [
+        "Onions",
+        "Garlic",
+        "Tomatoes",
+        "Green chilli",
+        "Coriander leaves",
+        "Water for cooking"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "The onions, garlic and tomatoes don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the dal bubbles, so don’t spend ages making everything match.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "1fc44aae-a991-5a3f-83a6-64df05e939c3",
+      "title": "Get the dal and veg into the pot",
+      "description": "Drain the soaked dal. Put it into a pot on medium heat with the onions, garlic, tomatoes, slit green chilli and the litre of boiled water. Add some salt, mix it all around and bring it to a bubble.",
+      "ingredients": [
+        "Dry lentils or dal",
+        "Onions",
+        "Garlic",
+        "Tomatoes",
+        "Green chilli",
+        "Water for cooking",
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "8b0fa62f-8a6f-5539-92e5-863ff0f4f748",
+      "title": "Cover and cook until mushy",
+      "description": "Cover and let it bubble gently for 30 minutes, until the dal and veg are soft and mushy. Give it a stir from time to time so the bottom doesn’t catch.",
+      "ingredients": [],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "Gentle bubbles · covered",
+      "tip": "The 30-minute timer is a check, not a promise for every lentil. If they’re still firm, keep cooking until soft before moving on. Whole green moong may take longer. Add a splash of hot water if it’s drying out, and follow the packet as needed.",
+      "doneness": "Soft, mushy lentils and veg that have cooked down.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "6fac846a-5fe2-5a36-a642-0a09bc278a10",
+      "title": "Now add the spice bowl",
+      "description": "Tip everything from the spice bowl into the softened dal and mix it through. If we fancy the coconut version, add the can of coconut milk now too. Let it cook for another 20 minutes until thick, stirring so it doesn’t stick.",
+      "ingredients": [
+        "Cumin seeds",
+        "Turmeric powder",
+        "Sambar powder",
+        "Asafoetida for the spice bowl",
+        "Curry leaves",
+        "Coconut milk"
+      ],
+      "durationMinutes": 20,
+      "timerMinutes": 20,
+      "heat": "Gentle bubbles · lid off to thicken",
+      "tip": "",
+      "doneness": "Thick dal with the spices cooked through.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "f748a5c2-b01c-5cc8-92b6-43546050c129",
+      "title": "Taste, then coriander and pepper",
+      "description": "Taste the dal and adjust the salt. Add the chopped coriander and the ground black pepper, mix it through and cook for another 5 minutes.",
+      "ingredients": [
+        "Salt",
+        "Coriander leaves",
+        "Ground black pepper"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Gentle bubbles",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "0520aa76-b30c-54ff-91ba-7f790971e17f",
+      "title": "Optional: make the tarka for that Shapla flavour",
+      "description": "If we want the tarka, heat the oil or ghee in the smallest saucepan on medium heat. Add the mustard seeds and the extra half-teaspoon of asafoetida. Let the mustard seeds splutter. Skip this and the next step if we’re not making the tarka.",
+      "ingredients": [
+        "Oil or ghee for the tarka",
+        "Mustard seeds",
+        "Asafoetida for the tarka"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Medium heat · optional",
+      "tip": "",
+      "doneness": "Mustard seeds spluttering in the hot oil or ghee.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "60c1f02d-32ab-5b0a-85ef-df0212a93887",
+      "title": "Stir the tarka into the finished dal",
+      "description": "Take the small saucepan off the heat. Carefully pour the hot oil or ghee mixture into the finished dal — it will sizzle — then mix it around. This adds that Shapla flavour!",
+      "ingredients": [
+        "Oil or ghee for the tarka",
+        "Mustard seeds",
+        "Asafoetida for the tarka"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "Small saucepan off the heat · optional",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "5b9eebf4-18b4-5bfc-be57-5488ab0ce468",
+      "title": "Rice or bread, with poppadoms",
+      "description": "Serve with rice, naan or parathas and some poppadoms. Whichever combination we fancy.",
+      "ingredients": [
+        "Cooked rice, naan or parathas",
+        "Poppadoms"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Whichever lentils we have",
+      "text": "Use 200 g yellow dal, green moong dal or other lentils. The texture and cooking time will vary, so follow the packet and cook until soft rather than stopping just because the timer is done."
+    },
+    {
+      "title": "Coconut milk for a Sri Lankan-style version",
+      "text": "Add 1 can of coconut milk with the spice bowl, then let it cook with the dal during the 20-minute thickening stage."
+    },
+    {
+      "title": "The tarka is optional",
+      "text": "Use 2 tablespoons oil or ghee, 1 tablespoon mustard seeds and an extra ½ teaspoon asafoetida. Let it splutter in the smallest saucepan, then carefully stir it into the finished dal. The dal is still ready to eat if we leave this bit out."
+    },
+    {
+      "title": "Ask bubu about the two powders",
+      "text": "If you’re making this alone, ask bubu about the sambar powder and asafoetida. The spice bowl uses 2 tablespoons sambar powder and 1 teaspoon asafoetida; the optional tarka uses another ½ teaspoon asafoetida."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "The lentils are still firm",
+      "text": "Keep them gently bubbling until soft and mushy, adding a little hot water if needed. Whole green moong or other whole lentils can take longer than split dal."
+    },
+    {
+      "title": "Too thick or too thin",
+      "text": "If it gets too thick before the lentils are soft, add a little hot water. If it needs thickening after the spice bowl goes in, let it bubble with the lid off, stirring so the bottom doesn’t catch."
+    }
+  ],
+  "storage": "Cool any leftover dal quickly and refrigerate within 1–2 hours. Use within 2 days. Keep any saved rice separate and use it within 24 hours.",
+  "reheating": "Reheat the portion we’re eating once until steaming hot throughout. Add a splash of water if it has thickened in the fridge.",
+  "foodSafety": "Cook the lentils until fully soft, using their packet instructions as a guide. Take the tarka pan off the heat before carefully pouring the hot mixture into the dal.",
+  "servingSuggestion": "Cooked rice, naan or parathas, with poppadoms. Coconut milk and the finishing tarka are both optional.",
+  "glossary": [
+    "Simmer",
+    "Boil"
+  ]
+}
