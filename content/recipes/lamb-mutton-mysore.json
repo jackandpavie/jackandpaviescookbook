@@ -1,0 +1,1193 @@
+{
+  "slug": "lamb-mutton-mysore",
+  "aliases": [],
+  "title": "Lamb / Mutton Mysore",
+  "description": "A thick lamb or mutton curry with two bowls of spices, plenty of onions and a tomato-and-yoghurt sauce. Let it bubble until the meat is soft, then finish with coriander and pepper.",
+  "category": "Curries",
+  "cuisine": "Indian-inspired",
+  "mainIngredient": "Lamb or mutton",
+  "tags": [
+    "Lamb",
+    "Mutton",
+    "Curry",
+    "Two dinners"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Let it take its time",
+  "prepMinutes": 20,
+  "cookMinutes": 71,
+  "restMinutes": 0,
+  "servings": 4,
+  "portionNote": "The full batch uses 750 g–1 kg of meat and makes 4 portions: two dinners for both of us, or dinner for three with your mum and some leftovers for her to take home.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/lamb-mutton-mysore-reference.jpg",
+  "imageAlt": "Reference photograph of a thick, dark mutton curry in a copper bowl, garnished with green chilli and ginger.",
+  "imageCaption": "Reference photograph · bone-in mutton curry variation · displayed crop",
+  "imageCredit": "Prabal Pratap Singh / Pexels",
+  "imageSource": "https://www.pexels.com/photo/cooked-food-in-a-bowl-9609846/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 52%",
+  "imageZoom": 1.02,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Shallots make this so much better, but brown onions are still fine. Give the lamb time to soften and keep stirring every 15 minutes. The coconut milk pulao is lovely with this — I’ve linked it at the end.",
+  "story": "",
+  "equipment": [
+    "Large deep pan with a lid",
+    "Two small bowls",
+    "Chopping board and knife",
+    "Wooden spoon",
+    "Kettle",
+    "Measuring jug and spoons",
+    "Tupperware for the second dinner",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Get the two spice bowls ready, check the freezer for ginger-garlic blocks and boil 750 ml of water. The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the curry bubbles, so don’t spend ages making everything match.",
+  "importantNotes": "The 45-minute simmer is split into three 15-minute steps so there’s a reminder to stir each time. The cooking time is a starting guide: if the meat is still chewy, add 100 ml of water and give it another 15 minutes, repeating as needed.",
+  "choiceHeading": "Who’s coming for dinner?",
+  "choiceIntro": "Choose the usual version or the milder one for your mum. The ingredient list and cooking steps below follow that choice.",
+  "groups": [],
+  "steps": [],
+  "recipeOptions": [
+    {
+      "id": "usual",
+      "slug": "lamb-mutton-mysore",
+      "label": "The usual version",
+      "description": "2 tablespoons of special curry powder, the Kashmiri chilli powder and a slit green chilli.",
+      "groups": [
+        {
+          "title": "Bowl one — whole spices",
+          "ingredients": [
+            {
+              "id": "49dd6561-979b-551b-82cb-5db8851a3061",
+              "name": "Fennel seeds",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "aee94cff-0f3c-5e04-9bc9-0a413b9ad007",
+              "name": "Cumin seeds",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "052cb7a3-fab1-5b16-b955-65f2edbd42b4",
+              "name": "Mustard seeds",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "3c236014-8eb8-51e9-969b-9f69889c8ac4",
+              "name": "Cardamom pods",
+              "quantity": 4,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4dd6863c-258a-52ca-acf9-1f3a784bca06",
+              "name": "Cloves",
+              "quantity": 4,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "e79bd90c-28e5-5d9d-b79a-9fea8c0a4a1c",
+              "name": "Bay leaves",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9cbbb12a-7b1c-5b26-8747-a0d739b1bb97",
+              "name": "Curry leaves",
+              "quantity": 1,
+              "unit": "handful",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "fbf61906-85d3-5905-8441-c62ac16e1faa",
+              "name": "Star anise",
+              "quantity": 1,
+              "unit": "",
+              "note": "If we have it.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "958673ad-b5d8-53a6-afdd-725708bb0769",
+              "name": "Cinnamon sticks",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "Bowl two — ground spices",
+          "ingredients": [
+            {
+              "id": "7a8afca2-0695-5e91-ad5e-af0ab3de98d9",
+              "name": "Special curry powder",
+              "quantity": 2,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ba3b0eae-322f-5f6f-b0ba-4a68c3b23d7e",
+              "name": "Turmeric powder",
+              "quantity": 2,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "27baf5a1-7bf7-52ef-91d2-498b3ee725c9",
+              "name": "Kashmiri chilli powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c12494dc-7362-50cf-88f5-d9db2edb135c",
+              "name": "Garam masala",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For the curry",
+          "ingredients": [
+            {
+              "id": "d04932c8-f2fc-5d85-aa7c-3b4f1756b3ba",
+              "name": "Brown onions",
+              "quantity": 3,
+              "unit": "",
+              "note": "Or use 2 packs of shallots for the full batch. Shallots make this even better, but brown onions are still fine.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b4d46461-d9c0-5e63-91fd-c6cdd9b49f6f",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Roughly chop with the fresh ginger, or replace both with 4 frozen ginger-garlic blocks for the full batch.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "324a5496-bd20-599c-85f8-aaa4d455a579",
+              "name": "Ginger",
+              "quantity": 50,
+              "unit": "g",
+              "note": "Roughly chop. Leave this and the fresh garlic out if using the 4 ginger-garlic blocks.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "3153132b-b679-5787-a17f-e74997a5ba58",
+              "name": "Green chilli",
+              "quantity": 1,
+              "unit": "",
+              "note": "Slit down the middle.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "3433d6f0-8548-5b79-a0d5-8ca918f51cc1",
+              "name": "Lamb or mutton",
+              "quantity": 750,
+              "unit": "g",
+              "note": "Use 750 g–1 kg for the full batch, chopped into pieces. The shopping quantity starts at 750 g.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "e4b1d882-71ef-5baf-9e8e-7ffcfdba6831",
+              "name": "Oil",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9328e709-86be-538c-8409-aade9baaec0d",
+              "name": "Tomato paste",
+              "quantity": 6,
+              "unit": "tbsp",
+              "note": "Almost a whole tube.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "7b97c963-6aaa-5f66-ae23-6cef3b8474ca",
+              "name": "Plain yoghurt",
+              "quantity": 6,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "1311763e-92d1-5846-b7a2-232d7ee5621f",
+              "name": "Water",
+              "quantity": 750,
+              "unit": "ml",
+              "note": "Boil before starting. Keep extra water ready: add 100 ml at a time if the meat needs longer.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "78f69476-4454-5032-bb17-38fecfb41693",
+              "name": "Salt",
+              "quantity": null,
+              "unit": "",
+              "note": "A little with the onions, then season the curry to taste.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "To finish",
+          "ingredients": [
+            {
+              "id": "f721e209-e693-5bd9-9cea-ab315b1bbb52",
+              "name": "Coriander leaves",
+              "quantity": 1,
+              "unit": "pack",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "8e45948e-1c98-5f2c-80a4-9476a1f642cd",
+              "name": "Pepper powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "To serve",
+          "ingredients": [
+            {
+              "id": "53dc9352-0097-5373-ac8a-78927d197482",
+              "name": "Coconut milk pulao or white rice",
+              "quantity": null,
+              "unit": "",
+              "note": "The pulao recipe is linked at the end.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "be399c74-4a42-56d7-843d-8da043df6b37",
+              "name": "Poppadoms or parathas",
+              "quantity": null,
+              "unit": "",
+              "note": "Whichever we fancy alongside.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "ea2c6567-6145-5b95-a7ce-04b324921261",
+          "title": "Get the whole spices into one bowl",
+          "description": "Put the fennel seeds, cumin seeds, mustard seeds, cardamom, cloves, bay leaves, curry leaves and cinnamon sticks in a small bowl. Add the star anise if we have it.",
+          "ingredients": [
+            "Fennel seeds",
+            "Cumin seeds",
+            "Mustard seeds",
+            "Cardamom pods",
+            "Cloves",
+            "Bay leaves",
+            "Curry leaves",
+            "Star anise",
+            "Cinnamon sticks"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "5ec52e7e-801d-5885-b3cf-f50dc00628b5",
+          "title": "Get the ground spices into another bowl",
+          "description": "Put the special curry powder, turmeric, Kashmiri chilli powder and garam masala in the second bowl.",
+          "ingredients": [
+            "Special curry powder",
+            "Turmeric powder",
+            "Kashmiri chilli powder",
+            "Garam masala"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "3ed5a515-9da2-5e6b-93ac-a0c53e4f9285",
+          "title": "Keep the chopping easy",
+          "description": "Chop the onions or shallots. Check for 4 ginger-garlic blocks before chopping the fresh head of garlic and ginger. Chop the lamb or mutton into pieces, chop the coriander for later and boil 750 ml of water. Slit the green chilli down the middle.",
+          "ingredients": [
+            "Brown onions",
+            "Garlic",
+            "Ginger",
+            "Lamb or mutton",
+            "Coriander leaves",
+            "Water",
+            "Green chilli"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the curry bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a1ce49dc-17b0-537d-a350-9de008c5fd71",
+          "title": "Let the whole spices splutter",
+          "description": "Heat the pan on medium heat. Add the oil, then tip in the bowl of whole spices. Let them splutter for 30 seconds.",
+          "ingredients": [
+            "Oil",
+            "Fennel seeds",
+            "Cumin seeds",
+            "Mustard seeds",
+            "Cardamom pods",
+            "Cloves",
+            "Bay leaves",
+            "Curry leaves",
+            "Star anise",
+            "Cinnamon sticks"
+          ],
+          "durationMinutes": 0.5,
+          "timerMinutes": 0.5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "dca3c08d-ae5e-5409-afd8-053e49489cdf",
+          "title": "Give the onions a bit of time",
+          "description": "Add the onions or shallots, ginger, garlic and slit green chilli, with a little salt to help the onions soften. Squish everything around for 15 minutes on medium heat, until the onions are soft and it smells lovely.",
+          "ingredients": [
+            "Brown onions",
+            "Garlic",
+            "Ginger",
+            "Salt",
+            "Green chilli"
+          ],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Soft onions and a lovely smell from the spices, ginger and garlic.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2f36aa41-b0f5-5825-b083-587e9cda572d",
+          "title": "Coat the lamb in the spices",
+          "description": "Add the chopped lamb or mutton and the bowl of ground spices. Squish it around for 5 minutes so the meat gets properly coated.",
+          "ingredients": [
+            "Lamb or mutton",
+            "Special curry powder",
+            "Turmeric powder",
+            "Kashmiri chilli powder",
+            "Garam masala"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "00ece797-f7a3-5a0e-bab2-c39df55b8688",
+          "title": "Add the tomato paste, yoghurt and water",
+          "description": "Add the tomato paste — almost a whole tube — and the yoghurt. Pour in the boiled water, add some salt and mix everything together. Bring it to a gentle bubble.",
+          "ingredients": [
+            "Tomato paste",
+            "Plain yoghurt",
+            "Water",
+            "Salt"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "995b81f1-3aba-5a3e-9abe-3572bec5a95c",
+          "title": "Cover for the first 15 minutes",
+          "description": "Put the lid on and turn the heat down so the curry bubbles gently. Let it cook for 15 minutes, then open the pan and give it a good stir, right down to the bottom.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "Some brown, sticky sauce on the bottom is fine — that caramelisation adds extra oomph. Stir it back into the curry. If it’s catching hard or turning black, lower the heat and add a splash of water.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6289b3ea-cd78-5325-8afc-0c1b0ee2b781",
+          "title": "Another 15 minutes, then another stir",
+          "description": "Put the lid back on and let it bubble gently for another 15 minutes. Open the pan and stir again, scraping up any brown, sticky bits from the bottom.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b5baf0e7-c3ed-59dc-997f-c75d24fbd20b",
+          "title": "Give it the final 15 minutes",
+          "description": "Cover again and let it bubble for another 15 minutes. That makes 45 minutes of simmering altogether. Open the pan, stir down to the bottom and check the meat.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6f750118-5952-5884-afd3-f50335c09262",
+          "title": "Check the lamb is soft enough",
+          "description": "Check the meat is cooked through, then try a piece to see if it’s soft enough. If it’s tender, go straight to the finishing step. If it’s still really chewy, it just needs more time.",
+          "ingredients": [
+            "Lamb or mutton"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Mutton and some cuts of lamb can take longer. Don’t worry about the clock; keep going until the meat is tender.",
+          "doneness": "The meat should be fully cooked and tender enough to eat happily. A clean thermometer in a thick piece should read at least 75°C before tasting.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "01eeb829-f282-5666-a66b-a4a44100c5cf",
+          "title": "Only if it’s still chewy: another 15 minutes",
+          "description": "Skip this step if the meat is already tender. Otherwise, add 100 ml of water, cover and cook gently for another 15 minutes. Stir and check again. Repeat with a little more water and another 15 minutes if it still needs it.",
+          "ingredients": [
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "Check the bottom each time so the sauce doesn’t catch as it thickens.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a7821295-8b74-5aa5-a1eb-d1e8376f701a",
+          "title": "Taste, then add coriander and pepper",
+          "description": "Once the meat is soft, taste the curry and check the salt and spices are just right. Add the chopped coriander and pepper powder. Mix it around and let it cook for another 5 minutes.",
+          "ingredients": [
+            "Salt",
+            "Coriander leaves",
+            "Pepper powder"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Low heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e294d850-02e1-58e9-bc9f-08d08c7f2e57",
+          "title": "Rice, poppadoms, parathas — whatever we fancy",
+          "description": "Serve with coconut milk pulao or white rice. Poppadoms are a great touch and parathas go really well too. This makes two dinners for both of us. If your mum is round, it’s dinner for the three of us with some leftovers for her to take home.",
+          "ingredients": [
+            "Coconut milk pulao or white rice",
+            "Poppadoms or parathas"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "for-mum",
+      "slug": "lamb-mutton-mysore-for-mum",
+      "label": "Mum’s coming",
+      "description": "Just 1 tablespoon of special curry powder, with both chillies left out. The full batch is enough for the three of us and some leftovers for her to take home.",
+      "groups": [
+        {
+          "title": "Bowl one — whole spices",
+          "ingredients": [
+            {
+              "id": "49dd6561-979b-551b-82cb-5db8851a3061",
+              "name": "Fennel seeds",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "aee94cff-0f3c-5e04-9bc9-0a413b9ad007",
+              "name": "Cumin seeds",
+              "quantity": 1,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "052cb7a3-fab1-5b16-b955-65f2edbd42b4",
+              "name": "Mustard seeds",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "3c236014-8eb8-51e9-969b-9f69889c8ac4",
+              "name": "Cardamom pods",
+              "quantity": 4,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4dd6863c-258a-52ca-acf9-1f3a784bca06",
+              "name": "Cloves",
+              "quantity": 4,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "e79bd90c-28e5-5d9d-b79a-9fea8c0a4a1c",
+              "name": "Bay leaves",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9cbbb12a-7b1c-5b26-8747-a0d739b1bb97",
+              "name": "Curry leaves",
+              "quantity": 1,
+              "unit": "handful",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "fbf61906-85d3-5905-8441-c62ac16e1faa",
+              "name": "Star anise",
+              "quantity": 1,
+              "unit": "",
+              "note": "If we have it.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "958673ad-b5d8-53a6-afdd-725708bb0769",
+              "name": "Cinnamon sticks",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "Bowl two — ground spices",
+          "ingredients": [
+            {
+              "id": "7a8afca2-0695-5e91-ad5e-af0ab3de98d9",
+              "name": "Special curry powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "ba3b0eae-322f-5f6f-b0ba-4a68c3b23d7e",
+              "name": "Turmeric powder",
+              "quantity": 2,
+              "unit": "tsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c12494dc-7362-50cf-88f5-d9db2edb135c",
+              "name": "Garam masala",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For the curry",
+          "ingredients": [
+            {
+              "id": "d04932c8-f2fc-5d85-aa7c-3b4f1756b3ba",
+              "name": "Brown onions",
+              "quantity": 3,
+              "unit": "",
+              "note": "Or use 2 packs of shallots for the full batch. Shallots make this even better, but brown onions are still fine.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b4d46461-d9c0-5e63-91fd-c6cdd9b49f6f",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Roughly chop with the fresh ginger, or replace both with 4 frozen ginger-garlic blocks for the full batch.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "324a5496-bd20-599c-85f8-aaa4d455a579",
+              "name": "Ginger",
+              "quantity": 50,
+              "unit": "g",
+              "note": "Roughly chop. Leave this and the fresh garlic out if using the 4 ginger-garlic blocks.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "3433d6f0-8548-5b79-a0d5-8ca918f51cc1",
+              "name": "Lamb or mutton",
+              "quantity": 750,
+              "unit": "g",
+              "note": "Use 750 g–1 kg for the full batch, chopped into pieces. The shopping quantity starts at 750 g.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "e4b1d882-71ef-5baf-9e8e-7ffcfdba6831",
+              "name": "Oil",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9328e709-86be-538c-8409-aade9baaec0d",
+              "name": "Tomato paste",
+              "quantity": 6,
+              "unit": "tbsp",
+              "note": "Almost a whole tube.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "7b97c963-6aaa-5f66-ae23-6cef3b8474ca",
+              "name": "Plain yoghurt",
+              "quantity": 6,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "1311763e-92d1-5846-b7a2-232d7ee5621f",
+              "name": "Water",
+              "quantity": 750,
+              "unit": "ml",
+              "note": "Boil before starting. Keep extra water ready: add 100 ml at a time if the meat needs longer.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "78f69476-4454-5032-bb17-38fecfb41693",
+              "name": "Salt",
+              "quantity": null,
+              "unit": "",
+              "note": "A little with the onions, then season the curry to taste.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "To finish",
+          "ingredients": [
+            {
+              "id": "f721e209-e693-5bd9-9cea-ab315b1bbb52",
+              "name": "Coriander leaves",
+              "quantity": 1,
+              "unit": "pack",
+              "note": "Chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "8e45948e-1c98-5f2c-80a4-9476a1f642cd",
+              "name": "Pepper powder",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "To serve",
+          "ingredients": [
+            {
+              "id": "53dc9352-0097-5373-ac8a-78927d197482",
+              "name": "Coconut milk pulao or white rice",
+              "quantity": null,
+              "unit": "",
+              "note": "The pulao recipe is linked at the end.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "be399c74-4a42-56d7-843d-8da043df6b37",
+              "name": "Poppadoms or parathas",
+              "quantity": null,
+              "unit": "",
+              "note": "Whichever we fancy alongside.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "ea2c6567-6145-5b95-a7ce-04b324921261",
+          "title": "Get the whole spices into one bowl",
+          "description": "Put the fennel seeds, cumin seeds, mustard seeds, cardamom, cloves, bay leaves, curry leaves and cinnamon sticks in a small bowl. Add the star anise if we have it.",
+          "ingredients": [
+            "Fennel seeds",
+            "Cumin seeds",
+            "Mustard seeds",
+            "Cardamom pods",
+            "Cloves",
+            "Bay leaves",
+            "Curry leaves",
+            "Star anise",
+            "Cinnamon sticks"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "5ec52e7e-801d-5885-b3cf-f50dc00628b5",
+          "title": "Get the ground spices into another bowl",
+          "description": "Put the special curry powder, turmeric and garam masala in the second bowl. This version uses just 1 tablespoon of the special curry powder.",
+          "ingredients": [
+            "Special curry powder",
+            "Turmeric powder",
+            "Garam masala"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "3ed5a515-9da2-5e6b-93ac-a0c53e4f9285",
+          "title": "Keep the chopping easy",
+          "description": "Chop the onions or shallots. Check for 4 ginger-garlic blocks before chopping the fresh head of garlic and ginger. Chop the lamb or mutton into pieces, chop the coriander for later and boil 750 ml of water.",
+          "ingredients": [
+            "Brown onions",
+            "Garlic",
+            "Ginger",
+            "Lamb or mutton",
+            "Coriander leaves",
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and other veg don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the curry bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a1ce49dc-17b0-537d-a350-9de008c5fd71",
+          "title": "Let the whole spices splutter",
+          "description": "Heat the pan on medium heat. Add the oil, then tip in the bowl of whole spices. Let them splutter for 30 seconds.",
+          "ingredients": [
+            "Oil",
+            "Fennel seeds",
+            "Cumin seeds",
+            "Mustard seeds",
+            "Cardamom pods",
+            "Cloves",
+            "Bay leaves",
+            "Curry leaves",
+            "Star anise",
+            "Cinnamon sticks"
+          ],
+          "durationMinutes": 0.5,
+          "timerMinutes": 0.5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "dca3c08d-ae5e-5409-afd8-053e49489cdf",
+          "title": "Give the onions a bit of time",
+          "description": "Add the onions or shallots, ginger and garlic, with a little salt to help the onions soften. Squish everything around for 15 minutes on medium heat, until the onions are soft and it smells lovely.",
+          "ingredients": [
+            "Brown onions",
+            "Garlic",
+            "Ginger",
+            "Salt"
+          ],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Soft onions and a lovely smell from the spices, ginger and garlic.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "2f36aa41-b0f5-5825-b083-587e9cda572d",
+          "title": "Coat the lamb in the spices",
+          "description": "Add the chopped lamb or mutton and the bowl of ground spices. Squish it around for 5 minutes so the meat gets properly coated.",
+          "ingredients": [
+            "Lamb or mutton",
+            "Special curry powder",
+            "Turmeric powder",
+            "Garam masala"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "00ece797-f7a3-5a0e-bab2-c39df55b8688",
+          "title": "Add the tomato paste, yoghurt and water",
+          "description": "Add the tomato paste — almost a whole tube — and the yoghurt. Pour in the boiled water, add some salt and mix everything together. Bring it to a gentle bubble.",
+          "ingredients": [
+            "Tomato paste",
+            "Plain yoghurt",
+            "Water",
+            "Salt"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "995b81f1-3aba-5a3e-9abe-3572bec5a95c",
+          "title": "Cover for the first 15 minutes",
+          "description": "Put the lid on and turn the heat down so the curry bubbles gently. Let it cook for 15 minutes, then open the pan and give it a good stir, right down to the bottom.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "Some brown, sticky sauce on the bottom is fine — that caramelisation adds extra oomph. Stir it back into the curry. If it’s catching hard or turning black, lower the heat and add a splash of water.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6289b3ea-cd78-5325-8afc-0c1b0ee2b781",
+          "title": "Another 15 minutes, then another stir",
+          "description": "Put the lid back on and let it bubble gently for another 15 minutes. Open the pan and stir again, scraping up any brown, sticky bits from the bottom.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b5baf0e7-c3ed-59dc-997f-c75d24fbd20b",
+          "title": "Give it the final 15 minutes",
+          "description": "Cover again and let it bubble for another 15 minutes. That makes 45 minutes of simmering altogether. Open the pan, stir down to the bottom and check the meat.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "6f750118-5952-5884-afd3-f50335c09262",
+          "title": "Check the lamb is soft enough",
+          "description": "Check the meat is cooked through, then try a piece to see if it’s soft enough. If it’s tender, go straight to the finishing step. If it’s still really chewy, it just needs more time.",
+          "ingredients": [
+            "Lamb or mutton"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Mutton and some cuts of lamb can take longer. Don’t worry about the clock; keep going until the meat is tender.",
+          "doneness": "The meat should be fully cooked and tender enough to eat happily. A clean thermometer in a thick piece should read at least 75°C before tasting.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "01eeb829-f282-5666-a66b-a4a44100c5cf",
+          "title": "Only if it’s still chewy: another 15 minutes",
+          "description": "Skip this step if the meat is already tender. Otherwise, add 100 ml of water, cover and cook gently for another 15 minutes. Stir and check again. Repeat with a little more water and another 15 minutes if it still needs it.",
+          "ingredients": [
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 15,
+          "heat": "Low heat · covered",
+          "tip": "Check the bottom each time so the sauce doesn’t catch as it thickens.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "a7821295-8b74-5aa5-a1eb-d1e8376f701a",
+          "title": "Taste, then add coriander and pepper",
+          "description": "Once the meat is soft, taste the curry and check the salt and spices are just right. Add the chopped coriander and pepper powder. Mix it around and let it cook for another 5 minutes.",
+          "ingredients": [
+            "Salt",
+            "Coriander leaves",
+            "Pepper powder"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Low heat",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e294d850-02e1-58e9-bc9f-08d08c7f2e57",
+          "title": "Rice, poppadoms, parathas — whatever we fancy",
+          "description": "Serve with coconut milk pulao or white rice. Poppadoms are a great touch and parathas go really well too. This makes two dinners for both of us. If your mum is round, it’s dinner for the three of us with some leftovers for her to take home.",
+          "ingredients": [
+            "Coconut milk pulao or white rice",
+            "Poppadoms or parathas"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Brown onions or shallots",
+      "text": "Use 3 brown onions or 2 packs of shallots for the full batch. Shallots make the dish even better, but use the onions if that’s what we have."
+    },
+    {
+      "title": "Fresh ginger and garlic or freezer blocks",
+      "text": "Use 4 ginger-garlic blocks instead of the head of garlic and 50 g of ginger for the full batch. No need to use both."
+    },
+    {
+      "title": "Lamb or mutton",
+      "text": "Use 750 g–1 kg, chopped into pieces. Mutton may need longer to soften, so follow the tenderness check and keep adding a little water if needed."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "The lamb is still chewy",
+      "text": "Add 100 ml of water, put the lid back on and give it another 15 minutes on low heat. Stir and check again. Keep going in 15-minute stretches until the meat is tender."
+    },
+    {
+      "title": "There’s sauce sticking to the bottom",
+      "text": "Brown, caramelised patches add flavour, so gently scrape and stir them back into the sauce. If it’s catching hard or starting to turn black, turn the heat down and add a splash of water."
+    }
+  ],
+  "storage": "Cool the saved curry quickly and refrigerate within 1–2 hours. Use within 2 days. Keep any saved rice separately and use it within 24 hours.",
+  "reheating": "Reheat only the portion we’re eating, once, until steaming hot throughout. Add a splash of water if the sauce has thickened in the fridge.",
+  "foodSafety": "Check the meat is cooked through before tasting for tenderness. A clean food thermometer in a thick piece should read at least 75°C.",
+  "servingSuggestion": "Coconut milk pulao or white rice, with poppadoms or parathas. This makes two dinners for both of us, or one dinner for the three of us with your mum and some leftovers for her to take home.",
+  "servingRecipe": "coconut-milk-pulao-rice",
+  "glossary": [
+    "Simmer",
+    "Brown"
+  ]
+}

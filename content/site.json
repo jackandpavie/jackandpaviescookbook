@@ -55,7 +55,8 @@
     "mexican-tomato-rice",
     "pinto-beans",
     "greek-avgolemono-soup",
-    "cassoulet"
+    "cassoulet",
+    "lamb-mutton-mysore"
   ],
   "collections": [
     {
@@ -88,7 +89,8 @@
         "mexican-tomato-rice",
         "pinto-beans",
         "greek-avgolemono-soup",
-        "cassoulet"
+        "cassoulet",
+        "lamb-mutton-mysore"
       ]
     },
     {
@@ -120,7 +122,8 @@
         "mexican-tomato-rice",
         "pinto-beans",
         "greek-avgolemono-soup",
-        "cassoulet"
+        "cassoulet",
+        "lamb-mutton-mysore"
       ]
     },
     {
@@ -151,7 +154,8 @@
         "mexican-tomato-rice",
         "pinto-beans",
         "greek-avgolemono-soup",
-        "cassoulet"
+        "cassoulet",
+        "lamb-mutton-mysore"
       ]
     }
   ],
