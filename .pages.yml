@@ -102,6 +102,10 @@ content:
     default: 2
     options:
       min: 1
+  - name: yieldUnit
+    label: Yield unit — optional, such as meatballs
+    type: string
+    description: Leave empty for portions. When counting individual pieces, set Servings to the number of pieces in the full batch.
   - name: featured
     label: Featured recipe
     type: boolean

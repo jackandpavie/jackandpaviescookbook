@@ -1,0 +1,357 @@
+{
+  "slug": "asian-pork-and-tofu-meatballs",
+  "aliases": [],
+  "title": "Asian Pork and Tofu Meatballs",
+  "description": "Squish the tofu into tiny crumbles, mix everything together and shape 16 large meatballs. Air-fry them to serve with a sauce, or give them a shorter cook before finishing in broth.",
+  "category": "Dinner",
+  "cuisine": "Asian-inspired",
+  "mainIngredient": "Pork mince",
+  "tags": [
+    "Pork",
+    "Tofu",
+    "Meatballs",
+    "Air fryer"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Nice and simple",
+  "prepMinutes": 15,
+  "cookMinutes": 30,
+  "restMinutes": 0,
+  "servings": 16,
+  "yieldUnit": "meatballs",
+  "portionLabel": "How many meatballs?",
+  "portionNote": "The full batch makes 16 large meatballs. Change the count to scale the ingredients, and keep the meatballs roughly the same size. Cook in batches if they do not fit in one layer.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/asian-pork-and-tofu-meatballs-reference.jpg",
+  "imageAlt": "Reference photograph of browned meatballs on a white platter with a dip, herbs and cocktail picks.",
+  "imageCaption": "Reference photograph · meatball platter with a dip · serving inspiration",
+  "imageCredit": "Mwabonje Ringa / Pexels",
+  "imageSource": "https://www.pexels.com/photo/meat-balls-on-plate-19659636/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 78%",
+  "imageZoom": 1.15,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Really squish the tofu so there are no big lumps hiding in the mix. The coriander and fennel seeds are lovely if we have them, but don’t worry if we don’t.",
+  "story": "",
+  "equipment": [
+    "Air fryer",
+    "Big mixing bowl",
+    "Measuring spoons",
+    "Oil spray",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Decide whether we’re having these with a sauce on the side or finishing them in broth or sauce, then pick the matching method below.",
+  "importantNotes": "Both options use 180°C. The 30-minute option is for serving straight from the air fryer. The 20-minute option needs further cooking straight away in hot broth or sauce; allow extra time for that finishing stage. The meatballs must be fully cooked through before serving.",
+  "choiceHeading": "How are we having the meatballs?",
+  "choiceIntro": "Pick the finish for tonight. The mixture stays the same; the air-fryer timer and final steps change.",
+  "groups": [
+    {
+      "title": "For 16 large meatballs",
+      "ingredients": [
+        {
+          "id": "6b6281bd-2bd2-53e1-a741-dfd2b3c755da",
+          "name": "Pork mince",
+          "quantity": 500,
+          "unit": "g",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c1028d78-aa8e-5cb0-8ad6-21a5f5053838",
+          "name": "Firm tofu",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Use 400–500 g for the full 16-meatball batch; the listed quantity uses 400 g.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "7cffd0b7-83a7-564f-93cd-86c9af273b74",
+          "name": "Dark soy sauce",
+          "quantity": 15,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "95cbb685-73b0-557c-ba93-d66f1b7a75f8",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "A small sprinkle.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "02da880b-01bd-5e79-a94e-b69fd2dababc",
+          "name": "Garlic powder",
+          "quantity": 2,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "927fbbf1-2a73-5927-9e8d-65bc50825323",
+          "name": "Coriander seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "If we have them.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1cffe06d-052b-55bd-927a-4c56dde30e20",
+          "name": "Fennel seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "If we have them.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "724843a3-a3d2-54b8-8666-a728e67b37d3",
+          "name": "Pepper powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "7779b272-f91b-5e25-8051-0a18a457b3e8",
+          "name": "Turmeric powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "0b0c909e-e5e0-50d1-9865-5b3b26d93f17",
+          "name": "Cornstarch",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "732e7f04-f385-5516-ac30-82d47eaebe23",
+          "name": "Cold water",
+          "quantity": null,
+          "unit": "",
+          "note": "Sprinkle in only if the mixture is too dry and crumbly.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "fc62eb02-24e2-5251-ba6f-5ae812ef4fe1",
+          "name": "Oil spray",
+          "quantity": null,
+          "unit": "",
+          "note": "Generously coat the air-fryer basket and the tops of the meatballs.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "8e7af06b-0d1e-51e2-b0f1-d129c636ec31",
+      "title": "Really break down the tofu",
+      "description": "Tip away any water from the tofu pack, then put the tofu in a big bowl. Squish and knead it as hard as you can until it breaks into tiny crumbles. Go back through and break up any big lumps so it mixes easily with the pork.",
+      "ingredients": [
+        "Firm tofu"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "We want small crumbles all the way through, rather than chunks of tofu.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "95ae1a6a-36b7-5d07-866c-55c610d3d4a8",
+      "title": "Squish everything into a soft dough",
+      "description": "Add the pork mince, dark soy sauce, a sprinkle of salt, garlic powder, pepper powder, turmeric and cornstarch. If we have coriander seeds and fennel seeds, add a teaspoon of each for the full batch. Mix and squish everything together until you have a soft dough. If it stays too dry and crumbly, sprinkle in a little cold water at a time and mix again.",
+      "ingredients": [
+        "Pork mince",
+        "Firm tofu",
+        "Dark soy sauce",
+        "Salt",
+        "Garlic powder",
+        "Coriander seeds",
+        "Fennel seeds",
+        "Pepper powder",
+        "Turmeric powder",
+        "Cornstarch",
+        "Cold water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Only add water if it needs it. The mixture should hold together when you shape it.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "cf2cb901-d455-54af-988b-ec38165a3b32",
+      "title": "Shape the meatballs",
+      "description": "Shape the mixture into 16 large balls for the full batch. If you’ve changed the meatball count above, use that number instead and keep them roughly the same size.",
+      "ingredients": [],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ac9710c1-1155-5ba3-a383-3d2314a7b7f5",
+      "title": "Give them a generous spray",
+      "description": "Generously spray the bottom of the air-fryer basket with oil. Arrange the meatballs in one layer with a little space around them, then spray the tops to coat them too. If they do not all fit, cook them in batches.",
+      "ingredients": [
+        "Oil spray"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "The cooking timer is for each batch. Give the hot air some room to move around the meatballs.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "recipeOptions": [
+    {
+      "id": "serve-with-sauce",
+      "slug": "asian-pork-and-tofu-meatballs",
+      "label": "Sauce on the side",
+      "description": "Air-fry at 180°C for 30 minutes, check they’re cooked through and serve with a sauce on the side.",
+      "cookMinutes": 30,
+      "groups": [],
+      "beforeSteps": [],
+      "afterSteps": [
+        {
+          "id": "c48d90be-c990-5546-b94e-1e1e6e9daf8d",
+          "title": "Air-fry for 30 minutes",
+          "description": "Cook the meatballs at 180°C for 30 minutes. Check the centre of a large meatball before serving; if it needs longer, keep cooking and check again.",
+          "ingredients": [],
+          "durationMinutes": 30,
+          "timerMinutes": 30,
+          "heat": "Air fryer · 180°C",
+          "tip": "",
+          "doneness": "Fully cooked through: a clean food thermometer should read 75°C in the centre for 30 seconds.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "4ba3d676-b45a-5b67-b255-16da5d75929e",
+          "title": "Serve with the sauce on the side",
+          "description": "Once they’re cooked through, serve the meatballs with whichever sauce we’re having on the side.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "finish-in-broth",
+      "slug": "asian-pork-and-tofu-meatballs-for-broth-or-sauce",
+      "label": "Finish in broth or sauce",
+      "description": "Air-fry at 180°C for 20 minutes, then put them straight into hot broth or sauce and continue cooking until fully cooked through. Allow extra time for the finishing stage.",
+      "cookMinutes": 20,
+      "groups": [],
+      "beforeSteps": [],
+      "afterSteps": [
+        {
+          "id": "d334fa71-ad9c-5023-b8c4-a3b38f3ddd08",
+          "title": "Air-fry for 20 minutes",
+          "description": "Cook the meatballs at 180°C for 20 minutes. Have the broth or sauce hot and ready as this timer finishes, because we’re moving them straight into it to finish cooking.",
+          "ingredients": [],
+          "durationMinutes": 20,
+          "timerMinutes": 20,
+          "heat": "Air fryer · 180°C",
+          "tip": "",
+          "doneness": "",
+          "warning": "This shorter timing is only for meatballs that will continue cooking immediately in broth or sauce. They are not ready to serve at this stage.",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "7afe6fb6-b0b2-562e-8cab-1bfa3144dd06",
+          "title": "Finish cooking in the broth or sauce",
+          "description": "Put the meatballs straight into the hot broth or sauce and continue cooking until they are fully cooked through. Check the centre of a large meatball with a clean food thermometer: it should reach 75°C for 30 seconds. The finishing time depends on the broth or sauce and the size of the meatballs, so check the middle rather than guessing. Then serve.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Hot broth or sauce",
+          "tip": "",
+          "doneness": "Fully cooked through, with the centre at 75°C for 30 seconds.",
+          "warning": "Continue cooking straight away; do not set partially cooked meatballs aside for later.",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "Coriander and fennel seeds",
+      "text": "For the full batch, add 1 teaspoon of each if we have them. They’re optional, so we can leave them out."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Big lumps of tofu",
+      "text": "Keep squishing and kneading until the tofu is in small crumbles. Break up any larger lumps before mixing it with the pork."
+    },
+    {
+      "title": "Too dry and crumbly",
+      "text": "Sprinkle in a little cold water and mix again. Add it bit by bit, just until the mixture comes together into a soft dough."
+    }
+  ],
+  "storage": "Only save meatballs once they are fully cooked. Cool any leftovers promptly, refrigerate within 1–2 hours and use within 48 hours.",
+  "reheating": "Reheat once until steaming hot right through the centre.",
+  "foodSafety": "Pork mince needs to be cooked all the way through. Check the centre of a large meatball with a clean food thermometer: 75°C for 30 seconds. The 20-minute air-fryer version must go straight into hot broth or sauce for further cooking.",
+  "servingSuggestion": "Have them with a sauce on the side, or finish them in whichever broth or sauce we’re making. Choose the matching tab before starting.",
+  "glossary": [
+    "Knead"
+  ]
+}

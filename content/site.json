@@ -45,7 +45,8 @@
     "chicken-soup",
     "mums-dumplings",
     "chicken-and-mushroom-pasta-bake",
-    "pork-mince-and-tomato-pasta-bake"
+    "pork-mince-and-tomato-pasta-bake",
+    "asian-pork-and-tofu-meatballs"
   ],
   "collections": [
     {
@@ -68,7 +69,8 @@
         "chicken-soup",
         "mums-dumplings",
         "chicken-and-mushroom-pasta-bake",
-        "pork-mince-and-tomato-pasta-bake"
+        "pork-mince-and-tomato-pasta-bake",
+        "asian-pork-and-tofu-meatballs"
       ]
     },
     {
@@ -90,7 +92,8 @@
         "chicken-soup",
         "mums-dumplings",
         "chicken-and-mushroom-pasta-bake",
-        "pork-mince-and-tomato-pasta-bake"
+        "pork-mince-and-tomato-pasta-bake",
+        "asian-pork-and-tofu-meatballs"
       ]
     },
     {
@@ -111,7 +114,8 @@
         "chicken-soup",
         "mums-dumplings",
         "chicken-and-mushroom-pasta-bake",
-        "pork-mince-and-tomato-pasta-bake"
+        "pork-mince-and-tomato-pasta-bake",
+        "asian-pork-and-tofu-meatballs"
       ]
     }
   ],
