@@ -57,7 +57,8 @@
     "greek-avgolemono-soup",
     "cassoulet",
     "lamb-mutton-mysore",
-    "pistachio-pesto-pasta"
+    "pistachio-pesto-pasta",
+    "spaghetti-bolognese"
   ],
   "collections": [
     {
@@ -92,7 +93,8 @@
         "greek-avgolemono-soup",
         "cassoulet",
         "lamb-mutton-mysore",
-        "pistachio-pesto-pasta"
+        "pistachio-pesto-pasta",
+        "spaghetti-bolognese"
       ]
     },
     {
@@ -126,7 +128,8 @@
         "greek-avgolemono-soup",
         "cassoulet",
         "lamb-mutton-mysore",
-        "pistachio-pesto-pasta"
+        "pistachio-pesto-pasta",
+        "spaghetti-bolognese"
       ]
     },
     {
@@ -159,7 +162,8 @@
         "greek-avgolemono-soup",
         "cassoulet",
         "lamb-mutton-mysore",
-        "pistachio-pesto-pasta"
+        "pistachio-pesto-pasta",
+        "spaghetti-bolognese"
       ]
     }
   ],

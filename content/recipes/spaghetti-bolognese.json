@@ -1,0 +1,873 @@
+{
+  "slug": "spaghetti-bolognese",
+  "aliases": [],
+  "title": "Spaghetti Bolognese — Creamier Version",
+  "description": "A big pot of bolognese for two dinners. Finish half tonight with spaghetti, basil, pepper and a little cream if we fancy it, then save the other half for another dinner.",
+  "category": "Pasta and noodles",
+  "cuisine": "Italian-inspired",
+  "mainIngredient": "Mince",
+  "tags": [
+    "Pork mince",
+    "Beef mince",
+    "Spaghetti",
+    "Bolognese",
+    "Two dinners"
+  ],
+  "dietaryTags": [],
+  "difficulty": "Let the sauce bubble",
+  "prepMinutes": 15,
+  "cookMinutes": 50,
+  "restMinutes": 0,
+  "servings": 2,
+  "yieldUnit": "portions per night",
+  "portionLabel": "How many people each night?",
+  "portionNote": "Enough sauce for two nights for the two of us: 4 sauce portions altogether. The 300 g spaghetti, 200 ml reserved pasta water, basil, pepper and optional cream are for tonight’s 2 portions only. Save half the sauce before adding them.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/spaghetti-bolognese-reference.jpg",
+  "imageAlt": "Reference photograph of spaghetti with a rich minced-meat tomato sauce and fresh basil on a white plate.",
+  "imageCaption": "Reference photograph · bolognese serving inspiration · displayed crop",
+  "imageCredit": "Lucio Panerai / Pexels",
+  "imageSource": "https://www.pexels.com/photo/pasta-with-green-leaf-on-top-on-white-ceramic-plate-3908197/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 73%",
+  "imageZoom": 1.12,
+  "art": "pasta",
+  "gallery": [],
+  "personalNote": "A bit of sauce sticking to the bottom is fine — don’t panic. Stir those brown, caramelised bits back in for extra flavour. Save half the sauce before the pasta goes in so the next dinner is already mostly sorted.",
+  "story": "",
+  "equipment": [
+    "Large deep pot",
+    "Saucepan for spaghetti",
+    "Wooden spoon or tongs",
+    "Chopping board and knife",
+    "Kettle",
+    "Measuring jug",
+    "Colander",
+    "Clean container for the saved sauce"
+  ],
+  "advancePrep": "Roughly chop the onions, carrots and garlic, boil 500 ml of water and have a container ready for the second night’s sauce. The onions, garlic and carrots don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the sauce bubbles, so don’t spend ages making everything match.",
+  "importantNotes": "Stir the sauce every 15 minutes so the bottom doesn’t burn. The 50-minute cooking estimate assumes the tomatoes taste mellow after the first 30-minute simmer; allow another 15 minutes if needed. Cook the spaghetti for 2 minutes less than the packet, save 200 ml of pasta water, then rinse the drained pasta under cold water for 2 minutes.",
+  "choiceHeading": "What mince are we using?",
+  "choiceIntro": "Both choices make sauce for two dinners. Pick the mince we have; the ingredients, shopping list and steps below follow that choice.",
+  "groups": [],
+  "steps": [],
+  "recipeOptions": [
+    {
+      "id": "pork",
+      "slug": "spaghetti-bolognese",
+      "label": "Pork mince",
+      "description": "1 kg of pork mince for the full sauce batch, with 300 g spaghetti for tonight’s two portions.",
+      "groups": [
+        {
+          "title": "For the sauce — both nights",
+          "ingredients": [
+            {
+              "id": "5abb45f3-d69d-5fea-a87f-b0b3b409a551",
+              "name": "Pork mince",
+              "quantity": 1000,
+              "unit": "g",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6d1635c4-fd1d-5035-b2e3-23a603f95813",
+              "name": "Brown onions",
+              "quantity": 2,
+              "unit": "",
+              "note": "Roughly chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2f6e1288-f14f-59cb-b446-7a92fd1e4e60",
+              "name": "Carrots",
+              "quantity": 2,
+              "unit": "",
+              "note": "Roughly chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c0e891a4-fc2f-5a72-be6b-d5b283151df5",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and roughly chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "f91a7e1a-b067-5e87-bc5c-da75ec090b81",
+              "name": "Bay leaves",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "f41f366e-c48a-5bed-9da5-d0d5233a4ec5",
+              "name": "Beef stock cubes",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "293e240f-6ec3-5ca4-809c-6d9d296b7fa3",
+              "name": "Basil tomato passata",
+              "quantity": 1000,
+              "unit": "ml",
+              "note": "About 2 cartons. Any tomato passata we have is fine.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "577ee9b0-7406-503e-b8fa-b7ac2a7ad9a0",
+              "name": "Water",
+              "quantity": 500,
+              "unit": "ml",
+              "note": "Boil before adding to the sauce.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s two portions",
+          "ingredients": [
+            {
+              "id": "cbaf1a55-2cb5-5663-9b3e-1a443be73012",
+              "name": "Spaghetti",
+              "quantity": 300,
+              "unit": "g",
+              "note": "Dry weight. This is for tonight, with half the sauce.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "bca89024-3f5e-5143-8a84-2c6cd18a2dbd",
+              "name": "Salt",
+              "quantity": null,
+              "unit": "",
+              "note": "For the spaghetti water.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "3af2c80d-a33e-5a2a-a809-bca96a5915b4",
+              "name": "Reserved pasta water",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "Save before draining. Add only as much as the sauce needs.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4933bad4-62ad-5f21-b626-047e66601b52",
+              "name": "Cream",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional: add a little to mellow the tomato, then taste. Alpro soya cream works too.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b28e11eb-62f4-53b9-9d30-e3d74fc5ce20",
+              "name": "Basil leaves",
+              "quantity": 1,
+              "unit": "pack",
+              "note": "Pluck from the stems. Add to tonight’s half of the sauce.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "203f92fb-23ba-575d-afac-ae30b4f6ab01",
+              "name": "Black pepper",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "For tonight’s pasta.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "7a971fec-d496-5799-ab55-00f56f822326",
+          "title": "Keep the chopping easy",
+          "description": "Roughly chop the brown onions, carrots and the whole head of garlic. Boil 500 ml of water for the sauce.",
+          "ingredients": [
+            "Brown onions",
+            "Carrots",
+            "Garlic",
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and carrots don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the sauce bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "f3c6a3d9-cb4e-5cf8-9f28-23ac8dff9f64",
+          "title": "Start browning the mince",
+          "description": "Heat the pot on medium heat. Add the pork mince and start browning it for 5 minutes, breaking up the lumps with the spoon.",
+          "ingredients": [
+            "Pork mince"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "The mince is starting to brown; it will finish cooking in the sauce.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "87bbb39c-4049-5019-aaf8-08e2a21c17b8",
+          "title": "Soften the onions, carrots and garlic",
+          "description": "Add the chopped onions, carrots and garlic to the mince. Squish everything around and cook together for 10 minutes, until the onions and carrots are nicely softened.",
+          "ingredients": [
+            "Pork mince",
+            "Brown onions",
+            "Carrots",
+            "Garlic"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Softened onions and carrots.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "5a8416a1-70b5-5aee-8792-9fdca6392f2e",
+          "title": "Add the passata, stock and water",
+          "description": "Add the bay leaves, beef stock cubes, basil tomato passata and the boiled water. Any passata we have is fine — it should be about two cartons for the full batch. Mix everything together and bring it to a gentle bubble.",
+          "ingredients": [
+            "Bay leaves",
+            "Beef stock cubes",
+            "Basil tomato passata",
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "d2827ee4-7c60-5073-b3c7-71d5a007677e",
+          "title": "The first 15 minutes, then a stir",
+          "description": "Turn the heat down so the sauce bubbles gently. Let it cook for 15 minutes, then give it a good stir right down to the bottom of the pot.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · gentle bubbles",
+          "tip": "A bit of brown, sticky sauce is fine, so don’t panic. The natural sugars from the onions, garlic and tomatoes are caramelising and adding sweetness. Gently scrape the brown bits back into the sauce. If it’s turning black or catching hard, lower the heat and add a splash of water.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "54a641d5-3c9f-5368-9069-dda5f6904311",
+          "title": "Another 15 minutes, then check again",
+          "description": "Let the sauce bubble for another 15 minutes, then stir down to the bottom again. That makes 30 minutes of simmering altogether. While it bubbles, we can get the spaghetti ready in the next step.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "1e523b84-6145-5789-92b2-a53381d3b566",
+          "title": "Stop the spaghetti two minutes early",
+          "description": "Boil the spaghetti in salted water, but stop 2 minutes before the cooking time on its packet. We’re finishing it in the sauce. Save 200 ml of pasta water in a jug before draining.",
+          "ingredients": [
+            "Spaghetti",
+            "Salt",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling salted water",
+          "tip": "If the packet says 10 minutes, drain at 8 minutes. The pasta should still be a little underdone.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8f40e890-589a-5279-836f-44ecc7e37511",
+          "title": "Cool the spaghetti so it stops cooking",
+          "description": "Drain the spaghetti and run it under cold water for 2 minutes to stop it cooking any further. Let it drain well and keep it aside until the sauce is ready.",
+          "ingredients": [
+            "Spaghetti"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 2,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e5824a13-f34c-521c-9274-f1ee01825091",
+          "title": "Taste the sauce before splitting it",
+          "description": "Once the sauce has had its 30-minute simmer and the mince is cooked through, taste it. Does it taste cooked and nicely mellow, or are the tomatoes still really sharp? If it’s mellow, skip the extra simmer and put half aside in the saving step. If it’s still too sharp, give it another 15 minutes first.",
+          "ingredients": [
+            "Pork mince",
+            "Basil tomato passata"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "Fully cooked mince and a mellow tomato sauce, without a harsh, sharp taste.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "df0ae678-201c-5f80-9d5f-6beda5e10358",
+          "title": "Only if the tomatoes are still too sharp",
+          "description": "Skip this step if the sauce already tastes mellow. Otherwise, let it bubble gently for another 15 minutes, stirring down to the bottom, then taste again before splitting the sauce.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 15,
+          "heat": "Low heat · gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8b9f0df8-033c-54d3-93bb-7dbe14038828",
+          "title": "Put half the sauce aside for the second night",
+          "description": "Take half the sauce out of the pot and put it into a clean container before any pasta or finishing ingredients go in. Let it cool, then put it in the fridge for the second dinner. Keep the other half in the pot for tonight. Fish out the bay leaves and throw them away.",
+          "ingredients": [
+            "Bay leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "We’re saving plain bolognese sauce. The spaghetti, cream, basil and pepper listed below all go into tonight’s half.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b47a3bbf-4476-5801-94ff-0f65d6601800",
+          "title": "Finish the spaghetti in tonight’s sauce",
+          "description": "Add the drained spaghetti to the half of the sauce left in the pot. Mix it through gently for about 5 minutes, until the pasta finishes cooking and the sauce coats it nicely. If it gets too thick or dry, add a little of the saved pasta water.",
+          "ingredients": [
+            "Spaghetti",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium-low heat",
+          "tip": "",
+          "doneness": "Hot spaghetti, cooked the way we like it, with sauce coating the strands.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "9503bf3e-dd14-5cea-ac46-2b9b920345d7",
+          "title": "Cream if we fancy it, then basil and pepper",
+          "description": "Finally, add a little cream if we want it, the pack of plucked basil leaves and the black pepper. Mix gently through the hot pasta. The cream mellows the tomato taste, but we can absolutely leave it out. Serve straight away.",
+          "ingredients": [
+            "Cream",
+            "Basil leaves",
+            "Black pepper"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Add the cream a little at a time and taste. There’s no fixed amount for this one.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    },
+    {
+      "id": "pork-and-beef",
+      "slug": "spaghetti-bolognese-pork-and-beef",
+      "label": "Pork + beef mince",
+      "description": "500 g pork mince and 500 g beef mince for the full sauce batch, with 300 g spaghetti for tonight’s two portions.",
+      "groups": [
+        {
+          "title": "For the sauce — both nights",
+          "ingredients": [
+            {
+              "id": "5abb45f3-d69d-5fea-a87f-b0b3b409a551",
+              "name": "Pork mince",
+              "quantity": 500,
+              "unit": "g",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "9a4fe67f-acd8-5bb2-8c0e-521cdae63d91",
+              "name": "Beef mince",
+              "quantity": 500,
+              "unit": "g",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "6d1635c4-fd1d-5035-b2e3-23a603f95813",
+              "name": "Brown onions",
+              "quantity": 2,
+              "unit": "",
+              "note": "Roughly chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "2f6e1288-f14f-59cb-b446-7a92fd1e4e60",
+              "name": "Carrots",
+              "quantity": 2,
+              "unit": "",
+              "note": "Roughly chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "c0e891a4-fc2f-5a72-be6b-d5b283151df5",
+              "name": "Garlic",
+              "quantity": 1,
+              "unit": "head",
+              "note": "Peel and roughly chop.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "f91a7e1a-b067-5e87-bc5c-da75ec090b81",
+              "name": "Bay leaves",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "f41f366e-c48a-5bed-9da5-d0d5233a4ec5",
+              "name": "Beef stock cubes",
+              "quantity": 2,
+              "unit": "",
+              "note": "",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "293e240f-6ec3-5ca4-809c-6d9d296b7fa3",
+              "name": "Basil tomato passata",
+              "quantity": 1000,
+              "unit": "ml",
+              "note": "About 2 cartons. Any tomato passata we have is fine.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "577ee9b0-7406-503e-b8fa-b7ac2a7ad9a0",
+              "name": "Water",
+              "quantity": 500,
+              "unit": "ml",
+              "note": "Boil before adding to the sauce.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        },
+        {
+          "title": "For tonight’s two portions",
+          "ingredients": [
+            {
+              "id": "cbaf1a55-2cb5-5663-9b3e-1a443be73012",
+              "name": "Spaghetti",
+              "quantity": 300,
+              "unit": "g",
+              "note": "Dry weight. This is for tonight, with half the sauce.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "bca89024-3f5e-5143-8a84-2c6cd18a2dbd",
+              "name": "Salt",
+              "quantity": null,
+              "unit": "",
+              "note": "For the spaghetti water.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "3af2c80d-a33e-5a2a-a809-bca96a5915b4",
+              "name": "Reserved pasta water",
+              "quantity": 200,
+              "unit": "ml",
+              "note": "Save before draining. Add only as much as the sauce needs.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "4933bad4-62ad-5f21-b626-047e66601b52",
+              "name": "Cream",
+              "quantity": null,
+              "unit": "",
+              "note": "Optional: add a little to mellow the tomato, then taste. Alpro soya cream works too.",
+              "optional": true,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "b28e11eb-62f4-53b9-9d30-e3d74fc5ce20",
+              "name": "Basil leaves",
+              "quantity": 1,
+              "unit": "pack",
+              "note": "Pluck from the stems. Add to tonight’s half of the sauce.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            },
+            {
+              "id": "203f92fb-23ba-575d-afac-ae30b4f6ab01",
+              "name": "Black pepper",
+              "quantity": 1,
+              "unit": "tbsp",
+              "note": "For tonight’s pasta.",
+              "optional": false,
+              "scaling": "linear",
+              "roundTo": 0
+            }
+          ]
+        }
+      ],
+      "afterSteps": [
+        {
+          "id": "7a971fec-d496-5799-ab55-00f56f822326",
+          "title": "Keep the chopping easy",
+          "description": "Roughly chop the brown onions, carrots and the whole head of garlic. Boil 500 ml of water for the sauce.",
+          "ingredients": [
+            "Brown onions",
+            "Carrots",
+            "Garlic",
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "The onions, garlic and carrots don’t have to be chopped really fine or look uniform. They’ll soften and cook down while the sauce bubbles, so don’t spend ages making everything match.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "f3c6a3d9-cb4e-5cf8-9f28-23ac8dff9f64",
+          "title": "Start browning the mince",
+          "description": "Heat the pot on medium heat. Add the pork and beef mince and start browning them together for 5 minutes, breaking up the lumps with the spoon.",
+          "ingredients": [
+            "Pork mince",
+            "Beef mince"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "The mince is starting to brown; it will finish cooking in the sauce.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "87bbb39c-4049-5019-aaf8-08e2a21c17b8",
+          "title": "Soften the onions, carrots and garlic",
+          "description": "Add the chopped onions, carrots and garlic to the mince. Squish everything around and cook together for 10 minutes, until the onions and carrots are nicely softened.",
+          "ingredients": [
+            "Pork mince",
+            "Beef mince",
+            "Brown onions",
+            "Carrots",
+            "Garlic"
+          ],
+          "durationMinutes": 10,
+          "timerMinutes": 10,
+          "heat": "Medium heat",
+          "tip": "",
+          "doneness": "Softened onions and carrots.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "5a8416a1-70b5-5aee-8792-9fdca6392f2e",
+          "title": "Add the passata, stock and water",
+          "description": "Add the bay leaves, beef stock cubes, basil tomato passata and the boiled water. Any passata we have is fine — it should be about two cartons for the full batch. Mix everything together and bring it to a gentle bubble.",
+          "ingredients": [
+            "Bay leaves",
+            "Beef stock cubes",
+            "Basil tomato passata",
+            "Water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "d2827ee4-7c60-5073-b3c7-71d5a007677e",
+          "title": "The first 15 minutes, then a stir",
+          "description": "Turn the heat down so the sauce bubbles gently. Let it cook for 15 minutes, then give it a good stir right down to the bottom of the pot.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · gentle bubbles",
+          "tip": "A bit of brown, sticky sauce is fine, so don’t panic. The natural sugars from the onions, garlic and tomatoes are caramelising and adding sweetness. Gently scrape the brown bits back into the sauce. If it’s turning black or catching hard, lower the heat and add a splash of water.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "54a641d5-3c9f-5368-9069-dda5f6904311",
+          "title": "Another 15 minutes, then check again",
+          "description": "Let the sauce bubble for another 15 minutes, then stir down to the bottom again. That makes 30 minutes of simmering altogether. While it bubbles, we can get the spaghetti ready in the next step.",
+          "ingredients": [],
+          "durationMinutes": 15,
+          "timerMinutes": 15,
+          "heat": "Low heat · gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "1e523b84-6145-5789-92b2-a53381d3b566",
+          "title": "Stop the spaghetti two minutes early",
+          "description": "Boil the spaghetti in salted water, but stop 2 minutes before the cooking time on its packet. We’re finishing it in the sauce. Save 200 ml of pasta water in a jug before draining.",
+          "ingredients": [
+            "Spaghetti",
+            "Salt",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "Boiling salted water",
+          "tip": "If the packet says 10 minutes, drain at 8 minutes. The pasta should still be a little underdone.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8f40e890-589a-5279-836f-44ecc7e37511",
+          "title": "Cool the spaghetti so it stops cooking",
+          "description": "Drain the spaghetti and run it under cold water for 2 minutes to stop it cooking any further. Let it drain well and keep it aside until the sauce is ready.",
+          "ingredients": [
+            "Spaghetti"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 2,
+          "heat": "",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "e5824a13-f34c-521c-9274-f1ee01825091",
+          "title": "Taste the sauce before splitting it",
+          "description": "Once the sauce has had its 30-minute simmer and the mince is cooked through, taste it. Does it taste cooked and nicely mellow, or are the tomatoes still really sharp? If it’s mellow, skip the extra simmer and put half aside in the saving step. If it’s still too sharp, give it another 15 minutes first.",
+          "ingredients": [
+            "Pork mince",
+            "Beef mince",
+            "Basil tomato passata"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "",
+          "doneness": "Fully cooked mince and a mellow tomato sauce, without a harsh, sharp taste.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "df0ae678-201c-5f80-9d5f-6beda5e10358",
+          "title": "Only if the tomatoes are still too sharp",
+          "description": "Skip this step if the sauce already tastes mellow. Otherwise, let it bubble gently for another 15 minutes, stirring down to the bottom, then taste again before splitting the sauce.",
+          "ingredients": [],
+          "durationMinutes": 0,
+          "timerMinutes": 15,
+          "heat": "Low heat · gentle bubbles",
+          "tip": "",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "8b9f0df8-033c-54d3-93bb-7dbe14038828",
+          "title": "Put half the sauce aside for the second night",
+          "description": "Take half the sauce out of the pot and put it into a clean container before any pasta or finishing ingredients go in. Let it cool, then put it in the fridge for the second dinner. Keep the other half in the pot for tonight. Fish out the bay leaves and throw them away.",
+          "ingredients": [
+            "Bay leaves"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "We’re saving plain bolognese sauce. The spaghetti, cream, basil and pepper listed below all go into tonight’s half.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "b47a3bbf-4476-5801-94ff-0f65d6601800",
+          "title": "Finish the spaghetti in tonight’s sauce",
+          "description": "Add the drained spaghetti to the half of the sauce left in the pot. Mix it through gently for about 5 minutes, until the pasta finishes cooking and the sauce coats it nicely. If it gets too thick or dry, add a little of the saved pasta water.",
+          "ingredients": [
+            "Spaghetti",
+            "Reserved pasta water"
+          ],
+          "durationMinutes": 5,
+          "timerMinutes": 5,
+          "heat": "Medium-low heat",
+          "tip": "",
+          "doneness": "Hot spaghetti, cooked the way we like it, with sauce coating the strands.",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        },
+        {
+          "id": "9503bf3e-dd14-5cea-ac46-2b9b920345d7",
+          "title": "Cream if we fancy it, then basil and pepper",
+          "description": "Finally, add a little cream if we want it, the pack of plucked basil leaves and the black pepper. Mix gently through the hot pasta. The cream mellows the tomato taste, but we can absolutely leave it out. Serve straight away.",
+          "ingredients": [
+            "Cream",
+            "Basil leaves",
+            "Black pepper"
+          ],
+          "durationMinutes": 0,
+          "timerMinutes": 0,
+          "heat": "",
+          "tip": "Add the cream a little at a time and taste. There’s no fixed amount for this one.",
+          "doneness": "",
+          "warning": "",
+          "image": "",
+          "imageAlt": ""
+        }
+      ]
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "The cream is optional",
+      "text": "Add a little cream at the end to mellow the tomato taste, or leave it out. Alpro soya cream works too. There’s no fixed amount — add a little, mix and taste."
+    },
+    {
+      "title": "Any passata we have",
+      "text": "Basil tomato passata is lovely here, but any tomato passata in the cupboard is fine. Use 1,000 ml for the full sauce batch, about two cartons."
+    },
+    {
+      "title": "Second night: more pasta",
+      "text": "Reheat the saved half of the sauce until steaming hot throughout. Cook fresh pasta using the same packet-minus-2-minutes method, save some pasta water and rinse the drained pasta for 2 minutes. Finish it in the hot sauce for about 5 minutes, loosening with pasta water if needed. Add cream if we fancy it."
+    },
+    {
+      "title": "Second night: a cheesy pasta bake",
+      "text": "Mix the saved bolognese sauce with cooked pasta in a baking dish and sprinkle with the favourite cheese blend. Bake at 180°C until the sauce is steaming hot right through the middle and the cheese has melted and turned golden."
+    },
+    {
+      "title": "Second night: Italian-style enchiladas",
+      "text": "Spoon the saved bolognese into tortillas, roll them up in a baking dish and sprinkle with cheese. Bake at 180°C until the filling is steaming hot right through and the cheese is melted. A slightly different dinner from the same sauce."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "The tomatoes still taste too sharp",
+      "text": "Give the sauce another 15 minutes of gentle bubbling before splitting it. Stir down to the bottom so it doesn’t catch. The optional cream at the end also mellows the tomato flavour."
+    },
+    {
+      "title": "The sauce is sticking to the bottom",
+      "text": "Brown, caramelised sauce adds flavour, so gently scrape it up and stir it back in. If it’s catching hard or turning black, lower the heat and add a splash of water."
+    },
+    {
+      "title": "The pasta and sauce look too dry",
+      "text": "Add a little of the 200 ml reserved pasta water and mix gently. Keep adding small splashes until the sauce coats the pasta nicely."
+    }
+  ],
+  "storage": "Cool the saved half of the plain sauce quickly in a clean container and refrigerate within 1–2 hours. Use within 2 days.",
+  "reheating": "Reheat the saved sauce once until steaming hot throughout. For a pasta bake or filled tortillas, check the centre of the dish is steaming hot too.",
+  "foodSafety": "Cook the pork mince, or pork-and-beef mixture, fully through before tasting the sauce. Keep the saved sauce separate from tonight’s finished pasta.",
+  "servingSuggestion": "Two portions tonight and another two from the saved sauce. Have spaghetti again, make a cheesy pasta bake or fill tortillas for Italian-style enchiladas.",
+  "glossary": [
+    "Brown",
+    "Simmer",
+    "Boil"
+  ]
+}
