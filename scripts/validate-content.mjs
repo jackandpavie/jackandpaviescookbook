@@ -1,12 +1,13 @@
 import fs from 'node:fs';import path from 'node:path';
 import {recipeVersions} from '../src/lib/recipe-options.mjs';
-const errors=[],routes=new Set();
+const errors=[],routes=new Set(),recipeLinks=[];
 const fail=(f,msg)=>errors.push(`${f}: ${msg}`);
 const arr=(v)=>Array.isArray(v)?v:[];
 const media=(f,v)=>{const s=typeof v==='string'?v:v?.src||v?.path||'';if(s&&(!s.startsWith('/images/')||s.includes('..')||!fs.existsSync(path.resolve('public',s.slice(1)))))fail(f,`Image not found or unsafe image path: ${s}`);};
 for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/recipes') : []).filter(f=>f.endsWith('.json'))){
  const f='content/recipes/'+name;let source;try{source=JSON.parse(fs.readFileSync(f,'utf8'));}catch{fail(f,'Invalid JSON');continue;}
  if(!source.published)continue;
+ if(source.servingRecipe)recipeLinks.push([f,source.servingRecipe]);
  if(source.recipeOptions!=null&&!Array.isArray(source.recipeOptions)){fail(f,'Recipe options must be a list');continue;}
  const optionIds=new Set();
  if(arr(source.recipeOptions).length&&source.recipeOptions[0]?.slug!==source.slug)fail(f,'The first option must use the main recipe address');
@@ -34,6 +35,7 @@ for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/re
  if(r.imagePosition){const position=typeof r.imagePosition==='string'&&r.imagePosition.match(/^(\d+(?:\.\d+)?)%\s+(\d+(?:\.\d+)?)%$/);if(!position||position.slice(1).some(v=>Number(v)>100))fail(f,'Photograph focus must contain two percentages between 0% and 100%');}
  }
 }
+for(const [f,slug] of recipeLinks)if(!routes.has(slug))fail(f,'The linked serving recipe must match a published recipe address');
 const site=JSON.parse(fs.readFileSync('content/site.json','utf8'));if(!site.title)fail('Site settings','Cookbook title is required');media('Site settings',site.heroImage);media('Site settings',site.introImage);
 for(const k of ['background','ink','olive','accent'])if(!/^#[0-9a-f]{6}$/i.test(site[k]))fail('Site settings',`Invalid ${k} colour — use a six-digit hex value`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}console.log(`Content valid: ${routes.size} published recipe addresses.`);

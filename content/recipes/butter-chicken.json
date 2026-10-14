@@ -1,0 +1,485 @@
+{
+  "slug": "butter-chicken",
+  "aliases": [],
+  "title": "Butter Chicken",
+  "description": "Get the two spice bowls ready, then squish the chicken around with the onions and ground spices. The yoghurt, passata and soya cream make the sauce lovely and creamy.",
+  "category": "Curries",
+  "cuisine": "Indian-inspired",
+  "mainIngredient": "Chicken",
+  "tags": [
+    "Chicken",
+    "Curry",
+    "Soya cream",
+    "Rice"
+  ],
+  "dietaryTags": [],
+  "difficulty": "One step at a time",
+  "prepMinutes": 20,
+  "cookMinutes": 60,
+  "restMinutes": 0,
+  "servings": 4,
+  "portionNote": "Portions are a starting guide; adjust them to suit what we’re having alongside.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/butter-chicken-reference.jpg",
+  "imageAlt": "Reference photograph of orange butter chicken with a cream swirl in a gold-handled pan on a simple white background.",
+  "imageCaption": "Reference photograph · butter-and-cream variation · serving inspiration",
+  "imageCredit": "Kunal Lakhotia / Pexels",
+  "imageSource": "https://www.pexels.com/photo/delicious-indian-butter-chicken-in-copper-pan-29685054/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 65%",
+  "imageZoom": 1.12,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Skip the Kashmiri chilli powder if your mum and sister are coming for dinner. We can have this with rice, poppadoms, naan or whatever we fancy really. It goes especially well with the coconut milk pulao linked at the end.",
+  "story": "",
+  "equipment": [
+    "Large deep pan or pot with a lid",
+    "Two small bowls",
+    "Chopping board and knife",
+    "Wooden spoon",
+    "Kettle",
+    "Measuring spoons",
+    "Measuring jug",
+    "Clean food thermometer"
+  ],
+  "advancePrep": "Make one bowl of ground spices and one of whole spices. Check the freezer for 4 ginger-garlic blocks before mincing fresh garlic and ginger. Boil some water before starting.",
+  "importantNotes": "The ground spices go in with the chicken. The whole spices go in later with the passata and water. After the 30-minute simmer, lift the lid and stir carefully because the thick curry can splash.",
+  "groups": [
+    {
+      "title": "Bowl one — ground spices",
+      "ingredients": [
+        {
+          "id": "ae2ee55f-59e0-5a1a-a56f-36b54b3e55ae",
+          "name": "Ground cumin",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "4c008209-3646-5e94-9180-5e9023048ae6",
+          "name": "Garam masala",
+          "quantity": 2,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d2e909f6-efa5-5a92-a0e4-d09671dbe7e5",
+          "name": "Kashmiri chilli powder",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "Skip this if your mum and sister are coming for dinner.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "46138662-99cf-5a43-8e8b-9100dc08fec6",
+          "name": "Turmeric powder",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "Bowl two — whole spices",
+      "ingredients": [
+        {
+          "id": "9505573f-2148-5a25-9e16-aa993f7df82b",
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d166d1d5-b836-5c2a-91ad-bbce8c9a684c",
+          "name": "Cinnamon sticks",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "03f81058-6d16-5989-a4e5-d23d9dc01811",
+          "name": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the curry",
+      "ingredients": [
+        {
+          "id": "c95c597c-2ae6-58ab-bb89-8a3692553adc",
+          "name": "Brown onions",
+          "quantity": 2,
+          "unit": "",
+          "note": "Chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b55fc48e-9f21-50fb-ab49-f150e5c8f69c",
+          "name": "Garlic",
+          "quantity": 1,
+          "unit": "head",
+          "note": "Mince with the fresh ginger, or replace both with 4 frozen ginger-garlic blocks for the full batch.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "caba6b3d-d81e-5b85-9894-4d5041061bb5",
+          "name": "Ginger",
+          "quantity": 50,
+          "unit": "g",
+          "note": "Mince. Skip the fresh garlic and ginger if using the 4 freezer blocks.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "2048aa92-3668-55c8-b653-7b68e0b5a246",
+          "name": "Chicken",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "Chop into pieces.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "82b1451f-4b75-572c-a4df-491fe83c5723",
+          "name": "Oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "6b972efe-8544-5aec-883a-40460600576e",
+          "name": "Plain unsweetened yoghurt",
+          "quantity": 5,
+          "unit": "tbsp",
+          "note": "Use plain, no-sugar yoghurt.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1314959c-e4e2-5cd5-8045-0aca1297edf3",
+          "name": "Plain tomato passata",
+          "quantity": 500,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "d9df48c2-1f54-5af6-8722-593183f1f3e1",
+          "name": "Boiling water",
+          "quantity": null,
+          "unit": "",
+          "note": "Enough to top up the curry; leave space below the rim of the pot.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8c4760e4-cfe2-5b1e-a272-a4116f8e56eb",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "To taste.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "87fb0e06-fbf2-5a79-9199-8adecbdb3e7a",
+          "name": "Alpro soya cream",
+          "quantity": 200,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "6ef8170f-0aba-5867-8f65-75ebfcbe57da",
+          "name": "Fresh coriander",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "To serve",
+      "ingredients": [
+        {
+          "id": "f4cdb802-1135-5788-b430-1038ed8045c7",
+          "name": "Boiled rice",
+          "quantity": null,
+          "unit": "",
+          "note": "Or make the coconut milk pulao linked at the end.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "73558ba8-acc0-5e81-9cb0-dc9ad30763e3",
+          "name": "Poppadoms or naan",
+          "quantity": null,
+          "unit": "",
+          "note": "Whichever we fancy.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "bc4b385d-5e99-5827-bde7-783938562717",
+      "title": "Make the ground-spice bowl",
+      "description": "Mix the ground cumin, garam masala, Kashmiri chilli powder and turmeric in a small bowl. If your mum and sister are coming for dinner, leave the chilli powder out.",
+      "ingredients": [
+        "Ground cumin",
+        "Garam masala",
+        "Kashmiri chilli powder",
+        "Turmeric powder"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ff889340-a12f-5a9c-93b3-2b62352c08a4",
+      "title": "Keep the whole spices in another bowl",
+      "description": "Put the bay leaves, cinnamon sticks and cumin seeds in another small bowl. Keep this one aside; it goes in later with the passata and water.",
+      "ingredients": [
+        "Bay leaves",
+        "Cinnamon sticks",
+        "Cumin seeds"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "8d58e7c4-cddf-59b1-900b-ac27af807b44",
+      "title": "Get the onions and chicken ready",
+      "description": "Chop the brown onions and the chicken. If we have ginger-garlic blocks in the freezer, use 4 for the full batch. Otherwise, mince the head of garlic and the ginger. Chop the coriander and keep it for the end. Boil some water in the kettle.",
+      "ingredients": [
+        "Brown onions",
+        "Garlic",
+        "Ginger",
+        "Chicken",
+        "Fresh coriander",
+        "Boiling water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Use either the freezer blocks or the fresh garlic and ginger.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "f3e022cf-83b8-5fde-aafa-fec8322451ec",
+      "title": "Soften the onions, ginger and garlic",
+      "description": "Heat the oil in a large, deep pan on medium heat. Add the onions, ginger and garlic, or the freezer blocks if we’re using those. Sauté for 10 minutes, moving everything around so it softens.",
+      "ingredients": [
+        "Oil",
+        "Brown onions",
+        "Garlic",
+        "Ginger"
+      ],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Medium heat",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "e20268af-5907-5602-b9c8-552f52a07859",
+      "title": "Squish the chicken around with the ground spices",
+      "description": "Add the chopped chicken and the ground spices from the first bowl. Squish everything around for another 15 minutes, until the chicken starts releasing its juices.",
+      "ingredients": [
+        "Chicken",
+        "Ground cumin",
+        "Garam masala",
+        "Kashmiri chilli powder",
+        "Turmeric powder"
+      ],
+      "durationMinutes": 15,
+      "timerMinutes": 15,
+      "heat": "Medium heat",
+      "tip": "We’re using the ground-spice bowl here. Keep the whole spices for the next step.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "dd4f8770-015c-5e54-bee8-714f2eeb02ce",
+      "title": "Add the yoghurt, passata and whole spices",
+      "description": "Add the plain unsweetened yoghurt — 5 tablespoons for the full batch — and mix it through. Pour in the passata, then add the whole spices from the second bowl. Top up the curry with boiling water, leaving space below the rim of the pot, and add salt. Mix it together.",
+      "ingredients": [
+        "Plain unsweetened yoghurt",
+        "Plain tomato passata",
+        "Bay leaves",
+        "Cinnamon sticks",
+        "Cumin seeds",
+        "Boiling water",
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "96e460b1-14ad-57f4-9689-a2c87c4043c3",
+      "title": "Let the curry bubble gently",
+      "description": "Bring the curry to a bubble, turn the heat down to low and cover with the lid. Let it bubble gently for 30 minutes.",
+      "ingredients": [],
+      "durationMinutes": 30,
+      "timerMinutes": 30,
+      "heat": "Low heat · covered",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "b0b07575-c631-5f6d-b627-7e27a6e01454",
+      "title": "Open carefully and check the flavour",
+      "description": "After 30 minutes, open the pot carefully and stir gently. The thick curry can splash, so take your time with this bit. Check that the chicken is cooked right through before tasting the sauce, then taste for salt and spices and adjust if it needs it.",
+      "ingredients": [
+        "Salt"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "Chicken cooked all the way through; a clean food thermometer in a thick piece should read at least 75°C.",
+      "warning": "Lift the lid away from you and stir slowly; hot, thick curry can splash.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "265e0107-e78f-5edb-8207-b313eb3b1745",
+      "title": "Finish with the soya cream and coriander",
+      "description": "Once you’re happy with the flavour, add the Alpro soya cream and the chopped coriander. Bring it back to a gentle boil and keep it bubbling for another 5 minutes, then take it off the heat.",
+      "ingredients": [
+        "Alpro soya cream",
+        "Fresh coriander"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Gentle boil",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "fb0e5fd0-6fad-5f5d-a2d4-4ab5f6e33db5",
+      "title": "Have it with whatever we fancy",
+      "description": "Serve with boiled rice and poppadoms, naan and rice, or whatever we fancy really. This also goes really well with coconut milk pulao rice; the separate recipe is linked at the end of this card.",
+      "ingredients": [
+        "Boiled rice",
+        "Poppadoms or naan"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [
+    {
+      "title": "When your mum and sister come for dinner",
+      "text": "Leave out the Kashmiri chilli powder. Keep the other ground spices as written."
+    },
+    {
+      "title": "Ginger-garlic freezer blocks",
+      "text": "For the full batch, use 4 blocks instead of the head of garlic and 50 g minced ginger. Use one option."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "The sauce splashes when stirred",
+      "text": "Keep the heat low and stir slowly. Lift the lid away from you and give the bubbling a moment to settle before stirring."
+    }
+  ],
+  "storage": "Cool any saved curry quickly and refrigerate within 1–2 hours. Use within 2 days.",
+  "reheating": "Reheat the curry once until steaming hot all the way through, stirring gently so it heats evenly.",
+  "foodSafety": "Check a thick piece of chicken with a clean food thermometer: it should reach at least 75°C. Make sure the chicken is fully cooked before tasting the sauce.",
+  "servingSuggestion": "Boiled rice with poppadoms or naan, or whatever we fancy. For something a bit different, make the coconut milk pulao below.",
+  "glossary": [
+    "Sauté",
+    "Simmer",
+    "Boil"
+  ],
+  "servingRecipe": "coconut-milk-pulao-rice"
+}

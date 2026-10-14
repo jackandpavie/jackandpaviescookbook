@@ -46,7 +46,7 @@
     "Clean food thermometer"
   ],
   "advancePrep": "Set out one bowl of whole spices and another of ground spices. Check the freezer for 4 ginger-garlic blocks before chopping fresh garlic and ginger. Allow about 70–80 minutes on the hob, plus any extra time needed to reduce the curry.",
-  "importantNotes": "Before starting, check the cinnamon amount with me; its quantity and size still need confirming. The first covered simmer is 20–30 minutes; check at 20 minutes. Any extra uncovered reducing happens before the coconut milk, which gets its own final 10 minutes of cooking.",
+  "importantNotes": "The first covered simmer is 20–30 minutes; check at 20 minutes. Any extra uncovered reducing happens before the coconut milk, which gets its own final 10 minutes of cooking.",
   "groups": [
     {
       "title": "Bowl one — whole spices",
@@ -83,10 +83,10 @@
         },
         {
           "id": "351bcae7-5e1f-5e80-99fd-286042f5dbf8",
-          "name": "Cinnamon stick",
-          "quantity": null,
+          "name": "Cinnamon sticks",
+          "quantity": 2,
           "unit": "",
-          "note": "Amount and size to confirm before cooking.",
+          "note": "",
           "optional": false,
           "scaling": "linear",
           "roundTo": 0
@@ -333,12 +333,12 @@
     {
       "id": "56aeedbb-7f93-5e1b-9d8a-5341be898e50",
       "title": "Set out the whole spices",
-      "description": "Take a small bowl and add the mustard seeds, cumin seeds, fennel seeds, cinnamon, cardamom pods, cloves, bay leaves and a handful of curry leaves. Keep this bowl separate from the ground spices.",
+      "description": "Take a small bowl and add the mustard seeds, cumin seeds, fennel seeds, 2 cinnamon sticks for the full batch, cardamom pods, cloves, bay leaves and a handful of curry leaves. Keep this bowl separate from the ground spices.",
       "ingredients": [
         "Mustard seeds",
         "Cumin seeds",
         "Fennel seeds",
-        "Cinnamon stick",
+        "Cinnamon sticks",
         "Cardamom pods",
         "Cloves",
         "Bay leaves",
@@ -347,7 +347,7 @@
       "durationMinutes": 0,
       "timerMinutes": 0,
       "heat": "",
-      "tip": "Check the cinnamon amount with me before starting.",
+      "tip": "Keep this bowl for the first crackling stage; the ground spices go in later.",
       "doneness": "",
       "warning": "",
       "image": "",
@@ -403,7 +403,7 @@
         "Mustard seeds",
         "Cumin seeds",
         "Fennel seeds",
-        "Cinnamon stick",
+        "Cinnamon sticks",
         "Cardamom pods",
         "Cloves",
         "Bay leaves",

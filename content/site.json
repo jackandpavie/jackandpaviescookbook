@@ -47,7 +47,9 @@
     "chicken-and-mushroom-pasta-bake",
     "pork-mince-and-tomato-pasta-bake",
     "asian-pork-and-tofu-meatballs",
-    "south-indian-coconut-chicken-curry"
+    "south-indian-coconut-chicken-curry",
+    "butter-chicken",
+    "coconut-milk-pulao-rice"
   ],
   "collections": [
     {
@@ -72,7 +74,9 @@
         "chicken-and-mushroom-pasta-bake",
         "pork-mince-and-tomato-pasta-bake",
         "asian-pork-and-tofu-meatballs",
-        "south-indian-coconut-chicken-curry"
+        "south-indian-coconut-chicken-curry",
+        "butter-chicken",
+        "coconut-milk-pulao-rice"
       ]
     },
     {
@@ -96,7 +100,9 @@
         "chicken-and-mushroom-pasta-bake",
         "pork-mince-and-tomato-pasta-bake",
         "asian-pork-and-tofu-meatballs",
-        "south-indian-coconut-chicken-curry"
+        "south-indian-coconut-chicken-curry",
+        "butter-chicken",
+        "coconut-milk-pulao-rice"
       ]
     },
     {
@@ -119,7 +125,9 @@
         "chicken-and-mushroom-pasta-bake",
         "pork-mince-and-tomato-pasta-bake",
         "asian-pork-and-tofu-meatballs",
-        "south-indian-coconut-chicken-curry"
+        "south-indian-coconut-chicken-curry",
+        "butter-chicken",
+        "coconut-milk-pulao-rice"
       ]
     }
   ],

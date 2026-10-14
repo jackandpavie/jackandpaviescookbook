@@ -1,0 +1,424 @@
+{
+  "slug": "coconut-milk-pulao-rice",
+  "aliases": [],
+  "title": "Coconut Milk Pulao Rice",
+  "description": "Whole spices, coconut milk, coriander and mint, with rice that gets a proper rest before we fluff it. Lovely alongside the butter chicken.",
+  "category": "Rice dishes",
+  "cuisine": "Indian-inspired",
+  "mainIngredient": "Rice",
+  "tags": [
+    "Rice",
+    "Coconut milk",
+    "Pulao",
+    "Mint",
+    "Side dish"
+  ],
+  "dietaryTags": [],
+  "difficulty": "One step at a time",
+  "prepMinutes": 10,
+  "cookMinutes": 19,
+  "restMinutes": 10,
+  "servings": 4,
+  "portionNote": "The starting yield is 4 side portions to serve with a curry. The full batch uses 400 g rice.",
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "/images/coconut-milk-pulao-rice-reference.jpg",
+  "imageAlt": "Reference photograph of fluffy white rice with green herbs and whole spices in a copper bowl.",
+  "imageCaption": "Reference photograph · herb-and-spice rice variation · serving inspiration",
+  "imageCredit": "Ahmad No More / Pexels",
+  "imageSource": "https://www.pexels.com/photo/rice-in-a-bowl-served-in-a-restaurant-7593252/",
+  "imageLicense": "Pexels License",
+  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "imagePosition": "50% 48%",
+  "imageZoom": 1.03,
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "Don’t worry if there isn’t a ginger-garlic block in the freezer. It adds extra flavour, but we can make this without it. The important bit at the end is leaving the lid alone for the full 10 minutes.",
+  "story": "",
+  "equipment": [
+    "Large saucepan with a well-fitting lid",
+    "Small bowl",
+    "Chopping board and knife",
+    "Sieve",
+    "Kettle",
+    "Measuring jug",
+    "Measuring spoons",
+    "Fork"
+  ],
+  "advancePrep": "Put the whole spices in a small bowl, pick the mint leaves from the stems and chop the herbs. Boil the water. Wash and drain the rice while the coconut milk bubbles.",
+  "importantNotes": "Cook the rice covered for 12 minutes on medium-low heat, then switch off the stove and leave the lid closed for another 10 minutes. Fluff gently with a fork afterwards so the grains stay whole.",
+  "groups": [
+    {
+      "title": "The little bowl of whole spices",
+      "ingredients": [
+        {
+          "id": "563bc385-b450-5c82-b5ac-7372d5f057b3",
+          "name": "Cardamom pods",
+          "quantity": 4,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a57ff398-b644-5058-a906-0c34e7b9b451",
+          "name": "Cloves",
+          "quantity": 4,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "526cff91-d9d1-5326-99ff-3cd8cca10a95",
+          "name": "Cinnamon stick",
+          "quantity": 1,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "0c24e2ae-e67b-553d-ace3-03085da2237f",
+          "name": "Bay leaf",
+          "quantity": 1,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1b753d06-bfbf-59ae-b992-d80510e20e60",
+          "name": "Fennel seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c1f9999b-aee7-5ebf-a2de-9cef79a5b319",
+          "name": "Cumin seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    },
+    {
+      "title": "For the coconut rice",
+      "ingredients": [
+        {
+          "id": "41991a8c-613b-56e8-979d-c772e498220d",
+          "name": "Fresh coriander",
+          "quantity": 0.5,
+          "unit": "bag",
+          "note": "Chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "9ad56476-ad2e-5386-899c-d722fa9d53fa",
+          "name": "Fresh mint",
+          "quantity": 1,
+          "unit": "pack",
+          "note": "Pluck the leaves from the stems and chop.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "8de0193c-1b19-5133-91a2-247ca002b2c2",
+          "name": "Oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "534a67d1-273c-5807-a110-47871d9d1e2e",
+          "name": "Ginger-garlic block",
+          "quantity": 1,
+          "unit": "",
+          "note": "If we have one in the freezer. Fine to leave out.",
+          "optional": true,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "60c9777b-4b37-5cf7-8bfe-77e9b73e6420",
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "1e069eff-914f-5b36-8d05-258190c796fa",
+          "name": "Light coconut milk",
+          "quantity": 1,
+          "unit": "can",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a568c98e-ef98-5cf1-91d1-8c37632093e3",
+          "name": "Boiling water",
+          "quantity": 300,
+          "unit": "ml",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "b8c7a4ee-9245-576d-9047-4c094f6f0fa3",
+          "name": "White rice",
+          "quantity": 400,
+          "unit": "g",
+          "note": "Wash 3 times and drain.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a89d7e3f-40f5-5499-9ff1-276d5c7e5f39",
+          "name": "Lime juice",
+          "quantity": null,
+          "unit": "",
+          "note": "Some, to taste; add before the rice.",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "4aa2be54-8aae-58d5-87c6-dc6721d026d4",
+      "title": "Get the spice bowl ready",
+      "description": "Put the cardamom pods, cloves, cinnamon stick, bay leaf, fennel seeds and cumin seeds in a small bowl. They all go in together.",
+      "ingredients": [
+        "Cardamom pods",
+        "Cloves",
+        "Cinnamon stick",
+        "Bay leaf",
+        "Fennel seeds",
+        "Cumin seeds"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "fce92f20-0fd5-5541-b9b5-d24c42b5e03a",
+      "title": "Chop the herbs and boil the water",
+      "description": "Chop the coriander. Pluck the mint leaves from the stems and chop those too. Boil the water and measure it out — 300 ml for the full batch.",
+      "ingredients": [
+        "Fresh coriander",
+        "Fresh mint",
+        "Boiling water"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bdccf8b5-6687-500d-8fc8-f0e570ea22f9",
+      "title": "Warm the spices and the freezer block",
+      "description": "Heat the oil in a large saucepan on medium-low heat. Add the whole spices. If we have a ginger-garlic block in the freezer, add it and let everything cook for 2 minutes, moving it around. If we don’t have one, just give the spices those 2 minutes.",
+      "ingredients": [
+        "Oil",
+        "Cardamom pods",
+        "Cloves",
+        "Cinnamon stick",
+        "Bay leaf",
+        "Fennel seeds",
+        "Cumin seeds",
+        "Ginger-garlic block"
+      ],
+      "durationMinutes": 2,
+      "timerMinutes": 2,
+      "heat": "Medium-low heat",
+      "tip": "Don’t worry if there’s no ginger and garlic. It adds extra flavour, but it isn’t absolutely necessary.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "823ff639-f0dc-5453-b196-ce7e3463615d",
+      "title": "Add the herbs and coconut milk",
+      "description": "Add the salt, chopped coriander and mint. Pour in the can of light coconut milk and the measured boiling water, then let it bubble for 5 minutes. Wash the rice while this is happening.",
+      "ingredients": [
+        "Salt",
+        "Fresh coriander",
+        "Fresh mint",
+        "Light coconut milk",
+        "Boiling water"
+      ],
+      "durationMinutes": 5,
+      "timerMinutes": 5,
+      "heat": "Medium-low heat · gentle bubbles",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "1bced5c8-08a5-5ef8-a6ed-3c70091a135f",
+      "title": "Wash the rice while the pot bubbles",
+      "description": "Wash the rice in cold water 3 times, then drain it well. Keep it ready to go into the pot once the coconut milk has had its 5 minutes.",
+      "ingredients": [
+        "White rice"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Do this alongside the previous step while its 5-minute timer runs.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "7cdd5ef5-a179-5061-99c5-1724d1e50d07",
+      "title": "A little lime, then taste the liquid",
+      "description": "Once the coconut milk has bubbled for 5 minutes, add some lime juice and taste the liquid. It should be slightly salty but not bitter. Go a little at a time with the lime.",
+      "ingredients": [
+        "Lime juice"
+      ],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "Taste now, before the rice goes in.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "1dcfaca6-d552-51cc-80a4-7b2190a849e4",
+      "title": "Add the rice and close the lid",
+      "description": "Add the washed, drained rice and mix it around gently. Cover with the lid and cook on medium-low heat for 12 minutes.",
+      "ingredients": [
+        "White rice"
+      ],
+      "durationMinutes": 12,
+      "timerMinutes": 12,
+      "heat": "Medium-low heat · covered",
+      "tip": "",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3462827b-6df9-5f66-a805-bda38250c865",
+      "title": "Switch off — leave the lid alone",
+      "description": "Once the 12 minutes are up, switch off the stove. Don’t open the lid yet. Leave the rice to sit for another 10 minutes with the lid closed.",
+      "ingredients": [],
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "heat": "Heat off · lid closed",
+      "tip": "Leave it alone for the full 10 minutes before having a look.",
+      "doneness": "",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "971978dd-a2ca-5c2e-b914-74fb2a58dba9",
+      "title": "Gently fluff with a fork",
+      "description": "Now open the lid and gently fluff the rice with a fork. Don’t vigorously squish it around, because that breaks the grains and makes the rice mushy. Serve with the curry.",
+      "ingredients": [],
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "heat": "",
+      "tip": "",
+      "doneness": "Tender rice with the grains still whole.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [
+    {
+      "start": 0,
+      "end": 2,
+      "task": "Warm the whole spices and optional ginger-garlic block",
+      "parallel": "",
+      "mode": "active"
+    },
+    {
+      "start": 2,
+      "end": 7,
+      "task": "Bubble the coconut milk with the herbs",
+      "parallel": "Wash the rice 3 times and drain.",
+      "mode": "passive"
+    },
+    {
+      "start": 7,
+      "end": 19,
+      "task": "Add lime, taste, then cook the rice covered",
+      "parallel": "Keep the heat medium-low.",
+      "mode": "passive"
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "task": "Switch off and rest with the lid closed",
+      "parallel": "Fluff gently only after the 10-minute rest.",
+      "mode": "rest"
+    }
+  ],
+  "substitutions": [
+    {
+      "title": "No ginger-garlic block?",
+      "text": "Leave it out. It adds extra flavour, but the rice is still lovely with the whole spices, coconut milk and herbs."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "title": "Keeping the grains whole",
+      "text": "Wash the rice 3 times, drain it well and give it the full 10-minute rest with the lid closed. Fluff it gently with a fork at the end instead of squishing it around."
+    }
+  ],
+  "storage": "Cool saved rice quickly, ideally within 1 hour, refrigerate and use within 24 hours. Cook a fresh batch if keeping the curry for longer.",
+  "reheating": "Reheat rice once until steaming hot throughout. Use refrigerated rice within 24 hours.",
+  "foodSafety": "Serve promptly. Cool and refrigerate any rice we’re saving quickly; do not leave it sitting at room temperature.",
+  "servingSuggestion": "Serve alongside butter chicken or whichever curry we’re having. Gently fluff it onto the plate so the grains stay whole.",
+  "glossary": [
+    "Simmer",
+    "Boil"
+  ]
+}
