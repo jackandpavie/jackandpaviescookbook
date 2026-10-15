@@ -17,13 +17,9 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/lemon-and-sausage-risotto-editorial-v2.jpg",
-  "imageAlt": "Reference photograph: Creamy lemon risotto in a ceramic bowl beside lemons and folded linen.",
-  "imageCaption": "Reference photograph · lemon-and-pea risotto variation · displayed crop",
-  "imageCredit": "Alesia Kozik / Pexels",
-  "imageSource": "https://www.pexels.com/photo/close-up-shot-of-risotto-6129137/",
-  "imageLicense": "Pexels License",
-  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "image": "/images/lemon-and-sausage-risotto-editorial-v3.jpg",
+  "imageAlt": "Warm editorial photograph of creamy lemon risotto with browned sausage slices, herbs, black pepper and lemon zest.",
+  "imageCaption": "Styled cookbook image · lemon and sausage risotto",
   "art": "pasta",
   "gallery": [],
   "personalNote": "This is the lemon version. Keep the juice for the end and add it a bit at a time, so we can stop when it tastes right for us.",
@@ -346,7 +342,7 @@
   "glossary": [
     "Boil"
   ],
-  "imagePosition": "50% 58%",
+  "imagePosition": "50% 50%",
   "imageZoom": 1,
   "type": "Rice"
 }
