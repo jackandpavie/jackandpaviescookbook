@@ -13,7 +13,7 @@ export function initFavourites(){
 export function initLibrary(){
  const data=$('#library-data'),form=$('#recipe-filters');if(!data||!form)return;
  const {recipes,collections}=JSON.parse(data.textContent),params=new URLSearchParams(location.search);
- for(const key of ['category','time','difficulty','cuisine','ingredient','diet','query','sort']) if(params.has(key)&&form.elements[key])form.elements[key].value=params.get(key);
+ for(const key of ['type','time','difficulty','cuisine','query','sort']) if(params.has(key)&&form.elements[key])form.elements[key].value=params.get(key);
  form.elements.saved.checked=params.has('saved');let collection=params.has('collection')?collections[Number(params.get('collection'))]:null;
  if(collection){$('#library-description').textContent=collection.title+' — '+collection.description;}
  function filter(){const f=Object.fromEntries(new FormData(form));f.saved=form.elements.saved.checked;const source=collection?recipes.filter(r=>collection.recipes.includes(r.slug)):recipes;const found=searchRecipes(source,f.query,f,f.sort,read('favourites',[]));const grid=$('#library-grid'),cards=$$('.recipe-card');cards.forEach(c=>c.hidden=!found.some(r=>r.slug===c.dataset.slug));found.forEach(r=>grid.append(cards.find(c=>c.dataset.slug===r.slug)));$('#result-count').textContent=`${found.length} recipe${found.length===1?'':'s'}`;$('#empty-results').hidden=!!found.length;}

@@ -3,16 +3,13 @@
   "aliases": [],
   "title": "Asian Pork and Tofu Meatballs",
   "description": "Squish the tofu into tiny crumbles, mix everything together and shape 16 large meatballs. Air-fry them to serve with a sauce, or give them a shorter cook before finishing in broth.",
-  "category": "Dinner",
-  "cuisine": "Asian-inspired",
-  "mainIngredient": "Pork mince",
+  "cuisine": "Chinese/Korean",
   "tags": [
     "Pork",
     "Tofu",
     "Meatballs",
     "Air fryer"
   ],
-  "dietaryTags": [],
   "difficulty": "Nice and simple",
   "prepMinutes": 15,
   "cookMinutes": 30,
@@ -353,5 +350,6 @@
   "servingSuggestion": "Have them with a sauce on the side, or finish them in whichever broth or sauce we’re making. Choose the matching tab before starting.",
   "glossary": [
     "Knead"
-  ]
+  ],
+  "type": "Sides"
 }

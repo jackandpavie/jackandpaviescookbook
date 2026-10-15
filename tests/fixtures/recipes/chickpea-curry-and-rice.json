@@ -3,16 +3,10 @@
   "aliases": [],
   "title": "Chickpea curry & rice",
   "description": "A gentle, warming curry, with rice timed to arrive at the table alongside it.",
-  "category": "Curries",
-  "cuisine": "Indian-inspired",
-  "mainIngredient": "Chickpea",
+  "cuisine": "Indian",
   "tags": [
     "Comfort food",
     "Dinner"
-  ],
-  "dietaryTags": [
-    "Vegan",
-    "Vegetarian"
   ],
   "difficulty": "Easy",
   "prepMinutes": 10,
@@ -350,5 +344,6 @@
   "servingSuggestion": "Serve in warm bowls with a squeeze of lemon, if you like.",
   "glossary": [
     "Simmer"
-  ]
+  ],
+  "type": "Curries"
 }

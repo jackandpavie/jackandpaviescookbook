@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Lemon and Sausage Risotto",
   "description": "An oven-baked sausage risotto with lemon zest and juice, finished with parsley and basil.",
-  "category": "Rice dishes",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Risotto rice",
+  "cuisine": "Italian",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 40,
@@ -350,5 +347,6 @@
     "Boil"
   ],
   "imagePosition": "50% 58%",
-  "imageZoom": 1
+  "imageZoom": 1,
+  "type": "Rice"
 }

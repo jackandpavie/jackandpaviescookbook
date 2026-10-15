@@ -5,7 +5,7 @@ A personal birthday cookbook built with Astro and browser-local cooking tools. R
 ## What works
 
 - Editorial homepage, recipe library, permanent recipe links and collections.
-- Search by recipe, ingredient, category or tag; combined filters; sorting.
+- Search by recipe, ingredient, type, cuisine or tag; combined filters; sorting.
 - Numerical serving scaling, per-ingredient rounding and fixed quantities.
 - Saved recipes, checklists, shopping lists and cooking progress in localStorage.
 - One-step-at-a-time cooking mode, step ingredients, optional photos and visual cues.
@@ -49,7 +49,7 @@ Add substitutions, memories, troubleshooting, serving notes and verified food-sa
 
 In a recipe, choose the main photo, step photo or gallery and upload the replacement. Use JPG, PNG, WebP or AVIF. Convert HEIC to JPG first. Aim for images around 1,200–1,600px wide and under 1MB. Uploads are stored in `public/images`; Astro adjusts paths for the GitHub repository subfolder.
 
-Open **Site settings** for the cookbook title, subtitle, dedication, welcome message, signature, cover photograph, introduction photo, footer and categories. Turn off **Cover is an AI-generated placeholder** after replacing the image. Choose featured recipes and collection recipes by their titles. Change the four hex colours if desired, keeping dark text on a light background.
+Open **Site settings** for the cookbook title, subtitle, dedication, welcome message, signature, cover photograph, introduction photo, footer. Turn off **Cover is an AI-generated placeholder** after replacing the image. Choose featured recipes and collection recipes by their titles. Change the four hex colours if desired, keeping dark text on a light background.
 
 ## Keep old links working
 
@@ -98,7 +98,7 @@ npm run dev
 Tests use the generated HTML, so build before testing. For GitHub subpath verification:
 
 ```sh
-SITE_URL=https://pavieselvaraj.github.io BASE_PATH=/jackandpaviescookbook npm run build
+SITE_URL=https://jackandpavie.github.io BASE_PATH=/jackandpaviescookbook npm run build
 BASE_PATH=/jackandpaviescookbook npm test
 ```
 

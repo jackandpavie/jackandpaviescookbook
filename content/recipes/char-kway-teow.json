@@ -3,15 +3,12 @@
   "aliases": [],
   "title": "Char Kway Teow",
   "description": "Flat rice noodles with browned Spam, eggs, pak choi, beansprouts and chives, tossed in a soy-and-oyster sauce.",
-  "category": "Pasta and noodles",
-  "cuisine": "Singapore-inspired",
-  "mainIngredient": "Rice noodles",
+  "cuisine": "Singaporean",
   "tags": [
     "Dinner",
     "Comfort food",
     "Lunch the next day"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 15,
@@ -342,5 +339,6 @@
     "Sear"
   ],
   "imagePosition": "50% 55%",
-  "imageZoom": 1.08
+  "imageZoom": 1.08,
+  "type": "Noodles"
 }

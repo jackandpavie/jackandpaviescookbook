@@ -1,0 +1,457 @@
+{
+  "slug": "chicken-pulao",
+  "aliases": [],
+  "title": "Chicken pulao",
+  "description": "An easy one-pot rice dish with the fragrant, tangy flavours Bubu craves in a biryani.",
+  "type": "Rice",
+  "cuisine": "Indian",
+  "tags": [
+    "Comfort food",
+    "Dinner",
+    "One pot"
+  ],
+  "difficulty": "Easy",
+  "prepMinutes": 20,
+  "cookMinutes": 50,
+  "restMinutes": 10,
+  "servings": 4,
+  "featured": true,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "",
+  "imageAlt": "",
+  "art": "curry",
+  "gallery": [],
+  "personalNote": "For when Bubu is craving a biryani — this is an easier version to make with similar flavours.",
+  "story": "",
+  "equipment": [
+    "Large pot with a close-fitting lid",
+    "Blender and blender jar",
+    "Large bowl",
+    "Chopping board and knife",
+    "Measuring jug"
+  ],
+  "advancePrep": "Pluck the mint leaves from their stalks and wash the coriander before you begin.",
+  "importantNotes": "Keep the lid closed during the final 10-minute rest. Fluff gently when serving so the rice grains stay whole rather than becoming mushy.",
+  "groups": [
+    {
+      "title": "For the pulao",
+      "ingredients": [
+        {
+          "id": "0f1d1e85-0c7a-4b72-a203-2769c7e12f01",
+          "name": "Brown or red onions",
+          "quantity": 2,
+          "unit": "",
+          "note": "chopped",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "3b7ac2af-18ea-4b56-9171-65109c7f8d02",
+          "name": "Frozen ginger-and-garlic blocks",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "fb12de66-5b67-49ad-8de3-bca8dd0d9803",
+          "name": "Tomatoes",
+          "quantity": 3,
+          "unit": "",
+          "note": "roughly chopped",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "68ade73a-dac9-4d5c-898d-5128cc04e604",
+          "name": "Fresh coriander",
+          "quantity": 1,
+          "unit": "bag",
+          "note": "washed; reserve a little for the raita if making it",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "845908b8-6bd8-4500-ac39-54463dff1205",
+          "name": "Fresh mint leaves",
+          "quantity": 1,
+          "unit": "bag",
+          "note": "leaves plucked from the stalks",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "db4f23b3-f4fc-4192-9a60-a541af006706",
+          "name": "Green chilli",
+          "quantity": 1,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "7787f005-f498-4bfb-8048-c4097d3a7f07",
+          "name": "Cardamom pods",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "96a74e3c-e5cc-40fa-974f-8054ca92de08",
+          "name": "Cloves",
+          "quantity": 2,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "cd1f77b3-9619-4415-82a6-cde3dc2afd09",
+          "name": "Bay leaf",
+          "quantity": 0.5,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "fixed",
+          "roundTo": 0
+        },
+        {
+          "id": "ed04aec3-944b-4ba4-b65d-f0ea88815e10",
+          "name": "Cinnamon stick",
+          "quantity": 0.5,
+          "unit": "",
+          "note": "",
+          "optional": false,
+          "scaling": "fixed",
+          "roundTo": 0
+        },
+        {
+          "id": "683db2d7-9be1-4aa7-82a1-42101ae1b211",
+          "name": "Fennel seeds",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "68671a21-48bd-4151-95c2-277d27690f12",
+          "name": "Garam masala",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "050ad23b-22c4-4736-a9e2-93f86d50a813",
+          "name": "Plain yogurt",
+          "quantity": 5,
+          "unit": "tbsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "306c32d1-9d57-4bf0-871f-ee56adbbf714",
+          "name": "Lime",
+          "quantity": 0.5,
+          "unit": "",
+          "note": "juice only",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "4ad9f77e-3d94-48be-80bb-ec5239b46e15",
+          "name": "Boneless chicken",
+          "quantity": 500,
+          "unit": "g",
+          "note": "cut into small pieces",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "a2258951-ced9-4bc1-b232-5edc4fec6116",
+          "name": "Water",
+          "quantity": 500,
+          "unit": "ml",
+          "note": "freshly boiled",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "dffde0bf-7dbe-465c-aab2-dc0394a88117",
+          "name": "Oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": "",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "c5fe43d3-6e70-4c2a-b41b-54c923bcad18",
+          "name": "Basmati rice",
+          "quantity": 300,
+          "unit": "g",
+          "note": "washed three times and drained",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 0
+        },
+        {
+          "id": "19f6226b-21a1-452f-8652-33a51af89519",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "to taste",
+          "optional": false,
+          "scaling": "fixed",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "30345fd8-404d-45e0-b641-d5d1e46f3a01",
+      "title": "Prepare everything",
+      "description": "Chop the onions. Cut the chicken into small pieces. Pluck the mint leaves and roughly chop the tomatoes. Boil 500 ml water and keep it ready.",
+      "durationMinutes": 15,
+      "timerMinutes": 0,
+      "ingredients": [
+        "Brown or red onions",
+        "Boneless chicken",
+        "Fresh mint leaves",
+        "Tomatoes",
+        "Water"
+      ],
+      "heat": "",
+      "doneness": "Small, even pieces of chicken so they cook at the same rate.",
+      "tip": "Keep a little coriander aside if you are making the cucumber raita too.",
+      "warning": "Wash the board, knife and your hands after handling raw chicken.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "9406808e-3a66-4d8a-ad39-05229ae4b102",
+      "title": "Blend the herb sauce",
+      "description": "Put the tomatoes, coriander, mint, green chilli, cardamom, cloves, bay leaf, cinnamon, fennel seeds, garam masala, yogurt and lime juice in the blender jar. Blend until smooth.",
+      "durationMinutes": 5,
+      "timerMinutes": 0,
+      "ingredients": [
+        "Tomatoes",
+        "Fresh coriander",
+        "Fresh mint leaves",
+        "Green chilli",
+        "Cardamom pods",
+        "Cloves",
+        "Bay leaf",
+        "Cinnamon stick",
+        "Fennel seeds",
+        "Garam masala",
+        "Plain yogurt",
+        "Lime"
+      ],
+      "heat": "",
+      "doneness": "A smooth, bright green sauce with no large pieces remaining.",
+      "tip": "Use a bowl to keep the blender jar steady and catch any drips.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "067e307b-bb5f-4325-93c9-a8927c44a103",
+      "title": "Soften the onions",
+      "description": "Heat the pot over medium heat and add the oil. Once hot, add the chopped onions and the ginger-and-garlic blocks. Squish and stir for 10 minutes until the blocks have melted and the onions are soft.",
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "ingredients": [
+        "Oil",
+        "Brown or red onions",
+        "Frozen ginger-and-garlic blocks"
+      ],
+      "heat": "Medium",
+      "doneness": "Soft onions with no raw bite; they do not need to be deeply browned.",
+      "tip": "Stir regularly so the ginger and garlic do not catch on the base of the pot.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "ffb22c4c-0af1-4473-a13d-0d8d18ef4d04",
+      "title": "Cook the chicken in the sauce",
+      "description": "Add the chicken, then pour in the blended sauce. Stir so every piece is coated. Cover and cook for 20 minutes.",
+      "durationMinutes": 20,
+      "timerMinutes": 20,
+      "ingredients": [
+        "Boneless chicken"
+      ],
+      "heat": "Medium-low",
+      "doneness": "The chicken pieces are opaque all the way through and the sauce is bubbling gently.",
+      "tip": "Rinse the rice during this timer so it is ready for the next stage.",
+      "warning": "Do not taste the sauce until the chicken has cooked through.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "c1fb2f0c-7fef-4243-9428-3c56d44e8805",
+      "title": "Wash and drain the rice",
+      "description": "While the chicken cooks, wash the rice three times in fresh water. Drain it well and set it aside.",
+      "durationMinutes": 5,
+      "timerMinutes": 0,
+      "ingredients": [
+        "Basmati rice"
+      ],
+      "heat": "",
+      "doneness": "The final rinse water looks much clearer and the rice is well drained.",
+      "tip": "Move to this step while the 20-minute chicken timer is still running.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bbd129b9-346c-4c39-91c0-77fd2221a206",
+      "title": "Add the water and season",
+      "description": "After the chicken has cooked for 20 minutes, pour in the boiled water and add salt. Bring the sauce back to the boil, then taste and adjust the salt and spices. It should taste slightly too salty and quite sour now; the rice will soften both flavours.",
+      "durationMinutes": 5,
+      "timerMinutes": 0,
+      "ingredients": [
+        "Water",
+        "Salt"
+      ],
+      "heat": "Medium",
+      "doneness": "The sauce has returned to a steady boil and tastes punchy, sour and just a little too salty.",
+      "tip": "Season before adding the rice, while it is still easy to stir the sauce evenly.",
+      "warning": "Taste carefully: the sauce and steam will be hot.",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "bc983e85-c404-402b-8fbf-4b5840386807",
+      "title": "Cook the rice",
+      "description": "Add the drained rice and mix gently once so it is evenly spread through the pot. Cover and cook for 15 minutes on low heat.",
+      "durationMinutes": 15,
+      "timerMinutes": 15,
+      "ingredients": [
+        "Basmati rice"
+      ],
+      "heat": "Low",
+      "doneness": "The water has been absorbed and the rice grains are tender but still distinct.",
+      "tip": "Keep the lid on and avoid repeated stirring, which can break the grains and make the rice mushy.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "16d87d40-1de0-474f-b42e-114b279dd708",
+      "title": "Rest with the lid on",
+      "description": "Turn off the stove, but leave the pot covered. Rest the pulao for 10 minutes so the rice finishes steaming gently.",
+      "durationMinutes": 10,
+      "timerMinutes": 10,
+      "ingredients": [],
+      "heat": "Heat off",
+      "doneness": "The grains have firmed up and the surface no longer looks wet.",
+      "tip": "This is the perfect time to mix the cucumber raita.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "e7d6b30e-d550-4d6b-826c-3af0c3903109",
+      "title": "Fluff gently and serve",
+      "description": "Open the lid and gently lift and turn the rice with a fork or flat spoon. Do not vigorously squish or stir it. Serve with cucumber raita.",
+      "durationMinutes": 0,
+      "timerMinutes": 0,
+      "ingredients": [],
+      "heat": "",
+      "doneness": "Separate, fluffy grains with tender pieces of chicken throughout.",
+      "tip": "Work from the edges towards the middle, lifting rather than pressing.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [
+    {
+      "start": 0,
+      "end": 20,
+      "task": "Prepare the ingredients and blend the herb sauce",
+      "mode": "active",
+      "parallel": "Boil the water and keep it ready."
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "task": "Soften the onions with the ginger and garlic",
+      "mode": "active",
+      "parallel": ""
+    },
+    {
+      "start": 30,
+      "end": 50,
+      "task": "Cook the chicken in the blended sauce",
+      "mode": "passive",
+      "parallel": "Wash the rice three times and drain it."
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "task": "Add water, bring to the boil and adjust the seasoning",
+      "mode": "active",
+      "parallel": ""
+    },
+    {
+      "start": 55,
+      "end": 70,
+      "task": "Cook the rice, covered",
+      "mode": "passive",
+      "parallel": ""
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "task": "Rest the pulao with the heat off and lid on",
+      "mode": "rest",
+      "parallel": "Mix the cucumber raita."
+    }
+  ],
+  "substitutions": [],
+  "troubleshooting": [
+    {
+      "title": "The rice still feels firm",
+      "text": "Sprinkle over a small splash of hot water, cover again and steam on the lowest heat for 3–5 minutes. Rest for another 5 minutes before checking."
+    },
+    {
+      "title": "The base is catching",
+      "text": "Turn the heat to its lowest setting. Do not scrape the base into the rest of the rice; lift the cooked pulao gently from above it when serving."
+    }
+  ],
+  "storage": "Cool leftovers promptly, cover and refrigerate.",
+  "reheating": "Reheat only the portion you need until piping hot throughout. Add a small splash of water before reheating so the rice does not dry out.",
+  "foodSafety": "Keep raw chicken away from ready-to-eat ingredients. Make sure every chicken piece is cooked through before tasting or serving.",
+  "servingSuggestion": "Serve with the cucumber raita from this cookbook.",
+  "glossary": [
+    "Boil"
+  ]
+}
+

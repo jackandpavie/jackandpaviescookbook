@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Chicken Soup",
   "description": "pot-pie chicken and vegetables as a soup, finished with soy cream. Choose noodles, rice or your Mum’s dumplings.",
-  "category": "Comfort food",
-  "cuisine": "Home cooking",
-  "mainIngredient": "Chicken",
+  "cuisine": "British",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 20,
   "cookMinutes": 30,
@@ -665,5 +662,6 @@
     }
   ],
   "imagePosition": "50% 60%",
-  "imageZoom": 1
+  "imageZoom": 1,
+  "type": "Soups/stews"
 }

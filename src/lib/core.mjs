@@ -28,9 +28,9 @@ export function searchRecipes(recipes,query='',filters={},sort='featured',favour
  const needle=query.toLowerCase().trim();
  const list=recipes.filter(r=>{
   const ingredientNames=[...(r.groups||[]),...(r.recipeOptions||[]).flatMap(o=>o.groups||[])].flatMap(g=>(g.ingredients||[]).map(i=>i.name));
-  const hay=[r.title,r.description,r.category,r.cuisine,r.mainIngredient,...(r.tags||[]),...(r.dietaryTags||[]),...ingredientNames].join(' ').toLowerCase();
+  const hay=[r.title,r.description,r.type,r.cuisine,...(r.tags||[]),...ingredientNames].join(' ').toLowerCase();
   const total=(r.prepMinutes||0)+(r.cookMinutes||0)+(r.restMinutes||0);
-  return (!needle||hay.includes(needle))&&(!filters.category||r.category===filters.category)&&(!filters.time||total<=Number(filters.time))&&(!filters.difficulty||r.difficulty===filters.difficulty)&&(!filters.cuisine||r.cuisine===filters.cuisine)&&(!filters.ingredient||r.mainIngredient===filters.ingredient)&&(!filters.diet||r.dietaryTags?.includes(filters.diet))&&(!filters.saved||favourites.includes(r.slug));
+  return (!needle||hay.includes(needle))&&(!filters.type||r.type===filters.type)&&(!filters.time||total<=Number(filters.time))&&(!filters.difficulty||r.difficulty===filters.difficulty)&&(!filters.cuisine||r.cuisine===filters.cuisine)&&(!filters.saved||favourites.includes(r.slug));
  });
  return list.sort((a,b)=>sort==='alpha'?a.title.localeCompare(b.title):sort==='quickest'?((a.prepMinutes||0)+(a.cookMinutes||0)+(a.restMinutes||0))-((b.prepMinutes||0)+(b.cookMinutes||0)+(b.restMinutes||0)):sort==='recent'?String(b.added||'').localeCompare(String(a.added||'')):Number(!!b.featured)-Number(!!a.featured)||a.title.localeCompare(b.title));
 }

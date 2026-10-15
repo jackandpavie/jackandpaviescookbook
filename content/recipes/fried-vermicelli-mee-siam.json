@@ -3,15 +3,12 @@
   "aliases": [],
   "title": "Fried Vermicelli / Mee Siam",
   "description": "Char Kway Teow flavours with rice vermicelli, using Spam or thin beef steaks.",
-  "category": "Pasta and noodles",
-  "cuisine": "Singapore-inspired",
-  "mainIngredient": "Rice vermicelli",
+  "cuisine": "Singaporean",
   "tags": [
     "Dinner",
     "Comfort food",
     "Lunch the next day"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 15,
@@ -346,5 +343,6 @@
     "Sear"
   ],
   "imagePosition": "50% 50%",
-  "imageZoom": 1.1
+  "imageZoom": 1.1,
+  "type": "Noodles"
 }

@@ -1,0 +1,128 @@
+{
+  "slug": "cucumber-raita",
+  "aliases": [],
+  "title": "Cucumber raita",
+  "description": "A cool, simple yogurt side with cucumber and coriander for pulao night.",
+  "type": "Sides",
+  "cuisine": "Indian",
+  "tags": [
+    "Quick",
+    "No cook"
+  ],
+  "difficulty": "Easy",
+  "prepMinutes": 8,
+  "cookMinutes": 0,
+  "restMinutes": 0,
+  "servings": 4,
+  "featured": false,
+  "published": true,
+  "demo": false,
+  "added": "2026-10-14",
+  "image": "",
+  "imageAlt": "",
+  "art": "bread",
+  "gallery": [],
+  "personalNote": "Use whatever yogurt is left in the pot after measuring out the five tablespoons for the chicken pulao.",
+  "story": "",
+  "equipment": [
+    "Small serving bowl",
+    "Chopping board and knife",
+    "Spoon"
+  ],
+  "advancePrep": "",
+  "importantNotes": "One cucumber is more than enough. Add it a little at a time so the raita stays creamy rather than watery.",
+  "groups": [
+    {
+      "title": "For the raita",
+      "ingredients": [
+        {
+          "id": "8814ba45-7810-48a3-a7f3-dd6f76c2aa01",
+          "name": "Plain yogurt",
+          "quantity": null,
+          "unit": "",
+          "note": "whatever is left after making the chicken pulao",
+          "optional": false,
+          "scaling": "fixed",
+          "roundTo": 0
+        },
+        {
+          "id": "21797432-6bda-42d5-bfea-39d8b89dde02",
+          "name": "Cucumber",
+          "quantity": 1,
+          "unit": "",
+          "note": "thinly sliced; you may not need it all",
+          "optional": false,
+          "scaling": "linear",
+          "roundTo": 1
+        },
+        {
+          "id": "1270b31f-7cf3-40be-8abb-9a8284f49603",
+          "name": "Fresh coriander",
+          "quantity": null,
+          "unit": "",
+          "note": "a small handful, finely chopped",
+          "optional": false,
+          "scaling": "fixed",
+          "roundTo": 0
+        },
+        {
+          "id": "7c974560-63e4-4334-a614-6832bf6eaf04",
+          "name": "Salt",
+          "quantity": null,
+          "unit": "",
+          "note": "a pinch",
+          "optional": false,
+          "scaling": "fixed",
+          "roundTo": 0
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "9ad7d205-74ba-4662-af02-98ac9c745101",
+      "title": "Slice and chop",
+      "description": "Thinly slice the cucumber and finely chop the coriander leaves.",
+      "durationMinutes": 5,
+      "timerMinutes": 0,
+      "ingredients": [
+        "Cucumber",
+        "Fresh coriander"
+      ],
+      "heat": "No heat",
+      "doneness": "Thin cucumber slices and finely chopped coriander.",
+      "tip": "Start with half the cucumber; one whole cucumber is more than enough for most bowls of yogurt.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    },
+    {
+      "id": "3cf3372d-a940-445f-9529-a6ee3b1db102",
+      "title": "Mix the raita",
+      "description": "Put the leftover yogurt in a bowl. Add a pinch of salt, the sliced cucumber and the chopped coriander. Mix everything together gently.",
+      "durationMinutes": 3,
+      "timerMinutes": 0,
+      "ingredients": [
+        "Plain yogurt",
+        "Cucumber",
+        "Fresh coriander",
+        "Salt"
+      ],
+      "heat": "No heat",
+      "doneness": "Creamy yogurt with cucumber and coriander evenly mixed through it.",
+      "tip": "Taste before adding more salt.",
+      "warning": "",
+      "image": "",
+      "imageAlt": ""
+    }
+  ],
+  "timeline": [],
+  "substitutions": [],
+  "troubleshooting": [],
+  "storage": "Keep covered in the fridge and use promptly.",
+  "reheating": "Serve cold; do not reheat.",
+  "foodSafety": "Return the yogurt to the fridge promptly if you are making the raita ahead.",
+  "servingSuggestion": "Serve with chicken pulao or coconut pulao.",
+  "glossary": []
+}
+

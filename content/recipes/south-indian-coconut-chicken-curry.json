@@ -3,16 +3,13 @@
   "aliases": [],
   "title": "South Indian Coconut Chicken Curry",
   "description": "Get the two little spice bowls ready first, then take your time with the onions. Finish the curry with light coconut milk and coriander, with enough for two dinners for both of us.",
-  "category": "Curries",
-  "cuisine": "South Indian",
-  "mainIngredient": "Chicken",
+  "cuisine": "Indian",
   "tags": [
     "Chicken",
     "Coconut",
     "Curry",
     "Two dinners"
   ],
-  "dietaryTags": [],
   "difficulty": "Take your time",
   "prepMinutes": 20,
   "cookMinutes": 78,
@@ -588,5 +585,6 @@
   "glossary": [
     "Simmer",
     "Boil"
-  ]
+  ],
+  "type": "Curries"
 }

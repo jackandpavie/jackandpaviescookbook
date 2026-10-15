@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Salt and Chilli Chicken",
   "description": "Chicken in a cornflour, black-pepper and Chinese five-spice coating, crisped in the air fryer. The chunky onions and mild chillies go in for just the last 5 minutes.",
-  "category": "Comfort food",
-  "cuisine": "Chinese-inspired",
-  "mainIngredient": "Chicken",
+  "cuisine": "Chinese/Korean",
   "tags": [
     "Chicken",
     "Air fryer",
@@ -13,7 +11,6 @@
     "Salt and chilli",
     "Fried rice"
   ],
-  "dietaryTags": [],
   "difficulty": "A few simple air-fryer steps",
   "prepMinutes": 10,
   "cookMinutes": 30,
@@ -350,5 +347,6 @@
   "foodSafety": "The chicken must be fully cooked through. Check the centre of a thick piece reaches at least 75°C; the 30 minutes is a guide and the pieces may need longer depending on size and the air fryer.",
   "servingSuggestion": "Four portions with fried rice, white rice or whatever we fancy. The cooked chicken can also go straight into a fried rice.",
   "servingRecipe": "gochujang-fried-rice-with-chicken",
-  "glossary": []
+  "glossary": [],
+  "type": "Sides"
 }

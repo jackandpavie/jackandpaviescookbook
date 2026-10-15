@@ -3,16 +3,13 @@
   "aliases": [],
   "title": "Butter Chicken",
   "description": "Get the two spice bowls ready, then squish the chicken around with the onions and ground spices. The yoghurt, passata and soya cream make the sauce lovely and creamy.",
-  "category": "Curries",
-  "cuisine": "Indian-inspired",
-  "mainIngredient": "Chicken",
+  "cuisine": "Indian",
   "tags": [
     "Chicken",
     "Curry",
     "Soya cream",
     "Rice"
   ],
-  "dietaryTags": [],
   "difficulty": "One step at a time",
   "prepMinutes": 20,
   "cookMinutes": 60,
@@ -481,5 +478,6 @@
     "Simmer",
     "Boil"
   ],
-  "servingRecipe": "coconut-milk-pulao-rice"
+  "servingRecipe": "coconut-milk-pulao-rice",
+  "type": "Curries"
 }

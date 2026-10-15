@@ -3,11 +3,8 @@
   "aliases": [],
   "title": "Choice fixture",
   "description": "A shared method with four independent choices.",
-  "category": "Comfort food",
-  "cuisine": "Test",
-  "mainIngredient": "Pork",
+  "cuisine": "Chinese/Korean",
   "tags": [],
-  "dietaryTags": [],
   "difficulty": "Easy",
   "prepMinutes": 15,
   "cookMinutes": 35,
@@ -248,5 +245,6 @@
         }
       ]
     }
-  ]
+  ],
+  "type": "Soups/stews"
 }

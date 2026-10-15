@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Gochujang Fried Noodles",
   "description": "gochujang noodles with eggs, whichever vegetables we have, and Spam, beef or cooked chicken.",
-  "category": "Pasta and noodles",
-  "cuisine": "Korean-inspired",
-  "mainIngredient": "Egg noodles",
+  "cuisine": "Chinese/Korean",
   "tags": [
     "Dinner",
     "Two nights",
@@ -18,7 +16,6 @@
     "Mixed vegetables",
     "Beansprouts"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 25,
@@ -543,5 +540,6 @@
   "glossary": [
     "Brown",
     "Boil"
-  ]
+  ],
+  "type": "Noodles"
 }

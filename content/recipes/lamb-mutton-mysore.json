@@ -3,16 +3,13 @@
   "aliases": [],
   "title": "Lamb / Mutton Mysore",
   "description": "A thick lamb or mutton curry with two bowls of spices, plenty of onions and a tomato-and-yoghurt sauce. Let it bubble until the meat is soft, then finish with coriander and pepper.",
-  "category": "Curries",
-  "cuisine": "Indian-inspired",
-  "mainIngredient": "Lamb or mutton",
+  "cuisine": "Indian",
   "tags": [
     "Lamb",
     "Mutton",
     "Curry",
     "Two dinners"
   ],
-  "dietaryTags": [],
   "difficulty": "Let it take its time",
   "prepMinutes": 20,
   "cookMinutes": 71,
@@ -1189,5 +1186,6 @@
   "glossary": [
     "Simmer",
     "Brown"
-  ]
+  ],
+  "type": "Curries"
 }

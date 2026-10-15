@@ -14,20 +14,6 @@
   "ink": "#332B24",
   "olive": "#4F5B3A",
   "accent": "#A3482B",
-  "categories": [
-    "Breakfast",
-    "Lunch",
-    "Dinner",
-    "Pasta and noodles",
-    "Curries",
-    "Rice dishes",
-    "Quick meals",
-    "Comfort food",
-    "Baking",
-    "Desserts",
-    "Weekend cooking",
-    "Special occasions"
-  ],
   "featuredRecipes": [
     "tomato-basil-pasta",
     "chickpea-curry-and-rice",
@@ -61,6 +47,6 @@
   "cardTitle": "A little book of your favourite things",
   "cardMessage": "Made with love, and written so you can make them too.",
   "cardInstruction": "Scan to open your cookbook.",
-  "productionUrl": "https://pavieselvaraj.github.io/jackandpaviescookbook/",
-  "cmsRepository": "pavieselvaraj/jackandpaviescookbook"
+  "productionUrl": "https://jackandpavie.github.io/jackandpaviescookbook/",
+  "cmsRepository": "jackandpavie/jackandpaviescookbook"
 }

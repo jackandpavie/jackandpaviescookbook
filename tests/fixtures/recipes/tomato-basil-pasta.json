@@ -3,15 +3,10 @@
   "aliases": [],
   "title": "Tomato & basil pasta",
   "description": "A bright, simple supper with sweet tomatoes, basil and a little Parmesan.",
-  "category": "Pasta and noodles",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Tomato",
+  "cuisine": "Italian",
   "tags": [
     "Quick meals",
     "Comfort food"
-  ],
-  "dietaryTags": [
-    "Vegetarian"
   ],
   "difficulty": "Easy",
   "prepMinutes": 5,
@@ -237,5 +232,6 @@
   "servingSuggestion": "",
   "glossary": [
     "Boil"
-  ]
+  ],
+  "type": "Pasta"
 }

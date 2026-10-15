@@ -3,18 +3,12 @@
   "aliases": [],
   "title": "Guacamole",
   "description": "Four ripe avocados, a very finely minced clove of garlic, coriander and lime. Keep it a little lumpy and serve it from the Tupperware so there’s one less bowl to wash.",
-  "category": "Dinner",
-  "cuisine": "Mexican-inspired",
-  "mainIngredient": "Avocado",
+  "cuisine": "Mediterranean",
   "tags": [
     "Avocado",
     "Guacamole",
     "Side dish",
     "Two dinners"
-  ],
-  "dietaryTags": [
-    "Vegetarian",
-    "Vegan"
   ],
   "difficulty": "Nice and simple",
   "prepMinutes": 10,
@@ -179,5 +173,6 @@
   "servingSuggestion": "Have alongside the tacos, fajitas, enchiladas or a Mexican bowl. This batch is for both nights.",
   "glossary": [],
   "portionNote": "The full batch is a side for two dinners for both of us: 4 side portions.",
-  "servingRecipe": "mexican-taco-fajita-enchilada-filling"
+  "servingRecipe": "mexican-taco-fajita-enchilada-filling",
+  "type": "Sides"
 }

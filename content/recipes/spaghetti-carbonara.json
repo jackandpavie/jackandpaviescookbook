@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Spaghetti Carbonara",
   "description": "Spaghetti with bacon or sausage, golden crushed garlic and a smooth egg, Parmesan and black-pepper sauce.",
-  "category": "Pasta and noodles",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Spaghetti",
+  "cuisine": "Italian",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 10,
   "cookMinutes": 20,
@@ -312,5 +309,6 @@
     "Boil",
     "Whisk",
     "Brown"
-  ]
+  ],
+  "type": "Pasta"
 }

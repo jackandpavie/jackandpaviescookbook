@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Thai Basil Minced Pork",
   "description": "One pork base for two dinners, with rice or whichever noodles the bubbies fancy.",
-  "category": "Comfort food",
-  "cuisine": "Thai-inspired",
-  "mainIngredient": "Pork",
+  "cuisine": "Singaporean",
   "tags": [
     "Dinner",
     "Two nights",
@@ -14,7 +12,6 @@
     "Rice vermicelli",
     "Flat rice noodles"
   ],
-  "dietaryTags": [],
   "difficulty": "Easy",
   "prepMinutes": 15,
   "cookMinutes": 35,
@@ -653,5 +650,6 @@
     }
   ],
   "imagePosition": "50% 50%",
-  "imageZoom": 1
+  "imageZoom": 1,
+  "type": "Sides"
 }

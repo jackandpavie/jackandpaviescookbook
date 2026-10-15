@@ -3,15 +3,12 @@
   "aliases": [],
   "title": "Chinese Claypot Rice",
   "description": "A pot of ginger-garlic rice with mushrooms and your choice of chicken, pork, beef or lean pork mince.",
-  "category": "Rice dishes",
-  "cuisine": "Chinese-inspired",
-  "mainIngredient": "Rice",
+  "cuisine": "Chinese/Korean",
   "tags": [
     "Dinner",
     "Comfort food",
     "Lunch the next day"
   ],
-  "dietaryTags": [],
   "difficulty": "Easy",
   "prepMinutes": 15,
   "cookMinutes": 47,
@@ -384,5 +381,6 @@
     "Boil"
   ],
   "imagePosition": "50% 57%",
-  "imageZoom": 1.16
+  "imageZoom": 1.16,
+  "type": "Rice"
 }

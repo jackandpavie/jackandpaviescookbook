@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Spaghetti Bolognese — Creamier Version",
   "description": "A big pot of bolognese for two dinners. Finish half tonight with spaghetti, basil, pepper and a little cream if we fancy it, then save the other half for another dinner.",
-  "category": "Pasta and noodles",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Mince",
+  "cuisine": "Italian",
   "tags": [
     "Pork mince",
     "Beef mince",
@@ -13,7 +11,6 @@
     "Bolognese",
     "Two dinners"
   ],
-  "dietaryTags": [],
   "difficulty": "Let the sauce bubble",
   "prepMinutes": 15,
   "cookMinutes": 50,
@@ -869,5 +866,6 @@
     "Brown",
     "Simmer",
     "Boil"
-  ]
+  ],
+  "type": "Pasta"
 }

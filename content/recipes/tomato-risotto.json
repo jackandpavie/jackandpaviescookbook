@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Tomato Risotto",
   "description": "An oven-baked tomato and sausage risotto with fennel, basil and optional Parmesan at the table.",
-  "category": "Rice dishes",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Risotto rice",
+  "cuisine": "Italian",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 50,
@@ -375,5 +372,6 @@
   "servingSuggestion": "Two dinners for both of us. Add Parmesan to individual plates if we want it. If we eat a bit more on the first night, serve the second dinner with garlic bread.",
   "glossary": [
     "Boil"
-  ]
+  ],
+  "type": "Rice"
 }

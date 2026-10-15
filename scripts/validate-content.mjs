@@ -3,6 +3,8 @@ import {recipeVersions} from '../src/lib/recipe-options.mjs';
 const errors=[],routes=new Set(),recipeLinks=[];
 const fail=(f,msg)=>errors.push(`${f}: ${msg}`);
 const arr=(v)=>Array.isArray(v)?v:[];
+const allowedTypes=new Set(['Pasta','Curries','Soups/stews','Rice','Noodles','Pastry','Sides']);
+const allowedCuisines=new Set(['Indian','Singaporean','Chinese/Korean','Italian','Mediterranean','British','French']);
 const media=(f,v)=>{const s=typeof v==='string'?v:v?.src||v?.path||'';if(s&&(!s.startsWith('/images/')||s.includes('..')||!fs.existsSync(path.resolve('public',s.slice(1)))))fail(f,`Image not found or unsafe image path: ${s}`);};
 for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/recipes') : []).filter(f=>f.endsWith('.json'))){
  const f='content/recipes/'+name;let source;try{source=JSON.parse(fs.readFileSync(f,'utf8'));}catch{fail(f,'Invalid JSON');continue;}
@@ -23,6 +25,8 @@ for(const name of (fs.existsSync('content/recipes') ? fs.readdirSync('content/re
  if(errors.length)continue;
  for(const r of recipeVersions(source)){
  if(!r.title?.trim())fail(f,'Recipe name is required');
+ if(!allowedTypes.has(r.type))fail(f,'Choose one of the approved recipe types');
+ if(!allowedCuisines.has(r.cuisine))fail(f,'Choose one of the approved cuisines');
  for(const slug of [r.slug,...arr(r.aliases)]){if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug))fail(f,'Use lowercase words separated by hyphens for recipe addresses');if(routes.has(slug))fail(f,`Duplicate recipe address: ${slug}`);routes.add(slug);}
  if(!Number.isFinite(r.servings)||r.servings<1||r.servings>24)fail(f,'Servings must be a number from 1 to 24');
  for(const k of ['prepMinutes','cookMinutes','restMinutes'])if(r[k]!=null&&(!Number.isFinite(r[k])||r[k]<0))fail(f,`${k} must be a non-negative number`);

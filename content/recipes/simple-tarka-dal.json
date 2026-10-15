@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Simple Tarka Dal",
   "description": "Roughly chopped veg and whichever lentils we have, cooked until soft and mushy. Four portions, with optional coconut milk, spinach, eggs and a Shapla-style tarka if we fancy them.",
-  "category": "Curries",
-  "cuisine": "Indian-inspired",
-  "mainIngredient": "Lentils",
+  "cuisine": "Indian",
   "tags": [
     "Dal",
     "Lentils",
@@ -13,9 +11,6 @@
     "Green moong",
     "Tarka",
     "Coconut milk"
-  ],
-  "dietaryTags": [
-    "Vegetarian"
   ],
   "difficulty": "Let it bubble",
   "prepMinutes": 15,
@@ -582,5 +577,6 @@
   ],
   "servingRecipes": [
     "chicken-65"
-  ]
+  ],
+  "type": "Curries"
 }

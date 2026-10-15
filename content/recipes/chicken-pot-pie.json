@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Chicken Pot Pie",
   "description": "chicken, mushroom and vegetable filling with a pastry lid. Dinner for the two of us.",
-  "category": "Comfort food",
-  "cuisine": "Home cooking",
-  "mainIngredient": "Chicken",
+  "cuisine": "British",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 20,
   "cookMinutes": 72,
@@ -389,5 +386,6 @@
   "servingSuggestion": "Serve straight away, with a bit of that pastry and gooey filling on each plate.",
   "glossary": [],
   "imagePosition": "50% 65%",
-  "imageZoom": 1.03
+  "imageZoom": 1.03,
+  "type": "Pastry"
 }

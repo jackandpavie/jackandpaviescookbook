@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Chicken and Mushroom Pasta Bake",
   "description": "pot-pie chicken and mushrooms turned into a creamy pasta bake with a crispy cheese top. Two dinners for the two of us.",
-  "category": "Pasta and noodles",
-  "cuisine": "Home cooking",
-  "mainIngredient": "Chicken breast",
+  "cuisine": "British",
   "tags": [
     "Dinner",
     "Two nights",
@@ -14,7 +12,6 @@
     "Chicken",
     "Mushrooms"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 20,
   "cookMinutes": 65,
@@ -534,5 +531,6 @@
   "servingSuggestion": "Serve straight away. Save the remaining bake for the second dinner, and add garlic bread if we ate a bit too much tonight.",
   "glossary": [],
   "imagePosition": "50% 65%",
-  "imageZoom": 1
+  "imageZoom": 1,
+  "type": "Pasta"
 }

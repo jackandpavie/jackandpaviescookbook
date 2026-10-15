@@ -9,16 +9,8 @@
   "welcomeMessage": "I’ve always loved cooking for you. So I wanted to put your favourites somewhere you can find them - with the little details, the timings, and lots of love. Start with something simple. Take your time. I’m right here in the recipe.",
   "signature": "With love, Pavie",
   "footerMessage": "A growing collection of good food and little memories.",
-  "categories": [
-    "Pasta and noodles",
-    "Rice dishes",
-    "Curries",
-    "Quick meals",
-    "Comfort food",
-    "Weekend cooking",
-    "Special occasions"
-  ],
   "featuredRecipes": [
+    "chicken-pulao",
     "char-kway-teow",
     "spaghetti-carbonara",
     "chicken-rice-simplified",
@@ -43,6 +35,7 @@
       "title": "Weeknight Meals",
       "description": "To make our lives easier during the week.",
       "recipes": [
+        "chicken-pulao",
         "char-kway-teow",
         "chicken-rice-simplified",
         "tomato-risotto",
@@ -64,6 +57,7 @@
       "title": "Our Comfort Food",
       "description": "Something warm. Something comforting. Perfect for a cozy night in.",
       "recipes": [
+        "chicken-pulao",
         "spaghetti-carbonara",
         "tomato-risotto",
         "lemon-and-sausage-risotto",
@@ -107,6 +101,6 @@
   "cardTitle": "A little book of your favourite things",
   "cardMessage": "Made with love, and written so you can make them too.",
   "cardInstruction": "Scan to open your cookbook.",
-  "productionUrl": "https://pavieselvaraj.github.io/jackandpaviescookbook/",
-  "cmsRepository": "pavieselvaraj/jackandpaviescookbook"
+  "productionUrl": "https://jackandpavie.github.io/jackandpaviescookbook/",
+  "cmsRepository": "jackandpavie/jackandpaviescookbook"
 }

@@ -22,14 +22,14 @@ content:
     fields:
     - title
     - published
-    - category
+    - type
     - difficulty
     sort:
     - title
     - added
     search:
     - title
-    - category
+    - type
     - tags
   fields:
   - name: title
@@ -51,22 +51,34 @@ content:
     label: Short description
     type: text
     required: true
-  - name: category
-    label: Category
-    type: string
-    description: Use any category name. Add it to Site settings to show it on the homepage.
+  - name: type
+    label: Type
+    type: select
+    required: true
+    options:
+      values:
+      - Pasta
+      - Curries
+      - Soups/stews
+      - Rice
+      - Noodles
+      - Pastry
+      - Sides
   - name: cuisine
     label: Cuisine
-    type: string
-  - name: mainIngredient
-    label: Main ingredient (for filtering)
-    type: string
+    type: select
+    required: true
+    options:
+      values:
+      - Indian
+      - Singaporean
+      - Chinese/Korean
+      - Italian
+      - Mediterranean
+      - British
+      - French
   - name: tags
     label: Recipe tags
-    type: string
-    list: true
-  - name: dietaryTags
-    label: Dietary tags
     type: string
     list: true
   - name: difficulty
@@ -525,10 +537,6 @@ content:
   - name: footerMessage
     label: Footer message
     type: string
-  - name: categories
-    label: Homepage categories
-    type: string
-    list: true
   - name: featuredRecipes
     label: Choose featured recipes
     type: reference

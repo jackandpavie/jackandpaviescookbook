@@ -3,15 +3,10 @@
   "aliases": [],
   "title": "Herby pan flatbreads",
   "description": "A slower little kitchen project: mix, rest, roll and cook warm flatbreads.",
-  "category": "Baking",
-  "cuisine": "Mediterranean-inspired",
-  "mainIngredient": "Flour",
+  "cuisine": "Mediterranean",
   "tags": [
     "Weekend cooking",
     "A little challenge"
-  ],
-  "dietaryTags": [
-    "Vegetarian"
   ],
   "difficulty": "A little practice",
   "prepMinutes": 15,
@@ -234,5 +229,6 @@
   "servingSuggestion": "",
   "glossary": [
     "Knead"
-  ]
+  ],
+  "type": "Sides"
 }

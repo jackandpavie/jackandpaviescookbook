@@ -3,16 +3,13 @@
   "aliases": [],
   "title": "Mexican Rice",
   "description": "A little rice side for the Mexican dinner. Choose tomato, or swap it for lime and coriander if that’s what we fancy.",
-  "category": "Rice dishes",
-  "cuisine": "Mexican-inspired",
-  "mainIngredient": "Rice",
+  "cuisine": "Mediterranean",
   "tags": [
     "Rice",
     "Tomato rice",
     "Lime and coriander",
     "Side dish"
   ],
-  "dietaryTags": [],
   "difficulty": "Nice and simple",
   "prepMinutes": 5,
   "cookMinutes": 12,
@@ -267,5 +264,6 @@
       ],
       "afterSteps": []
     }
-  ]
+  ],
+  "type": "Rice"
 }

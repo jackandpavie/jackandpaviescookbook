@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Pork Mince and Tomato Pasta Bake",
   "description": "pork mince and tomato pasta bake with a crispy cheese top and basil. Two dinners for the two of us.",
-  "category": "Pasta and noodles",
-  "cuisine": "Home cooking",
-  "mainIngredient": "Pork mince",
+  "cuisine": "British",
   "tags": [
     "Dinner",
     "Two nights",
@@ -15,7 +13,6 @@
     "Tomato",
     "Basil"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 20,
   "cookMinutes": 65,
@@ -577,5 +574,6 @@
   "servingSuggestion": "Serve with the plucked basil leaves on top. Save the remaining bake for the second dinner, and add garlic bread if we ate a bit too much tonight.",
   "glossary": [],
   "imagePosition": "50% 50%",
-  "imageZoom": 1
+  "imageZoom": 1,
+  "type": "Pasta"
 }

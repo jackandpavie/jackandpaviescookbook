@@ -20,15 +20,15 @@ test('concurrent timers have independent deadlines and pause state',()=>{
  assert.equal(timerRemaining(a,15000),0);assert.equal(timerRemaining(b,15000),10000);
  assert.equal(timerRemaining(timerAction(b,'pause',15000),20000),10000);
 });
-const recipes=[{slug:'curry',title:'Chickpea curry',category:'Dinner',cuisine:'Indian',mainIngredient:'Chickpea',tags:['comfort'],dietaryTags:['Vegan'],difficulty:'Easy',prepMinutes:10,cookMinutes:20,restMinutes:5,featured:true,added:'2026-10-01',groups:[{ingredients:[{name:'Coconut milk'}]}]},{slug:'pasta',title:'Basil pasta',category:'Lunch',difficulty:'Easy',prepMinutes:5,cookMinutes:10,tags:['quick'],added:'2026-10-12'}];
-test('search finds ingredients, tags, category and recipe names',()=>{
- for(const q of ['coconut','comfort','dinner','chickpea'])assert.equal(searchRecipes(recipes,q)[0].slug,'curry');
+const recipes=[{slug:'curry',title:'Chickpea curry',type:'Curries',cuisine:'Indian',tags:['comfort'],difficulty:'Easy',prepMinutes:10,cookMinutes:20,restMinutes:5,featured:true,added:'2026-10-01',groups:[{ingredients:[{name:'Coconut milk'}]}]},{slug:'pasta',title:'Basil pasta',type:'Pasta',cuisine:'Italian',difficulty:'Easy',prepMinutes:5,cookMinutes:10,tags:['quick'],added:'2026-10-12'}];
+test('search finds ingredients, tags, type and recipe names',()=>{
+ for(const q of ['coconut','comfort','curries','chickpea'])assert.equal(searchRecipes(recipes,q)[0].slug,'curry');
  assert.equal(searchRecipes(recipes,'quick')[0].slug,'pasta');assert.equal(searchRecipes(recipes,'unknown').length,0);
 });
 test('filters combine, sorting includes rest and local saved list',()=>{
  assert.equal(searchRecipes(recipes,'',{time:20})[0].slug,'pasta');
- assert.equal(searchRecipes(recipes,'',{diet:'Vegan',cuisine:'Indian',ingredient:'Chickpea'})[0].slug,'curry');
- assert.equal(searchRecipes(recipes,'',{time:30,diet:'Vegan'}).length,0);
+ assert.equal(searchRecipes(recipes,'',{type:'Curries',cuisine:'Indian'})[0].slug,'curry');
+ assert.equal(searchRecipes(recipes,'',{time:30,type:'Curries'}).length,0);
  assert.equal(searchRecipes(recipes,'',{},'recent')[0].slug,'pasta');
  assert.equal(searchRecipes(recipes,'',{saved:true},'alpha',['curry'])[0].slug,'curry');
 });

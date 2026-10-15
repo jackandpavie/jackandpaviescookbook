@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Your Mum’s Dumpling Recipe",
   "description": "Your Mum’s 16 suet dumplings, baked in gravy. Enough for the two of us across two meals.",
-  "category": "Comfort food",
-  "cuisine": "Home cooking",
-  "mainIngredient": "Suet",
+  "cuisine": "British",
   "tags": [
     "Dinner",
     "Lunch",
@@ -13,7 +11,6 @@
     "Dumplings",
     "Gravy"
   ],
-  "dietaryTags": [],
   "difficulty": "Nice and simple",
   "prepMinutes": 15,
   "cookMinutes": 20,
@@ -290,5 +287,6 @@
   "servingSuggestion": "Four dumplings per portion. Save two portions for lunch or another dinner, and add garlic bread if we fancy a bit extra with the second dinner.",
   "glossary": [],
   "imagePosition": "50% 58%",
-  "imageZoom": 1.1
+  "imageZoom": 1.1,
+  "type": "Pastry"
 }

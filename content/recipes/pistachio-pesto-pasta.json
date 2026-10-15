@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Pistachio Pesto Pasta",
   "description": "A silky pistachio-and-basil blender sauce, cooked chicken and whatever pasta we fancy. A quick, easy dinner for the two of us.",
-  "category": "Pasta and noodles",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Pasta",
+  "cuisine": "Italian",
   "tags": [
     "Pistachios",
     "Pesto",
@@ -14,7 +12,6 @@
     "Quick meals",
     "One dinner"
   ],
-  "dietaryTags": [],
   "difficulty": "Quick and easy",
   "prepMinutes": 10,
   "cookMinutes": 15,
@@ -306,5 +303,6 @@
   "servingSuggestion": "Parmesan if we feel like cheese, or just as it is. Two portions for a quick one-night dinner.",
   "glossary": [
     "Boil"
-  ]
+  ],
+  "type": "Pasta"
 }

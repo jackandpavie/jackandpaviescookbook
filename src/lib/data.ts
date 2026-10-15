@@ -2,11 +2,13 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {recipeVersions} from './recipe-options.mjs';
 export const settings = JSON.parse(fs.readFileSync(path.resolve('content/site.json'),'utf8'));
-for(const key of ['categories','featuredRecipes','collections'])if(!Array.isArray(settings[key]))settings[key]=[];
+for(const key of ['featuredRecipes','collections'])if(!Array.isArray(settings[key]))settings[key]=[];
+export const cuisines=['Indian','Singaporean','Chinese/Korean','Italian','Mediterranean','British','French'];
+export const recipeTypes=['Pasta','Curries','Soups/stews','Rice','Noodles','Pastry','Sides'];
 const recipeDirectory = path.resolve('content/recipes');
 export const recipes = (fs.existsSync(recipeDirectory) ? fs.readdirSync(recipeDirectory) : []).filter(f=>f.endsWith('.json')).map(f=>{
  const r=JSON.parse(fs.readFileSync(path.resolve('content/recipes',f),'utf8'));
- for(const key of ['aliases','tags','dietaryTags','gallery','equipment','groups','steps','timeline','substitutions','troubleshooting','glossary'])if(!Array.isArray(r[key]))r[key]=[];
+ for(const key of ['aliases','tags','gallery','equipment','groups','steps','timeline','substitutions','troubleshooting','glossary'])if(!Array.isArray(r[key]))r[key]=[];
  for(const g of r.groups)if(!Array.isArray(g.ingredients))g.ingredients=[];
  return r;
 }).filter(r=>r.published);

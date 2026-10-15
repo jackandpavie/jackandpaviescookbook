@@ -3,15 +3,10 @@
   "aliases": [],
   "title": "Roasted tomato gnocchi",
   "description": "A simple oven supper with pillowy gnocchi and tomatoes that soften into their own sauce.",
-  "category": "Dinner",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Tomato",
+  "cuisine": "Italian",
   "tags": [
     "Oven cooking",
     "Comfort food"
-  ],
-  "dietaryTags": [
-    "Vegetarian"
   ],
   "difficulty": "Easy",
   "prepMinutes": 10,
@@ -187,5 +182,6 @@
   "reheating": "",
   "foodSafety": "",
   "servingSuggestion": "",
-  "glossary": []
+  "glossary": [],
+  "type": "Pasta"
 }

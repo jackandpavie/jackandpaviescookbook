@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Creamy Pasta",
   "description": "A creamy sauce for two dinners, with chicken or whichever mince we fancy. Long pasta is lovely here, but any shape works. Add Parmesan to the sauce, sprinkle it on top or leave it out.",
-  "category": "Pasta and noodles",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Chicken or mince",
+  "cuisine": "Italian",
   "tags": [
     "Chicken",
     "Pork mince",
@@ -13,9 +11,6 @@
     "Turkey mince",
     "Soya cream",
     "Two dinners"
-  ],
-  "dietaryTags": [
-    "Dairy-free option"
   ],
   "difficulty": "Make it how we fancy it",
   "prepMinutes": 10,
@@ -1815,5 +1810,6 @@
     "Brown",
     "Simmer",
     "Boil"
-  ]
+  ],
+  "type": "Pasta"
 }

@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Kimchi Jjigae / Pork Belly Stew",
   "description": "pork-loin version of kimchi stew, with Spam, tofu and lettuce, served with rice.",
-  "category": "Comfort food",
-  "cuisine": "Korean-inspired",
-  "mainIngredient": "Pork",
+  "cuisine": "Chinese/Korean",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "Easy",
   "prepMinutes": 15,
   "cookMinutes": 55,
@@ -347,5 +344,6 @@
     "Boil"
   ],
   "imagePosition": "50% 55%",
-  "imageZoom": 1
+  "imageZoom": 1,
+  "type": "Soups/stews"
 }

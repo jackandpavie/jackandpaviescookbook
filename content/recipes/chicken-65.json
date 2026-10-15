@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Chicken 65 / Gobi 65",
   "description": "Spicy yoghurt-marinated chicken, or cauliflower for Gobi 65 like from Saravana Bhavan, crisped in the air fryer. Four portions to have with dal, add to fried rice or serve beside a curry.",
-  "category": "Comfort food",
-  "cuisine": "South Indian-inspired",
-  "mainIngredient": "Chicken or cauliflower",
+  "cuisine": "Indian",
   "tags": [
     "Chicken",
     "Air fryer",
@@ -14,9 +12,6 @@
     "Curry leaves",
     "Gobi 65",
     "Cauliflower"
-  ],
-  "dietaryTags": [
-    "Vegetarian option"
   ],
   "difficulty": "Marinate ahead, then air fry",
   "prepMinutes": 15,
@@ -773,5 +768,6 @@
         }
       ]
     }
-  ]
+  ],
+  "type": "Sides"
 }

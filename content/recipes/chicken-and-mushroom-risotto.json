@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Chicken and Mushroom Risotto",
   "description": "An oven-baked risotto with chicken, mushrooms, garlic and onion, finished with basil and black pepper.",
-  "category": "Rice dishes",
-  "cuisine": "Italian-inspired",
-  "mainIngredient": "Chicken",
+  "cuisine": "Italian",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 45,
@@ -336,5 +333,6 @@
     "Boil"
   ],
   "imagePosition": "50% 60%",
-  "imageZoom": 1
+  "imageZoom": 1,
+  "type": "Rice"
 }

@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Cassoulet",
   "description": "Whole sausages, chunky carrots and cannellini beans in a silky, thick broth. Six sausages make two dinners for both of us, with rice or garlic bread on the side.",
-  "category": "Comfort food",
-  "cuisine": "French-inspired",
-  "mainIngredient": "Sausages",
+  "cuisine": "French",
   "tags": [
     "Sausages",
     "Beans",
@@ -13,7 +11,6 @@
     "Stew",
     "Two dinners"
   ],
-  "dietaryTags": [],
   "difficulty": "Nice and simple",
   "prepMinutes": 15,
   "cookMinutes": 65,
@@ -375,5 +372,6 @@
   "glossary": [
     "Brown",
     "Simmer"
-  ]
+  ],
+  "type": "Soups/stews"
 }

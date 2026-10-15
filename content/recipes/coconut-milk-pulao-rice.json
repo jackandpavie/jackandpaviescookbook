@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Coconut Milk Pulao Rice",
   "description": "Whole spices, coconut milk, coriander and mint, with rice that gets a proper rest before we fluff it. Lovely alongside the butter chicken.",
-  "category": "Rice dishes",
-  "cuisine": "Indian-inspired",
-  "mainIngredient": "Rice",
+  "cuisine": "Indian",
   "tags": [
     "Rice",
     "Coconut milk",
@@ -13,7 +11,6 @@
     "Mint",
     "Side dish"
   ],
-  "dietaryTags": [],
   "difficulty": "One step at a time",
   "prepMinutes": 10,
   "cookMinutes": 19,
@@ -420,5 +417,6 @@
   "glossary": [
     "Simmer",
     "Boil"
-  ]
+  ],
+  "type": "Rice"
 }

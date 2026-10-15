@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Greek Avgolemono Soup",
   "description": "Chicken, carrots, rice and lemon, finished with eggs stirred in until the soup is thick and silky. Four portions for two nights, with Parmesan if we’re feeling cheesy.",
-  "category": "Comfort food",
-  "cuisine": "Greek-inspired",
-  "mainIngredient": "Chicken",
+  "cuisine": "Mediterranean",
   "tags": [
     "Chicken",
     "Soup",
@@ -14,7 +12,6 @@
     "Lemon",
     "Two dinners"
   ],
-  "dietaryTags": [],
   "difficulty": "Take your time with the eggs",
   "prepMinutes": 20,
   "cookMinutes": 65,
@@ -611,5 +608,6 @@
     "Simmer",
     "Boil",
     "Whisk"
-  ]
+  ],
+  "type": "Soups/stews"
 }

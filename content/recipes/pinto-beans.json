@@ -3,18 +3,12 @@
   "aliases": [],
   "title": "Pinto Beans",
   "description": "The quick little bean side: one can of whichever beans we have, garlic powder and a sprinkle of salt. Enough for the two of us at one dinner.",
-  "category": "Dinner",
-  "cuisine": "Mexican-inspired",
-  "mainIngredient": "Beans",
+  "cuisine": "Mediterranean",
   "tags": [
     "Beans",
     "Pinto beans",
     "Side dish",
     "Quick meals"
-  ],
-  "dietaryTags": [
-    "Vegetarian",
-    "Vegan"
   ],
   "difficulty": "Nice and simple",
   "prepMinutes": 2,
@@ -151,5 +145,6 @@
   "servingSuggestion": "A side for 2 portions at one dinner, with tacos, fajitas, enchiladas or a Mexican bowl.",
   "glossary": [],
   "portionNote": "The full batch is a side for 2 portions at one dinner. Make another can for the second night if we want beans again.",
-  "servingRecipe": "mexican-taco-fajita-enchilada-filling"
+  "servingRecipe": "mexican-taco-fajita-enchilada-filling",
+  "type": "Sides"
 }

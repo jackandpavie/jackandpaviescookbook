@@ -3,14 +3,11 @@
   "aliases": [],
   "title": "Chicken Rice (Simplified version)",
   "description": "Chicken and rice cooked together in a ginger-garlic stock, with a fresh chilli sauce on the side.",
-  "category": "Rice dishes",
-  "cuisine": "Singapore-inspired",
-  "mainIngredient": "Chicken",
+  "cuisine": "Singaporean",
   "tags": [
     "Dinner",
     "Comfort food"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 40,
@@ -401,5 +398,6 @@
     "Boil"
   ],
   "imagePosition": "50% 64%",
-  "imageZoom": 1.08
+  "imageZoom": 1.08,
+  "type": "Rice"
 }

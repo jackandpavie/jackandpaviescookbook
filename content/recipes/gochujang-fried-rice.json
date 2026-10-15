@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Gochujang Fried Rice",
   "description": "gochujang rice with eggs, whichever vegetables we have, and Spam, beef or cooked chicken.",
-  "category": "Rice dishes",
-  "cuisine": "Korean-inspired",
-  "mainIngredient": "White rice",
+  "cuisine": "Chinese/Korean",
   "tags": [
     "Dinner",
     "Two nights",
@@ -18,7 +16,6 @@
     "Mixed vegetables",
     "Beansprouts"
   ],
-  "dietaryTags": [],
   "difficulty": "A little practice",
   "prepMinutes": 15,
   "cookMinutes": 25,
@@ -598,5 +595,6 @@
   "glossary": [
     "Brown",
     "Boil"
-  ]
+  ],
+  "type": "Rice"
 }

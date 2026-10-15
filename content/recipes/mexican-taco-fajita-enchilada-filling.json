@@ -3,9 +3,7 @@
   "aliases": [],
   "title": "Mexican Taco, Fajita and Enchilada Filling + Sides",
   "description": "Make the filling once, put half away for tomorrow, then choose tacos, fajitas, enchiladas or a Mexican bowl. Pick whichever sides we fancy from the links at the end.",
-  "category": "Dinner",
-  "cuisine": "Mexican-inspired",
-  "mainIngredient": "Mince",
+  "cuisine": "Mediterranean",
   "tags": [
     "Pork mince",
     "Turkey mince",
@@ -16,7 +14,6 @@
     "Enchiladas",
     "Two dinners"
   ],
-  "dietaryTags": [],
   "difficulty": "Nice and simple",
   "prepMinutes": 15,
   "cookMinutes": 25,
@@ -1145,5 +1142,6 @@
         }
       ]
     }
-  ]
+  ],
+  "type": "Sides"
 }
