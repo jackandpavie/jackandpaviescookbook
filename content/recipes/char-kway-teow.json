@@ -18,13 +18,11 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/char-kway-teow-editorial-v2.jpg",
-  "imageAlt": "Reference photograph: Glossy stir-fried flat rice noodles with chicken, egg and greens on a simple white plate and wooden table.",
-  "imageCaption": "Reference photograph · Pad See Ew, a related stir-fried flat-noodle dish · displayed crop",
-  "imageCredit": "UNDO KIM / Pexels",
-  "imageSource": "https://www.pexels.com/photo/delicious-thai-pad-see-ew-noodles-on-rustic-table-35063430/",
-  "imageLicense": "Pexels License",
-  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "image": "/images/char-kway-teow-cookbook-v3.jpg",
+  "imageAlt": "Char kway teow with flat rice noodles, browned Spam, egg, pak choi, beansprouts and chives.",
+  "imageCaption": "Cookbook image · char kway teow",
+  "imagePosition": "50% 50%",
+  "imageZoom": 1,
   "art": "pasta",
   "gallery": [],
   "personalNote": "The cold-water soak gives us a better noodle texture. If you forget, don’t worry—the boiling-water shortcut works too. They’ll just be a bit softer, and it doesn’t make a big difference.",
@@ -338,7 +336,5 @@
     "Brown",
     "Sear"
   ],
-  "imagePosition": "50% 55%",
-  "imageZoom": 1.08,
   "type": "Noodles"
 }

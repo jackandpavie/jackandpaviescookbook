@@ -17,13 +17,11 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/kimchi-jjigae-editorial-v2.jpg",
-  "imageAlt": "Reference photograph: Kimchi stew topped with tofu and spring onions in a pale clay pot under soft natural light.",
-  "imageCaption": "Reference photograph · kimchi stew with tofu · displayed crop",
-  "imageCredit": "Cynthia Ortega Espinosa / Pexels",
-  "imageSource": "https://www.pexels.com/photo/kimchi-stew-on-a-clay-pot-13774731/",
-  "imageLicense": "Pexels License",
-  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "image": "/images/kimchi-jjigae-cookbook-v3.jpg",
+  "imageAlt": "Kimchi jjigae with pork loin, Spam, tofu and lettuce bubbling in a black earthenware pot.",
+  "imageCaption": "Cookbook image · kimchi jjigae",
+  "imagePosition": "50% 50%",
+  "imageZoom": 1,
   "art": "curry",
   "gallery": [],
   "personalNote": "This is the pork-loin version of Pork Belly Stew. Two bowls of stew for dinner, and some rice saved for a quick fried rice at lunch tomorrow.",
@@ -343,7 +341,5 @@
   "glossary": [
     "Boil"
   ],
-  "imagePosition": "50% 55%",
-  "imageZoom": 1,
   "type": "Soups/stews"
 }

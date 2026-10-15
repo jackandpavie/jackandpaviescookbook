@@ -17,13 +17,11 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/chicken-rice-simplified-editorial-v2.jpg",
-  "imageAlt": "Reference photograph: Chicken rice in a white bowl with cucumber, fresh herbs and small bowls of sauce.",
-  "imageCaption": "Reference photograph · Hainanese chicken-rice variation · displayed crop",
-  "imageCredit": "Lalada . / Pexels",
-  "imageSource": "https://www.pexels.com/photo/rice-with-chicken-and-vegetables-20258760/",
-  "imageLicense": "Pexels License",
-  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "image": "/images/chicken-rice-simplified-cookbook-v3.jpg",
+  "imageAlt": "Simplified chicken rice with sliced poached chicken, ginger-garlic rice, cucumber and chilli sauce.",
+  "imageCaption": "Cookbook image · simplified chicken rice",
+  "imagePosition": "50% 50%",
+  "imageZoom": 1,
   "art": "curry",
   "gallery": [],
   "personalNote": "Chilli sauce for bubu and soy sauce for dudu. Be gentle with the rice at the end—this is the bit where we fluff it rather than squish it.",
@@ -397,7 +395,5 @@
   "glossary": [
     "Boil"
   ],
-  "imagePosition": "50% 64%",
-  "imageZoom": 1.08,
   "type": "Rice"
 }

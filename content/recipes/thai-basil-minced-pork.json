@@ -21,13 +21,11 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/thai-basil-minced-pork-editorial-v2.jpg",
-  "imageAlt": "Reference photograph: Thai basil minced pork beside steamed rice on a simple white oval plate and wooden table.",
-  "imageCaption": "Reference photograph · Thai basil pork with rice · displayed crop",
-  "imageCredit": "Markus Winkler / Pexels",
-  "imageSource": "https://www.pexels.com/photo/stir-fried-thai-basil-with-minced-pork-and-rice-on-oval-ceramic-plate-12100417/",
-  "imageLicense": "Pexels License",
-  "imageLicenseUrl": "https://www.pexels.com/license/",
+  "image": "/images/thai-basil-minced-pork-cookbook-v3.jpg",
+  "imageAlt": "Thai basil minced pork with softened onion, glossy soy sauce and wilted basil in a celadon bowl.",
+  "imageCaption": "Cookbook image · Thai basil minced pork",
+  "imagePosition": "50% 50%",
+  "imageZoom": 1,
   "art": "curry",
   "gallery": [],
   "personalNote": "I’d make the whole kilo of pork so we’ve got dinner for two nights. Save half of the base before adding any noodles, then pick a different carb tomorrow if the bubbies are in a different mood.",
@@ -649,7 +647,5 @@
       ]
     }
   ],
-  "imagePosition": "50% 50%",
-  "imageZoom": 1,
   "type": "Sides"
 }

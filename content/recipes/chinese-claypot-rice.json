@@ -18,13 +18,11 @@
   "published": true,
   "demo": false,
   "added": "2026-10-13",
-  "image": "/images/chinese-claypot-rice-reference.jpg",
-  "imageAlt": "Reference photograph of chicken claypot rice in a rustic clay pot, with chicken, Chinese sausage and spring onions.",
-  "imageCaption": "Reference photograph · traditional chicken and sausage variation · displayed crop",
-  "imageCredit": "Lilblackdog29 / Wikimedia Commons",
-  "imageSource": "https://commons.wikimedia.org/wiki/File:Claypot_chicken_rice.jpg",
-  "imageLicense": "CC BY-SA 4.0",
-  "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "image": "/images/chinese-claypot-rice-cookbook-v2.jpg",
+  "imageAlt": "Chinese claypot rice with browned chicken, mushrooms, ginger and caramelised rice edges.",
+  "imageCaption": "Cookbook image · Chinese claypot rice",
+  "imagePosition": "50% 50%",
+  "imageZoom": 1,
   "art": "curry",
   "gallery": [],
   "personalNote": "Dinner and lunch for both of us. Pick whichever meat we have, and don’t worry if it’s a little less salty: the lime helps the flavour too, and we can add soy sauce at the table.",
@@ -380,7 +378,5 @@
   "glossary": [
     "Boil"
   ],
-  "imagePosition": "50% 57%",
-  "imageZoom": 1.16,
   "type": "Rice"
 }
