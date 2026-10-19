@@ -1,9 +1,0 @@
-import QRCode from 'qrcode';
-export function validateProductionUrl(value){
- const u=new URL(value);if(u.protocol!=='https:'||!u.hostname.endsWith('.github.io')||u.hostname==='.github.io'||u.username||u.password||u.search||u.hash)throw new Error('Use the final HTTPS GitHub Pages address, ending in github.io, with no preview link or query string.');return u.href;
-}
-export function initBirthday(){const $=s=>document.querySelector(s);if(!$('#qr-form'))return;
- for(const [input,target] of [['card-title-input','card-title'],['card-message-input','card-message'],['card-instruction-input','card-instruction']])$('#'+input).addEventListener('input',()=>$('#'+target).textContent=$('#'+input).value);
- let svgUrl;$('#production-url').addEventListener('input',()=>{$('#url-verified').checked=false;$('#qr-downloads').hidden=true;$('#card-qr').hidden=true;$('#qr-placeholder').hidden=false;$('#card-url').textContent='';});
- $('#qr-form').addEventListener('submit',async e=>{e.preventDefault();try{if(!$('#url-verified').checked)throw new Error('Confirm the public address first.');const url=validateProductionUrl($('#production-url').value.trim());const options={errorCorrectionLevel:'M',margin:4,color:{dark:'#000000',light:'#FFFFFF'},width:1200};const png=await QRCode.toDataURL(url,options),svg=await QRCode.toString(url,{...options,type:'svg'});if(svgUrl)URL.revokeObjectURL(svgUrl);svgUrl=URL.createObjectURL(new Blob([svg],{type:'image/svg+xml'}));$('#qr-svg').href=svgUrl;$('#qr-png').href=png;$('#card-qr').src=png;$('#card-qr').hidden=false;$('#qr-placeholder').hidden=true;$('#card-url').textContent=url;$('#qr-downloads').hidden=false;$('#qr-error').textContent='QR created. Scan the downloaded or printed code to check it opens the same cookbook.';}catch(err){$('#qr-error').textContent=err.message;}});
-}

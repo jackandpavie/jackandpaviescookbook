@@ -98,9 +98,6 @@
   "ink": "#332B24",
   "olive": "#4F5B3A",
   "accent": "#A3482B",
-  "cardTitle": "A little book of your favourite things",
-  "cardMessage": "Made with love, and written so you can make them too.",
-  "cardInstruction": "Scan to open your cookbook.",
   "productionUrl": "https://jackandpavie.github.io/jackandpaviescookbook/",
   "cmsRepository": "jackandpavie/jackandpaviescookbook"
 }

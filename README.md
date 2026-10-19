@@ -1,6 +1,6 @@
 # Our little cookbook
 
-A personal birthday cookbook built with Astro and browser-local cooking tools. Recipe content lives in `content/recipes`. Sample data for automated checks is kept separately in `tests/fixtures` and is never published as cookbook content. The homepage photograph is an **AI-generated placeholder**. Replace it in Pages CMS.
+A personal cookbook built with Astro and browser-local cooking tools. Recipe content lives in `content/recipes`. Sample data for automated checks is kept separately in `tests/fixtures` and is never published as cookbook content. The homepage photograph is an **AI-generated placeholder**. Replace it in Pages CMS.
 
 ## What works
 
@@ -12,7 +12,7 @@ A personal birthday cookbook built with Astro and browser-local cooking tools. R
 - Independent deadline-based timers with pause, reset and visible completion.
 - Optional screen wake lock with an unsupported-browser fallback.
 - Structured cooking timelines with overlapping tasks and optional glossary links.
-- Print layouts and a birthday-card generator with downloadable SVG / 1200px PNG QR.
+- Print-friendly recipe layouts.
 - Full Pages CMS recipe, image and site-settings configuration in `.pages.yml`.
 - GitHub Actions workflow that validates, builds, tests and publishes after CMS commits.
 
@@ -29,9 +29,7 @@ GitHub holds the files. GitHub Pages makes them a website. Pages CMS gives you f
 7. Open that address without signing in and on your phone. Only now is that your confirmed production address.
 8. Go to https://app.pagescms.org. Sign in with GitHub. Install the Pages CMS GitHub App with access to this cookbook repository, then open that repository and `main` branch. The `.pages.yml` forms are already included.
 9. Open **Site settings**, fill in **Published cookbook address** and **GitHub cookbook repository**, and save.
-10. Open your published site's **The birthday card** page. Confirm the published address, edit the message, generate the QR and download SVG or PNG. Test the printed code on both phones. Print at 100%, with browser headers and footers off.
-
-The ChatGPT-hosted edition is a working demonstration. It is separate from GitHub Pages and does not automatically receive Pages CMS changes. The printed birthday QR should point to the GitHub copy that you intend to maintain.
+The ChatGPT-hosted edition is a working demonstration. It is separate from GitHub Pages and does not automatically receive Pages CMS changes.
 
 ## Add a real recipe
 
@@ -53,7 +51,7 @@ Open **Site settings** for the cookbook title, subtitle, dedication, welcome mes
 
 ## Keep old links working
 
-Leave a published recipe's address unchanged when editing it. Titles, photos and instructions can change freely. If you change an address, first add the previous address in **Previous recipe addresses**. The old recipe page will keep serving the same recipe. Keep the GitHub account username and repository name unchanged to preserve the homepage QR address.
+Leave a published recipe's address unchanged when editing it. Titles, photos and instructions can change freely. If you change an address, first add the previous address in **Previous recipe addresses**. The old recipe page will keep serving the same recipe. Keep the GitHub account username and repository name unchanged to preserve the public website address.
 
 Deleting a recipe removes its page; unpublishing it removes it from the next build. Deleting an image still used by a recipe stops the build with a clear error rather than publishing broken images.
 
@@ -73,14 +71,13 @@ If a publishing run shows a red cross, the previous published website normally r
 
 Free service policies can change. This architecture has no paid database, server, QR redirect, domain or image service. It uses current GitHub Free/public Pages and hosted Pages CMS; no service can promise perpetual availability. Keep your backups so the static site can be moved if necessary.
 
-## Before the birthday: prove the publishing loop
+## Prove the publishing loop
 
 - Open Pages CMS and create one real recipe.
 - Upload a real photograph.
 - Save and wait for a green GitHub Actions run.
 - Find that recipe in the public library, open it on your phone, and try cooking mode.
 - Edit one sentence and save again; check that the published sentence changes.
-- Generate the QR using the final public address, scan a printed copy, then add another recipe and scan the same copy again.
 
 This account-connected workflow must be tested after GitHub and Pages CMS are connected. It has not been claimed as completed during local development.
 

@@ -593,15 +593,6 @@ content:
     default: '#A3482B'
     pattern: ^#[0-9a-fA-F]{6}$
     description: Six-digit hex colour. Keep a light background and dark text.
-  - name: cardTitle
-    label: Birthday card title
-    type: string
-  - name: cardMessage
-    label: Birthday card message
-    type: text
-  - name: cardInstruction
-    label: Birthday card scan instruction
-    type: string
   - name: productionUrl
     label: Published cookbook address
     type: string
