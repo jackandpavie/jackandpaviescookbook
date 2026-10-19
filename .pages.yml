@@ -84,12 +84,12 @@ content:
   - name: difficulty
     label: Difficulty
     type: select
-    default: Easy
+    default: Nice and Simple
     options:
       values:
-      - Easy
+      - Nice and Simple
       - A little practice
-      - A little challenge
+      - Take your time
   - name: prepMinutes
     label: Preparation time (minutes)
     type: number

@@ -9,7 +9,7 @@ const favourites=featured.length?featured:recipes.filter(r=>r.featured).slice(0,
 <Layout>
  <section class="cover wrap">
   <div class="cover-copy"><span class="eyebrow cover-overline">A LITTLE COLLECTION, JUST FOR YOU</span><h1>{settings.title}<span class="title-dot">.</span></h1><p class="cover-subtitle">{settings.subtitle}</p><a class="button" href={url('recipes/')}>Find something lovely to make <span aria-hidden="true">↗</span></a><div class="dedication"><span class="fine-line"></span><p>{settings.dedication}</p></div></div>
-  <figure class="cover-image">{settings.heroImage?<img src={media(settings.heroImage)} alt={settings.heroAlt||'Cookbook cover'} width="1000" height="1250" fetchpriority="high"/>:<Art type="pasta"/>}<span class="cover-tab">FROM OUR KITCHEN<br/>TO YOURS</span>{settings.heroPlaceholder&&<figcaption>AI-generated cover placeholder · replace with your photograph</figcaption>}</figure>
+  <figure class="cover-image">{settings.heroImage?<img src={media(settings.heroImage)} alt={settings.heroAlt||'Cookbook cover'} width="1000" height="1250" fetchpriority="high"/>:<Art type="pasta"/>}{settings.heroPlaceholder&&<figcaption>AI-generated cover placeholder · replace with your photograph</figcaption>}</figure>
   <div class="cover-bottom"><span>GOOD FOOD, NO GUESSWORK.</span><span>SCROLL TO OPEN THE BOOK ↓</span></div>
  </section>
  <section class="introduction wrap"><span class="eyebrow">A NOTE BEFORE WE BEGIN</span><div><h2>{settings.welcomeTitle}</h2><p>{settings.welcomeMessage}</p><span class="signature">{settings.signature}</span></div><div class="intro-decoration"><Art type="bread" small/></div></section>
